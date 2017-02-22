@@ -103,7 +103,6 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%86.png", Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/552fae9ae4b07ad1f4790787/556ff99be4b0467afc6baf0d/5573b7f0e4b0c1433c07ac8e/1433647090181/aljazeera.png", Aljazeera News
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hKKdyyCaTgc/VIo0jqp27eI/AAAAAAAAAAo/c7F_TAGa5jg/w600-h1080/Al_Jazeera_Mubasher.png",Aljazeera Mubasher
