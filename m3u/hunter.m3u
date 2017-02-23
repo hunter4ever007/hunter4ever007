@@ -245,55 +245,55 @@ http://streaming-hub.com/stream/rmc.m3u8
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,Osn Musalsalat HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271406",Osn Musalsalat HD
 http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Osn Alyawm
 http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
-#EXTINF:-1,Osn Cinema 1
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271407",Osn Cinema 1
 http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1,STAR Movies HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
-#EXTINF:-1,OSN Movies Drama +2 HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271409",OSN Movies Drama +2 HD
 http://9889.akamai.live.selevision.com/live/9889/98895/master.m3u8
-#EXTINF:-1,OSN Movies Action
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",OSN Movies Action
 http://9896.akamai.live.selevision.com/live/9896/98961/master.m3u8
-#EXTINF:-1,OSN Movies 2 HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271414",OSN Movies 2 HD
 http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
-#EXTINF:-1,OSN Movies Drama HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271415",OSN Movies Drama HD
 http://9899.akamai.live.selevision.com/live/9899/98991/master.m3u8
-#EXTINF:-1,OSN Movies Comedy
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271416",OSN Movies Comedy
 http://9896.akamai.live.selevision.com/live/9896/98962/master.m3u8
-#EXTINF:-1,OSN Movies Premiere
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271417",OSN Movies Premiere
 http://9896.akamai.live.selevision.com/live/9896/98960/master.m3u8
-#EXTINF:-1,OSN Sundance
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271418",OSN Sundance
 http://9899.akamai.live.selevision.com/live/9899/98990/master.m3u8
-#EXTINF:-1,OSN Animal Planet
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271421",OSN Animal Planet
 http://9887.akamai.live.selevision.com/live/9887/98879/master.m3u8
-#EXTINF:-1,OSN Nat Geographic WILD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271422",OSN Nat Geographic WILD
 http://9894.akamai.live.selevision.com/live/9894/98944/master.m3u8
-#EXTINF:-1,OSN History
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271423",OSN History
 http://9892.akamai.live.selevision.com/live/9892/98925/master.m3u8
-#EXTINF:-1,OSN History 2
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271424",OSN History 2
 http://9883.akamai.live.selevision.com/live/9883/98833/master.m3u8
-#EXTINF:-1,OSN Yahala
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",OSN Yahala
 http://9896.akamai.live.selevision.com/live/9896/98969/master.m3u8
-#EXTINF:-1,OSN Yahala Aloula
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",OSN Yahala Aloula
 http://9897.akamai.live.selevision.com/live/9897/98970/master.m3u8
-#EXTINF:-1,OSN Yahala Cinema
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271427",OSN Yahala Cinema
 http://9894.akamai.live.selevision.com/live/9894/98941/master.m3u8
-#EXTINF:-1,OSN Travel Channel
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271428",OSN Travel Channel
 http://9899.akamai.live.selevision.com/live/9899/98998/master.m3u8
-#EXTINF:-1,OSN TLC
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271429",OSN TLC
 http://9899.akamai.live.selevision.com/live/9899/98995/master.m3u8
-#EXTINF:-1,OSN Nat Geographic People
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271430",OSN Nat Geographic People
 http://9891.akamai.live.selevision.com/live/9891/98915/master.m3u8
-#EXTINF:-1,OSN Discovery HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271431",OSN Discovery HD
 http://9890.akamai.live.selevision.com/live/9890/98903/master.m3u8
-#EXTINF:-1,OSN Discovery Science
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271432",OSN Discovery Science
 http://9890.akamai.live.selevision.com/live/9890/98905/master.m3u8
-#EXTINF:-1,OSN Discovery ID X
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271433",OSN Discovery ID X
 http://9895.akamai.live.selevision.com/live/9895/98951/master.m3u8
-#EXTINF:-1,OSN Discovery Family
+##EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271434",OSN Discovery Family
 http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
 
 
