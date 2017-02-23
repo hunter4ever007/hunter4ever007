@@ -165,8 +165,6 @@ http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-On2XcooiA1U/VWyozxbZk-I/AAAAAAAADJk/la_cVCg5yg8/s1600/murr_tv_al_lubnaniya.png",MTV Lebanon
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Osn Alyawm
-http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/futuretv38.png",Future TV
@@ -249,6 +247,8 @@ http://streaming-hub.com/stream/rmc.m3u8
 ***********
 #EXTINF:-1,Osn Musalsalat HD
 http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Osn Alyawm
+http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
 #EXTINF:-1,Osn Cinema 1
 http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 #EXTINF:-1,STAR Movies HD
