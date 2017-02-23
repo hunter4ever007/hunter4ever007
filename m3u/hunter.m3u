@@ -293,7 +293,7 @@ http://9890.akamai.live.selevision.com/live/9890/98903/master.m3u8
 http://9890.akamai.live.selevision.com/live/9890/98905/master.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271433",OSN Discovery ID X
 http://9895.akamai.live.selevision.com/live/9895/98951/master.m3u8
-##EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271434",OSN Discovery Family
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271434",OSN Discovery Family
 http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
 
 
