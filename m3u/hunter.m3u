@@ -85,7 +85,8 @@ http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
 http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png", Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica_music_tv.png", Arabica
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica_
+_tv.png", Arabica
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
@@ -169,7 +170,7 @@ http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w44
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/retrofuzz/now/300/now-thats-what-i-call-music.png",Music Now
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5d/Music_now.png",Music Now
 http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
 #EXTINF:-1 tvg-logo="http://i82.servimg.com/u/f82/17/28/12/40/uuoo_o10.png",AlKahera Wal Nas
 http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
