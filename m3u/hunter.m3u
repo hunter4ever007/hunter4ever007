@@ -332,3 +332,7 @@ http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
 http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1,mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
+#EXTINF:-1,AD sport 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,AD sport 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
