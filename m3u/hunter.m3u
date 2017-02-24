@@ -245,11 +245,11 @@ http://streaming-hub.com/stream/rmc.m3u8
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271406",Osn Musalsalat HD
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271620",Alfa Musalsalat HD
 http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Osn Alyawm
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Alfa Alyawm
 http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271407",Osn Cinema 1
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1
 http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
