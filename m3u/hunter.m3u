@@ -119,31 +119,22 @@ http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] SPORTS CHANNELS [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 tvg-logo="http://myegy.space/wp-content/uploads/2016/11/IMG_6849.png",AD sport 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD (Qatar)
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
-#EXTINF:-1,beIN Sport 1 HD
- 
- 
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1-hq
- 
- 
-#EXTINF:-1,beIN Sport 2 HD
- 
- 
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2-hq
- 
- 
-#EXTINF:-1,beIN Sport 3 HD
- 
- 
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein3-hq
- 
- 
-#EXTINF:-1,beIN Sport 4 HD
- 
- 
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/3/2/32857/eurosport_france.png",Euro Sport France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
+http://85.132.59.163:8080/play/a00y
 
 
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow] KIDS TV [/COLOR]
@@ -320,19 +311,9 @@ http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow] TEST CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,Euro Sport 1
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1,Euro Sport France
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,Idman
-http://85.132.59.163:8080/play/a00y
-#EXTINF:-1,mbc pro sports 1
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
 http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
-#EXTINF:-1,mbc pro sports 2
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2
 http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
-#EXTINF:-1,mbc pro sports 2 L2
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
-#EXTINF:-1,AD sport 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1,AD sport 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
