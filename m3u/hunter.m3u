@@ -320,24 +320,31 @@ http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow] TEST CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,MBC Pro sports 1 Test
-http://192.99.20.158:8000/live/d884466b83/265452e/2873.ts
-#EXTINF:-1,MBC Pro sports 2 Test
-http://192.99.20.158:8000/live/d884466b83/265452e/2874.ts
-#EXTINF:-1,MBC Pro sports 3 Test
-http://192.99.20.158:8000/live/d884466b83/265452e/2875.ts
-#EXTINF:-1,MBC Pro sports 4 Test
-http://192.99.20.158:8000/live/d884466b83/265452e/2876.ts
-#EXTINF:1,Zee Aflam
-
-#EXTINF:1,CBC
-
-#EXTINF:1,CBC Drama
-
-#EXTINF:1,Cima
-
-#EXTINF:1,Moga Comedy
-
-#EXTINF:-1,Toyor Aljannah
-
-#EXTINF:-1,AlMajd TV
+#EXTINF:-1,Euro Sport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Euro Sport France
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,skynet sport 1
+http://163.172.81.33:1234/live/App0015/nbvcxz/307.ts
+#EXTINF:-1,skynet sport 2
+http://163.172.81.33:1234/live/App0015/nbvcxz/306.ts
+#EXTINF:-1,skynet sport 3
+http://163.172.81.33:1234/live/App0015/nbvcxz/305.ts
+#EXTINF:-1,skynet sport 4
+http://163.172.81.33:1234/live/App0015/nbvcxz/304.ts
+#EXTINF:-1,skynet sport 5
+http://163.172.81.33:1234/live/App0015/nbvcxz/303.ts
+#EXTINF:-1,skynet sport 6
+http://163.172.81.33:1234/live/App0015/nbvcxz/302.ts
+#EXTINF:-1,sport tv1 HD
+http://163.172.81.33:1234/live/App0015/nbvcxz/532.ts
+#EXTINF:-1,sport tv2 HD
+http://163.172.81.33:1234/live/App0015/nbvcxz/531.ts
+#EXTINF:-1,Idman
+http://85.132.59.163:8080/play/a00y
+#EXTINF:-1,mbc pro sports 1
+http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
+#EXTINF:-1,mbc pro sports 2
+http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
+#EXTINF:-1,mbc pro sports 2 L2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
