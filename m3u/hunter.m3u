@@ -324,22 +324,6 @@ http://9890.akamai.live.selevision.com/live/9890/98902/master.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,Euro Sport France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:-1,skynet sport 1
-http://163.172.81.33:1234/live/App0015/nbvcxz/307.ts
-#EXTINF:-1,skynet sport 2
-http://163.172.81.33:1234/live/App0015/nbvcxz/306.ts
-#EXTINF:-1,skynet sport 3
-http://163.172.81.33:1234/live/App0015/nbvcxz/305.ts
-#EXTINF:-1,skynet sport 4
-http://163.172.81.33:1234/live/App0015/nbvcxz/304.ts
-#EXTINF:-1,skynet sport 5
-http://163.172.81.33:1234/live/App0015/nbvcxz/303.ts
-#EXTINF:-1,skynet sport 6
-http://163.172.81.33:1234/live/App0015/nbvcxz/302.ts
-#EXTINF:-1,sport tv1 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/532.ts
-#EXTINF:-1,sport tv2 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/531.ts
 #EXTINF:-1,Idman
 http://85.132.59.163:8080/play/a00y
 #EXTINF:-1,mbc pro sports 1
