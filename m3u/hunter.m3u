@@ -198,9 +198,11 @@ rtmp://82.212.74.98/live//7905
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr
 rtmp://vstream2.hadara.ps:1990/AlfajertvHD1_web//web
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 2
-http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv2/playlist.m3u8
+rtmp://vstream2.hadara.ps:1990/AlfajertvHD2_web//web
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 3
 rtmp://vstream2.hadara.ps:1990/AlfajertvHD1_web//web1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 4
+rtmp://vstream2.hadara.ps:1990/AlfajertvHD2_web//web1
 #EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/andromo/dev244056/app232981/170/yemen-tv.png",Yemen TV
 http://199.167.151.237:1935/live/dub_1_ch1447/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jascostreaming.com/images/sanaa.png",Sana'a
