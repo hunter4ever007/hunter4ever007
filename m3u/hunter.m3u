@@ -37,8 +37,6 @@ http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png", ABU DHABI Emirates HD
 http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjYxLjYuNC45MCIsImlzcyI6IiIsIm5iZiI6IjAiLCJqdGkiOiIiLCJpYXQiOjE0ODc1NjcwNjYsImV4cCI6MTQ4NzU3MjQ2Nn0.LB1N5mLM89oVBNU24LALMEitjk3E5QJSHhJ06jLnsJk
-#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", ABU DHABI Sport HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png", Dubai TV HD
@@ -119,6 +117,8 @@ http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] SPORTS CHANNELS [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", ABU DHABI Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="http://myegy.space/wp-content/uploads/2016/11/IMG_6849.png",AD sport 2
