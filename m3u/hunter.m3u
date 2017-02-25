@@ -89,6 +89,10 @@ https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam
 http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-udOoSmeHTQk/T_Erl6pY4HI/AAAAAAAABO8/t_Gl_JULlgA/s1600/alhayat_2.png", Alhayat 2
+http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dA3hzaWWYyE/UL_Go_eDsmI/AAAAAAAABVk/E6kwZH-Intg/s320/dream.png", Dream
+http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bO7QvuW.png",[COLOR yellow] NEWS CHANNELS [/COLOR]
@@ -129,6 +133,16 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD (Qatar)
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/3/2/32857/eurosport_france.png",Euro Sport France
@@ -195,6 +209,8 @@ http://199.167.151.237:1935/live/dub_1_ch1279/index.m3u8
 http://1487137737@199.167.151.237:1935/live/dub_1_ch1146/gmswf.m3u8?
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
 rtmp://82.212.74.98/live//7905
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr HD
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr
 rtmp://vstream2.hadara.ps:1990/AlfajertvHD1_web//web
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 2
@@ -255,6 +271,14 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a398.idata.over-blog.com/5/70/95/81/CCC-images-suite/RMC-DECOUVERTE.jpg", RMC
 http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/nicktoons-logo.png", Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
