@@ -157,6 +157,8 @@ http://85.132.59.163:8080/play/a00y
 http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/baraem_mena/stream6/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png",Ajyal
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2016/04/logo.png",Karameesh
@@ -169,6 +171,8 @@ http://selevision9882-i.akamaihd.net/hls/live/219197/98824/1.m3u8
 http://109.69.217.2:4276/bysid/413
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/S9eBQN9_gfL_YxK4nBLF0_UsSNInBvTA4NoCIH8KFp1QqCehdwJn_63UOZkfudl9YcR1=w300",Toyor Aljannah
+http://38.99.146.70:7777/ToyorAlJanah_Med.m3u8?session=557cac6736e922e793f71f079e92a3b8309f3c147eaf46a73d4399ad0908ff50a299017ce29bf1aa
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/OSN_Movies_Kids.png",Osn Kids
 http://9895.akamai.live.selevision.com/live/9895/98959/master.m3u8
 
@@ -279,7 +283,8 @@ http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/nicktoons-logo.png", Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/media-uc3a85ht5_b1096000_159525.ts
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
 ***********
@@ -343,3 +348,75 @@ http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
 http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
+#EXTINF:-1,BEIN SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-1/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-2/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-3/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 4 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-4/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT 7
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-7/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-8/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-9/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-10/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 11
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-11/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT 12
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-12/Strm/index.m3u8
+#EXTINF:-1,BEIN SPORT FRANCE 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-1/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT FRANCE 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-2/Strm/index.m3u8 
+#EXTINF:-1,BEIN SPORT FRANCE 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-3/Strm/index.m3u8 
+#EXTINF:-1,CANAL+SPORT 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 4 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8 
+#EXTINF:-1,ARENA SPORT 5 
+http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-1nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-2nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-3nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 4 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-4nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 5 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-5nl/Strm/index.m3u8 
+#EXTINF:-1,NL: FOX SPORT 6 
+http://149.202.207.8:8080/kuLlieenuBEerr0Nef00cs-sp-6nl/Strm/index.m3u8 
+#EXTINF:-1,US:FOX SPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8 
+#EXTINF:-1,US:FOX SPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 1 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8 
+#EXTINF:-1,ASTRO SUPERSPORT 3 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
+#EXTINF:-1,TSN SPORT 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
+#EXTINF:-1,TSN SPORT 2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
+#EXTINF:-1,TSN SPORT 3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
+#EXTINF:-1,TSN SPORT 4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
+#EXTINF:-1,TSN SPORT 5
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
