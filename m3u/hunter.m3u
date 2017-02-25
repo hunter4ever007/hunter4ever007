@@ -284,7 +284,8 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/nicktoons-logo.png", Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
-http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/media-uc3a85ht5_b1096000_159525.ts
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
 ***********
