@@ -93,6 +93,10 @@ http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
 http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dA3hzaWWYyE/UL_Go_eDsmI/AAAAAAAABVk/E6kwZH-Intg/s320/dream.png", Dream
 http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1263_1.png", CBC Extra
+http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bO7QvuW.png",[COLOR yellow] NEWS CHANNELS [/COLOR]
@@ -111,6 +115,8 @@ http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Aljazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN
+http://selevision9883-i.akamaihd.net/hls/live/219254/98838/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjYxLjYuNC45MCIsImlzcyI6IiIsIm5iZiI6IjAiLCJqdGkiOiIiLCJpYXQiOjE0ODc1NzE3NjksImV4cCI6MTQ4NzU3NzE2OX0.SMbRUfTbkTBD5tWdWFGLTKM2V_hOrQVI4XyPqUSJj5c
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
@@ -131,6 +137,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD (Qatar)
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
@@ -256,7 +264,7 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/str
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://makkahtv.tv/wp-content/themes/badawiyahtv/images/logo.png", MAKKAH
-rtmp://streamer11.elementssys.com//mecca
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
 rtmp://82.212.74.101/live//8043
 
