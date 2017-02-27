@@ -153,8 +153,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1 tvg-logo="http://vector.me/files/images/3/2/32857/eurosport_france.png",Euro Sport France
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
 
@@ -179,8 +177,6 @@ http://selevision9882-i.akamaihd.net/hls/live/219197/98824/1.m3u8
 http://109.69.217.2:4276/bysid/413
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/S9eBQN9_gfL_YxK4nBLF0_UsSNInBvTA4NoCIH8KFp1QqCehdwJn_63UOZkfudl9YcR1=w300",Toyor Aljannah
-http://38.99.146.70:7777/ToyorAlJanah_Med.m3u8?session=6e221e1f377226c7026eff95295de1b60f1c6420b0d35c656fea99832e55f0d1a299017ce29bf1aa
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/OSN_Movies_Kids.png",Osn Kids
 http://9895.akamai.live.selevision.com/live/9895/98959/master.m3u8
 
