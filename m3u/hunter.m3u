@@ -312,36 +312,6 @@ http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
 http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
-#EXTINF:-1,BEIN SPORT 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-1/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-2/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT 3 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-3/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT 4 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-4/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-5/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 6
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-6/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 7
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-7/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 8
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-8/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 9
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-9/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 10
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-10/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 11
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-11/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT 12
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-12/Strm/index.m3u8
-#EXTINF:-1,BEIN SPORT FRANCE 1 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-1/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT FRANCE 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-2/Strm/index.m3u8 
-#EXTINF:-1,BEIN SPORT FRANCE 3 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsfn-3/Strm/index.m3u8 
 #EXTINF:-1,CANAL+SPORT 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
 #EXTINF:-1,ARENA SPORT 1 
