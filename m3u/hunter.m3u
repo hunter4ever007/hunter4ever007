@@ -313,96 +313,30 @@ http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
 
-#EXTINF:-1,OSN:ONDEMANDEEXTRA1
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2893.ts
-#EXTINF:-1,OSN:ONDEMANDEEXTRA2
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2891.ts
-#EXTINF:-1,OSN:ONDEMANDEEXTRA3
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2892.ts
-#EXTINF:-1,OSN:OFFICBOX1
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1889.ts
-#EXTINF:-1,OSN:OFFICBOX2
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1890.ts
-#EXTINF:-1,OSN:OFFICBOX3
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1891.ts
-#EXTINF:-1,OSN:Cinema-1-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1267.ts
-#EXTINF:-1,OSN:Cinema-2-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1265.ts
-#EXTINF:-1,OSN:Mbc+Drama.HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2867.ts
-#EXTINF:-1,OSN:Fatafeat.HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2827.ts
-#EXTINF:-1,OSN:AL.YAWM
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2830.ts
-#EXTINF:-1,OSN:AL.SAFWA
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2831.ts
-#EXTINF:-1,OSN:MOVIES.HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1254.ts
-#EXTINF:-1,OSN:Movies2-HD.
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1232.ts
-#EXTINF:-1,OSN:Movies-Action-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1261.ts
-#EXTINF:-1,OSN:Movies_Action+2
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1266.ts
-#EXTINF:-1,OSN:Movies-Premiere-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1255.ts
-#EXTINF:-1,OSN:MOVIES-PREMIER2
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1257.ts
-#EXTINF:-1,OSN:Movies-Festival-HD.
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1233.ts
-#EXTINF:-1,OSN:Movies-Demand.EXTRA
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1258.ts
-#EXTINF:-1,OSN:MOVIES_COMEDY
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1229.ts
-#EXTINF:-1,OSN:Movie-kids-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1262.ts
-#EXTINF:-1,OSN:Movie_Box
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1260.ts
-#EXTINF:-1,OSN:Star.Movies.HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1146.ts
-#EXTINF:-1,OSN:Star-Movies
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1234.ts
-#EXTINF:-1,OSN:Demand -HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1259.ts
-#EXTINF:-1,OSN:YAHALA
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1256.ts
-#EXTINF:-1,OSN:Yahala.2
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2738.ts
-#EXTINF:-1,OSN:YaHala-DRAMA-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1252.ts
-#EXTINF:-1,OSN:YaHala!-Shabab-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1253.ts
-#EXTINF:-1,OSN:YaHala!-CINEMA-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1230.ts
-#EXTINF:-1,OSN:MusalsalatHD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2871.ts
-#EXTINF:-1,OSN:First.HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2866.ts
-#EXTINF:-1,OSN:FIRST.COMEDY
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1264.ts
-#EXTINF:-1,OSN:First_Comedy_2_HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2941.ts
-#EXTINF:-1,OSN:First.HOME.OF.HBO
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1263.ts
-#EXTINF:-1,OSN:WWE
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1227.ts
-#EXTINF:-1,OSN SYFY
-http://iptv.electro-clair.net:8000/live/otmane/otmane/3645.ts
-#EXTINF:-1,OSN:Animal-Planet-HD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1237.ts
-#EXTINF:-1,OSN:Discovery
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2878.ts
-#EXTINF:-1,OSN:STAR_GOULD
-http://iptv.electro-clair.net:8000/live/otmane/otmane/2880.ts
-#EXTINF:-1,OSN:Sport.1
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1662.ts
-#EXTINF:-1,OSN:Sport.2
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1663.ts
-#EXTINF:-1,OSN:Sport.3
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1664.ts
-#EXTINF:-1,OSN:Sport.4
-http://iptv.electro-clair.net:8000/live/otmane/otmane/1665.ts
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 1
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 2
+http://149.202.208.85:8080/mystreambhenssp-2/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 3
+http://149.202.208.85:8080/mystreambhenssp-3/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 4
+http://149.202.208.85:8080/mystreambhenssp-4/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 5
+http://149.202.208.85:8080/mystreambhenssp-5/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 6
+http://149.202.208.85:8080/mystreambhenssp-6/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 7
+http://149.202.208.85:8080/mystreambhenssp-7/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 8
+http://149.202.208.85:8080/mystreambhenssp-8/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 9
+http://149.202.208.85:8080/mystreambhenssp-9/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 10
+http://149.202.208.85:8080/mystreambhenssp-10/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 11
+http://149.202.208.85:8080/mystreambhenssp-11/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/bein-sports.svg",Bein sport 12
+http://149.202.208.85:8080/mystreambhenssp-12/Strm/index.m3u8
 
 #EXTINF:-1,CANAL+SPORT 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
