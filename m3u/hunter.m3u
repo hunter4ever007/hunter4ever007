@@ -356,179 +356,283 @@ http://192.99.66.207:9090/load/mundinegreen/34.mpegts
 #EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s33.png",HBO Comedy
 http://192.99.66.207:9090/load/mundinegreen/33.mpegts
 
-#EXTINF:0,BeinHD:Movies1
-http://live.softiptv.com:9900/live/525/525/20097.m3u8
-#EXTINF:0,BeinHD:Movies2
-http://live.softiptv.com:9900/live/525/525/20098.ts
-#EXTINF:0,BeinHD:Movies3
-http://live.softiptv.com:9900/live/525/525/20099.ts
-#EXTINF:0,BeinHD:Movies4
-http://live.softiptv.com:9900/live/525/525/20100.ts
-#EXTINF:0,Zee Aflam
-http://live.softiptv.com:9900/live/525/525/24692.ts
-#EXTINF:0,Bein(low):beIN01
-http://live.softiptv.com:9900/live/525/525/20085.ts
-#EXTINF:0,Bein(low):beIN02
-http://live.softiptv.com:9900/live/525/525/20086.ts
-#EXTINF:0,Bein(low):beIN04
-http://live.softiptv.com:9900/live/525/525/20088.ts
-#EXTINF:0,Bein(low):beIN05
-http://live.softiptv.com:9900/live/525/525/20089.ts
-#EXTINF:0,Bein(low):beIN06
-http://live.softiptv.com:9900/live/525/525/20090.ts
-#EXTINF:0,Bein(low):beIN08
-http://live.softiptv.com:9900/live/525/525/20092.ts
-#EXTINF:0,Bein(low):beIN09
-http://live.softiptv.com:9900/live/525/525/20093.ts
-#EXTINF:0,Bein(low):beIN10
-http://live.softiptv.com:9900/live/525/525/20094.ts
-#EXTINF:0,USA: TVO KIDS
-http://live.softiptv.com:9900/live/525/525/17369.ts
-#EXTINF:0,USA: TMN ACTION
-http://live.softiptv.com:9900/live/525/525/17370.ts
-#EXTINF:0,USA: OMNI TORONTO
-http://live.softiptv.com:9900/live/525/525/17377.ts
-#EXTINF:0,USA: NBC TORONTO
-http://live.softiptv.com:9900/live/525/525/17380.ts
-#EXTINF:0,USA: NBC GOLF HD
-http://live.softiptv.com:9900/live/525/525/17361.ts
-#EXTINF:0,USA: NBA
-http://live.softiptv.com:9900/live/525/525/17381.ts
-#EXTINF:0,USA: LMN
-http://live.softiptv.com:9900/live/525/525/17384.ts
-#EXTINF:0,USA: FMLY CHANNEL
-http://live.softiptv.com:9900/live/525/525/17391.ts
-#EXTINF:0,USA: CRCOL HD
-http://live.softiptv.com:9900/live/525/525/17396.ts
-#EXTINF:0,USA: CNN
-http://live.softiptv.com:9900/live/525/525/17399.ts
-#EXTINF:0,USA: AMC
-http://live.softiptv.com:9900/live/525/525/17404.ts
-#EXTINF:0,US-National-Geo
-http://live.softiptv.com:9900/live/525/525/5811.ts
-#EXTINF:0,US-CNN HD
-http://live.softiptv.com:9900/live/525/525/5821.ts
-#EXTINF:0,US: A&E
-http://live.softiptv.com:9900/live/525/525/24915.ts
-#EXTINF:0,US: ABC HD
-http://live.softiptv.com:9900/live/525/525/24914.ts
-#EXTINF:0,US: ABC NEWS HD
-http://live.softiptv.com:9900/live/525/525/24918.ts
-#EXTINF:0,US: AFN SPORTS 2
-http://live.softiptv.com:9900/live/525/525/24855.ts
-#EXTINF:0,US: AMC
-http://live.softiptv.com:9900/live/525/525/24883.ts
-#EXTINF:0,US: ANIMAL PLANET
-http://live.softiptv.com:9900/live/525/525/24913.ts
-#EXTINF:0,US: ASTRO SUPERSPORT 1
-http://live.softiptv.com:9900/live/525/525/24874.ts
-#EXTINF:0,US: ASTRO SUPERSPORT 2
-http://live.softiptv.com:9900/live/525/525/24875.ts
-#EXTINF:0,US: ASTRO SUPERSPORT 3
-http://live.softiptv.com:9900/live/525/525/24876.ts
-#EXTINF:0,US: BEIN SPORTS HD
-http://live.softiptv.com:9900/live/525/525/24858.ts
-#EXTINF:0,US: BET
-http://live.softiptv.com:9900/live/525/525/24922.ts
-#EXTINF:0,US: BRAVO HD
-http://live.softiptv.com:9900/live/525/525/24901.ts
-#EXTINF:0,US: BYU SPORTS TV HD
-http://live.softiptv.com:9900/live/525/525/24879.ts
-#EXTINF:0,US: C-SPAN3
-http://live.softiptv.com:9900/live/525/525/24854.ts
-#EXTINF:0,US: CBS NEWS HD
-http://live.softiptv.com:9900/live/525/525/24917.ts
-#EXTINF:0,US: CBS SPORT NETWORK
-http://live.softiptv.com:9900/live/525/525/24916.ts
-#EXTINF:0,US: CNBC
-http://live.softiptv.com:9900/live/525/525/24897.ts
-#EXTINF:0,US: CNN
-http://live.softiptv.com:9900/live/525/525/24899.ts
-#EXTINF:0,US: CPAC
-http://live.softiptv.com:9900/live/525/525/24911.ts
-#EXTINF:0,US: CW HD
-http://live.softiptv.com:9900/live/525/525/24909.ts
-#EXTINF:0,US: DISCOVERY CHANNEL HD
-http://live.softiptv.com:9900/live/525/525/24904.ts
-#EXTINF:0,US: DISCOVERY SCIENCE HD
-http://live.softiptv.com:9900/live/525/525/24903.ts
-#EXTINF:0,US: ESPN
-http://live.softiptv.com:9900/live/525/525/24872.ts
-#EXTINF:0,US: ESPN 2
-http://live.softiptv.com:9900/live/525/525/24873.ts
-#EXTINF:0,US: FOX NEWS
-http://live.softiptv.com:9900/live/525/525/24893.ts
-#EXTINF:0,US: FOX SPORT 1
-http://live.softiptv.com:9900/live/525/525/24848.ts
-#EXTINF:0,US: FOX SPORT 2
-http://live.softiptv.com:9900/live/525/525/24850.ts
-#EXTINF:0,US: FOX SPORT 506
-http://live.softiptv.com:9900/live/525/525/24851.ts
-#EXTINF:0,US: FOX SPORTS 1 US HD
-http://live.softiptv.com:9900/live/525/525/24847.ts
-#EXTINF:0,US: FOX SPORTS 2 US HD
-http://live.softiptv.com:9900/live/525/525/24849.ts
-#EXTINF:0,US: FX HD
-http://live.softiptv.com:9900/live/525/525/24892.ts
-#EXTINF:0,US: HBO
-http://live.softiptv.com:9900/live/525/525/24886.ts
-#EXTINF:0,US: HBO COMEDY HD
-http://live.softiptv.com:9900/live/525/525/24889.ts
-#EXTINF:0,US: HBO SIGNATURE HD
-http://live.softiptv.com:9900/live/525/525/24887.ts
-#EXTINF:0,US: HBO ZONE
-http://live.softiptv.com:9900/live/525/525/24888.ts
-#EXTINF:0,US: HISTORY HD
-http://live.softiptv.com:9900/live/525/525/24905.ts
-#EXTINF:0,US: ID
-http://live.softiptv.com:9900/live/525/525/24885.ts
-#EXTINF:0,US: LIFETIME HD
-http://live.softiptv.com:9900/live/525/525/24898.ts
-#EXTINF:0,US: NASA TV HD
-http://live.softiptv.com:9900/live/525/525/24881.ts
-#EXTINF:0,US: NAT GEO
-http://live.softiptv.com:9900/live/525/525/24908.ts
-#EXTINF:0,US: NBA TV HD
-http://live.softiptv.com:9900/live/525/525/24846.ts
-#EXTINF:0,US: NBC GOLF
-http://live.softiptv.com:9900/live/525/525/24861.ts
-#EXTINF:0,US: NBC HD
-http://live.softiptv.com:9900/live/525/525/24862.ts
-#EXTINF:0,US: NFL NETWORK
-http://live.softiptv.com:9900/live/525/525/24871.ts
-#EXTINF:0,US: PAC 12 WASHINGTON HD
-http://live.softiptv.com:9900/live/525/525/24844.ts
-#EXTINF:0,US: SPIKE HD
-http://live.softiptv.com:9900/live/525/525/24907.ts
-#EXTINF:0,US: SPORT NET360
-http://live.softiptv.com:9900/live/525/525/24860.ts
-#EXTINF:0,US: STARZ CINEMA
-http://live.softiptv.com:9900/live/525/525/24919.ts
-#EXTINF:0,US: STARZ EAST
-http://live.softiptv.com:9900/live/525/525/24920.ts
-#EXTINF:0,US: STARZ EDGE
-http://live.softiptv.com:9900/live/525/525/24921.ts
-#EXTINF:0,US: SYFY HD
-http://live.softiptv.com:9900/live/525/525/24890.ts
-#EXTINF:0,US: TBS
-http://live.softiptv.com:9900/live/525/525/24882.ts
-#EXTINF:0,US: TSN 1
-http://live.softiptv.com:9900/live/525/525/24839.ts
-#EXTINF:0,US: TSN 2
-http://live.softiptv.com:9900/live/525/525/24840.ts
-#EXTINF:0,US: TSN 3
-http://live.softiptv.com:9900/live/525/525/24841.ts
-#EXTINF:0,US: TSN 4
-http://live.softiptv.com:9900/live/525/525/24842.ts
-#EXTINF:0,US: TSN 5
-http://live.softiptv.com:9900/live/525/525/24843.ts
-#EXTINF:0,US: USA NETWORK HD
-http://live.softiptv.com:9900/live/525/525/24894.ts
-#EXTINF:0,US: WILLOW CRICKET HD
-http://live.softiptv.com:9900/live/525/525/24857.ts
-#EXTINF:0,US:  RT AMERICA
-http://live.softiptv.com:9900/live/525/525/24900.ts
-#EXTINF:0,US: AFN MOVIE
-http://live.softiptv.com:9900/live/525/525/26163.ts
-#EXTINF:0,US: Bloomberg
-http://live.softiptv.com:9900/live/525/525/25730.ts
+EXTINF:0,UK:BBC RED BUTTON
+http://mcdn-play-358.5centscdn.net/bbcredbuttonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC 1
+http://mcdn-play-358.5centscdn.net/bbc1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC 1 HD
+http://mcdn-play-358.5centscdn.net/hd4eg6nzo9aibbc1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0,UK:BBC 2
+http://mcdn-play-358.5centscdn.net/bbc2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC 2 HD
+http://mcdn-play-358.5centscdn.net/bbc2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC3
+http://mcdn-play-358.5centscdn.net/bbc3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC3 HD
+http://mcdn-play-358.5centscdn.net/bbc3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC 4
+http://mcdn-play-358.5centscdn.net/hdbbc4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC4 HD
+http://mcdn-play-358.5centscdn.net/hdbbc4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ITV
+http://mcdn-play-358.5centscdn.net/itv1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CHANNEL4
+http://mcdn-play-358.5centscdn.net/channel4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CHANNEL5
+http://mcdn-play-358.5centscdn.net/channel5extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY ONE
+http://mcdn-play-358.5centscdn.net/sky1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY TWO
+http://mcdn-play-358.5centscdn.net/sky2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY LIVING
+http://mcdn-play-358.5centscdn.net/skylivingextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY ATLANTIC
+http://mcdn-play-358.5centscdn.net/skyatlanticextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:FOX
+http://mcdn-play-358.5centscdn.net/foxextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ITV2
+http://mcdn-play-358.5centscdn.net/itv2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ITV3
+http://mcdn-play-358.5centscdn.net/itv3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ITV4
+http://mcdn-play-358.5centscdn.net/itv4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ITVBEE
+http://mcdn-play-358.5centscdn.net/itvbeextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MORE4
+http://mcdn-play-358.5centscdn.net/more4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:5STAR
+http://mcdn-play-358.5centscdn.net/5starextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:5USA
+http://mcdn-play-358.5centscdn.net/5usaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:E4
+http://mcdn-play-358.5centscdn.net/e4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MORE4
+http://mcdn-play-358.5centscdn.net/more4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:4SEVEN
+http://mcdn-play-358.5centscdn.net/4sevenextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DAVE
+http://mcdn-play-358.5centscdn.net/daveextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CHALLENGE TV
+http://mcdn-play-358.5centscdn.net/challengetvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:PICK
+http://mcdn-play-358.5centscdn.net/pickextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:WATCH
+http://mcdn-play-358.5centscdn.net/watchextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:YESTERDAY
+http://mcdn-play-358.5centscdn.net/yesterdayextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ALIBI
+http://mcdn-play-358.5centscdn.net/alibiextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:LIFETIME
+http://mcdn-play-358.5centscdn.net/lifetimeextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:PBS AMERICA
+http://mcdn-play-358.5centscdn.net/pbsamericaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:GOLD
+http://mcdn-play-358.5centscdn.net/goldextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DRAMA
+http://mcdn-play-358.5centscdn.net/dramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CBS ACTION
+http://mcdn-play-358.5centscdn.net/cbsactionextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CBS DRAMA
+http://mcdn-play-358.5centscdn.net/cbsdramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CBS REALITY
+http://mcdn-play-358.5centscdn.net/cbsrealityextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:FOOD NETWORK
+http://mcdn-play-358.5centscdn.net/foodnetworkextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:GOOD FOOD
+http://mcdn-play-358.5centscdn.net/goodfoodextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:HOME HEALTH
+http://mcdn-play-358.5centscdn.net/homehealthextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK: TRUE DRAMA
+http://mcdn-play-358.5centscdn.net/truedramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TRUE MOVIES 1
+http://mcdn-play-358.5centscdn.net/truemovies1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TRUE MOVIES 2
+http://mcdn-play-358.5centscdn.net/truemovies2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY ARTS
+http://mcdn-play-358.5centscdn.net/skyarts1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:EDEN
+http://mcdn-play-358.5centscdn.net/edenextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:HISTORY
+http://mcdn-play-358.5centscdn.net/historyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DMAX
+http://mcdn-play-358.5centscdn.net/dmaxextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:QUEST
+http://mcdn-play-358.5centscdn.net/questextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ANIMAL PLANET
+http://mcdn-play-358.5centscdn.net/animalplanetextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:NAT GEO
+http://mcdn-play-358.5centscdn.net/natgeoextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:NAT GEO WILD
+http://mcdn-play-358.5centscdn.net/natgeowildextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISCOVERY
+http://mcdn-play-358.5centscdn.net/discoveryextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISCOVERY TURBO
+http://mcdn-play-358.5centscdn.net/discturboextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISCOVERY SHED
+http://mcdn-play-358.5centscdn.net/discshedextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:EDEN
+http://mcdn-play-358.5centscdn.net/edenextv/55c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISCOVERY HISTORY
+http://mcdn-play-358.5centscdn.net/dischistextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Discovery Investigation
+http://mcdn-play-358.5centscdn.net/discinvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Discovery Science
+http://mcdn-play-358.5centscdn.net/discscienceextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CI
+http://mcdn-play-358.5centscdn.net/ciextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES SELECT
+http://mcdn-play-358.5centscdn.net/skymovselectextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES SCIFI
+http://mcdn-play-358.5centscdn.net/skymovscifiextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES COMEDY
+http://mcdn-play-358.5centscdn.net/skymovcomedyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES GREATS
+http://mcdn-play-358.5centscdn.net/skymovgreatsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES DISNEY
+http://mcdn-play-358.5centscdn.net/skymovdisneyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES DRAMA
+http://mcdn-play-358.5centscdn.net/skymovdramaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES ACTION
+http://mcdn-play-358.5centscdn.net/skymovactionextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES FAMILY
+http://mcdn-play-358.5centscdn.net/skymovfamilyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES THRILLER
+http://mcdn-play-358.5centscdn.net/skythrillerhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:Sky MOVIES DISNEY HD
+http://mcdn-play-358.5centscdn.net/skydisneyhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:FILM4
+http://mcdn-play-358.5centscdn.net/film4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK: SKY SPORTS 1 
+http://mcdn-play-358.5centscdn.net/skysports1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 2
+http://mcdn-play-358.5centscdn.net/skysports2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 3
+http://mcdn-play-358.5centscdn.net/skysports3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 4
+http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 5
+http://mcdn-play-358.5centscdn.net/skysports5extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS F1
+http://mcdn-play-358.5centscdn.net/skysportsf1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS NEWS
+http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 1HD
+http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 2HD
+http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 3HD
+http://mcdn-play-358.5centscdn.net/skysports3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 4HD
+http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY SPORTS 5HD
+http://mcdn-play-358.5centscdn.net/espnextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ESPN HD
+http://mcdn-play-358.5centscdn.net/espnhdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BT SPORT 1
+http://mcdn-play-358.5centscdn.net/hashsp1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0,UK:BT SPORT 2
+http://mcdn-play-358.5centscdn.net/btsport2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BT SPORT 2 HD
+http://mcdn-play-358.5centscdn.net/btsport2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SETANTA SPORT
+http://mcdn-play-358.5centscdn.net/setantasportsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:AT THE RACES
+http://mcdn-play-358.5centscdn.net/attheracesextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:RACING UK
+http://mcdn-play-358.5centscdn.net/racingukextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:EUROSPORT 1
+http://mcdn-play-358.5centscdn.net/hashsp3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0,UK:EUROSPOT 2
+http://mcdn-play-358.5centscdn.net/hashsp2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0,UK:FOXSPORTS 1
+http://mcdn-play-358.5centscdn.net/foxsports1usaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:FOX SPORTS 2
+http://mcdn-play-358.5centscdn.net/foxsports2usaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BOX NATION
+http://mcdn-play-358.5centscdn.net/boxnationextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MIO 1
+http://mcdn-play-358.5centscdn.net/mio102extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MIO 2
+http://mcdn-play-358.5centscdn.net/mio103extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MIO 3
+http://mcdn-play-358.5centscdn.net/mio104extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 1
+http://mcdn-play-358.5centscdn.net/tsn1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 2
+http://mcdn-play-358.5centscdn.net/tsn2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 3
+http://mcdn-play-358.5centscdn.net/tsn3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TSN 4
+http://mcdn-play-358.5centscdn.net/tsn4hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK: ASTRO 1
+http://mcdn-play-358.5centscdn.net/astro1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:ASTRO 2
+http://mcdn-play-358.5centscdn.net/astro2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:PREMIER SPORTS
+http://mcdn-play-358.5centscdn.net/premiersportsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MUTV
+http://mcdn-play-358.5centscdn.net/mutvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BET
+http://mcdn-play-358.5centscdn.net/betextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MTV LIVE
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist_b800000.m3u8
+#EXTINF:0,UK:MTV MUSIC
+http://mcdn-play-358.5centscdn.net/mtvmusicextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MTV HITS
+http://mcdn-play-358.5centscdn.net:80/mtvhitsextv/stream1.stream/playlist.m3u8
+#EXTINF:0,UK:MTV DANCE
+http://mcdn-play-358.5centscdn.net/mtvdanceextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MTV CLASSICS
+http://mcdn-play-358.5centscdn.net/mtvclassicextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:VIVA
+http://mcdn-play-358.5centscdn.net/vivaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:THE VAULT
+http://mcdn-play-358.5centscdn.net/thevaultextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:FLAVA
+http://mcdn-play-358.5centscdn.net/flavaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BABY TV
+http://mcdn-play-358.5centscdn.net/babytvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:NICK JR
+http://mcdn-play-358.5centscdn.net/nickjrextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:CBEEBIES
+http://mcdn-play-358.5centscdn.net/cbeebiesextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:NICKTOONS
+http://mcdn-play-358.5centscdn.net/nicktoonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISNEY
+http://mcdn-play-358.5centscdn.net/disneyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISNEY JR
+http://mcdn-play-358.5centscdn.net/disneyjrextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:DISNEY XD
+http://mcdn-play-358.5centscdn.net/disneyxdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:MOTORS
+http://mcdn-play-358.5centscdn.net/motorstvextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC NEWS
+http://mcdn-play-358.5centscdn.net/bbcnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:RTE JR
+http://mcdn-play-358.5centscdn.net/rtejrextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC ALBA
+http://mcdn-play-358.5centscdn.net/bbcalbaextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:REALLY
+http://mcdn-play-358.5centscdn.net/reallyextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SCUZZ
+http://mcdn-play-358.5centscdn.net/scuzzextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:COMMUNITY
+http://mcdn-play-358.5centscdn.net/communitychextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BLOOMBERG
+http://mcdn-play-358.5centscdn.net/bloombergextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:FOX NEWS
+http://mcdn-play-358.5centscdn.net/foxnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:SKY NEWS
+http://mcdn-play-358.5centscdn.net/skynewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:RTE1
+http://mcdn-play-358.5centscdn.net/rte1extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:RTE2
+http://mcdn-play-358.5centscdn.net/rte2extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TV3
+http://mcdn-play-358.5centscdn.net/tv3extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:TG4
+http://mcdn-play-358.5centscdn.net/tg4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC 1 WALES
+http://mcdn-play-358.5centscdn.net/bbc1walesextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0,UK:BBC 1 Scotland
+http://mcdn-play-358.5centscdn.net/bbc1scotextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
