@@ -312,210 +312,97 @@ http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
 http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
-#EXTINF:-1,US: |VIP| AFN SPECTRUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9548.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| Bein Sports USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9546.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9544.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9540.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| Investigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9526.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9533.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| NICK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9529.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| Sportsnet Ontario
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9549.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| Starz Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9535.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| STARZ EDGE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9534.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| UTV IE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9530.ts;name=BAMF TV
-#EXTINF:-1,US: |VIP| WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9531.ts;name=BAMF TV
-#EXTINF:-1,US: Bloomberg TV  1080p HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9195.ts;name=BAMF TV
-#EXTINF:-1,USA: C-Span 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/8809.ts;name=BAMF TV
-#EXTINF:-1,USA: C-Span 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/8810.ts;name=BAMF TV
-#EXTINF:-1,USA: C-Span 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/8811.ts;name=BAMF TV
-#EXTINF:-1,US: FOX NC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5957.ts;name=BAMF TV
-#EXTINF:-1,US: CNN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5962.ts;name=BAMF TV
-#EXTINF:-1,US: TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/151.ts;name=BAMF TV
-#EXTINF:-1,US: TSN 2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/150.ts;name=BAMF TV
-#EXTINF:-1,US: NBC GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5942.ts;name=BAMF TV
-#EXTINF:-1,US: FALTAN CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5946.ts;name=BAMF TV
-#EXTINF:-1,US: FOOD CHANNEL.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5935.ts;name=BAMF TV
-#EXTINF:-1,US: TVO KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5936.ts;name=BAMF TV
-#EXTINF:-1,US: YTV CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5930.ts;name=BAMF TV
-#EXTINF:-1,US: USA CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5931.ts;name=BAMF TV
-#EXTINF:-1,US: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5938.ts;name=BAMF TV
-#EXTINF:-1,US: TLC CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5933.ts;name=BAMF TV
-#EXTINF:-1,US: TMN ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5948.ts;name=BAMF TV
-#EXTINF:-1,US: TVO KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7258.ts;name=BAMF TV
-#EXTINF:-1,US: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7259.ts;name=BAMF TV
-#EXTINF:-1,US: ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7261.ts;name=BAMF TV
-#EXTINF:-1,US: SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7273.ts;name=BAMF TV
-#EXTINF:-1,US: SN 360HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7257.ts;name=BAMF TV
-#EXTINF:-1,US: SLICE CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7267.ts;name=BAMF TV
-#EXTINF:-1,US: OMNI TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7268.ts;name=BAMF TV
-#EXTINF:-1,US: NBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7270.ts;name=BAMF TV
-#EXTINF:-1,US: NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7284.ts;name=BAMF TV
-#EXTINF:-1,US: MAX WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7271.ts;name=BAMF TV
-#EXTINF:-1,US: MAX ESAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7272.ts;name=BAMF TV
-#EXTINF:-1,US: LMN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7260.ts;name=BAMF TV
-#EXTINF:-1,US: ABC News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/4408.ts;name=BAMF TV
-#EXTINF:-1,US: Nasa Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/4410.ts;name=BAMF TV
-#EXTINF:-1,US: Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/4406.ts;name=BAMF TV
-#EXTINF:-1,US: FOOD CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7256.ts;name=BAMF TV
-#EXTINF:-1,US: FMLY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7277.ts;name=BAMF TV
-#EXTINF:-1,US: DIY NETWORK.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7278.ts;name=BAMF TV
-#EXTINF:-1,US: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7274.ts;name=BAMF TV
-#EXTINF:-1,US: CRCOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7280.ts;name=BAMF TV
-#EXTINF:-1,US: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7281.ts;name=BAMF TV
-#EXTINF:-1,US: CITY TORANTO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7282.ts;name=BAMF TV
-#EXTINF:-1,US: HSNtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/9201.ts;name=BAMF TV
-#EXTINF:-1,US: BNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7283.ts;name=BAMF TV
-#EXTINF:-1,MAX ESAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5954.ts;name=BAMF TV
-#EXTINF:-1,CITY TV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5961.ts;name=BAMF TV
-#EXTINF:-1,DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/5959.ts;name=BAMF TV
-#EXTINF:-1,US: A&E CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.208.25:5210/live/35JFYfRkDT/qzBBj7oG9m/7265.ts;name=BAMF TV
+
 #EXTINF:-1,OSN:ONDEMANDEEXTRA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2893.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2893.ts
 #EXTINF:-1,OSN:ONDEMANDEEXTRA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2891.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2891.ts
 #EXTINF:-1,OSN:ONDEMANDEEXTRA3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2892.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2892.ts
 #EXTINF:-1,OSN:OFFICBOX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1889.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1889.ts
 #EXTINF:-1,OSN:OFFICBOX2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1890.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1890.ts
 #EXTINF:-1,OSN:OFFICBOX3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1891.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1891.ts
 #EXTINF:-1,OSN:Cinema-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1267.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1267.ts
 #EXTINF:-1,OSN:Cinema-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1265.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1265.ts
 #EXTINF:-1,OSN:Mbc+Drama.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2867.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2867.ts
 #EXTINF:-1,OSN:Fatafeat.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2827.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2827.ts
 #EXTINF:-1,OSN:AL.YAWM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2830.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2830.ts
 #EXTINF:-1,OSN:AL.SAFWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2831.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2831.ts
 #EXTINF:-1,OSN:MOVIES.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1254.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1254.ts
 #EXTINF:-1,OSN:Movies2-HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1232.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1232.ts
 #EXTINF:-1,OSN:Movies-Action-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1261.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1261.ts
 #EXTINF:-1,OSN:Movies_Action+2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1266.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1266.ts
 #EXTINF:-1,OSN:Movies-Premiere-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1255.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1255.ts
 #EXTINF:-1,OSN:MOVIES-PREMIER2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1257.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1257.ts
 #EXTINF:-1,OSN:Movies-Festival-HD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1233.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1233.ts
 #EXTINF:-1,OSN:Movies-Demand.EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1258.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1258.ts
 #EXTINF:-1,OSN:MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1229.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1229.ts
 #EXTINF:-1,OSN:Movie-kids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1262.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1262.ts
 #EXTINF:-1,OSN:Movie_Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1260.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1260.ts
 #EXTINF:-1,OSN:Star.Movies.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1146.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1146.ts
 #EXTINF:-1,OSN:Star-Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1234.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1234.ts
 #EXTINF:-1,OSN:Demand -HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1259.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1259.ts
 #EXTINF:-1,OSN:YAHALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1256.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1256.ts
 #EXTINF:-1,OSN:Yahala.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2738.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2738.ts
 #EXTINF:-1,OSN:YaHala-DRAMA-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1252.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1252.ts
 #EXTINF:-1,OSN:YaHala!-Shabab-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1253.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1253.ts
 #EXTINF:-1,OSN:YaHala!-CINEMA-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1230.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1230.ts
 #EXTINF:-1,OSN:MusalsalatHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2871.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2871.ts
 #EXTINF:-1,OSN:First.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2866.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2866.ts
 #EXTINF:-1,OSN:FIRST.COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1264.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1264.ts
 #EXTINF:-1,OSN:First_Comedy_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2941.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2941.ts
 #EXTINF:-1,OSN:First.HOME.OF.HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1263.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1263.ts
 #EXTINF:-1,OSN:WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1227.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1227.ts
 #EXTINF:-1,OSN SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/3645.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/3645.ts
 #EXTINF:-1,OSN:Animal-Planet-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1237.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1237.ts
 #EXTINF:-1,OSN:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2878.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2878.ts
 #EXTINF:-1,OSN:STAR_GOULD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/2880.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/2880.ts
 #EXTINF:-1,OSN:Sport.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1662.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1662.ts
 #EXTINF:-1,OSN:Sport.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1663.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1663.ts
 #EXTINF:-1,OSN:Sport.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1664.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1664.ts
 #EXTINF:-1,OSN:Sport.4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.electro-clair.net:8000/live/otmane/otmane/1665.ts;name=BAMF TV
+http://iptv.electro-clair.net:8000/live/otmane/otmane/1665.ts
 
 #EXTINF:-1,CANAL+SPORT 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
