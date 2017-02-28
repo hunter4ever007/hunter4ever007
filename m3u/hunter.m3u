@@ -355,7 +355,6 @@ http://192.99.66.207:9090/load/mundinegreen/31.mpegts
 http://192.99.66.207:9090/load/mundinegreen/34.mpegts
 #EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s33.png",HBO Comedy
 http://192.99.66.207:9090/load/mundinegreen/33.mpegts
-
 #EXTINF:0,UK:BBC RED BUTTON
 http://mcdn-play-358.5centscdn.net/bbcredbuttonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:BBC 1
