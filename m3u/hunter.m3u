@@ -357,7 +357,7 @@ http://192.99.66.207:9090/load/mundinegreen/34.mpegts
 http://192.99.66.207:9090/load/mundinegreen/33.mpegts
 
 #EXTINF:0,BeinHD:Movies1
-http://live.softiptv.com:9900/live/525/525/20097.ts
+http://live.softiptv.com:9900/live/525/525/20097.m3u8
 #EXTINF:0,BeinHD:Movies2
 http://live.softiptv.com:9900/live/525/525/20098.ts
 #EXTINF:0,BeinHD:Movies3
