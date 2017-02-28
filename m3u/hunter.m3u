@@ -347,20 +347,15 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 #EXTINF:-1,TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s9.png” group-title=”Streams”,Yesterday
-http://192.99.66.207:9090/load/mundinegreen/9.mpegts
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s50.jpg” tvg-id=”Nat Geo WILD (NGW)” group-title=”Streams”,Nat Geo WILD USA
+#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s50.jpg",Nat Geo WILD
 http://192.99.66.207:9090/load/mundinegreen/50.mpegts
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s47.png” tvg-id=”H2 USA” group-title=”Streams”,H2 USA
-http://192.99.66.207:9090/load/mundinegreen/47.mpegts
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s31.png” group-title=”Streams”,Boomerang UK
+#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s31.png",Boomerang UK
 http://192.99.66.207:9090/load/mundinegreen/31.mpegts
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s32.png” group-title=”Streams”,Global TV
-http://192.99.66.207:9090/load/mundinegreen/32.mpegts
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s34.png” group-title=”Streams”,HBO Family
+#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s34.png",HBO Family
 http://192.99.66.207:9090/load/mundinegreen/34.mpegts
-#EXTINF:-1 tvg-logo=”http://192.99.66.207:9090/logos/s33.png” group-title=”Streams”,HBO Comedy
+#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s33.png",HBO Comedy
 http://192.99.66.207:9090/load/mundinegreen/33.mpegts
+
 #EXTINF:0,BeinHD:Movies1
 http://live.softiptv.com:9900/live/525/525/20097.ts
 #EXTINF:0,BeinHD:Movies2
