@@ -338,8 +338,6 @@ http://149.202.208.85:8080/mystreambhenssp-11/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 12
 http://149.202.208.85:8080/mystreambhenssp-12/Strm/index.m3u8
 
-#EXTINF:-1,CANAL+SPORT 
-http://149.202.207.8:8080/kuLlieenuBEerr0NeBE3innsp-13/Strm/index.m3u8 
 #EXTINF:-1,ARENA SPORT 1 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
 #EXTINF:-1,ARENA SPORT 2 
