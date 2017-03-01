@@ -361,14 +361,6 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 #EXTINF:-1,TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s50.jpg",Nat Geo WILD
-http://192.99.66.207:9090/load/mundinegreen/50.mpegts
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s31.png",Boomerang UK
-http://192.99.66.207:9090/load/mundinegreen/31.mpegts
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s34.png",HBO Family
-http://192.99.66.207:9090/load/mundinegreen/34.mpegts
-#EXTINF:-1 tvg-logo="http://192.99.66.207:9090/logos/s33.png",HBO Comedy
-http://192.99.66.207:9090/load/mundinegreen/33.mpegts
 #EXTINF:0,UK:BBC RED BUTTON
 http://mcdn-play-358.5centscdn.net/bbcredbuttonextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 #EXTINF:0,UK:BBC 1
