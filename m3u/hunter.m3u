@@ -3,10 +3,6 @@
 ***********
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 Backup ;)
-https://cdn.livetvhd.net/static/nsmbc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjYxLjYuNC45MCIsImlzcyI6IiIsIm5iZiI6IjAiLCJqdGkiOiIiLCJpYXQiOjE0ODgzMzA5NTEsImV4cCI6MTQ4ODMzNjM1MX0.dlfUDBf2FD8Fy6vJo1qCCwiv1kOft65wHUN61NvSohM
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 SD
-http://9886.akamai.live.selevision.com/live/9886/98867/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2 HD
 http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png", MBC 3 HD
@@ -59,18 +55,18 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-QCbq4qPYll8/VqV0qqdkRsI/AAAAAAAAA9I/hPTYV5cwwoo/s1600/%25D8%25B4%25D8%25B9%25D8%25A7%25D8%25B1%2B%25D8%25B1%25D9%2588%25D8%25AA%25D8%25A7%25D9%2586%25D8%25A7%2B%25D8%25B3%25D9%258A%25D9%2586%25D9%2585%25D8%25A7.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-QCbq4qPYll8/VqV0qqdkRsI/AAAAAAAAA9I/hPTYV5cwwoo/s1600/%25D8%25B4%25D8%25B9%25D8%25A7%25D8%25B1%2B%25D8%25B1%25D9%2588%25D8%25AA%25D8%25A7%25D9%2586%25D8%25A7%2B%25D8%25B3%25D9%258A%25D9%2586%25D9%2585%25D8%25A7.png", Rotana Cinema  L2 sniff
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-cinema
-#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia sniff
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-khalijiah
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-iSvEN0c91Lo/AAAAAAAAAAI/AAAAAAAACZg/eXU5adESngU/w800-h800/photo.jpg", Rotana Music sniff
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip sniff
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-clip
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya sniff
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
-#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic sniff
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-classic
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-QCbq4qPYll8/VqV0qqdkRsI/AAAAAAAAA9I/hPTYV5cwwoo/s1600/%25D8%25B4%25D8%25B9%25D8%25A7%25D8%25B1%2B%25D8%25B1%25D9%2588%25D8%25AA%25D8%25A7%25D9%2586%25D8%25A7%2B%25D8%25B3%25D9%258A%25D9%2586%25D9%2585%25D8%25A7.png", Rotana Cinema  filmon
+http://edge-1180-ch-gv.filmon.com/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeab86538867e9c170846e39ca2469741934e5711047b7eec93b18ebbcfd142c93ce06b68c4efa7b0192566d07e50b0b239a65ff1384dbc18f9a299bd3acebf4e83b80b56435d99f7a5f24bc98bdc8025089fe4c5846afeff721c5dc07ca16b43c1b9989714a427e3aef3c283ec8c8ae0341e1262c8353287ead46c422924071c6598d24825008778a9cc506b667521284
+#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia  filmon
+http://edge-1180-ch-gv.filmon.com/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe723a3202d2cc64193415e348deb0b1a7a5d4798ff7bc3948f590269f39e49d67a27e7ff383946901b657cc83265e73085f5052f2cfd3d81f8714df111a3483e58b7c12c979e1d3dd2d2c12b615213d5bc3f838851e2ec87ca1b77ccd40ef5f3870244066abdb3092c977f4aa2a9b00c25e9c2f2da266e4f718de0bae66e773b76d8dbc73211a5abb6e13977573e0cb69
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-iSvEN0c91Lo/AAAAAAAAAAI/AAAAAAAACZg/eXU5adESngU/w800-h800/photo.jpg", Rotana Music  filmon
+http://edge-1180-ch-gv.filmon.com/live/2600.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe93a9228aea078b67444312ee994eafcdca27f2e7798ef61a9578e5808eb842ece9ca7e03ba1aca09fbd2b20e7610e3b94a6c63042fb67ba66a6f6b375605f6a91fe1ecabba2dcb8217bd48fe67b5e5cdc97ff43f46b9b5076b7d6c91312cd5ad5de16f40862bd73c4054e2d1faa63b62cf645c6140cd3a01b6727df429467f92472faba0fc8a2cdc18ed3b5245b8cf2e
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip  filmon
+http://edge-1180-ch-gv.filmon.com/live/2603.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe933126eca1a91d35d91756c624df0e62d1b28202d9b964583a89455f2bcfcd68df82251faf769ee6f0a3c3e6f20b7953d191ea875aff121b8c476038c632f6e4c67979f26913d5adcfe5394ec002b59e67238260940d1bdd36fc2ba41a81baa5855174820b75869d4c6298062fc9ed3e238c4c2e73a101b615b437b5927a614d483de7c9018bd5bb5414d19ca62d29e1
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic  filmon
+http://edge-1180-ch-gv.filmon.com/live/2609.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2cb7a4fe51fa5045b762f410a8b61fc03e2b80290ca774e27242667ae867731d5f4b4ff246cf374369e29bae69696901729fea9f63f2bc45eb721c6db49f9aabd04380d1051ec7c5cf85f130f37ef48d930438fe2ad341a5816a4c528cf537fe2b1d74d19e24c814cd4a91d50a012e591e43df201f5c44b02216c0f6fbc6878748e4aab4685f28c4f6c6813be870bbd4
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya  filmon
+http://edge-1180-ch-gv.filmon.com/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe13e22dc9a39b10e40299362eb8bc9398f88660d28ef380bc9912971cf0ca122ffdab1f2c5b6a10cc9813efe0e901a850b84eeb62148139bce6c158dc88669f3894ecd271232d00eaab9d4f7702f4cbde611a97858bdcbc887cac54291779f6f885bff06c222da6e05de350766aee9e8d98d447e869f8dcb35045f34c32df96b44bb8f18b2ad38c3e9f3b24a6c67cf89d
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam HQ
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam LQ
@@ -314,19 +310,6 @@ http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
 http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
-#EXTINF:-1,Rotana Cinema  filmon
-http://edge-1180-ch-gv.filmon.com/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeab86538867e9c170846e39ca2469741934e5711047b7eec93b18ebbcfd142c93ce06b68c4efa7b0192566d07e50b0b239a65ff1384dbc18f9a299bd3acebf4e83b80b56435d99f7a5f24bc98bdc8025089fe4c5846afeff721c5dc07ca16b43c1b9989714a427e3aef3c283ec8c8ae0341e1262c8353287ead46c422924071c6598d24825008778a9cc506b667521284
-#EXTINF:-1,Rotana Khaligia  filmon
-http://edge-1180-ch-gv.filmon.com/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe723a3202d2cc64193415e348deb0b1a7a5d4798ff7bc3948f590269f39e49d67a27e7ff383946901b657cc83265e73085f5052f2cfd3d81f8714df111a3483e58b7c12c979e1d3dd2d2c12b615213d5bc3f838851e2ec87ca1b77ccd40ef5f3870244066abdb3092c977f4aa2a9b00c25e9c2f2da266e4f718de0bae66e773b76d8dbc73211a5abb6e13977573e0cb69
-#EXTINF:-1,Rotana Music  filmon
-http://edge-1180-ch-gv.filmon.com/live/2600.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe93a9228aea078b67444312ee994eafcdca27f2e7798ef61a9578e5808eb842ece9ca7e03ba1aca09fbd2b20e7610e3b94a6c63042fb67ba66a6f6b375605f6a91fe1ecabba2dcb8217bd48fe67b5e5cdc97ff43f46b9b5076b7d6c91312cd5ad5de16f40862bd73c4054e2d1faa63b62cf645c6140cd3a01b6727df429467f92472faba0fc8a2cdc18ed3b5245b8cf2e
-#EXTINF:-1,Rotana Clip  filmon
-http://edge-1180-ch-gv.filmon.com/live/2603.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe933126eca1a91d35d91756c624df0e62d1b28202d9b964583a89455f2bcfcd68df82251faf769ee6f0a3c3e6f20b7953d191ea875aff121b8c476038c632f6e4c67979f26913d5adcfe5394ec002b59e67238260940d1bdd36fc2ba41a81baa5855174820b75869d4c6298062fc9ed3e238c4c2e73a101b615b437b5927a614d483de7c9018bd5bb5414d19ca62d29e1
-#EXTINF:-1,Rotana Classic  filmon
-http://edge-1180-ch-gv.filmon.com/live/2609.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2cb7a4fe51fa5045b762f410a8b61fc03e2b80290ca774e27242667ae867731d5f4b4ff246cf374369e29bae69696901729fea9f63f2bc45eb721c6db49f9aabd04380d1051ec7c5cf85f130f37ef48d930438fe2ad341a5816a4c528cf537fe2b1d74d19e24c814cd4a91d50a012e591e43df201f5c44b02216c0f6fbc6878748e4aab4685f28c4f6c6813be870bbd4
-#EXTINF:-1,Rotana Masriya  filmon
-http://edge-1180-ch-gv.filmon.com/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe13e22dc9a39b10e40299362eb8bc9398f88660d28ef380bc9912971cf0ca122ffdab1f2c5b6a10cc9813efe0e901a850b84eeb62148139bce6c158dc88669f3894ecd271232d00eaab9d4f7702f4cbde611a97858bdcbc887cac54291779f6f885bff06c222da6e05de350766aee9e8d98d447e869f8dcb35045f34c32df96b44bb8f18b2ad38c3e9f3b24a6c67cf89d
-
 
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
 http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
