@@ -3,6 +3,8 @@
 ***********
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
+#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 Backup ;)
+https://cdn.livetvhd.net/static/nsmbc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjYxLjYuNC45MCIsImlzcyI6IiIsIm5iZiI6IjAiLCJqdGkiOiIiLCJpYXQiOjE0ODgzMzA5NTEsImV4cCI6MTQ4ODMzNjM1MX0.dlfUDBf2FD8Fy6vJo1qCCwiv1kOft65wHUN61NvSohM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 SD
 http://9886.akamai.live.selevision.com/live/9886/98867/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2 HD
