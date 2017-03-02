@@ -237,27 +237,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/saudi_arabia/saudi_arabia_640.png",[COLOR yellow] SAUDI CHANNELS [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD (Saudi Arabia)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://sauditv.net/images/Saudi_TV_1.png", Saudi 1 HD (Saudi Arabia)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel2/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png", Saudi 2 HD (Saudi Arabia)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg", Al Thakafiyah HD (Saudi Arabia)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://makkahtv.tv/wp-content/themes/badawiyahtv/images/logo.png", MAKKAH
-http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
-rtmp://82.212.74.101/live//8043
-
-
-#EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/515/PNG/256/Documentaries_icon-icons.com_51056.png",[COLOR yellow] Documentary CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="https://biz.prlog.org/WorldClassService/logo.jpg",[COLOR yellow] Documentary CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/NATGEO.png", ABU DHABI Geographical
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
@@ -277,6 +257,26 @@ http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-logo="http://a398.idata.over-blog.com/5/70/95/81/CCC-images-suite/RMC-DECOUVERTE.jpg", RMC
 http://streaming-hub.com/stream/rmc.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/saudi_arabia/saudi_arabia_640.png",[COLOR yellow] SAUDI CHANNELS [/COLOR]
+***********
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://sauditv.net/images/Saudi_TV_1.png", Saudi 1 HD (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel2/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png", Saudi 2 HD (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg", Al Thakafiyah HD (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://makkahtv.tv/wp-content/themes/badawiyahtv/images/logo.png", MAKKAH
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
+rtmp://82.212.74.101/live//8043
 
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow] OSN CHANNELS [/COLOR]
