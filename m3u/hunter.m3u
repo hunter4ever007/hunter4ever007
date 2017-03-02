@@ -47,15 +47,15 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow] AFLAM & MUSALSALAT [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fddkdjZ6uyg/VO74umBGi6I/AAAAAAAAARY/6AujE3N3dxs/s1600/%D9%82%D9%86%D8%A7%D8%A9%2B%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7%2B%D8%A7%D9%81%D9%84%D8%A7%D9%85%2B%D8%A8%D8%AB%2B%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.png", Rotana Aflam
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-QCbq4qPYll8/VqV0qqdkRsI/AAAAAAAAA9I/hPTYV5cwwoo/s1600/%25D8%25B4%25D8%25B9%25D8%25A7%25D8%25B1%2B%25D8%25B1%25D9%2588%25D8%25AA%25D8%25A7%25D9%2586%25D8%25A7%2B%25D8%25B3%25D9%258A%25D9%2586%25D9%2585%25D8%25A7.png", Rotana Cinema
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-QCbq4qPYll8/VqV0qqdkRsI/AAAAAAAAA9I/hPTYV5cwwoo/s1600/%25D8%25B4%25D8%25B9%25D8%25A7%25D8%25B1%2B%25D8%25B1%25D9%2588%25D8%25AA%25D8%25A7%25D9%2586%25D8%25A7%2B%25D8%25B3%25D9%258A%25D9%2586%25D9%2585%25D8%25A7.png", Rotana Cinema L2
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema L2
 http://130.185.144.63:8081/ar/RotanaCinema/chunks.m3u8?nimblesessionid=1835866&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToxODo1MiBBTSZoYXNoX3ZhbHVlPU41QmlJT3U1cjhEb0xGR0JHZEhQb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia  
 http://130.185.144.63:8081/ar/RotanaKhaligi/chunks.m3u8?nimblesessionid=1835945&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyMDowMyBBTSZoYXNoX3ZhbHVlPWZDbXFmZ004dGlMWmxkanRjeU1mVmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-iSvEN0c91Lo/AAAAAAAAAAI/AAAAAAAACZg/eXU5adESngU/w800-h800/photo.jpg", Rotana Music  
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music  
 http://130.185.144.63:8081/ar/RotanaMusic/chunks.m3u8?nimblesessionid=1836009&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyMTowOCBBTSZoYXNoX3ZhbHVlPW14RUFpREVDbGd4cHhVS2xMVVUwWWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip  
 http://130.185.144.63:8081/ar/RotanaClip/chunks.m3u8?nimblesessionid=1836078&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyMjozMCBBTSZoYXNoX3ZhbHVlPWVNdjYybU4wV3d2SllsQ0EwdWtMcFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
