@@ -41,10 +41,6 @@ http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif", Sama Dubai HD
 http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png", Dubai Sports 
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
-http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png", Sharjah 
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
@@ -121,6 +117,10 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.cifra1.ru/files/pages/0000/0377/files/Russia-Today.png",Russia Today HD
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow] SPORTS CHANNELS [/COLOR]
@@ -131,13 +131,13 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="http://myegy.space/wp-content/uploads/2016/11/IMG_6849.png",AD sport 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
-http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD (Qatar)
+#EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png", Dubai Sports 
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg", Saudi Sport 1 HD (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD 
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
@@ -149,6 +149,12 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
+http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
@@ -243,8 +249,6 @@ http://199.167.151.237:1935/live/dub_1_ch1126/playlist.m3u8
 ***********
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg", Saudi Sport 1 HD (Saudi Arabia)
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD (Saudi Arabia)
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://sauditv.net/images/Saudi_TV_1.png", Saudi 1 HD (Saudi Arabia)
@@ -275,10 +279,6 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://a398.idata.over-blog.com/5/70/95/81/CCC-images-suite/RMC-DECOUVERTE.jpg", RMC
 http://streaming-hub.com/stream/rmc.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
-http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/nicktoons-logo.png", Nicktoons
@@ -302,7 +302,8 @@ http://9897.akamai.live.selevision.com/live/9897/98970/master.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271414",OSN Movies 2 HD
 http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow] TEST CHANNELS [/COLOR]
+
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/1DA30243.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
 http://212.47.233.115:7979/telecom/tvs/mbcpro1/chunks.m3u8?nimblesessionid=16419141&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgMzo1MTowMyBBTSZoYXNoX3ZhbHVlPU92WGx0Y0drSk95NVcvOEdtM0ZPMlE9PSZ2YWxpZG1pbnV0ZXM9MQ==
@@ -338,6 +339,9 @@ http://149.202.208.85:8080/mystreambhenssp-11/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 12
 http://149.202.208.85:8080/mystreambhenssp-12/Strm/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow] TEST CHANNELS [/COLOR]
+***********
 #EXTINF:-1,ARENA SPORT 1 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
 #EXTINF:-1,ARENA SPORT 2 
