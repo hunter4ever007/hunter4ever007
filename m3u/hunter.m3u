@@ -49,18 +49,6 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema L2
-http://130.185.144.63:8081/ar/RotanaCinema/chunks.m3u8?nimblesessionid=1835866&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToxODo1MiBBTSZoYXNoX3ZhbHVlPU41QmlJT3U1cjhEb0xGR0JHZEhQb0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia  
-http://130.185.144.63:8081/ar/RotanaKhaligi/chunks.m3u8?nimblesessionid=1835945&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyMDowMyBBTSZoYXNoX3ZhbHVlPWZDbXFmZ004dGlMWmxkanRjeU1mVmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music  
-http://130.185.144.63:8081/ar/RotanaMusic/chunks.m3u8?nimblesessionid=1836009&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyMTowOCBBTSZoYXNoX3ZhbHVlPW14RUFpREVDbGd4cHhVS2xMVVUwWWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip  
-http://130.185.144.63:8081/ar/RotanaClip/chunks.m3u8?nimblesessionid=1836078&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyMjozMCBBTSZoYXNoX3ZhbHVlPWVNdjYybU4wV3d2SllsQ0EwdWtMcFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic  
-http://130.185.144.63:8081/ar/Rotanaclassic/chunks.m3u8?nimblesessionid=1836140&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyNDoxMCBBTSZoYXNoX3ZhbHVlPTl6b2RvUnZqbUk0eEw2TzIrdnRhdnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya  
-http://130.185.144.63:8081/ar/RotanaMasriya/chunks.m3u8?nimblesessionid=1836179&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgNToyNToxMyBBTSZoYXNoX3ZhbHVlPSs2MU5ENVVzL1RPcGRHUFpQSlY2cmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam HQ
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam LQ
