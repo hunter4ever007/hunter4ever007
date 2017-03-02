@@ -43,7 +43,7 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow] AFLAM & MUSALSALAT [/COLOR]
+#EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
@@ -87,7 +87,7 @@ rtmp://vstream2.hadara.ps:1990/AlfajertvHD1_web//web1
 rtmp://vstream2.hadara.ps:1990/AlfajertvHD2_web//web1
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow]        SPORTS CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2014/262193_dreambox-sat.com.png", ABU DHABI Sport 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -125,7 +125,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://85.132.59.163:8080/play/a00y
 
 
-#EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                KIDS TV [/COLOR]
+#EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
 http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
@@ -195,7 +195,7 @@ http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.ultraupdates.com/wp-content/uploads/2016/07/I-love-islam-logo.jpg?x84369",[COLOR yellow]              Islam Channels [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.ultraupdates.com/wp-content/uploads/2016/07/I-love-islam-logo.jpg?x84369",[COLOR yellow]            Islam Channels [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png",Iqraa
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
@@ -241,7 +241,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://biz.prlog.org/WorldClassService/logo.jpg",[COLOR yellow]    Documentary CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="https://biz.prlog.org/WorldClassService/logo.jpg",[COLOR yellow]  Documentary CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/NATGEO.png", ABU DHABI Geographical
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
