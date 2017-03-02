@@ -199,12 +199,16 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 ***********
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png",Iqraa
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
-http://1487137737@199.167.151.237:1935/live/dub_1_ch1146/gmswf.m3u8?
+#EXTINF:-1 tvg-logo="http://makkahtv.tv/wp-content/themes/badawiyahtv/images/logo.png", MAKKAH
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
 http://199.167.151.237:1935/live/dub_1_ch1279/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png",Alafasy 
 http://199.167.151.237:1935/live/dub_1_ch1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
+rtmp://82.212.74.101/live//8043
+#EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
+http://1487137737@199.167.151.237:1935/live/dub_1_ch1146/gmswf.m3u8?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
 http://199.167.151.237:1935/live/dub_1_ch1126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dini.tv/wp-content/uploads/2016/12/Peace-TV-USA.png",Peace USA
@@ -277,10 +281,6 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/str
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://makkahtv.tv/wp-content/themes/badawiyahtv/images/logo.png", MAKKAH
-http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
-rtmp://82.212.74.101/live//8043
 
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow]           OSN CHANNELS [/COLOR]
