@@ -305,11 +305,13 @@ http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow] TEST CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
+http://212.47.233.115:7979/telecom/tvs/mbcpro1/chunks.m3u8?nimblesessionid=16419141&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgMzo1MTowMyBBTSZoYXNoX3ZhbHVlPU92WGx0Y0drSk95NVcvOEdtM0ZPMlE9PSZ2YWxpZG1pbnV0ZXM9MQ==
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 L2
 http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2
-http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
+http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
 http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
