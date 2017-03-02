@@ -338,6 +338,31 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
+#EXTINF:-1, Bt Sport 1
+http://163.172.215.159:3135/BT/1/index.m3u8?
+#EXTINF:-1, Bt Sport 1 L2
+http://163.172.215.159:3135/BT1/HD/index.m3u8?
+#EXTINF:-1, Bt Sport 2
+http://163.172.218.181:3135/BT2/Sports/index.m3u8?
+#EXTINF:-1, Sky Sport HD 1
+http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 2
+http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 3
+http://mcdn-play-358.5centscdn.net/skysports3hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 4
+http://mcdn-play-358.5centscdn.net/skysports4extv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport HD 5
+http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport  Mix
+http://mcdn-play-358.5centscdn.net/skysportsmixextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport F1
+http://mcdn-play-358.5centscdn.net/skysportsf1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, Sky Sport news
+http://mcdn-play-358.5centscdn.net/skysportsnewsextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1, WWE
+http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
+
 #EXTINF:-1,ARENA SPORT 1 
 http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8 
 #EXTINF:-1,ARENA SPORT 2 
