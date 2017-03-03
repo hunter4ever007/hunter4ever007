@@ -108,7 +108,9 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-1/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 2
+http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-2/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
 
@@ -275,10 +277,6 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/str
 ***********
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271620",Alfa Musalsalat HD
 http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1162_1.png",Alfa Alyawm
-http://selevision9887-i.akamaihd.net/hls/live/219286/98870/1.m3u8
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://9898.akamai.live.selevision.com/live/9898/98988/master.m3u8
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",OSN Yahala Aloula
@@ -290,13 +288,9 @@ http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
-http://212.47.233.115:7979/telecom/tvs/mbcpro1/chunks.m3u8?nimblesessionid=16419141&wmsAuthSign=c2VydmVyX3RpbWU9My8yLzIwMTcgMzo1MTowMyBBTSZoYXNoX3ZhbHVlPU92WGx0Y0drSk95NVcvOEdtM0ZPMlE9PSZ2YWxpZG1pbnV0ZXM9MQ==
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 L2
-http://edge1.movcast.tv:1935/live3/mbc-pro1_source/chunklist_w209799898.m3u8
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer01/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 L2
-http://edge1.movcast.tv:1935/live3/mbc-pro2_source/chunklist_w1271109606.m3u8
 
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
 http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
