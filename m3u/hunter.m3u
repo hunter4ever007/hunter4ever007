@@ -107,13 +107,22 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
+http://149.202.207.8:8080/kuLlieenuBEerr0Neelfseea/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
 http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-1/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 2
 http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-2/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
-
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt1/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport2
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt2/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport3
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt3/index.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sport4
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
