@@ -47,8 +47,6 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 ***********
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam Filmon
-http://edge-1180-ch-gv.filmon.com/live/2618.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c392d25fd9be0ee1df55e34440923596aa6a82295108c91e100b986022ad7624ba5b20f99e1145ec9a80ec1de2caae20d1d6a3088de013e0998d4c2403bec9db66420978d7ceb8a3b7a942815fc8d2043ae3a51356f0debe5f4253aaacbae9dbd9244e1d5584d791e8693c39d1b81366d0
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema Filmon
