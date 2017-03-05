@@ -47,20 +47,22 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 ***********
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam Filmon
+http://edge-1180-ch-gv.filmon.com/live/2618.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c392d25fd9be0ee1df55e34440923596aa6a82295108c91e100b986022ad7624ba5b20f99e1145ec9a80ec1de2caae20d1d6a3088de013e0998d4c2403bec9db66420978d7ceb8a3b7a942815fc8d2043ae3a51356f0debe5f4253aaacbae9dbd9244e1d5584d791e8693c39d1b81366d0
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
-#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia  
-http://yooanime.com/stream/RotanaKhalijiah_HD.m3u8?user=sglsmrruipqxm244ryelml0hvr55&session=0c1c780dea788ece5c99181d45ae0b77cfa9130394d5f6671bb6d9fa1fc33167b84ced0a7a34e73b3a1773cc1eff9a2b29a92768908f00f02c427646366ff5d6
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music  
-http://yooanime.com/stream/RotanaMusic_HD.m3u8?user=sglsybbj0gq0acg4cm55xzplwyui&session=cb9a50be1a583dd03ff92baaad9a96a6f5dde2aaecd57813646bc7f428ea841d77e38ab5e5c019022a0e8397459dfb4d1fe9a1d0a3ba8f23ec1d9ab5d765b67a
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip  
-http://yooanime.com/stream/RotanaClip_HD.m3u8?user=sgls4scnck55q2yhqrephlalma55&session=e798ac2473ebe86b05de3bc032a7b83202537d43dd03b798c29f640453272fe631299d73c4a0a17ae902d0ca9409e72a419a0c2b6befa74e5ce2d52ab17b1f23
-#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic  
-http://yooanime.com/stream/RotanaZaman_HD.m3u8?user=sglstfaelq550ksmda553pexe445&session=72408534cebf4bd4a3c9bc04698b770a72ed712d5b85ebd8646bc7f428ea841d3fa67dd73b28da84218f7b2540954a40d03af03832de1992851632e672f9cba1
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya  
-http://yooanime.com/stream/RotanaMasriya_HD.m3u8?user=sglsmotflwrdmotv2g5503m22s45&session=9c5cffa8270090793ff92baaad9a96a6660e5dc681b09222c4304c435cbf1729469c04518b9041edd2f3e6f6ea0d090a7e47e8536f90d66689f5b49da9b43d2a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", Zee Aflam
-http://yooanime.com/stream/ZeeAflam_HD.m3u8?user=sglscsc1bd55xvzqi545yoei12qn&session=73889a24feb046587fba64a9f3eb6dbfc3d4daa380f21436af5705b7f2d581fefb5e65b529e2fd1d2a4bc125af9b6d8a7ce92d610de14fb9de2a9a15d4e21705
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema Filmon
+http://edge-1180-ch-gv.filmon.com/live/2618.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c3ccc08754038b612fb47eaf7d2f94b5652eab190d2daa07104d4884e3bbede47f85f081e7b9edc06713afcc0a8bf61f4ab02737729ca83cbc1d9219bd98a6c8aad1d58df5711de7f80ef425f8df88fd3b03ffc0345190bc4fb5c9ce4f93ed61dd42b4d8d61f0eb7449437418207bb4469
+#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia  Filmon
+http://edge-1180-ch-gv.filmon.com/live/2606.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3efd45f88804183e4b4b5740281b407c3e6a235889140a5a82071e942c193734144a503da3ce8f1dab573b223d442742a0723203168ee34ef1ef50dab0c6f2bc18454cd12c702f0923d9fbece6379b40f8e8883545b1586ab2c84cff3a255cc2c8f86bc28ed75c940f1424eb1bf09dd3bf9ad8de33f91049a
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music  Filmon
+http://edge-1180-ch-gv.filmon.com/live/2600.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c3b1817cb81072efae39d012e46e7710a179799405ecdea035daeeeb18529441e676f4b6ad900fbb557167c6f0ccd3251e1ae9ad85df1c8d04600175f03e28efca43c835812ad619e7377511fc2267413495376e82e8585f343a31ce8fed107c6f9e8eec10c911fe2d51c1d99c376836ce
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip  Filmon
+http://edge-1180-ch-gv.filmon.com/live/2603.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c3b1817cb81072efae39d012e46e7710a179799405ecdea035daeeeb18529441e676f4b6ad900fbb557167c6f0ccd3251e1ae9ad85df1c8d0422d59d38c8133a395a7bf014f311168729ebdb6a755bd1e74fc2da34f8c89c592121456c0363458307a17861a20abb15c3f323389ac1bae0
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic  Filmon
+http://edge-1180-ch-gv.filmon.com/live/2609.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c3ee45bdf698b4c997a41c93b97c2cf63cb533c7e1b08865b813fa64017eadf76c3637d9d54fa567eb87aa4266e58a29da5d3e2eb6aed320ff18cea7cb7253d925b3d9855953e289df876bb304d3f79f3c6c36c8bd0ea4ada1abe51527ed639cd56967f94324a418d9045d5dcf59ed0528
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya  Filmon
+http://edge-1180-ch-gv.filmon.com/live/2612.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fe8fd80572e059c3ee45bdf698b4c997a41c93b97c2cf63cb533c7e1b08865b813fa64017eadf76c3637d9d54fa567eb87aa4266e58a29da5d3e2eb6aed320ff0a509485cf8e22330f0e372ecea3489373711c06c21b8e8f8a5e5895f5af58231d785c3486a61fee0e2dfe390233b24c1285ea65a7e3d186
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130831114830_channelsbig.png", ZEE ALWAN
 http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam HQ
