@@ -49,20 +49,6 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema Filmon
-https://edge-1180-ch-gv.filmon.com/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3df3fc75ebd14a505a57b4f2522a457abc7a9017a9bfad7b67dc345fdb0efc9456c3e7b4ea8d5b0c573870b495597b73059a8694e71b7a84180843bbdeec5a4434211f9ab58b4dd7e4b78fea9521ea78e4dd5819065068efd12ba116cc5284e077494fe3076099ae1976e7fdd602f40fb74e114836ac5d877720bece1e34a1f7534ac917cf4a42686b918306502923b4
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema Filmon
-https://edge-1180-ch-gv.filmon.com/live/2615.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee05d1bc39d24f74b8e5d2980b81ffb7ec0f0145d6ef1905e88f172ebeebc60ced303130079b01a5dcb7972bebb952cb6517b268653ea51b6830917040b74363711016cb0f87b368ea6e15228b516b1bc7d7fa8e3fe220f54157203f11dd7c532c6237044a3378cee9633638d2ed28f5b484d9d1e37758c9345fc931b7e0278fe4e3d11ccfb49dccda28a56c8ebc511bf
-#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia  Filmon
-https://edge-1180-ch-gv.filmon.com/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec627d212cb1035e11813dfa8e0f0616f0ff213758521bd107878adfa73253e0fcb16b66434471515c0df8925441c6039a06f9294812fefed6f28158201c3791856b8bd8c98054eed8d46ce45945d85466050564a3ab3c9238747f418ae24ab05c37682b9fcbb3e1320d43d228e194c307e9b70d2df1882a72708064a8b26b7407e06b0c9618af4fdb49b6a0244b599ee
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music  Filmon
-https://edge-1180-ch-gv.filmon.com/live/2600.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb00c393cb590d28d92568e20ba8404ccaccdace76a28e8c764ee4fe8420eb688d9dfea32f07c56fb7452a18c1e38300f82d54e6e9acce794a25867ed3de6ef86d908dfe8a810a31e46af374b8914de1ff8cbb675206c861042f35c4425c4eb58529d01c7ad01a264a577183cf1bf2e26190068700f8b0c9a853f99765069c6ad737270d301d327d32adb7b4454fd1b32
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip  Filmon
-https://edge-1180-ch-gv.filmon.com/live/2603.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7b01bdf051edac93c075cb06cd957266c96f3928d47a77329ad247ac96b1684f3ef03688c83b498398174b4159a961d31cef13ed3d75d2a1980986318ffda393760fbeb18413a3975b94017109c5f4808996e7e4a7a6326f6d851c5e42af98f86467c8c8dcd947300b664d360c470071a893afcd894152b3d9223d0ac023b2d1849aa8af09cf86934005f3252f3981ed
-#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic  Filmon
-https://edge-1180-ch-gv.filmon.com/live/2609.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe247b99f2592e3dbda37389cb796d00ca53b382df6b373376eca91a05fe1d849817710efffc7991d339d83164be7e433fb54e3f07d93592b5f1fe9831a8331113e8bc3ba485383879188983ad302be5b8e17f9e2bad6d879677ede7bd59b07f81a777010e28ed8f167cb35b082c666bb601a204aea0bc4e33f433947e3284d7db731913269ed28fc7da6dbea8fd8c845e
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya  Filmon
-https://edge-1180-ch-gv.filmon.com/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe800e0f057c67b5152ced3ba8520cd214f11d9448edaeaa2bdef05941c3b6b357a763a13dce661c0f37e9c76f6e459ba13e53b473544c2fdd7073263ce46d2126547f9f2ab3587457fd75a0c3f7d5d4372856b367f18995a7be27a1f31d2b9d5d8db9eee8e35fd316a7c5d6df6c11d5a51583b33892d74c3f43f6bb642b797d7fa3eee1e966be3d41599a265ffbe22b6b
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130831114830_channelsbig.png", ZEE ALWAN
 http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam HQ
@@ -77,16 +63,12 @@ http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_b2400000.m3u8
 http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam
 http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr HD
-http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr
-rtmp://vstream2.hadara.ps:1990/AlfajertvHD1_web//web
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 1
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web//web
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 2
-rtmp://vstream2.hadara.ps:1990/AlfajertvHD2_web//web
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web//web
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 3
-rtmp://vstream2.hadara.ps:1990/AlfajertvHD1_web//web1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 4
-rtmp://vstream2.hadara.ps:1990/AlfajertvHD2_web//web1
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web//web1
 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
@@ -130,6 +112,40 @@ http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-2/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
 
+
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
+***********
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer01/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
+http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 2
+http://149.202.208.85:8080/mystreambhenssp-2/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 3
+http://149.202.208.85:8080/mystreambhenssp-3/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 4
+http://149.202.208.85:8080/mystreambhenssp-4/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 5
+http://149.202.208.85:8080/mystreambhenssp-5/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 6
+http://149.202.208.85:8080/mystreambhenssp-6/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 7
+http://149.202.208.85:8080/mystreambhenssp-7/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 8
+http://149.202.208.85:8080/mystreambhenssp-8/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 9
+http://149.202.208.85:8080/mystreambhenssp-9/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 10
+http://149.202.208.85:8080/mystreambhenssp-10/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 11
+http://149.202.208.85:8080/mystreambhenssp-11/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 12
+http://149.202.208.85:8080/mystreambhenssp-12/Strm/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
@@ -146,8 +162,6 @@ rtmp://82.212.74.101/live//8049
 http://199.167.151.237:1935/live//dub_1_ch1335/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabic
 http://selevision9882-i.akamaihd.net/hls/live/219197/98824/1.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-RMr_Zj1DXRQ/Vnc0Isp9W9I/AAAAAAAAAHk/52T1STtvqO8/s1600/Untitled-1%2Bcopy.png",Mickey
-http://109.69.217.2:4276/bysid/413
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
 
@@ -155,7 +169,7 @@ http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_254s12.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_255s30.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai
 http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai L2
@@ -300,38 +314,6 @@ http://9897.akamai.live.selevision.com/live/9897/98970/master.m3u8
 http://9893.akamai.live.selevision.com/live/9893/98932/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer01/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
-http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 2
-http://149.202.208.85:8080/mystreambhenssp-2/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 3
-http://149.202.208.85:8080/mystreambhenssp-3/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 4
-http://149.202.208.85:8080/mystreambhenssp-4/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 5
-http://149.202.208.85:8080/mystreambhenssp-5/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 6
-http://149.202.208.85:8080/mystreambhenssp-6/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 7
-http://149.202.208.85:8080/mystreambhenssp-7/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 8
-http://149.202.208.85:8080/mystreambhenssp-8/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 9
-http://149.202.208.85:8080/mystreambhenssp-9/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 10
-http://149.202.208.85:8080/mystreambhenssp-10/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 11
-http://149.202.208.85:8080/mystreambhenssp-11/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 12
-http://149.202.208.85:8080/mystreambhenssp-12/Strm/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://lh6.ggpht.com/z1he9qtBTJ9fTQWMJZ5xR754mQvVCDK94Y7ac6pFxvMwwA6rJRHzEj4TTg2jI1dxBsHj=w300",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
 ***********
@@ -393,3 +375,177 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 #EXTINF:-1,TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
+
+#EXTINF:-1,AMC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/3.mpegts
+#EXTINF:-1,ABC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/4.mpegts
+#EXTINF:-1,E!
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/5.mpegts
+#EXTINF:-1,FOX
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/6.mpegts
+#EXTINF:-1,SYFY
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/7.mpegts
+#EXTINF:-1,SPIKE
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/8.mpegts
+#EXTINF:-1,TBS
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/9.mpegts
+#EXTINF:-1,TNT
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/10.mpegts
+#EXTINF:-1,LMN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/12.mpegts
+#EXTINF:-1,HallMark Channel
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/13.mpegts
+#EXTINF:-1,TruTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/14.mpegts
+#EXTINF:-1,OWN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/15.mpegts
+#EXTINF:-1,BBC AMERICA
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/16.mpegts
+#EXTINF:-1,CITY TV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/17.mpegts
+#EXTINF:-1,CTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/18.mpegts
+#EXTINF:-1,Comedy Central
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/19.mpegts
+#EXTINF:-1,Lifetime
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/20.mpegts
+#EXTINF:-1,CBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/21.mpegts
+#EXTINF:-1,HBO
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/22.mpegts
+#EXTINF:-1,HBO 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/23.mpegts
+#EXTINF:-1,HBO COMEDY
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/24.mpegts
+#EXTINF:-1,HBO ZONE
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/25.mpegts
+#EXTINF:-1,HBO SIGNATURE
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/26.mpegts
+#EXTINF:-1,HBO FAMILY
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/27.mpegts
+#EXTINF:-1,SHOWTIME
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/28.mpegts
+#EXTINF:-1,SHOWTIME 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/29.mpegts
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/30.mpegts
+#EXTINF:-1,Starz East
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/31.mpegts
+#EXTINF:-1,Starz West
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/32.mpegts
+#EXTINF:-1,Startz Edge
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/33.mpegts
+#EXTINF:-1,Starz Cinema
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/34.mpegts
+#EXTINF:-1,Starz Encore
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/35.mpegts
+#EXTINF:-1,Starz Comedy
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/36.mpegts
+#EXTINF:-1,Starz N Black
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/37.mpegts
+#EXTINF:-1,Starz Encode Western
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/38.mpegts
+#EXTINF:-1,Cinemax East
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/39.mpegts
+#EXTINF:-1,Cinemax 5 StarMax
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/40.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/41.mpegts
+#EXTINF:-1,Cinemax Moremax
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/42.mpegts
+#EXTINF:-1,Space
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/43.mpegts
+#EXTINF:-1,The Movie Channel
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/44.mpegts
+#EXTINF:-1,ESPN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/45.mpegts
+#EXTINF:-1,ESPN 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/46.mpegts
+#EXTINF:-1,ESPN NU
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/47.mpegts
+#EXTINF:-1,NBC SN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts
+#EXTINF:-1,CBS SN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/49.mpegts
+#EXTINF:-1,Fox Sports 1
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts
+#EXTINF:-1,Fox Sports 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/51.mpegts
+#EXTINF:-1,NBA TV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/52.mpegts
+#EXTINF:-1,MLB Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/53.mpegts
+#EXTINF:-1,NFL Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/54.mpegts
+#EXTINF:-1,NFL Now
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/55.mpegts
+#EXTINF:-1,NHL
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/56.mpegts
+#EXTINF:-1,WWE Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/57.mpegts
+#EXTINF:-1,TSN1
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/58.mpegts
+#EXTINF:-1,TSN 2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/59.mpegts
+#EXTINF:-1,TSN 3
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/60.mpegts
+#EXTINF:-1,TSN4
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/61.mpegts
+#EXTINF:-1,TSN5
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/62.mpegts
+#EXTINF:-1,SPORTSNET ONE
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/63.mpegts
+#EXTINF:-1,SPORTSNET ONTARIO
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/64.mpegts
+#EXTINF:-1,SPORTS WORLD
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/65.mpegts
+#EXTINF:-1,SPORTSNET 360
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/66.mpegts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/67.mpegts
+#EXTINF:-1,CNN
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/68.mpegts
+#EXTINF:-1,CBC News
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/69.mpegts
+#EXTINF:-1,CNBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/70.mpegts
+#EXTINF:-1,MSNBC
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/71.mpegts
+#EXTINF:-1,FOX NEWS
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/72.mpegts
+#EXTINF:-1,ABC NEWS
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/73.mpegts
+#EXTINF:-1,Fox Business
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/74.mpegts
+#EXTINF:-1,History
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/75.mpegts
+#EXTINF:-1,H2
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/76.mpegts
+#EXTINF:-1,National Geographic
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/77.mpegts
+#EXTINF:-1,Nat Geo Wild
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/78.mpegts
+#EXTINF:-1,Animal Planet
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/79.mpegts
+#EXTINF:-1,Investigation Discovery
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/80.mpegts
+#EXTINF:-1,Velocity
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/81.mpegts
+#EXTINF:-1,Love Nature
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/82.mpegts
+#EXTINF:-1,Food Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/83.mpegts
+#EXTINF:-1,HGTV
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/84.mpegts
+#EXTINF:-1,DYI Network
+http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/85.mpegts
+
+#EXTINF:-1 ,ANIMAL CHANNEL
+http://fluvod1.giniko.com/all-animal/all-animal/tracks-1,6/index.m3u8
+#EXTINF:-1 ,4 Music
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:-1,AMC
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+#EXTINF:-1,CARTOON NETWORK
+http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
