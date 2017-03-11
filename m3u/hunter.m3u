@@ -5,16 +5,28 @@
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2 HD
 http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
+http://selevision9880-i.akamaihd.net/hls/live/219174/98801/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png", MBC 3 HD
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg", MBC 3 SD
+http://selevision9880-i.akamaihd.net/hls/live/219175/98802/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.gobx.com/wp-content/uploads/2016/10/MBC-4.png", MBC 4 HD
 http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png", MBC DRAMA+ HD
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG", MBC MAX HD
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX SD
+http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_action_hd.png", MBC ACTION HD
 http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
+#EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION SD
+http://selevision9880-i.akamaihd.net/hls/live/219177/98804/1.m3u8
 #EXTINF:-1 tvg-logo="http://masr140.com/wp-content/uploads/2016/12/mbc_variety.png", MBC Verity
 http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.omarsamra.com/wp-content/uploads/2014/12/mbc-masr.png", MBC MASR SD
