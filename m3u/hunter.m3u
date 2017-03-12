@@ -264,8 +264,6 @@ http://selevision9883-i.akamaihd.net/hls/live/219253/98837/1.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC L2
 http://130.185.144.63:8081/jppw/CBC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1263_1.png", CBC Extra
-http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png",Kifa
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
@@ -316,6 +314,8 @@ http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.cifra1.ru/files/pages/0000/0377/files/Russia-Today.png",Russia Today HD
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1263_1.png", CBC ExtraNews
+http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
@@ -364,6 +364,12 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/str
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/4music_(logo).svg/995px-4music_(logo).svg.png", 4 Music
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/c/c6/Amc.png.300x300_q85.png/revision/latest?cb=20141223232758", AMC
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/cartoonnetwork/images/e/ec/CN_Logo_(Detailed_Gray_Shadow).png/revision/20111112154653", CARTOON NETWORK
+http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
 #EXTINF:-1 tvg-logo="http://kbbpf.lescigales.org/Logos/GONG-TV.SD.png", GONG
 http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/nicktoons-logo.png", Nicktoons
@@ -427,10 +433,4 @@ http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
 #EXTINF:-1,TSN SPORT 5
 http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
 
-#EXTINF:-1 ,4 Music
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
-#EXTINF:-1,AMC
-http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
-#EXTINF:-1,CARTOON NETWORK
-http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
 
