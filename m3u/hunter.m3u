@@ -77,14 +77,34 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
+http://130.185.144.63:8081/jppw/artaflam1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
+http://130.185.144.63:8081/jppw/artaflam2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/07/art_cinema.png", art Cinema
+http://130.185.144.63:8081/jppw/artcenima/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/ART_HEKAYAT.png/revision/latest?cb=20150308150842", art Hekayat 1
+http://130.185.144.63:8081/jppw/arthekayat/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png/revision/latest?cb=20150308150904", art Hekayat 2
+http://130.185.144.63:8081/jppw/arthekayat2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
+#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema L2
+http://130.185.144.63:8081/jppw/RotanaCinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
 http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
 http://130.185.144.63:8081/jppw/RotanaClip/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
+http://130.185.144.63:8081/jppw/RotanaMasriya/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia
+http://130.185.144.63:8081/jppw/RotanaKhaligi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
+http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-iSvEN0c91Lo/AAAAAAAAAAI/AAAAAAAACZg/eXU5adESngU/w800-h800/photo.jpg", Rotana Music
+http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130831114830_channelsbig.png", ZEE ALWAN
@@ -163,10 +183,10 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 http://149.202.207.8:8080/kuLlieenuBEerr0Neemyou0T/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
 http://149.202.207.8:8080/kuLlieenuBEerr0Neelfseea/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1
-http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-1/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 2
-http://149.202.207.8:8080/kuLlieenuBEerr0NeEYuR00sp-2/Strm/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Eng
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
 http://85.132.59.163:8080/play/a00y
 
@@ -390,3 +410,19 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
+#EXTINF:-1,Arena Sports 1
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
+#EXTINF:-1,Arena Sports 2
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-2/Strm/index.m3u8
+#EXTINF:-1,Arena Sports 3
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-3/Strm/index.m3u8
+#EXTINF:-1,Arena Sports 4
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-4/Strm/index.m3u8
+#EXTINF:-1,Arena Sports 5
+http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
+#EXTINF:-1,BT Sport 1
+http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-1/Strm/index.m3u8
+#EXTINF:-1,BT Sport 2
+http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/index.m3u8
+#EXTINF:-1,BT Sport 3
+http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-3/Strm/index.m3u8
