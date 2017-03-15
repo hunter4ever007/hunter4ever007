@@ -227,7 +227,7 @@ http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_255s30.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_256s30.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai
 http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai L2
@@ -390,51 +390,3 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sports 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt1/index.m3u8
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sports 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt2/index.m3u8
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sports 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt3/index.m3u8
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/f0L20970.png",OSN Sports 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/oyesnsprt4/index.m3u8
-#EXTINF:-1, ASTRO SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-1/index.m3u8
-#EXTINF:-1, ASTRO SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-2/index.m3u8
-#EXTINF:-1, ASTRO SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-3/index.m3u8
-#EXTINF:-1, ASTRO SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/aesrtreo-4/index.m3u8
-#EXTINF:-1, FOX SPORT US 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp1/index.m3u8
-#EXTINF:-1, FOX SPORT US 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/f00cssp2/index.m3u8
-#EXTINF:-1, Bt Sport 1
-http://163.172.215.159:3135/BT/1/index.m3u8?
-#EXTINF:-1, Bt Sport 2
-http://163.172.218.181:3135/BT2/Sports/index.m3u8?
-#EXTINF:-1, WWE
-http://149.202.207.8:8080/kuLlieenuBEerr0Nedublewoo3/Strm/index.m3u8
-#EXTINF:-1, Arena Sport 1
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-1/Strm/index.m3u8
-#EXTINF:-1, Arena Sport 2
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-2/Strm/index.m3u8
-#EXTINF:-1, Arena Sport 3
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-3/Strm/index.m3u8
-#EXTINF:-1, Arena Sport 4
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-4/Strm/index.m3u8
-#EXTINF:-1, Arena Sport 5
-http://149.202.207.8:8080/kuLlieenuBEerr0NeAier33Naa-5/Strm/index.m3u8
-#EXTINF:-1,TSN SPORT 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna1/index.m3u8
-#EXTINF:-1,TSN SPORT 2
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna2/index.m3u8
-#EXTINF:-1,TSN SPORT 3
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna3/index.m3u8
-#EXTINF:-1,TSN SPORT 4
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna4/index.m3u8
-#EXTINF:-1,TSN SPORT 5
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/Tseennna5/index.m3u8
-
-
