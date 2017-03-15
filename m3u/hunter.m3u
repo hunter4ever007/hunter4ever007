@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/478883347179900928/-X6t3-jT.png",[COLOR yellow]            MBC MyHD [/COLOR]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/478883347179900928/-X6t3-jT.png",[COLOR yellow]           MYHD CHANNELS [/COLOR]
+***********
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2 HD
