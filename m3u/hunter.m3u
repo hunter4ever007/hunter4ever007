@@ -261,7 +261,7 @@ http://199.167.151.237:1935/live/dub_1_ch1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
-http://1487137737@199.167.151.237:1935/live/dub_1_ch1146/gmswf.m3u8?
+http://38.99.146.94:7777/AlResala_LR/AlResala_LR.m3u8?user=tyty&session=7c19215a40ba5d1679279306f2f980bf209aa7bf2a08289281a050efc70c6465a299017ce29bf1aa&hlsid=HTTP_ID_924702&group_id=-1&starttime=20170119T163053.248640
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
 http://199.167.151.237:1935/live/dub_1_ch1126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dini.tv/wp-content/uploads/2016/12/Peace-TV-USA.png",Peace USA
