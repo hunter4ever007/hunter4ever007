@@ -428,3 +428,5 @@ http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-1/Strm/index.m3u8
 http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-3/Strm/index.m3u8
+#EXTINF:-1,AMC HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.rtmp
