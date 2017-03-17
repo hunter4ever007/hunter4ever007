@@ -218,6 +218,12 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-On2XcooiA1U/VWyozxbZk-I/AAAAAAAADJk/la_cVCg5yg8/s1600/murr_tv_al_lubnaniya.png",MTV Lebanon
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/futuretv38.png",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/24112016-112533PM.jpg",Aljadeed
+https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/chunklist_b825000.m3u8?nimblesessionid=272693&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDE3IDEwOjMyOjM2IFBNJmhhc2hfdmFsdWU9MDlRM2xrclpKS0YzZWdkMVhidVhrZz09JnZhbGlkbWludXRlcz0xMCZpZD0yMDk=
+#EXTINF:-1 tvg-logo="http://i82.servimg.com/u/f82/17/28/12/40/uuoo_o10.png",AlKahera Wal Nas
+http://38.99.146.69:7777/AlKaheraWalNas_Med/AlKaheraWalNas_Med.m3u8?user=tyty&session=fff2deac218525c7976d90fd706be5bbc8ff0581387eab44dd98d42bf958de3da299017ce29bf1aa&hlsid=HTTP_ID_1154039&group_id=-1&starttime=20170119T161655.608046
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/andromo/dev244056/app232981/170/yemen-tv.png",Yemen TV
