@@ -410,6 +410,65 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
+#EXTINF:-1,Action Max 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/353.rtmp
+#EXTINF:-1,AMC HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.rtmp
+#EXTINF:-1,Animal Planet HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/262.rtmp
+#EXTINF:-1,Cartoon Network 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/258.rtmp
+#EXTINF:-1,Cinemax
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/350.rtmp
+#EXTINF:-1,Cinemax Thrillermax
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/313.rtmp
+#EXTINF:-1,Comedy Central
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/257.rtmp
+#EXTINF:-1,Discovery Channel
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/255.rtmp
+#EXTINF:-1,Discovery Science 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/206.rtmp
+#EXTINF:-1,Disney Channel
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/347.rtmp
+#EXTINF:-1,FOX HD
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/318.rtmp
+#EXTINF:-1,FX
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/324.rtmp
+#EXTINF:-1,FXX
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/323.rtmp
+#EXTINF:-1,History 2
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/309.rtmp
+#EXTINF:-1,History 1
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/251.rtmp
+#EXTINF:-1,Hunting and Fishing 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/305.rtmp
+#EXTINF:-1,Nat Geo Wild
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/157.rtmp
+#EXTINF:-1,Nat Geo Channel
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/247.rtmp
+#EXTINF:-1,NickJr
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/333.rtmp
+#EXTINF:-1,Nick
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/334.rtmp
+#EXTINF:-1,Nickolodeon
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/265.rtmp
+#EXTINF:-1,Showtime
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/332.rtmp
+#EXTINF:-1,Showtime 2
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/331.rtmp
+#EXTINF:-1,Starz Cinema
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/328.rtmp
+#EXTINF:-1,Starz East 
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/329.rtmp
+#EXTINF:-1,Syfy
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/245.rtmp
+#EXTINF:-1,The Movie Network
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/121.rtmp
+#EXTINF:-1,Fox Sport 1
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/188.rtmp
+#EXTINF:-1,Fox Sport 2
+http://dns.theplayersklub.us:2095/live/playersklub/playersklub/187.rtmp
+
 #EXTINF:-1,WWE
 http://149.202.207.8:8080/je3nNaM00tAadublewoo3/Strm/index.m3u8
 #EXTINF:-1,Arena Sports 1
@@ -428,5 +487,3 @@ http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-1/Strm/index.m3u8
 http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-3/Strm/index.m3u8
-#EXTINF:-1,AMC HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.rtmp
