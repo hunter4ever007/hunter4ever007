@@ -162,9 +162,11 @@ http://85.132.59.163:8080/play/a00y
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer01/index.m3u8
+http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
-http://149.202.207.8:8080/kuLlieenuBEerr0Ne/embeeCPer02/index.m3u8
+http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3
+http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
 http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
@@ -222,10 +224,6 @@ http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/futuretv38.png",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/24112016-112533PM.jpg",Aljadeed
-https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/chunklist_b825000.m3u8?nimblesessionid=274136&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE3IDM6NDY6NTEgQU0maGFzaF92YWx1ZT1IMFVvRHhmbWV2Q0llVVFwencrN2lRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTIwNw==
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/24112016-112533PM.jpg",Aljadeed L2
-https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDE3IDM6NDY6NTEgQU0maGFzaF92YWx1ZT1IMFVvRHhmbWV2Q0llVVFwencrN2lRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTIwNw==
 #EXTINF:-1 tvg-logo="http://i82.servimg.com/u/f82/17/28/12/40/uuoo_o10.png",AlKahera Wal Nas
 http://38.99.146.69:7777/AlKaheraWalNas_Med/AlKaheraWalNas_Med.m3u8?user=tyty&session=fff2deac218525c7976d90fd706be5bbc8ff0581387eab44dd98d42bf958de3da299017ce29bf1aa&hlsid=HTTP_ID_1154039&group_id=-1&starttime=20170119T161655.608046
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106",LBC
