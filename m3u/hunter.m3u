@@ -50,7 +50,7 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
-http://stream-04.vty.dailymotion.com/15/dm/1/x5f27y0/live.isml/events(live-1489760159)/live-audio=128000-video=2100000.m3u8
+http://stream-03.vty.dailymotion.com/50/dm/1/x5fxma9/live.isml/events(live-1490304956)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
 http://130.185.144.63:8081/jppw/artaflam1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
@@ -81,14 +81,8 @@ http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
 http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam HQ
-http://38.96.148.163/MelodyAflam/smil:aflam.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam LQ
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-P5vtfgDOxV8/AAAAAAAAAAI/AAAAAAAAABw/kC9V4CyT_Hk/photo.jpg", Melody Drama
-http://38.96.148.163/MelodyDrama/smil:drama.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="http://godish.com/wp-content/uploads/channel-logos/mldyc.png", Melody Classic
-http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam
@@ -208,7 +202,8 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/str
 rtmp://82.212.74.101/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",baby
+http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
 ***********
@@ -368,64 +363,6 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,Action Max 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/353.rtmp
-#EXTINF:-1,AMC HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/314.rtmp
-#EXTINF:-1,Animal Planet HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/262.rtmp
-#EXTINF:-1,Cartoon Network 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/258.rtmp
-#EXTINF:-1,Cinemax
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/350.rtmp
-#EXTINF:-1,Cinemax Thrillermax
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/313.rtmp
-#EXTINF:-1,Comedy Central
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/257.rtmp
-#EXTINF:-1,Discovery Channel
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/255.rtmp
-#EXTINF:-1,Discovery Science 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/206.rtmp
-#EXTINF:-1,Disney Channel
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/347.rtmp
-#EXTINF:-1,FOX HD
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/318.rtmp
-#EXTINF:-1,FX
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/324.rtmp
-#EXTINF:-1,FXX
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/323.rtmp
-#EXTINF:-1,History 2
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/309.rtmp
-#EXTINF:-1,History 1
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/251.rtmp
-#EXTINF:-1,Hunting and Fishing 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/305.rtmp
-#EXTINF:-1,Nat Geo Wild
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/157.rtmp
-#EXTINF:-1,Nat Geo Channel
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/247.rtmp
-#EXTINF:-1,NickJr
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/333.rtmp
-#EXTINF:-1,Nick
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/334.rtmp
-#EXTINF:-1,Nickolodeon
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/265.rtmp
-#EXTINF:-1,Showtime
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/332.rtmp
-#EXTINF:-1,Showtime 2
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/331.rtmp
-#EXTINF:-1,Starz Cinema
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/328.rtmp
-#EXTINF:-1,Starz East 
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/329.rtmp
-#EXTINF:-1,Syfy
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/245.rtmp
-#EXTINF:-1,The Movie Network
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/121.rtmp
-#EXTINF:-1,Fox Sport 1
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/188.rtmp
-#EXTINF:-1,Fox Sport 2
-http://dns.theplayersklub.us:2095/live/playersklub/playersklub/187.rtmp
 
 #EXTINF:-1,WWE
 http://149.202.207.8:8080/je3nNaM00tAadublewoo3/Strm/index.m3u8
@@ -445,6 +382,3 @@ http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-1/Strm/index.m3u8
 http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-3/Strm/index.m3u8
-
-#EXTINF:-1,baby
-http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
