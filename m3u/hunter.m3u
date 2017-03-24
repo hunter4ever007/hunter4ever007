@@ -171,29 +171,48 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
-http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/815.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 2
-http://149.202.208.85:8080/mystreambhenssp-2/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/818.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 3
-http://149.202.208.85:8080/mystreambhenssp-3/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/819.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 4
-http://149.202.208.85:8080/mystreambhenssp-4/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/820.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 5
-http://149.202.208.85:8080/mystreambhenssp-5/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/821.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 6
-http://149.202.208.85:8080/mystreambhenssp-6/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/822.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 7
-http://149.202.208.85:8080/mystreambhenssp-7/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/823.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 8
-http://149.202.208.85:8080/mystreambhenssp-8/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/824.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 9
-http://149.202.208.85:8080/mystreambhenssp-9/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/825.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 10
-http://149.202.208.85:8080/mystreambhenssp-10/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 11
-http://149.202.208.85:8080/mystreambhenssp-11/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 12
-http://149.202.208.85:8080/mystreambhenssp-12/Strm/index.m3u8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/826.ts
+
+#EXTINF:-1, BACKUPS
+***********
+#EXTINF:-1 BEIN 1
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1094.ts
+#EXTINF:-1 BEIN 2
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1095.ts
+#EXTINF:-1 BEIN 3
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1096.ts
+#EXTINF:-1 BEIN 4
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1363.ts
+#EXTINF:-1 BEIN 5
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1364.ts
+#EXTINF:-1 BEIN 6
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1365.ts
+#EXTINF:-1 BEIN 7
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1366.ts
+#EXTINF:-1 BEIN 8
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1367.ts
+#EXTINF:-1 BEIN 9
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1368.ts
+#EXTINF:-1 BEIN 10
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1369.ts
 
 
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
@@ -383,8 +402,14 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
+#EXTINF:-1,WWE NETWORK
+http://dns.theplayersklub.us:2095/live/husham/husham/303.ts
 #EXTINF:-1,ACTION MAX
 http://dns.theplayersklub.us:2095/live/husham/husham/353.ts
+#EXTINF:-1,CINEMAX
+http://dns.theplayersklub.us:2095/live/husham/husham/350.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://dns.theplayersklub.us:2095/live/husham/husham/255.ts
 #EXTINF:-1,DISCOVERY SCIENCE
 http://dns.theplayersklub.us:2095/live/husham/husham/206.ts
 #EXTINF:-1,HBO2
@@ -407,10 +432,16 @@ http://dns.theplayersklub.us:2095/live/husham/husham/247.ts
 http://dns.theplayersklub.us:2095/live/husham/husham/157.ts
 #EXTINF:-1,HISTORY 
 http://dns.theplayersklub.us:2095/live/husham/husham/251.ts
+#EXTINF:-1,DISNEY CAHNNEL
+http://dns.theplayersklub.us:2095/live/husham/husham/347.ts
+#EXTINF:-1,DISNEY JR 
+http://dns.theplayersklub.us:2095/live/husham/husham/469.ts
 #EXTINF:-1,NICK
 http://dns.theplayersklub.us:2095/live/husham/husham/334.ts
 #EXTINF:-1,Cartoon Network HD
 http://dns.theplayersklub.us:2095/live/husham/husham/258.ts
+#EXTINF:-1,ANIME TV
+http://dns.theplayersklub.us:2095/live/husham/husham/483.ts
 #EXTINF:-1,SYFY
 http://dns.theplayersklub.us:2095/live/husham/husham/245.ts
 #EXTINF:-1,HGTV
