@@ -383,22 +383,77 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
-
-#EXTINF:-1,WWE
-http://149.202.207.8:8080/je3nNaM00tAadublewoo3/Strm/index.m3u8
-#EXTINF:-1,Arena Sports 1
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-1/Strm/index.m3u8
-#EXTINF:-1,Arena Sports 2
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-2/Strm/index.m3u8
-#EXTINF:-1,Arena Sports 3
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-3/Strm/index.m3u8
-#EXTINF:-1,Arena Sports 4
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-4/Strm/index.m3u8
-#EXTINF:-1,Arena Sports 5
-http://149.202.207.8:8080/je3nNaM00tAaAier33Naa-5/Strm/index.m3u8
-#EXTINF:-1,BT Sport 1
-http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-1/Strm/index.m3u8
-#EXTINF:-1,BT Sport 2
-http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-2/Strm/index.m3u8
-#EXTINF:-1,BT Sport 3
-http://149.202.207.8:8080/je3nNaM00tAabB3eETtiyiy-3/Strm/index.m3u8
+#EXTINF:-1,ACTION MAX
+http://dns.theplayersklub.us:2095/live/husham/husham/353.rtmp
+#EXTINF:-1,DISCOVERY SCIENCE
+http://dns.theplayersklub.us:2095/live/husham/husham/206.rtmp
+#EXTINF:-1,HBO2
+http://dns.theplayersklub.us:2095/live/husham/husham/174.rtmp
+#EXTINF:-1,HBO COMEDY
+http://dns.theplayersklub.us:2095/live/husham/husham/173.rtmp
+#EXTINF:-1,CBC Sport Network
+http://dns.theplayersklub.us:2095/live/husham/husham/220.rtmp
+#EXTINF:-1,FOX Sport 1
+http://dns.theplayersklub.us:2095/live/husham/husham/188.rtmp
+#EXTINF:-1,FOX Sport 2
+http://dns.theplayersklub.us:2095/live/husham/husham/187.rtmp
+#EXTINF:-1,ESPN
+http://dns.theplayersklub.us:2095/live/husham/husham/256.rtmp
+#EXTINF:-1,ESPN 2
+http://dns.theplayersklub.us:2095/live/husham/husham/343.rtmp
+#EXTINF:-1,NAT GEO TV
+http://dns.theplayersklub.us:2095/live/husham/husham/247.rtmp
+#EXTINF:-1,NAT GEO WILD
+http://dns.theplayersklub.us:2095/live/husham/husham/157.rtmp
+#EXTINF:-1,HISTORY 
+http://dns.theplayersklub.us:2095/live/husham/husham/251.rtmp
+#EXTINF:-1,NICK
+http://dns.theplayersklub.us:2095/live/husham/husham/334.rtmp
+#EXTINF:-1,Cartoon Network HD
+http://dns.theplayersklub.us:2095/live/husham/husham/258.rtmp
+#EXTINF:-1,SYFY
+http://dns.theplayersklub.us:2095/live/husham/husham/245.rtmp
+#EXTINF:-1,HGTV
+http://dns.theplayersklub.us:2095/live/husham/husham/302.rtmp
+#EXTINF:-1,NFL
+http://dns.theplayersklub.us:2095/live/husham/husham/308.rtmp
+#EXTINF:-1,NFL Network
+http://dns.theplayersklub.us:2095/live/husham/husham/148.rtmp
+#EXTINF:-1,TCM
+http://dns.theplayersklub.us:2095/live/husham/husham/128.rtmp
+#EXTINF:-1,Cooking Channel
+http://dns.theplayersklub.us:2095/live/husham/husham/211.rtmp
+#EXTINF:-1,Food Network
+http://dns.theplayersklub.us:2095/live/husham/husham/195.rtmp
+#EXTINF:-1,gametv
+http://dns.theplayersklub.us:2095/live/husham/husham/121.rtmp
+#EXTINF:-1,A&E 
+http://dns.theplayersklub.us:2095/live/husham/husham/267.rtmp
+#EXTINF:-1,American Heroes
+http://dns.theplayersklub.us:2095/live/husham/husham/241.rtmp
+#EXTINF:-1,C
+http://dns.theplayersklub.us:2095/live/husham/husham/257.rtmp
+#EXTINF:-1,SPIKE
+http://dns.theplayersklub.us:2095/live/husham/husham/246.rtmp
+#EXTINF:-1,USA
+http://dns.theplayersklub.us:2095/live/husham/husham/242.rtmp
+#EXTINF:-1,BET
+http://dns.theplayersklub.us:2095/live/husham/husham/299.rtmp
+#EXTINF:-1,CW
+http://dns.theplayersklub.us:2095/live/husham/husham/319.rtmp
+#EXTINF:-1,OWN
+http://dns.theplayersklub.us:2095/live/husham/husham/320.rtmp
+#EXTINF:-1,EPSU
+http://dns.theplayersklub.us:2095/live/husham/husham/322.rtmp
+#EXTINF:-1,TRU TV
+http://dns.theplayersklub.us:2095/live/husham/husham/312.rtmp
+#EXTINF:-1,E!
+http://dns.theplayersklub.us:2095/live/husham/husham/345.rtmp
+#EXTINF:-1,C-SPAN
+http://dns.theplayersklub.us:2095/live/husham/husham/388.rtmp
+#EXTINF:-1,GOLF
+http://dns.theplayersklub.us:2095/live/husham/husham/390.rtmp
+#EXTINF:-1,C-SPAN 3
+http://dns.theplayersklub.us:2095/live/husham/husham/401.rtmp
+#EXTINF:-1,ENCORE
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
