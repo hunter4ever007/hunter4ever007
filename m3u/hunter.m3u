@@ -157,8 +157,10 @@ http://149.202.207.8:8080/je3nNaM00tAaelfseea/Strm/index.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
-#EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN
-http://85.132.59.163:8080/play/a00y
+#EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN SD
+http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_mid/chunks.m3u8?
+#EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN HQ
+http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_hi/chunks.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
@@ -171,48 +173,49 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/815.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/815.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/818.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/818.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/819.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/819.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/820.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/820.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/821.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/821.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/822.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/822.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/823.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/823.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/824.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/824.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/825.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/825.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/826.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/826.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR yellow] Bein BACKUPS [/COLOR]
 ***********
 #EXTINF:-1,BEIN 1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1094.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1094.m3u8
 #EXTINF:-1,BEIN 2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1095.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1095.m3u8
 #EXTINF:-1,BEIN 3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1096.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1096.m3u8
 #EXTINF:-1,BEIN 4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1363.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1363.m3u8
 #EXTINF:-1,BEIN 5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1364.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1364.m3u8
 #EXTINF:-1,BEIN 6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1365.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1365.m3u8
 #EXTINF:-1,BEIN 7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1366.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1366.m3u8
 #EXTINF:-1,BEIN 8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1367.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1367.m3u8
 #EXTINF:-1,BEIN 9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1368.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1368.m3u8
 #EXTINF:-1,BEIN 10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1369.ts
+http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1369.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
@@ -231,6 +234,7 @@ rtmp://82.212.74.101/live//8049
 http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",baby
 http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
 ***********
