@@ -384,76 +384,76 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
 #EXTINF:-1,ACTION MAX
-http://dns.theplayersklub.us:2095/live/husham/husham/353.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/353.ts
 #EXTINF:-1,DISCOVERY SCIENCE
-http://dns.theplayersklub.us:2095/live/husham/husham/206.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/206.ts
 #EXTINF:-1,HBO2
-http://dns.theplayersklub.us:2095/live/husham/husham/174.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/174.ts
 #EXTINF:-1,HBO COMEDY
-http://dns.theplayersklub.us:2095/live/husham/husham/173.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/173.ts
 #EXTINF:-1,CBC Sport Network
-http://dns.theplayersklub.us:2095/live/husham/husham/220.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/220.ts
 #EXTINF:-1,FOX Sport 1
-http://dns.theplayersklub.us:2095/live/husham/husham/188.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/188.ts
 #EXTINF:-1,FOX Sport 2
-http://dns.theplayersklub.us:2095/live/husham/husham/187.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/187.ts
 #EXTINF:-1,ESPN
-http://dns.theplayersklub.us:2095/live/husham/husham/256.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/256.ts
 #EXTINF:-1,ESPN 2
-http://dns.theplayersklub.us:2095/live/husham/husham/343.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/343.ts
 #EXTINF:-1,NAT GEO TV
-http://dns.theplayersklub.us:2095/live/husham/husham/247.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/247.ts
 #EXTINF:-1,NAT GEO WILD
-http://dns.theplayersklub.us:2095/live/husham/husham/157.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/157.ts
 #EXTINF:-1,HISTORY 
-http://dns.theplayersklub.us:2095/live/husham/husham/251.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/251.ts
 #EXTINF:-1,NICK
-http://dns.theplayersklub.us:2095/live/husham/husham/334.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/334.ts
 #EXTINF:-1,Cartoon Network HD
-http://dns.theplayersklub.us:2095/live/husham/husham/258.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/258.ts
 #EXTINF:-1,SYFY
-http://dns.theplayersklub.us:2095/live/husham/husham/245.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/245.ts
 #EXTINF:-1,HGTV
-http://dns.theplayersklub.us:2095/live/husham/husham/302.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/302.ts
 #EXTINF:-1,NFL
-http://dns.theplayersklub.us:2095/live/husham/husham/308.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/308.ts
 #EXTINF:-1,NFL Network
-http://dns.theplayersklub.us:2095/live/husham/husham/148.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/148.ts
 #EXTINF:-1,TCM
-http://dns.theplayersklub.us:2095/live/husham/husham/128.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/128.ts
 #EXTINF:-1,Cooking Channel
-http://dns.theplayersklub.us:2095/live/husham/husham/211.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/211.ts
 #EXTINF:-1,Food Network
-http://dns.theplayersklub.us:2095/live/husham/husham/195.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/195.ts
 #EXTINF:-1,gametv
-http://dns.theplayersklub.us:2095/live/husham/husham/121.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/121.ts
 #EXTINF:-1,A&E 
-http://dns.theplayersklub.us:2095/live/husham/husham/267.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/267.ts
 #EXTINF:-1,American Heroes
-http://dns.theplayersklub.us:2095/live/husham/husham/241.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/241.ts
 #EXTINF:-1,C
-http://dns.theplayersklub.us:2095/live/husham/husham/257.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/257.ts
 #EXTINF:-1,SPIKE
-http://dns.theplayersklub.us:2095/live/husham/husham/246.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/246.ts
 #EXTINF:-1,USA
-http://dns.theplayersklub.us:2095/live/husham/husham/242.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/242.ts
 #EXTINF:-1,BET
-http://dns.theplayersklub.us:2095/live/husham/husham/299.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/299.ts
 #EXTINF:-1,CW
-http://dns.theplayersklub.us:2095/live/husham/husham/319.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/319.ts
 #EXTINF:-1,OWN
-http://dns.theplayersklub.us:2095/live/husham/husham/320.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/320.ts
 #EXTINF:-1,EPSU
-http://dns.theplayersklub.us:2095/live/husham/husham/322.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/322.ts
 #EXTINF:-1,TRU TV
-http://dns.theplayersklub.us:2095/live/husham/husham/312.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/312.ts
 #EXTINF:-1,E!
-http://dns.theplayersklub.us:2095/live/husham/husham/345.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/345.ts
 #EXTINF:-1,C-SPAN
-http://dns.theplayersklub.us:2095/live/husham/husham/388.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/388.ts
 #EXTINF:-1,GOLF
-http://dns.theplayersklub.us:2095/live/husham/husham/390.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/390.ts
 #EXTINF:-1,C-SPAN 3
-http://dns.theplayersklub.us:2095/live/husham/husham/401.rtmp
+http://dns.theplayersklub.us:2095/live/husham/husham/401.ts
 #EXTINF:-1,ENCORE
 http://www.xrxs.net/video/live-p12baya-4728.m3u8
