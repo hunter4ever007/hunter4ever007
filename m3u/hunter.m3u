@@ -191,27 +191,27 @@ http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/825.ts
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",Bein sport 10
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/826.ts
 
-#EXTINF:-1, BACKUPS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR yellow] Bein BACKUPS [/COLOR]
 ***********
-#EXTINF:-1 BEIN 1
+#EXTINF:-1,BEIN 1
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1094.ts
-#EXTINF:-1 BEIN 2
+#EXTINF:-1,BEIN 2
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1095.ts
-#EXTINF:-1 BEIN 3
+#EXTINF:-1,BEIN 3
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1096.ts
-#EXTINF:-1 BEIN 4
+#EXTINF:-1,BEIN 4
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1363.ts
-#EXTINF:-1 BEIN 5
+#EXTINF:-1,BEIN 5
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1364.ts
-#EXTINF:-1 BEIN 6
+#EXTINF:-1,BEIN 6
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1365.ts
-#EXTINF:-1 BEIN 7
+#EXTINF:-1,BEIN 7
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1366.ts
-#EXTINF:-1 BEIN 8
+#EXTINF:-1,BEIN 8
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1367.ts
-#EXTINF:-1 BEIN 9
+#EXTINF:-1,BEIN 9
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1368.ts
-#EXTINF:-1 BEIN 10
+#EXTINF:-1,BEIN 10
 http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1369.ts
 
 
