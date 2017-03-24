@@ -25,6 +25,14 @@ http://130.185.144.63:8081/jppw/MBCMax/playlist.m3u8
 http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
 http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION /Ira BkUP
+http://63.237.48.9/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 /Ira BkUP
+http://63.237.48.9/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 /Ira BkUP
+http://63.237.48.9/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX /Ira BkUP
+http://63.237.48.9/ios/MBC_MAX/MBC_MAX.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
@@ -353,6 +361,18 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2 ENG S1
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2 ENG S2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png", HUNTING CHANNEL
+http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/military-channel-logo-1.png", MILITARY
+http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/187605_orig.png", MUSIC TV
+http://fluvod1.giniko.com/all-music/all-music/tracks-1,6/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2016/04/Yacht-PNG-Image.png", LUXURY YACHTS
+http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow]           OSN CHANNELS [/COLOR]
