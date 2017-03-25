@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/478883347179900928/-X6t3-jT.png",[COLOR yellow]           MYHD CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,mbc 1
-http://nimlive3.giniko.com/mbc1tv/mbc1tv/chunklist_w889707041.m3u8?nimblesessionid=230813&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE3IDEwOjUxOjAyIFBNJmhhc2hfdmFsdWU9UGpXQi9DNXRiYWlRc3dQeENsckk5UT09JnZhbGlkbWludXRlcz0yODgw
-#EXTINF:-1,mbc masr
-http://nimlive3.giniko.com/mbcmasr/mbcmasr/chunklist_w658328798.m3u8?nimblesessionid=230891&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDE3IDEwOjUyOjM1IFBNJmhhc2hfdmFsdWU9TVVpOGN1OUdZMHVheFk1MVpCZlFLZz09JnZhbGlkbWludXRlcz0yODgw
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG", MBC MAX HD
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png", MBC DRAMA+ HD
