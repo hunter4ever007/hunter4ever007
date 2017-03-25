@@ -233,7 +233,7 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/str
 #EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2016/04/logo.png",Karameesh
 rtmp://82.212.74.101/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
-http://199.167.151.237:1935/live/dub_1_ch1381/playlist.m3u8
+http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",baby
 http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
 
@@ -257,7 +257,9 @@ http://38.99.146.69:7777/AlKaheraWalNas_Med/AlKaheraWalNas_Med.m3u8?user=tyty&se
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/andromo/dev244056/app232981/170/yemen-tv.png",Yemen TV
-http://199.167.151.237:1935/live/dub_1_ch1447/playlist.m3u8
+rtmpt://199.167.151.237/live//sp15_38.stream
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800",Suhail
+rtmp://82.212.74.5/live//7626
 #EXTINF:-1 tvg-logo="http://jascostreaming.com/images/sanaa.png",Sana'a
 rtmp://82.212.74.3/live//7410
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/520574083398774785/HImsvRJ3_400x400.png",Alsharya Yemen
@@ -282,16 +284,16 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 ***********
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png",Iqraa
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-logo="http://makkahtv.tv/wp-content/themes/badawiyahtv/images/logo.png", MAKKAH
+#EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
-http://199.167.151.237:1935/live/dub_1_ch1279/index.m3u8
+rtmpt://199.167.151.237/live/sp15_36.stream
 #EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png",Alafasy 
 http://199.167.151.237:1935/live/dub_1_ch1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
-http://38.99.146.94:7777/AlResala_LR/AlResala_LR.m3u8?user=tyty&session=7c19215a40ba5d1679279306f2f980bf209aa7bf2a08289281a050efc70c6465a299017ce29bf1aa&hlsid=HTTP_ID_924702&group_id=-1&starttime=20170119T163053.248640
+rtmpt://199.167.151.237/live//sp15_34.stream
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
 http://zona-live-tv.com/Ch/Arab/Huda.m3u8
 #EXTINF:-1 tvg-logo="http://dini.tv/wp-content/uploads/2016/12/Peace-TV-USA.png",Peace USA
