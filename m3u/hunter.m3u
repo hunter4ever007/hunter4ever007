@@ -198,26 +198,80 @@ http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/826.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR yellow] Bein BACKUPS [/COLOR]
 ***********
-#EXTINF:-1,BEIN 1
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1094.m3u8
-#EXTINF:-1,BEIN 2
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1095.m3u8
-#EXTINF:-1,BEIN 3
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1096.m3u8
-#EXTINF:-1,BEIN 4
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1363.m3u8
-#EXTINF:-1,BEIN 5
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1364.m3u8
-#EXTINF:-1,BEIN 6
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1365.m3u8
-#EXTINF:-1,BEIN 7
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1366.m3u8
-#EXTINF:-1,BEIN 8
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1367.m3u8
-#EXTINF:-1,BEIN 9
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1368.m3u8
-#EXTINF:-1,BEIN 10
-http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1369.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 1
+http://camerta.com:8000/live/riadh7070/riadh7070/300.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD1
+http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 2
+http://camerta.com:8000/live/riadh7070/riadh7070/307.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD2
+http://camerta.com:8000/live/riadh7070/riadh7070/2.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 3
+http://camerta.com:8000/live/riadh7070/riadh7070/308.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD3
+http://camerta.com:8000/live/riadh7070/riadh7070/3.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 4
+http://camerta.com:8000/live/riadh7070/riadh7070/309.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD4
+http://camerta.com:8000/live/riadh7070/riadh7070/4.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 5
+http://camerta.com:8000/live/riadh7070/riadh7070/310.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD5
+http://camerta.com:8000/live/riadh7070/riadh7070/5.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 6
+http://camerta.com:8000/live/riadh7070/riadh7070/311.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD6
+http://camerta.com:8000/live/riadh7070/riadh7070/6.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 7
+http://camerta.com:8000/live/riadh7070/riadh7070/312.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD7
+http://camerta.com:8000/live/riadh7070/riadh7070/7.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 8
+http://camerta.com:8000/live/riadh7070/riadh7070/313.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD8
+http://camerta.com:8000/live/riadh7070/riadh7070/8.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 9
+http://camerta.com:8000/live/riadh7070/riadh7070/314.m3u8
+#EXTINF:-1,BEINSPORTEXTRAH D9
+http://camerta.com:8000/live/riadh7070/riadh7070/9.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 10
+http://camerta.com:8000/live/riadh7070/riadh7070/301.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD10
+http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 1_FR
+http://camerta.com:8000/live/riadh7070/riadh7070/17.m3u8
+#EXTINF:-1,Fr BEINSPORTEXTRA 1
+http://camerta.com:8000/live/riadh7070/riadh7070/2739.m3u8
+#EXTINF:-1,BEINSPORTEXTRA_FR 1
+http://camerta.com:8000/live/riadh7070/riadh7070/18.m3u8
+#EXTINF:-1,Fr BEINSPORTEXTRA 2
+http://camerta.com:8000/live/riadh7070/riadh7070/2740.m3u8
+#EXTINF:-1,BEINSPORTEXTRA_FR 2
+http://camerta.com:8000/live/riadh7070/riadh7070/336.m3u8
+#EXTINF:-1,Fr-BEINSPORTEXTRA 3
+http://camerta.com:8000/live/riadh7070/riadh7070/2741.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 11
+http://camerta.com:8000/live/riadh7070/riadh7070/302.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD11
+http://camerta.com:8000/live/riadh7070/riadh7070/11.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 12
+http://camerta.com:8000/live/riadh7070/riadh7070/303.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD12
+http://camerta.com:8000/live/riadh7070/riadh7070/12.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 13
+http://camerta.com:8000/live/riadh7070/riadh7070/304.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD13
+http://camerta.com:8000/live/riadh7070/riadh7070/13.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 14
+http://camerta.com:8000/live/riadh7070/riadh7070/305.m3u8
+#EXTINF:-1,BEINSPORTEXTRA 16
+http://camerta.com:8000/live/riadh7070/riadh7070/16.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD14-2
+http://camerta.com:8000/live/riadh7070/riadh7070/15.m3u8
+#EXTINF:-1,BEINSPORTEXTRA HD15-2
+http://camerta.com:8000/live/riadh7070/riadh7070/14.m3u8
+#EXTINF:-1,BEINSPORTEXTRANews HD
+http://camerta.com:8000/live/riadh7070/riadh7070/299.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
