@@ -460,18 +460,10 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,Spacetoon
-http://38.99.146.38:7777/SpaceToonArabic_HD.m3u8?user=sgls183763&session=dc9efda09b1b3811fde79d2d8adfcdcdd7f4c88ee89d807530a37eecc36170744e7a4f020d6fc709ec6065945fc16550&group_id=183763&ios=0
 #EXTINF:-1,Huda
 http://zona-live-tv.com/Ch/Arab/Huda.m3u8
-#EXTINF:-1,Saudi Sport 1
-http://38.99.146.36:7777/AlRiyadiah_HD.m3u8?user=sgls183763&session=eb57b5fb95c1f8c0ce6d479bbdf2ec6fe67cd2a9fb69b540a0256b0abbf15740b8426cfd6d762233&group_id=183763&ios=0
-#EXTINF:-1,Almajd
-http://38.99.146.36:7777/AlmajdSpace_HD.m3u8?user=sgls183763&session=c91f238741d249fddaadb3bbad94209a404c351367bf6b07a19ec79b3ff99d7790ea675b6849d4c8de2a9a15d4e21705&group_id=183763&ios=0
-#EXTINF:-1,CN Arabia
-http://38.99.146.38:7777/CNArabia_HD.m3u8?user=sgls183763&session=d3c86df7699f3d8d772b7b60997734bb830a1d432258aecbc1f8aeb49d50401ea7742628eff4958e&group_id=183763&ios=0
-#EXTINF:-1,Cima
-http://38.99.146.36:7777/Cima_HD.m3u8?user=sgls183763&session=19958812f48e44cf6c41f98d2a9978f0e817ce28042395584b1bced321b49846a3a95e7f3dfeb49c&group_id=183763&ios=0
+#EXTINF:-1,stoon
+http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/2860.ts|User-Agent=discount&.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR red]        KODI ONLY CHANNELS [/COLOR]
