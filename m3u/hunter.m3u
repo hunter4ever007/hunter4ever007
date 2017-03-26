@@ -159,36 +159,86 @@ http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_hi/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
+http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/3771.ts|User-Agent=discount&.ts
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
+http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/1903.ts|User-Agent=discount&.ts
+
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR red] Bein  [/COLOR]
+***********
+#EXTINF:-1,Bein 1 
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.comForPremium/32.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 2
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/33.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 3
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/34.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 4
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/35.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 5
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/36.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 6
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/37.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 7
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/38.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 8
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/39.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 9
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/40.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 10
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/41.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 1 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/289.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 2 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/290.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 3 SD
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.comForPremium/291.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 4 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/292.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 5 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/293.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 6 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/294.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 7 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/295.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 8 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/296.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 9 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/297.ts|User-Agent= aswcnjkufgh&.ts
+#EXTINF:-1,Bein 10 SD
+http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/298.ts|User-Agent= aswcnjkufgh&.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR red] Bein Not Working On KODI [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD1
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD1
 http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD2
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD2
 http://camerta.com:8000/live/riadh7070/riadh7070/307.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD3
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD3
 http://camerta.com:8000/live/riadh7070/riadh7070/308.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD4
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD4
 http://camerta.com:8000/live/riadh7070/riadh7070/309.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD4
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD4
 http://camerta.com:8000/live/riadh7070/riadh7070/4.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD5
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD5
 http://camerta.com:8000/live/riadh7070/riadh7070/310.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD6
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD6
 http://camerta.com:8000/live/riadh7070/riadh7070/311.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD7
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD7
 http://camerta.com:8000/live/riadh7070/riadh7070/312.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD8
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD8
 http://camerta.com:8000/live/riadh7070/riadh7070/313.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD9
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD9
 http://camerta.com:8000/live/riadh7070/riadh7070/314.m3u8
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA SD10
+#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD10
 http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
 
 
@@ -196,54 +246,22 @@ http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
 ***********
 #EXTINF:-1,BEINSPORTEXTRA 1
 http://camerta.com:8000/live/riadh7070/riadh7070/300.m3u8
-#EXTINF:-1,BEINSPORTEXTRA HD1
-http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 2
-http://camerta.com:8000/live/riadh7070/riadh7070/307.m3u8
 #EXTINF:-1,BEINSPORTEXTRA HD2
 http://camerta.com:8000/live/riadh7070/riadh7070/2.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 3
-http://camerta.com:8000/live/riadh7070/riadh7070/308.m3u8
 #EXTINF:-1,BEINSPORTEXTRA HD3
 http://camerta.com:8000/live/riadh7070/riadh7070/3.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 4
-http://camerta.com:8000/live/riadh7070/riadh7070/309.m3u8
-#EXTINF:-1,BEINSPORTEXTRA HD4
-http://camerta.com:8000/live/riadh7070/riadh7070/4.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 5
-http://camerta.com:8000/live/riadh7070/riadh7070/310.m3u8
 #EXTINF:-1,BEINSPORTEXTRA HD5
 http://camerta.com:8000/live/riadh7070/riadh7070/5.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 6
-http://camerta.com:8000/live/riadh7070/riadh7070/311.m3u8
 #EXTINF:-1,BEINSPORTEXTRA HD6
 http://camerta.com:8000/live/riadh7070/riadh7070/6.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 7
-http://camerta.com:8000/live/riadh7070/riadh7070/312.m3u8
 #EXTINF:-1,BEINSPORTEXTRA HD7
 http://camerta.com:8000/live/riadh7070/riadh7070/7.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 8
-http://camerta.com:8000/live/riadh7070/riadh7070/313.m3u8
 #EXTINF:-1,BEINSPORTEXTRA HD8
 http://camerta.com:8000/live/riadh7070/riadh7070/8.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 9
-http://camerta.com:8000/live/riadh7070/riadh7070/314.m3u8
 #EXTINF:-1,BEINSPORTEXTRAH D9
 http://camerta.com:8000/live/riadh7070/riadh7070/9.m3u8
 #EXTINF:-1,BEINSPORTEXTRA 10
 http://camerta.com:8000/live/riadh7070/riadh7070/301.m3u8
-#EXTINF:-1,BEINSPORTEXTRA HD10
-http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
-#EXTINF:-1,BEINSPORTEXTRA 1_FR
-http://camerta.com:8000/live/riadh7070/riadh7070/17.m3u8
-#EXTINF:-1,Fr BEINSPORTEXTRA 1
-http://camerta.com:8000/live/riadh7070/riadh7070/2739.m3u8
-#EXTINF:-1,BEINSPORTEXTRA_FR 1
-http://camerta.com:8000/live/riadh7070/riadh7070/18.m3u8
-#EXTINF:-1,Fr BEINSPORTEXTRA 2
-http://camerta.com:8000/live/riadh7070/riadh7070/2740.m3u8
-#EXTINF:-1,BEINSPORTEXTRA_FR 2
-http://camerta.com:8000/live/riadh7070/riadh7070/336.m3u8
 #EXTINF:-1,Fr-BEINSPORTEXTRA 3
 http://camerta.com:8000/live/riadh7070/riadh7070/2741.m3u8
 #EXTINF:-1,BEINSPORTEXTRA 11
@@ -273,7 +291,7 @@ http://camerta.com:8000/live/riadh7070/riadh7070/299.m3u8
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
-http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
+http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/2860.ts|User-Agent=discount&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
@@ -284,8 +302,6 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/str
 rtmp://82.212.74.101/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",baby
-http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
@@ -462,8 +478,8 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 ***********
 #EXTINF:-1,Huda
 http://zona-live-tv.com/Ch/Arab/Huda.m3u8
-#EXTINF:-1,stoon
-http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/2860.ts|User-Agent=discount&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",baby
+http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR red]        KODI ONLY CHANNELS [/COLOR]
