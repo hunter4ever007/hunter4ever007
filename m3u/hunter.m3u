@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/478883347179900928/-X6t3-jT.png",[COLOR yellow]           MYHD CHANNELS [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
+http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG", MBC MAX HD
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png", MBC DRAMA+ HD
@@ -461,7 +463,7 @@ http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 #EXTINF:-1,Spacetoon
 http://38.99.146.38:7777/SpaceToonArabic_HD.m3u8?user=sgls183763&session=dc9efda09b1b3811fde79d2d8adfcdcdd7f4c88ee89d807530a37eecc36170744e7a4f020d6fc709ec6065945fc16550&group_id=183763&ios=0
 #EXTINF:-1,Huda
-http://38.99.146.37:7777/Huda_HD.m3u8?user=sgls183763&session=a5dd46f8ed8c6a254e0c307bca5b16c7e817ce28042395584b1bced321b49846a3a95e7f3dfeb49c&group_id=183763&ios=0
+http://zona-live-tv.com/Ch/Arab/Huda.m3u8
 #EXTINF:-1,Saudi Sport 1
 http://38.99.146.36:7777/AlRiyadiah_HD.m3u8?user=sgls183763&session=eb57b5fb95c1f8c0ce6d479bbdf2ec6fe67cd2a9fb69b540a0256b0abbf15740b8426cfd6d762233&group_id=183763&ios=0
 #EXTINF:-1,Almajd
