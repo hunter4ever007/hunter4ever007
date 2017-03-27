@@ -148,9 +148,9 @@ http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_hi/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
-http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent/3771.ts|User-Agent=discount1&.ts
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/3771.ts|User-Agent=123&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
-http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent/1903.ts|User-Agent=discount1&.ts
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/1903.ts|User-Agent=123&.ts
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
@@ -279,7 +279,7 @@ http://camerta.com:8000/live/riadh7070/riadh7070/299.m3u8
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
-http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/2860.ts|User-Agent=discount&.ts
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/2860.ts|User-Agent=123&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
@@ -536,3 +536,12 @@ http://dns.theplayersklub.us:2095/live/husham/husham/390.ts
 http://dns.theplayersklub.us:2095/live/husham/husham/401.ts
 #EXTINF:-1,ENCORE
 http://www.xrxs.net/video/live-p12baya-4728.m3u8
+
+Boomrang uk
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/182.ts|User-Agent=123&.ts
+mbc 3
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/3765.ts|User-Agent=123&.ts
+mbc 3
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/3007.ts|User-Agent=123&.ts
+Toyor Aljannah
+http://zona-live-tv.com/Ch/Arab/ToyorAlJanah.m3u8
