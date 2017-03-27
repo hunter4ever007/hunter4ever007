@@ -25,14 +25,6 @@ http://130.185.144.63:8081/jppw/MBCMax/playlist.m3u8
 http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
 http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION /Ira BkUP
-http://63.237.48.9/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 /Ira BkUP
-http://63.237.48.9/ios/MBC2/MBC2.m3u8
-#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 /Ira BkUP
-http://63.237.48.9/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX /Ira BkUP
-http://63.237.48.9/ios/MBC_MAX/MBC_MAX.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
@@ -58,7 +50,7 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
-http://stream-03.vty.dailymotion.com/50/dm/1/x5fxma9/live.isml/events(live-1490304956)/live-audio=128000-video=2100000.m3u8
+http://stream-11.vty.dailymotion.com/10/dm/1/x5fxma9/live.isml/events(live-1490629633)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
 http://130.185.144.63:8081/jppw/artaflam1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
