@@ -160,9 +160,9 @@ http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_hi/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
-http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/3771.ts|User-Agent=discount&.ts
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent/3771.ts|User-Agent=discount1&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
-http://tv.solidiptv.com:25461/live/50percent/PAUTEK74Y2/1903.ts|User-Agent=discount&.ts
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent/1903.ts|User-Agent=discount1&.ts
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
