@@ -135,10 +135,6 @@ http://alkass-i.akamaihd.net/hls/live/205534/5/live_30s20.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.swstarone.com/wp-content/uploads/2016/11/Chelsea-TV.png",Chelsea
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
-http://149.202.207.8:8080/je3nNaM00tAaemyou0T/Strm/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
-http://149.202.207.8:8080/je3nNaM00tAaelfseea/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Eng
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
@@ -208,7 +204,7 @@ http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/297.ts
 http://s1.wssiptv.com:8000//live/WSS20/support@ghostwebhost.comForPremium/298.ts|User-Agent= aswcnjkufgh&.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR red] Bein Not Working On KODI [/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR red] Bein Sports [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD1
 http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
@@ -310,8 +306,6 @@ http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/futuretv38.png",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
-#EXTINF:-1 tvg-logo="http://i82.servimg.com/u/f82/17/28/12/40/uuoo_o10.png",AlKahera Wal Nas
-http://38.99.146.69:7777/AlKaheraWalNas_Med/AlKaheraWalNas_Med.m3u8?user=tyty&session=fff2deac218525c7976d90fd706be5bbc8ff0581387eab44dd98d42bf958de3da299017ce29bf1aa&hlsid=HTTP_ID_1154039&group_id=-1&starttime=20170119T161655.608046
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/andromo/dev244056/app232981/170/yemen-tv.png",Yemen TV
@@ -346,8 +340,6 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
 rtmpt://199.167.151.237/live/sp15_36.stream
-#EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png",Alafasy 
-http://199.167.151.237:1935/live/dub_1_ch1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
@@ -361,8 +353,6 @@ rtmp://peace.fms.visionip.tv/live/?v=1023804506/b2b-peace_usa-live-25f-4x3-sdh_3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bO7QvuW.png",[COLOR yellow]          NEWS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png", AL Arabiya
-http://selevision9888-i.akamaihd.net/hls/live/219306/98889/1.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png", AL Arabiya L2
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/alhadath.png", Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
@@ -394,8 +384,6 @@ http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://biz.prlog.org/WorldClassService/logo.jpg",[COLOR yellow]  Documentary CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/NATGEO.png", ABU DHABI Geographical
-http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Documentary
@@ -446,16 +434,10 @@ http://ec.playmedia.fr/gong-base/live/playlist.m3u8
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2 ENG S1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2 ENG
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2 ENG S2
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png", HUNTING CHANNEL
-http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/military-channel-logo-1.png", MILITARY
 http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/187605_orig.png", MUSIC TV
-http://fluvod1.giniko.com/all-music/all-music/tracks-1,6/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.pngall.com/wp-content/uploads/2016/04/Yacht-PNG-Image.png", LUXURY YACHTS
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
@@ -464,14 +446,6 @@ http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m
 ***********
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR yellow]        TEST CHANNELS [/COLOR]
-***********
-#EXTINF:-1,Huda
-http://zona-live-tv.com/Ch/Arab/Huda.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",baby
-http://edge4.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/Karmody/alaTest_Iphone01a.png",[COLOR red]        KODI ONLY CHANNELS [/COLOR]
