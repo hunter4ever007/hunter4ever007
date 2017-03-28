@@ -490,8 +490,12 @@ http://dns1.theplayersklub.host:2095/live/husham/husham/343.rtmp
 http://dns1.theplayersklub.host:2095/live/husham/husham/247.rtmp
 #EXTINF:-1,NAT GEO WILD
 http://dns1.theplayersklub.host:2095/live/husham/husham/157.rtmp
+#EXTINF:-1,Animal Planet
+http://dns1.theplayersklub.host:2095/live/husham/husham/262.rtmp
 #EXTINF:-1,HISTORY 
 http://dns1.theplayersklub.host:2095/live/husham/husham/251.rtmp
+#EXTINF:-1,H2
+http://dns1.theplayersklub.host:2095/live/husham/husham/309.rtmp
 #EXTINF:-1,DISNEY CAHNNEL
 http://dns1.theplayersklub.host:2095/live/husham/husham/347.rtmp
 #EXTINF:-1,DISNEY JR 
