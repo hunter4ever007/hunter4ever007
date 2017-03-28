@@ -75,6 +75,8 @@ http://130.185.144.63:8081/jppw/RotanaClip/playlist.m3u8
 http://130.185.144.63:8081/jppw/RotanaMasriya/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia
 http://130.185.144.63:8081/jppw/RotanaKhaligi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia filmon
+http://zona-live-tv.com/Ch/Entertainments/RotanaKhalijia.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-iSvEN0c91Lo/AAAAAAAAAAI/AAAAAAAACZg/eXU5adESngU/w800-h800/photo.jpg", Rotana Music
