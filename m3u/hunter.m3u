@@ -278,8 +278,6 @@ http://camerta.com:8000/live/riadh7070/riadh7070/299.m3u8
 
 #EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
-http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/2860.ts|User-Agent=123&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
@@ -290,14 +288,12 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/str
 rtmp://82.212.74.101/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomrang uk
-http://tv.solidiptv.com:25461/live/solid/iptv/182.ts|User-Agent=1111&.ts
-#EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3
-http://tv.solidiptv.com:25461/live/solid/iptv/3765.ts|User-Agent=1111&.ts
-#EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3 L2
-http://tv.solidiptv.com:25461/live/solid/iptv/3007.ts|User-Agent=1111&.ts
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/01/1-1.png",Toyor Aljannah
 http://zona-live-tv.com/Ch/Arab/ToyorAlJanah.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
+http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/2860.ts|User-Agent=123&.ts
+#EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3
+http://tv.solidiptv.com:25461/live/solid/iptv/3765.ts|User-Agent=1111&.ts
 
 
 #EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
