@@ -15,9 +15,9 @@ http://130.185.144.63:8081/jppw/MBCMax/playlist.m3u8
 http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
 http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC MASR 1
+#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/09/c18fbaf7.png", MBC MASR 1
 http://130.185.144.63:8081/jppw/MBCMasr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC MASR 2
+#EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/mbc-masr-logo.jpg", MBC MASR 2
 http://130.185.144.63:8081/jppw/MBCMasr2/playlist.m3u8
 
 
@@ -552,40 +552,4 @@ http://dns1.theplayersklub.host:2095/live/husham/husham/390.rtmp
 http://dns1.theplayersklub.host:2095/live/husham/husham/401.rtmp
 #EXTINF:-1,ENCORE
 http://www.xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1,AR | beIN Sports 9 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/385.ts
-#EXTINF:-1,AR | beIN Sports 8 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/386.ts
-#EXTINF:-1,AR | beIN Sports 7 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/387.ts
-#EXTINF:-1,AR | beIN Sports 6 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/388.ts
-#EXTINF:-1,AR | beIN Sports 5 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/389.ts
-#EXTINF:-1,AR | beIN Sports 4 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/390.ts
-#EXTINF:-1,AR | beIN Sports 3 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/391.ts
-#EXTINF:-1,AR | beIN Sports 2 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/392.ts
-#EXTINF:-1,AR | Bein Sports 17 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/393.ts
-#EXTINF:-1,AR | Bein Sports 16 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/394.ts
-#EXTINF:-1,AR | Bein Sports 15 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/395.ts
-#EXTINF:-1,AR | beIN Sports 14 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/396.ts
-#EXTINF:-1,AR | beIN Sports 13 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/397.ts
-#EXTINF:-1,AR | beIN Sports 12 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/398.ts
-#EXTINF:-1,AR | beIN Sports 11 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/399.ts
-#EXTINF:-1,AR | beIN Sports 10 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/400.ts
-#EXTINF:-1,AR | beIN Sports 1 HD
-http://163.172.81.33:1234/live/App0015/nbvcxz/401.ts
-
 
