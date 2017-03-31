@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.arabstoday.net/img/2015/05/exlarge/Arabstoday-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-MBC.jpg",[COLOR yellow]           MBC CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]           MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 SD
 http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
@@ -21,7 +21,7 @@ http://130.185.144.63:8081/jppw/MBCMasr/playlist.m3u8
 http://130.185.144.63:8081/jppw/MBCMasr2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/united_arab_emirates/united_arab_emirates_640.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png", ABU DHABI
 http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
@@ -37,7 +37,7 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://morriscountynj.gov/wp-content/uploads/2016/06/movies.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
 http://stream-07.vty.dailymotion.com/41/dm/1/x5fxma9/live.isml/events(live-1490881549)/live-audio=128000-video=1260000.m3u8
@@ -103,7 +103,7 @@ http://130.185.144.63:8081/jppw/panoramadrama2/playlist.m3u8
 http://130.185.144.63:8081/jppw/CBCDrama/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EvnqNVeCgfM/U6PXd0JM-3I/AAAAAAAACPc/iEfYuMczTXI/w1200-h630-p-k-nu/sports-balls.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712149026.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -144,9 +144,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN 
 http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_hi/chunks.m3u8?
 
-
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/zJH30930.png",[COLOR yellow] Bein Sports / Mbc Pro Sports [/COLOR]
-***********
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
 http://tv.solidiptv.com:25461/live/solid/iptv/3771.ts|User-Agent=1111&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
@@ -160,7 +157,7 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR green] Bein  [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
 http://tv.solidiptv.com:25461/live/streamzn/solid/221.ts|User-Agent=mmm&.ts
@@ -183,6 +180,8 @@ http://tv.solidiptv.com:25461/live/streamzn/solid/229.ts|User-Agent=mmm&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
 http://tv.solidiptv.com:25461/live/streamzn/solid/230.ts|User-Agent=mmm&.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR green] Bein Sports [/COLOR]
+***********
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD1
 http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD2
@@ -206,6 +205,9 @@ http://camerta.com:8000/live/riadh7070/riadh7070/314.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD10
 http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR yellow] Bein BACKUPS [/COLOR]
+***********
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 1
 http://camerta.com:8000/live/riadh7070/riadh7070/300.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD2
@@ -250,7 +252,7 @@ http://camerta.com:8000/live/riadh7070/riadh7070/14.m3u8
 http://camerta.com:8000/live/riadh7070/riadh7070/299.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",[COLOR yellow]                  KIDS TV [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
@@ -272,7 +274,7 @@ http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/2860.ts|User-Agent=123
 http://tv.solidiptv.com:25461/live/solid/iptv/3765.ts|User-Agent=1111&.ts
 
 
-#EXTINF:-1 tvg-logo="http://protoimage.com/tv/wp-content/uploads/2016/07/tv-channels-toronto-iptv-service-provider.png",[COLOR yellow]               OTHERS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_256s30.m3u8
@@ -312,7 +314,7 @@ http://130.185.144.63:8081/jppw/CBC/playlist.m3u8
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.ultraupdates.com/wp-content/uploads/2016/07/I-love-islam-logo.jpg?x84369",[COLOR yellow]            Islam Channels [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.ultraupdates.com/wp-content/uploads/2016/07/I-love-islam-logo.jpg?x84369",[COLOR yellow]            Islamic Channels [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png",Iqraa
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
@@ -330,7 +332,7 @@ http://zona-live-tv.com/Ch/Arab/Huda.m3u8
 rtmp://peace.fms.visionip.tv/live/?v=1023804506/b2b-peace_usa-live-25f-4x3-sdh_3
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bO7QvuW.png",[COLOR yellow]          NEWS CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121451214.png",[COLOR yellow]          NEWS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png", AL Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
@@ -362,7 +364,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://biz.prlog.org/WorldClassService/logo.jpg",[COLOR yellow]  Documentary CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709532193.png",[COLOR yellow]  Documentary CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
@@ -384,7 +386,7 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 http://streaming-hub.com/stream/rmc.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/round_icon/saudi_arabia/saudi_arabia_640.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/1490971214162.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
@@ -400,7 +402,7 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/str
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/z1he9qtBTJ9fTQWMJZ5xR754mQvVCDK94Y7ac6pFxvMwwA6rJRHzEj4TTg2jI1dxBsHj=w300",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095345394.png",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
@@ -424,13 +426,13 @@ http://fluvod1.giniko.com/all-military/all-military/tracks-1,6/index.m3u8
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://kodeeresurrection.com/LILYSPORTStxts/pngs/OSN.png",[COLOR yellow]           OSN CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]           OSN CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271408",STAR Movies HD
 http://130.185.144.63:8081/jppw/starmovieshd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.yourkodi.com/wp-content/uploads/2016/12/kodi.png",[COLOR red]        KODI ONLY CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121397931.png",[COLOR red]        KODI ONLY CHANNELS [/COLOR]
 ***********
 #EXTINF:-1,AMC
 http://dns1.theplayersklub.host:2095/live/husham/husham/314.rtmp
