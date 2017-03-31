@@ -180,7 +180,7 @@ http://tv.solidiptv.com:25461/live/streamzn/solid/229.ts|User-Agent=mmm&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
 http://tv.solidiptv.com:25461/live/streamzn/solid/230.ts|User-Agent=mmm&.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR green] Bein Sports [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein Sport  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD1
 http://camerta.com:8000/live/riadh7070/riadh7070/1.m3u8
@@ -205,8 +205,7 @@ http://camerta.com:8000/live/riadh7070/riadh7070/314.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT SD10
 http://camerta.com:8000/live/riadh7070/riadh7070/10.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png",[COLOR yellow] Bein BACKUPS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein BackUps [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA 1
 http://camerta.com:8000/live/riadh7070/riadh7070/300.m3u8
