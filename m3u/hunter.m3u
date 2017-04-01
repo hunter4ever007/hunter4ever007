@@ -3,6 +3,8 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 SD
 http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
+#EXTINF:-1,mbc 1 BKUP
+http://nimlive3.giniko.com/mbc1tv/mbc1tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTcgMjoxODo0NSBQTSZoYXNoX3ZhbHVlPXo0QjFSOEhqdDZRUm5EVWFGL0RHVWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
 http://130.185.144.63:8081/jppw/MBC2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD 
@@ -17,6 +19,8 @@ http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/09/c18fbaf7.png", MBC MASR 1
 http://130.185.144.63:8081/jppw/MBCMasr/playlist.m3u8
+#EXTINF:-1,mbc masr 1 BKUP
+http://nimlive3.giniko.com/mbcmasr/mbcmasr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTcgMjoyNjo0MCBQTSZoYXNoX3ZhbHVlPXZwNzF3cEJlMXB0dVl0U0RmcDhCTEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/mbc-masr-logo.jpg", MBC MASR 2
 http://130.185.144.63:8081/jppw/MBCMasr2/playlist.m3u8
 
@@ -142,7 +146,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN 
-http://178.162.205.72:8081/live_sd/idmantv/live_sd/idman_hi/chunks.m3u8?
+https://zahir.tvizlehd.com/idmantv.m3u8?tkn=iDh6KyqAvPYMBYF-XL27dQ&tms=1491064133
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
 http://tv.solidiptv.com:25461/live/streamzn/solid/3771.ts|User-Agent=mmm&.ts
