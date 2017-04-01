@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]           MBC CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 SD
 http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
