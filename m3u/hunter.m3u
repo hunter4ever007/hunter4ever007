@@ -330,6 +330,8 @@ rtmpt://199.167.151.237/live/sp15_36.stream
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
 rtmpt://199.167.151.237/live//sp15_34.stream
+#EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah L2
+http://zona-live-tv.com/Ch/Arab/AlResala.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
 http://zona-live-tv.com/Ch/Arab/Huda.m3u8
 #EXTINF:-1 tvg-logo="http://dini.tv/wp-content/uploads/2016/12/Peace-TV-USA.png",Peace USA
