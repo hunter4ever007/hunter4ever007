@@ -149,9 +149,9 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.
 https://zahir.tvizlehd.com/idmantv.m3u8?tkn=iDh6KyqAvPYMBYF-XL27dQ&tms=1491064133
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
-http://tv.solidiptv.com:25461/live/streamzn/solid/3771.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/3771.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
-http://tv.solidiptv.com:25461/live/streamzn/solid/1903.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/1903.ts|User-Agent=111&.ts
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
@@ -164,25 +164,26 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
-http://tv.solidiptv.com:25461/live/streamzn/solid/221.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/221.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 2
-http://tv.solidiptv.com:25461/live/streamzn/solid/222.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/222.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 3
-http://tv.solidiptv.com:25461/live/streamzn/solid/223.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/223.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 4
-http://tv.solidiptv.com:25461/live/streamzn/solid/224.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/224.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 5
-http://tv.solidiptv.com:25461/live/streamzn/solid/225.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/225.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 6
-http://tv.solidiptv.com:25461/live/streamzn/solid/226.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/226.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 7
-http://tv.solidiptv.com:25461/live/streamzn/solid/227.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/227.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 8
-http://tv.solidiptv.com:25461/live/streamzn/solid/228.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/228.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 9
-http://tv.solidiptv.com:25461/live/streamzn/solid/229.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/229.ts|User-Agent=111&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
-http://tv.solidiptv.com:25461/live/streamzn/solid/230.ts|User-Agent=mmm&.ts
+http://tv.solidiptv.com:25461/live/newip/allow/230.ts|User-Agent=111&.ts
+
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein Sport  [/COLOR]
 ***********
