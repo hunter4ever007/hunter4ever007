@@ -3,7 +3,7 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 SD
 http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
-#EXTINF:-1,mbc 1 BKUP
+#EXTINF:-1,MBC 1 BKUP
 http://nimlive3.giniko.com/mbc1tv/mbc1tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTcgMjoxODo0NSBQTSZoYXNoX3ZhbHVlPXo0QjFSOEhqdDZRUm5EVWFGL0RHVWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
 http://130.185.144.63:8081/jppw/MBC2/playlist.m3u8
@@ -11,15 +11,19 @@ http://130.185.144.63:8081/jppw/MBC2/playlist.m3u8
 http://130.185.144.63:8081/jppw/MBC4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA 
 http://130.185.144.63:8081/jppw/MBCDrama/playlist.m3u8
+#EXTINF:-1,MBC DRAMA BKUP
+http://nimplus4.giniko.com/mbcdrama/mbcdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTcgMTE6MDM6MTcgQU0maGFzaF92YWx1ZT1talZqaEZDTG9DQ1VDQmIySEtiM2JRPT0mdmFsaWRtaW51dGVzPTE0NDA==
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX SD 
 http://130.185.144.63:8081/jppw/MBCMax/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION SD 
 http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
 http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
+#EXTINF:-1,MBC BOLLYWOOD BKUP
+http://nimplus3.giniko.com/mbcbollywood/mbcbollywood/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zLzIwMTcgMTA6NTg6MzUgQU0maGFzaF92YWx1ZT11dGVacTYvTlJVelhUcGZ5ZllMbXdRPT0mdmFsaWRtaW51dGVzPTE0NDA==
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/09/c18fbaf7.png", MBC MASR 1
 http://130.185.144.63:8081/jppw/MBCMasr/playlist.m3u8
-#EXTINF:-1,mbc masr 1 BKUP
+#EXTINF:-1,MBC MASR 1 BKUP
 http://nimlive3.giniko.com/mbcmasr/mbcmasr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTcgMjoyNjo0MCBQTSZoYXNoX3ZhbHVlPXZwNzF3cEJlMXB0dVl0U0RmcDhCTEE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MA==
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/mbc-masr-logo.jpg", MBC MASR 2
 http://130.185.144.63:8081/jppw/MBCMasr2/playlist.m3u8
