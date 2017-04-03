@@ -149,9 +149,9 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.
 https://zahir.tvizlehd.com/idmantv.m3u8?tkn=iDh6KyqAvPYMBYF-XL27dQ&tms=1491064133
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
-http://tv.solidiptv.com:25461/live/newip/allow/3771.ts|User-Agent=111&.ts
+http://tv.solidiptv.com:25461/live/acer/1234/3771.ts|User-Agent=098&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
-http://tv.solidiptv.com:25461/live/newip/allow/1903.ts|User-Agent=111&.ts
+http://tv.solidiptv.com:25461/live/acer/1234/1903.ts|User-Agent=098&.ts
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
