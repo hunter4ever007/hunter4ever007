@@ -46,7 +46,7 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
-http://stream-05.vty.dailymotion.com/06/dm/1/x5hbjgh/live.isml/events(live-1491393635)/live-audio=128000-video=1260000.m3u8
+http://stream-13.vty.dailymotion.com/44/dm/1/x5hbjgh/live.isml/events(live-1491493772)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
 http://130.185.144.63:8081/jppw/artaflam1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
@@ -151,10 +151,9 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.
 https://zahir.tvizlehd.com/idmantv.m3u8?tkn=iDh6KyqAvPYMBYF-XL27dQ&tms=1491064133
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
-http://tv.solidiptv.com:25461/live/acer/1234/3771.ts|User-Agent=098&.ts
+http://tv.solidiptv.com:25461/live/ipl/2017/3771.ts|User-Agent=sony&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 2 HD
-http://tv.solidiptv.com:25461/live/acer/1234/1903.ts|User-Agent=098&.ts
-
+http://tv.solidiptv.com:25461/live/ipl/2017/1903.ts|User-Agent=sony&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
@@ -166,25 +165,25 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/32.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/32.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 2
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/33.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/33.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 3
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/34.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/34.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 4
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/35.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/35.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 5
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/36.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/36.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 6
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/37.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/37.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 7
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/38.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/38.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 8
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/39.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/39.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 9
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/40.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/40.ts|User-Agent= ww1ssssSI&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
-http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/41.ts|User-Agent= wSs1sssSI&.ts
+http://s1.wssiptv.com:8000/live/WSS20/support@ghostwebhost.com4Premium/41.ts|User-Agent= ww1ssssSI&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein Sport  [/COLOR]
