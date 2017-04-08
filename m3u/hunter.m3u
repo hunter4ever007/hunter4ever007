@@ -79,14 +79,6 @@ http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
 http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9Xb21trOPqs/UWGHmiw8yWI/AAAAAAAAAgM/LoK4COkrWN0/s1600/Melody_Aflam_Logo.png", Melody Aflam
-http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
-http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam
-http://130.185.144.63:8081/jppw/B4UAflem/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-IJYisPyijus/VUoLFdO98oI/AAAAAAAAPLI/u8PEoh5pdGg/s1600/b4u_plus_ae.png", B4U Plus
-http://130.185.144.63:8081/jppw/B4UPlus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 1
 rtmp://vstream3.hadara.ps:1990/AlfajertvUN_web//web
 #EXTINF:-1 tvg-logo="http://www.cairocinema.net/wp-content/uploads/2014/02/Comp-1-0-00-01-00-222x300.png",Cairo Cinema
