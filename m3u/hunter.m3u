@@ -151,72 +151,49 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
-http://tv.solidiptv.com:25461/live/green/go/3771.ts|User-Agent=gone&.ts
+http://173.212.217.178:8000/live/kodi/forum/2.ts|User-Agent=kodi9&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 2
-http://tv.solidiptv.com:25461/live/green/go/3772.ts|User-Agent=gone&.ts
+http://173.212.217.178:8000/live/kodi/forum/3.ts|User-Agent=kodi9&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 3
-http://tv.solidiptv.com:25461/live/green/go/3773.ts|User-Agent=gone&.ts
+http://173.212.217.178:8000/live/kodi/forum/4.ts|User-Agent=kodi9&.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 4
-http://tv.solidiptv.com:25461/live/green/go/3774.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/4.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 5
-http://tv.solidiptv.com:25461/live/green/go/3775.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/5.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 6
-http://tv.solidiptv.com:25461/live/green/go/3776.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/6.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 7
-http://tv.solidiptv.com:25461/live/green/go/3777.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/7.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 8
-http://tv.solidiptv.com:25461/live/green/go/3778.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/8.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 9
-http://tv.solidiptv.com:25461/live/green/go/3779.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/9.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
-http://tv.solidiptv.com:25461/live/green/go/3780.ts|User-Agent=gone&.ts
+http://51.15.13.225:3314/live/Star7/Star7/10.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein Sport  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT
-http://zona-live-tv.com/Ch/Sport/beIN1.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN1.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT
-http://zona-live-tv.com/Ch/Sport/beIN2.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN2.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN3.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN3.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN4.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN4.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN5.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN5.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN6.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN6.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN7.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN7.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN8.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN8.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN9.m3u8
+http://zona-live-tv.com/Chan/Sport/beIN9.m3u8
 #EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEIN SPORT 
-http://zona-live-tv.com/Ch/Sport/beIN10.m3u8
-
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein BackUps [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD1
-http://173.212.217.178:8000/live/kodi/forum/2.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD2
-http://173.212.217.178:8000/live/kodi/forum/3.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD3
-http://173.212.217.178:8000/live/kodi/forum/4.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD4
-http://173.212.217.178:8000/live/kodi/forum/5.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD5
-http://173.212.217.178:8000/live/kodi/forum/6.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD6
-http://173.212.217.178:8000/live/kodi/forum/7.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD7
-http://173.212.217.178:8000/live/kodi/forum/8.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD8
-http://173.212.217.178:8000/live/kodi/forum/9.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD9
-http://173.212.217.178:8000/live/kodi/forum/10.ts|User-Agent=kodi4&.ts
-#EXTINF:-1 tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png",BEINSPORTEXTRA HD10
-http://173.212.217.178:8000/live/kodi/forum/11.ts|User-Agent=kodi4&.ts
+http://zona-live-tv.com/Chan/Sport/beIN10.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
