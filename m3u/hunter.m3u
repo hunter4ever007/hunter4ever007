@@ -70,7 +70,7 @@ http://130.185.144.63:8081/jppw/RotanaMasriya/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia
 http://130.185.144.63:8081/jppw/RotanaKhaligi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bledpress.com/wp-content/uploads/2014/03/rotana_khalijia2.png", Rotana Khaligia filmon
-http://zona-live-tv.com/Ch/Entertainments/RotanaKhalijia.m3u8
+http://zona-live-tv.com/Chan/Entertainments/RotanaKhalijia.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-iSvEN0c91Lo/AAAAAAAAAAI/AAAAAAAACZg/eXU5adESngU/w800-h800/photo.jpg", Rotana Music
@@ -209,7 +209,7 @@ rtmp://82.212.74.101/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/01/1-1.png",Toyor Aljannah
-http://zona-live-tv.com/Ch/Arab/ToyorAlJanah.m3u8
+http://zona-live-tv.com/Chan/Arab/ToyorAlJanah.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72860/clearlogo/tomandjerry-72860.png",Tom and Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
@@ -271,9 +271,9 @@ rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
 rtmpt://199.167.151.237/live//sp15_34.stream
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah L2
-http://zona-live-tv.com/Ch/Arab/AlResala.m3u8
+http://zona-live-tv.com/Chan/Arab/AlResala.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
-http://zona-live-tv.com/Ch/Arab/Huda.m3u8
+http://zona-live-tv.com/Chan/Arab/Huda.m3u8
 #EXTINF:-1 tvg-logo="http://dini.tv/wp-content/uploads/2016/12/Peace-TV-USA.png",Peace USA
 rtmp://peace.fms.visionip.tv/live/?v=1023804506/b2b-peace_usa-live-25f-4x3-sdh_3
 
