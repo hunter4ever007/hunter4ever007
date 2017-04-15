@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,MBC 1 HD
-http://173.212.217.178:8000/live/kodi/forum/14.ts|User-Agent=kodi4&.ts
-#EXTINF:-1,MBC 1 HD S2
-http://tv.solidiptv.com:25461/live/green/go/418.ts|User-Agent=gone&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 SD
 http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
@@ -401,53 +397,54 @@ http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
 ***********
 #EXTINF:-1,WWE NETWORK
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/631.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/631.rtmp
 #EXTINF:-1,ACTION MAX
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/645.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/645.rtmp
 #EXTINF:-1,CINEMAX
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/644.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/644.rtmp
 #EXTINF:-1,DISCOVERY CHANNEL
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/652.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/652.rtmp
 #EXTINF:-1,DISCOVERY SCIENCE
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/651.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/651.rtmp
 #EXTINF:-1,Animal Planet
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/671.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/671.rtmp
 #EXTINF:-1,H2
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/633.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/633.rtmp
 #EXTINF:-1,Cartoon Network HD
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/670.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/670.rtmp
 #EXTINF:-1,SYFY
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/658.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/658.rtmp
 #EXTINF:-1,FOX
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/665.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/665.rtmp
 #EXTINF:-1,FX
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/664.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/664.rtmp
 #EXTINF:-1,FXX
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/635.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/635.rtmp
 #EXTINF:-1,Velocity
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/646.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/646.rtmp
 #EXTINF:-1,STARZ CINEMA
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/636.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/636.rtmp
 #EXTINF:-1,STARZ EAST
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/637.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/637.rtmp
 #EXTINF:-1,SHOWTIME
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/638.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/638.rtmp
 #EXTINF:-1,COMEDY CENTRAL
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/667.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/667.rtmp
 #EXTINF:-1,HBO COMEDY
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/624.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/624.rtmp
 #EXTINF:-1,HBO FAMILY
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/623.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/623.rtmp
 #EXTINF:-1,HBO
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/634.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/634.rtmp
 #EXTINF:-1,CARTOON NETWORK CANADA
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/805.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/805.rtmp
 #EXTINF:-1,MOVIE TIME CANADA
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/787.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/787.rtmp
 #EXTINF:-1,TELETOON CANADA
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/775.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/775.rtmp
 #EXTINF:-1,THE MOVIE NETWORK CANADA
-http://dns1.theplayersklub.host:2095/live/dvdking/dvdking/774.rtmp
+http://dns1.theplayersklub.host:2095/live/dimitrology/dimitrology/774.rtmp
+
 
 
 
