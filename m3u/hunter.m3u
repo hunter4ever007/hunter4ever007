@@ -320,7 +320,7 @@ http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/NATGEO.png", NAT GEO ABU DHABI
+#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", NAT GEO ABU DHABI
 http://130.185.144.63:8081/jppw/natgeoad/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
 rtmp://82.212.74.98/live//7905
