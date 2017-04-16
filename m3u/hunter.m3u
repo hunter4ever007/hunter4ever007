@@ -77,8 +77,6 @@ http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
 http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr INT
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.cairocinema.net/wp-content/uploads/2014/02/Comp-1-0-00-01-00-222x300.png",Cairo Cinema
 http://130.185.144.63:8081/jppw/CairoCinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.egynews.net/wp-content/uploads/2014/12/64285bdf1.png",Nile cinema
@@ -133,6 +131,14 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN 
 https://zahir.tvizlehd.com/idmantv.m3u8?tkn=iDh6KyqAvPYMBYF-XL27dQ&tms=1491064133
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr INT
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/IqPln1Wi8xomhb1-m7wiTGpgwqKhBh9wMlw8G0K4G9kUWYkRkSztZGce2ai9Z2BdJN8=w300", AjyalTV 
+http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000427903725/c5119b4fea16d2b74f2378b63720a019_400x400.png", KolalNasTV
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://s1.dmcdn.net/HP1iT/240x240-UBB.jpg", SalamTV
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
 http://tv.solidiptv.com:25461/live/green/go/3771.ts|User-Agent=gone&.ts
