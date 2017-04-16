@@ -45,7 +45,7 @@ http://stream-11.vty.dailymotion.com/46/dm/1/x5hbjgh/live.isml/events(live-14920
 http://130.185.144.63:8081/jppw/artaflam1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
 http://130.185.144.63:8081/jppw/artaflam2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/07/art_cinema.png", art Cinema
+#EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png", art Cinema
 http://130.185.144.63:8081/jppw/artcenima/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/ART_HEKAYAT.png/revision/latest?cb=20150308150842", art Hekayat 1
 http://130.185.144.63:8081/jppw/arthekayat/playlist.m3u8
@@ -107,8 +107,6 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1 HD 
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s8.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2
@@ -175,7 +173,7 @@ http://zona-live-tv.com/Chan/Sport/beIN10.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
-http://173.212.217.178:8000/live/kodi/forum/2.ts|User-Agent=kodi9&.ts
+http://51.15.13.225:3314/live/Star7New/Star7New/1.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 2
 http://51.15.13.225:3314/live/Star7New/Star7New/2.ts
 #EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 3
@@ -204,7 +202,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterP
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/baraem_mena/stream6/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png",Ajyal
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2016/04/logo.png",Karameesh
+#EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png",Karameesh
 rtmp://82.212.74.101/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
