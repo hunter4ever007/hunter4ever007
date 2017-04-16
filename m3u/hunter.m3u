@@ -77,8 +77,8 @@ http://130.185.144.63:8081/jppw/Rotanaclassic/playlist.m3u8
 http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr 1
-rtmp://vstream3.hadara.ps:1990/AlfajertvUN_web//web
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f9/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%81%D8%AC%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.jpg",Alfajr INT
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.cairocinema.net/wp-content/uploads/2014/02/Comp-1-0-00-01-00-222x300.png",Cairo Cinema
 http://130.185.144.63:8081/jppw/CairoCinema/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.egynews.net/wp-content/uploads/2014/12/64285bdf1.png",Nile cinema
