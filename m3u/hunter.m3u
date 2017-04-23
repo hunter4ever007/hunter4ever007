@@ -4,7 +4,7 @@ http://173.212.217.178:8000/live/kodi/forum/2.ts|User-Agent=kodi11&.ts
 #EXTINF:-1, HDlive7 SD
 https://video.fkul10-1.fna.fbcdn.net/hvideo-atn2/v/live-md/109486076281252.m3u8?_nc_rl=AfAwgaobT1NOO8GJ&efg=eyJxZV9ncm91cHMiOnsibGl2ZV9jYWNoZV9wcmltaW5nX3VuaXZlcnNlIjp7ImVuYWJsZWQiOiIxIn19fQ%3D%3D&oh=f1b9933fd3b640cc9d93208787c43651&oe=58FFACA9
 #EXTINF:-1, Bein
-http://194.67.211.61/swf/12131.m3u8?sf=NTg3OGZhYjhlYTc3ZQ==&token=FcBG-bk2aVWah5wpIEGeuQ
+http://sjc-uhls-proxy05.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=23166104&stream=1&connectionId=oldurl-7f98b0a40a04a4f2710c400f44b02ba09f0f8fb8&group=iphone
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
