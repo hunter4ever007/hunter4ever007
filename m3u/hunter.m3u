@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BeinSports_1_SD
-http://173.212.223.214:8000/live/39151492975355/39151492975355/1.ts
-#EXTINF:-1,BeinSports_1_HD
-http://173.212.223.214:8000/live/39151492975355/39151492975355/11.ts
-#EXTINF:-1, bein HDlive7 SD
-https://video.fkul10-1.fna.fbcdn.net/hvideo-atn2/v/live-md/109486076281252.m3u8?_nc_rl=AfAwgaobT1NOO8GJ&efg=eyJxZV9ncm91cHMiOnsibGl2ZV9jYWNoZV9wcmltaW5nX3VuaXZlcnNlIjp7ImVuYWJsZWQiOiIxIn19fQ%3D%3D&oh=f1b9933fd3b640cc9d93208787c43651&oe=58FFACA9
-#EXTINF:-1,FR:Bein Sport 1 HD
-http://173.212.223.214:8000/live/39151492975355/39151492975355/33.ts
-
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 SD
