@@ -140,7 +140,7 @@ http://htv.mada.ps:8888/ajyal/livestream2/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000427903725/c5119b4fea16d2b74f2378b63720a019_400x400.png", KolalNasTV
 http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://s1.dmcdn.net/HP1iT/240x240-UBB.jpg", SalamTV
-http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+http://htv.mada.ps:8888/salamtv/salamtv/playlist.m3u8?v=1023821539
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",MBC Pro Sport 1 HD
 http://tv.solidiptv.com:25461/live/green/go/3771.ts|User-Agent=gone&.ts
