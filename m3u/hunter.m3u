@@ -180,54 +180,6 @@ http://zona-live-tv.com/Chan/Sport/beIN9.m3u8
 http://zona-live-tv.com/Chan/Sport/beIN10.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein  [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 1
-http://51.15.13.225:3314/live/Star7New/Star7New/1.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 2
-http://51.15.13.225:3314/live/Star7New/Star7New/2.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 3
-http://51.15.13.225:3314/live/Star7New/Star7New/3.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 4
-http://51.15.13.225:3314/live/Star7New/Star7New/4.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 5
-http://51.15.13.225:3314/live/Star7New/Star7New/5.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 6
-http://51.15.13.225:3314/live/Star7New/Star7New/6.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 7
-http://51.15.13.225:3314/live/Star7New/Star7New/7.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 8
-http://51.15.13.225:3314/live/Star7New/Star7New/8.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 9
-http://51.15.13.225:3314/live/Star7New/Star7New/9.ts
-#EXTINF:-1 tvg-logo="http://mobimongez.com/blog/wp-content/uploads/2015/08/Bein-sport.png",BEIN SPORT 10
-http://51.15.13.225:3314/live/Star7New/Star7New/10.ts
-
-
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709530962.png",[COLOR green] Bein BACKUP  [/COLOR]
-***********
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 1
-http://78.129.239.105:8080/mystreambinnosep-1/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 2
-http://78.129.239.105:8080/mystreambinnosep-2/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 3
-http://78.129.239.105:8080/mystreambinnosep-3/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 4
-http://78.129.239.105:8080/mystreambinnosep-4/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 5
-http://78.129.239.105:8080/mystreambinnosep-5/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 6
-http://78.129.239.105:8080/mystreambinnosep-6/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 7
-http://78.129.239.105:8080/mystreambinnosep-7/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 8
-http://78.129.239.105:8080/mystreambinnosep-8/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 9
-http://78.129.239.105:8080/mystreambinnosep-9/Strm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7kIHHu6tMwolnIiS96-w_B5n_Hi0E2PnPgRh6Nin4_cSMNpBegIPXF0SHJnuIwlC5Q",BEIN SPORT 10
-http://78.129.239.105:8080/mystreambinnosep-10/Strm/tracks-v1a1/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
