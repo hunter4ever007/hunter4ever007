@@ -374,6 +374,52 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/OSN_Movies_2013.jpg",Osn Movies HD 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1292.ts
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/500x300/OMK.jpg",Osn Movies Kids HD 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1666.ts
+#EXTINF:-1 tvg-logo="http://www13.0zz0.com/2013/11/28/07/377509834.png",Osn Movies Comedy HD 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1665.ts
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg",Osn Movies Action 2 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1656.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WeasfdZOJj0/maxresdefault.jpg",Osn First Comedy 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1654.ts
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO1.jpg",Osn Box Office 1 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1670.ts
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO2.jpg",Osn Box Office 2 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1671.ts
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO3.jpg",Osn Box Office 3 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1672.ts
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg",Osn Action 2
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1658.ts
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lLLGwGe0SU0/VvfF-Wf-PgI/AAAAAAAAD1w/4wuF8M2X9YsckWaAfPSXdIPTDVgcPaSnQ/s1600/be_in_movies_1_hd.png",Bein Movies 1
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/976.ts
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UwMFq9llJ1o/V1rqzzrpfkI/AAAAAAAABhM/zSVyk6vnzasDvxh4H2U4Vfn7rwv3Wot7wCLcB/s200/Movies2HD.jpg",Bein Movies 2 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/977.ts
+#EXTINF:-1 tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies3.jpg",Bein Movies 3 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/978.ts
+#EXTINF:-1,Osn Action HD 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1293.ts
+#EXTINF:-1,Osn Yahala Drama
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1295.ts
+#EXTINF:-1,Osn Cinema 1 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1296.ts
+#EXTINF:-1,Osn Cinema 2 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1297.ts
+#EXTINF:-1,Osn On Demand
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1673.ts
+#EXTINF:-1,Osn On Demand 1 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1663.ts
+#EXTINF:-1,Osn On Demand Extra 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1662.ts
+#EXTINF:-1,Osn Movie Premiere 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1294.ts
+#EXTINF:-1,Osn Movies Premiere 2 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1660.ts
+#EXTINF:-1,Osn Movies Drama 
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1657.ts
+
+
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
 ***********
