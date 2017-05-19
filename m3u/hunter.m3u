@@ -205,9 +205,9 @@ http://zona-live-tv.com/Chan/Sport/beIN10.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream4/masterPlaylist.m3u8
+http://199.167.151.237/live/sp15_13.stream/chunklist_w109392706.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/baraem_mena/stream6/streamPlaylist.m3u8
+http://199.167.151.237/live/sp15_35.stream/chunklist_w870080208.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png",Ajyal
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel9/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png",Karameesh
@@ -235,7 +235,7 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Ba-PpDC4288/VWp8c87pFXI/AAAAAAAABHA/FN-XA09WOgo/s1600/%25D8%25A7%25D9%2584%25D9%2581%25D8%25B6%25D8%25A7%25D8%25A6%25D9%258A%25D8%25A9-%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B1%25D9%258A%25D8%25A9.png",Masriya 1
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-On2XcooiA1U/VWyozxbZk-I/AAAAAAAADJk/la_cVCg5yg8/s1600/murr_tv_al_lubnaniya.png",MTV Lebanon
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8?nimblesessionid=1979962
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/futuretv38.png",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106",LBC
