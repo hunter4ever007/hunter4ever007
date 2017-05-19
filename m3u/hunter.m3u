@@ -374,100 +374,92 @@ http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m
 http://fluvod1.giniko.com/all-luxury-yachts/all-luxury-yachts/tracks-1,6/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/OSN_Movies_2013.jpg",Osn Movies HD 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1292.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/500x300/OMK.jpg",Osn Movies Kids HD 
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]     OSN CHANNELS [/COLOR]
+***********
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1232_1.png",Osn Movies Kids HD 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1666.ts
-#EXTINF:-1 tvg-logo="http://www13.0zz0.com/2013/11/28/07/377509834.png",Osn Movies Comedy HD 
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271416",Osn Movies Comedy HD 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1665.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg",Osn Movies Action 2 
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",Osn Movies Action 2 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1656.ts
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WeasfdZOJj0/maxresdefault.jpg",Osn First Comedy 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1257_1.png",Osn First Comedy 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1654.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO1.jpg",Osn Box Office 1 
+#EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/OSN-Box-office-123.jpg",Osn Box Office 1 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1670.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO2.jpg",Osn Box Office 2 
+#EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/OSN-Box-office-123.jpg",Osn Box Office 2 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1671.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/BO3.jpg",Osn Box Office 3 
+#EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/OSN-Box-office-123.jpg",Osn Box Office 3 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1672.ts
-#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/500x300/OMA.jpg",Osn Action 2
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",Osn Movies Action 2
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1658.ts
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lLLGwGe0SU0/VvfF-Wf-PgI/AAAAAAAAD1w/4wuF8M2X9YsckWaAfPSXdIPTDVgcPaSnQ/s1600/be_in_movies_1_hd.png",Bein Movies 1
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/976.ts
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UwMFq9llJ1o/V1rqzzrpfkI/AAAAAAAABhM/zSVyk6vnzasDvxh4H2U4Vfn7rwv3Wot7wCLcB/s200/Movies2HD.jpg",Bein Movies 2 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/977.ts
-#EXTINF:-1 tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies3.jpg",Bein Movies 3 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/978.ts
-#EXTINF:-1,Osn Action HD 
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",Osn Movies Action HD 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1293.ts
-#EXTINF:-1,Osn Yahala Drama
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",Osn Yahala Drama
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1295.ts
-#EXTINF:-1,Osn Cinema 1 
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1296.ts
-#EXTINF:-1,Osn Cinema 2 
+#EXTINF:-1 tvg-logo="http://media5.activedd.com/alfatvlive/Cinema_2.png",Alfa Cinema 2 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1297.ts
-#EXTINF:-1,Osn On Demand
+#EXTINF:-1 tvg-logo="http://www.osn.com/osn/media/OSNMedia/Images/2017/demand-tile.png",Osn On Demand
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1673.ts
-#EXTINF:-1,Osn On Demand 1 
+#EXTINF:-1 tvg-logo="http://www.osn.com/osn/media/OSNMedia/Images/2017/demand-tile.png",Osn On Demand 1 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1663.ts
-#EXTINF:-1,Osn On Demand Extra 
+#EXTINF:-1 tvg-logo="http://www.osn.com/osn/media/OSNMedia/Images/2017/demand-tile.png",Osn On Demand Extra 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1662.ts
-#EXTINF:-1,Osn Movie Premiere 
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271414",Osn Movies First
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1294.ts
-#EXTINF:-1,Osn Movies Premiere 2 
+#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271414",Osn Movies First
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1660.ts
-#EXTINF:-1,Osn Movies Drama 
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1657.ts
 
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,WWE NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE NETWORK
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/631.rtmp
-#EXTINF:-1,ACTION MAX
+#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/action%20max.png",ACTION MAX
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/645.rtmp
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/644.rtmp
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/652.rtmp
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG", DISCOVERY SCIENCE
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/651.rtmp
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",Animal Planet
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/671.rtmp
-#EXTINF:-1,H2
+#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b9/H2hd.png/revision/latest?cb=20120229052144",H2
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/633.rtmp
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/2/22/Cartoon_Network_HD_logo.png/revision/latest?cb=20140126202906",Cartoon Network HD
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/670.rtmp
-#EXTINF:-1,SYFY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",SYFY
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/658.rtmp
-#EXTINF:-1,FOX
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232",FOX
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/665.rtmp
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2000px-FX_International_logo.svg.png",FX
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/664.rtmp
-#EXTINF:-1,FXX
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/mycartoonnetworkav/images/4/40/FXX_Logo.svg.png/revision/latest?cb=20151222053625",FXX
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/635.rtmp
-#EXTINF:-1,Velocity
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png",Velocity
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/646.rtmp
-#EXTINF:-1,STARZ CINEMA
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/11/Starz_Cinema.png/revision/latest?cb=20100322083105",STARZ CINEMA
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/636.rtmp
-#EXTINF:-1,STARZ EAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/2000px-Starz_HD_logo.svg.png",STARZ EAST
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/637.rtmp
-#EXTINF:-1,SHOWTIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Showtime-Logo.svg/1000px-Showtime-Logo.svg.png",SHOWTIME
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/638.rtmp
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",COMEDY CENTRAL
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/667.rtmp
-#EXTINF:-1,HBO COMEDY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png",HBO COMEDY
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/624.rtmp
-#EXTINF:-1,HBO FAMILY
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647",HBO FAMILY
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/623.rtmp
-#EXTINF:-1,HBO
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/sopranos/images/d/dd/HBO.png/revision/latest?cb=20150419044453",HBO
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/634.rtmp
-#EXTINF:-1,CARTOON NETWORK CANADA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/220px-Cartoon_Network_logo.svg.png",CARTOON NETWORK CANADA
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/805.rtmp
-#EXTINF:-1,MOVIE TIME CANADA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",MOVIE TIME CANADA
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/787.rtmp
-#EXTINF:-1,TELETOON CANADA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Teletoon_logo.svg/1280px-Teletoon_logo.svg.png",TELETOON CANADA
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/775.rtmp
-#EXTINF:-1,THE MOVIE NETWORK CANADA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/1200px-The_Movie_Network_Logo.svg.png",THE MOVIE NETWORK CANADA
 http://dns1.theplayersklub.host:2095/live/leetv/leet                                                                                                                                                                                                                                      
