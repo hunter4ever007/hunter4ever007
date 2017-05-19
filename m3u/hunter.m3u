@@ -3,6 +3,8 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 
 http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 L2
+rtmp://www.teledunet.net/live?idu=_6ks80jvyn//mbc_1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
 http://130.185.144.63:8081/jppw/MBC2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD 
@@ -219,7 +221,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&si
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
 http://tv.solidiptv.com:25461/live/PAUTEK74Y2/50percent12/2860.ts|User-Agent=123&.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3
-http://158.69.229.52:8900/MBC3/index.m3u8
+rtmp://www.teledunet.net/live?idu=_6ks80jvyn//mbc_3
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
