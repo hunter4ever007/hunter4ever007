@@ -339,17 +339,19 @@ http://streaming-hub.com/stream/rmc.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/1490971214162.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png", Saudi Sunnah HD
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel3/2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel3/1.m3u8
 #EXTINF:-1 tvg-logo="http://sauditv.net/images/Saudi_TV_1.png", Saudi 1 HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png", Saudi 2 HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel2/2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel2/1.m3u8
 #EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg", Al Thakafiyah HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095345394.png",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
@@ -470,4 +472,4 @@ http://dns1.theplayersklub.host:2095/live/leetv/leetv1/787.rtmp
 #EXTINF:-1,TELETOON CANADA
 http://dns1.theplayersklub.host:2095/live/leetv/leetv1/775.rtmp
 #EXTINF:-1,THE MOVIE NETWORK CANADA
-http://dns1.theplayersklub.host:2095/live/leetv/leet                                                                                                                                                                                                                                      
+http://dns1.theplayersklub.host:2095/live/leetv/leet                                                                                                                                                                                                                                      
