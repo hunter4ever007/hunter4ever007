@@ -2,25 +2,23 @@
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 
-http://130.185.144.63:8081/jppw/MBC1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 L2
-rtmp://www.teledunet.net/live?idu=_6ks80jvyn//mbc_1
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/945.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
-http://130.185.144.63:8081/jppw/MBC2/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/946.ts
 #EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD 
-http://130.185.144.63:8081/jppw/MBC4/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/948.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA 
-http://130.185.144.63:8081/jppw/MBCDrama/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/949.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX SD 
-http://130.185.144.63:8081/jppw/MBCMax/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/950.ts
 #EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION SD 
-http://130.185.144.63:8081/jppw/MBCAction/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/951.ts
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
-http://130.185.144.63:8081/jppw/MBCBolywood/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/952.ts
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/09/c18fbaf7.png", MBC MASR 1
-http://130.185.144.63:8081/jppw/MBCMasr/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/104.ts
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/mbc-masr-logo.jpg", MBC MASR 2
-http://130.185.144.63:8081/jppw/MBCMasr2/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/103.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
