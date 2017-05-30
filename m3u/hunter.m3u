@@ -24,11 +24,11 @@ http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/103.ts
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png", ABU DHABI
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
 #EXTINF:-1 tvg-logo="http://up.1sw1r.com/upfiles2/cza40253.png", ABU DHABI Drama
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png", ABU DHABI Emirates HD
-http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjYxLjYuNC45MCIsImlzcyI6IiIsIm5iZiI6IjAiLCJqdGkiOiIiLCJpYXQiOjE0ODc1NjcwNjYsImV4cCI6MTQ4NzU3MjQ2Nn0.LB1N5mLM89oVBNU24LALMEitjk3E5QJSHhJ06jLnsJk
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png", Dubai TV HD
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif", Sama Dubai HD
@@ -40,21 +40,19 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
-http://stream-05.dc3.dailymotion.com/19/dm/1/x5hbjgh/live.isml/events(live-1495057193)/live-audio=128000-video=2100000.m3u8
+http://stream-01.dc3.dailymotion.com/01/dm/1/x5hbjgh/live.isml/events(live-1496179198)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
-http://130.185.144.63:8081/jppw/artaflam1/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/107.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
-http://130.185.144.63:8081/jppw/artaflam2/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/108.ts
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png", art Cinema
-http://130.185.144.63:8081/jppw/artcenima/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/106.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/ART_HEKAYAT.png/revision/latest?cb=20150308150842", art Hekayat 1
-http://130.185.144.63:8081/jppw/arthekayat/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/102.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png/revision/latest?cb=20150308150904", art Hekayat 2
-http://130.185.144.63:8081/jppw/arthekayat2/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/105.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One L2
-http://130.185.144.63:8081/jppw/dubaione/playlist.m3u8
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
@@ -79,18 +77,6 @@ http://130.185.144.63:8081/jppw/RotanaMusic/playlist.m3u8
 http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
-#EXTINF:-1 tvg-logo="http://www.cairocinema.net/wp-content/uploads/2014/02/Comp-1-0-00-01-00-222x300.png",Cairo Cinema
-http://130.185.144.63:8081/jppw/CairoCinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.egynews.net/wp-content/uploads/2014/12/64285bdf1.png",Nile cinema
-http://130.185.144.63:8081/jppw/Nilecinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-KBjNQsmDLnQ/VVxEaovCgCI/AAAAAAAABBw/DNkP8GX_x0g/w800-h800/Nile-Drama-bath-mubasher.png",Nile Drama
-http://130.185.144.63:8081/jppw/NileDrama/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/nile_comedy_tv_sport_channel_live_egypt_online_free_arabic_channel.png",Nile Comedy
-http://130.185.144.63:8081/jppw/NileComedy/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FEap04F0MB4/VDmef_lqsvI/AAAAAAAACTk/W8lejLTVPvA/s1600/Panorama%2BDrama%2B1.png",Panorama Drama
-http://130.185.144.63:8081/jppw/PanoramaDrama/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1165_1.png",Panorama Drama 2
-http://130.185.144.63:8081/jppw/panoramadrama2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
 http://130.185.144.63:8081/jppw/CBCDrama/chunks.m3u8
 
@@ -154,15 +140,15 @@ http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
 http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
-http://zona-live-tv.com/Chan/Sport/SkySports1.m3u8
+http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
-http://zona-live-tv.com/Chan/Sport/SkySports2.m3u8
+http://185.142.239.164:3135/2/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
-http://zona-live-tv.com/Chan/Sport/SkySports3.m3u8
+http://185.142.239.164:3135/3/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
-http://zona-live-tv.com/Chan/Sport/SkySports4.m3u8
+http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
-http://zona-live-tv.com/Chan/Sport/SkySports5.m3u8
+http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
