@@ -3,6 +3,8 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/945.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/600px-Mbc1logo.png", MBC 1 HD
+http://iptvreseller.xyz:1234/live/App0015/li30vefpymwsisd/142.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/946.ts
 #EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD 
