@@ -158,6 +158,12 @@ http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
 http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
+http://arabolivo.gcdn.co/LQ-AR-MBC-SPORT1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 HD
+http://arabolivo.gcdn.co/LQ-AR-MBC-SPORT2/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 HD
+http://arabolivo.gcdn.co/LQ-AR-MBC-SPORT3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
