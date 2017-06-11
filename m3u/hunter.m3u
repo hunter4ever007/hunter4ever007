@@ -44,11 +44,11 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
-http://51.254.197.48:6204/live/kingo/ON20/225.ts
+http://51.254.197.48:6204/live/kingo/ON20/225.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
-http://51.254.197.48:6204/live/kingo/ON20/44.ts
+http://51.254.197.48:6204/live/kingo/ON20/44.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
-http://51.254.197.48:6204/live/kingo/ON20/43.ts
+http://51.254.197.48:6204/live/kingo/ON20/43.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
 http://51.254.197.48:6204/live/kingo/ON20/637.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
