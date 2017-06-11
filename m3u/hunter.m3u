@@ -43,6 +43,15 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
+http://51.254.197.48:6204/live/kingo/ON20/225.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
+http://51.254.197.48:6204/live/kingo/ON20/44.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
+http://51.254.197.48:6204/live/kingo/ON20/43.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
+http://51.254.197.48:6204/live/kingo/ON20/637.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
 http://stream-01.dc3.dailymotion.com/01/dm/1/x5hbjgh/live.isml/events(live-1496179198)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
@@ -154,32 +163,26 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zKqIfmpzpM0/VxtgVdwFwnI/AAAAAAAAACc/rBKHyemJbrQZ6g69d1xn1Us9xYuAdcPigCKgB/s320/bein-sports1.jpg",Bein Sport HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/961.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gItRidkgIQY/VTEo1jOWTAI/AAAAAAAABCc/ciluc6ddI3Q/s1600/1.png",Bein Sport 1 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1454.ts
+http://asno.gcdn.co/bn-sp-1-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-E6vo5enfEqE/VgxC6YIC0RI/AAAAAAAAAD8/oEyOkEfUznI/s1600/b2.png",Bein Sport 2 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1455.ts
+http://asno.gcdn.co/bn-sp-2-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-FELvPSQ6RpM/VqjlOFKu91I/AAAAAAAAGCs/3lumVXv4rfY/s1600/yalla-shoot-bein-sport-HD.png",Bein Sport 3 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1456.ts
+http://asno.gcdn.co/bn-sp-3-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-sLSEBgQwOLY/VTEpJ2-K4ZI/AAAAAAAABDU/o1GxWSzMdzA/s1600/4.png",Bein Sport 4 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1457.ts
+http://asno.gcdn.co/bn-sp-4-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-abIppZHy5z8/VTEpMZlI5EI/AAAAAAAABDg/JBlNM04rUh4/s1600/5.png",Bein Sport 5 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1458.ts
+http://asno.gcdn.co/bn-sp-5-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www.itvhd.live/wp-content/uploads/2017/04/bein-sports-6-hd.jpg",Bein Sport 6 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1467.ts
+http://asno.gcdn.co/bn-sp-6-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ZvrDyTxZxkM/VTEpU97Y2PI/AAAAAAAABD0/TlYWi-ZGnnk/s1600/7.png",Bein Sport 7 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1459.ts
+http://asno.gcdn.co/bn-sp-7-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VB1L_1ywcGM/VTEpWMR6naI/AAAAAAAABD8/vHRpwo64W30/s1600/8.png",Bein Sport 8 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1460.ts
+http://asno.gcdn.co/bn-sp-8-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www.itvhd.live/wp-content/uploads/2017/04/bein-sports-9-hd.jpg",Bein Sport 9 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1461.ts
+http://asno.gcdn.co/bn-sp-9-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png",Bein Sport 10 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1462.ts
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4QWLfWPRYAw/VTEo1i7U-uI/AAAAAAAABCs/17zUVybCwyA/s1600/11.png",Bein Sport 11 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/972.ts
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Fuj_8acwr4g/VTEo8VaTcFI/AAAAAAAABC0/Dpz2FhLJ3rc/s1600/12.png",Bein Sport 12 HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/973.ts
+http://asno.gcdn.co/bn-sp-10-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
