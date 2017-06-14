@@ -130,8 +130,6 @@ http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 3
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_43s20.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5
@@ -262,7 +260,7 @@ http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png", Arabica
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC
-http://130.185.144.63:8081/jppw/CBC/playlist.m3u8
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png",Kifa
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-udOoSmeHTQk/T_Erl6pY4HI/AAAAAAAABO8/t_Gl_JULlgA/s1600/alhayat_2.png", Alhayat 2
@@ -292,9 +290,9 @@ rtmp://peace.fms.visionip.tv/live/?v=1023804506/b2b-peace_usa-live-25f-4x3-sdh_3
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121451214.png",[COLOR yellow]          NEWS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png", AL Arabiya
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/alhadath.png", Al Hadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+http://live.alhadath.net/hadath/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%86.png", Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/552fae9ae4b07ad1f4790787/556ff99be4b0467afc6baf0d/5573b7f0e4b0c1433c07ac8e/1433647090181/aljazeera.png", Aljazeera News
@@ -306,9 +304,9 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Al Jazeera English FHD 1080p
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN
-http://208.86.19.123:8080/live/20.stream/index.m3u8
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjYxLjYuNC45MCIsImlzcyI6IiIsIm5iZiI6IjAiLCJqdGkiOiIiLCJpYXQiOjE0ODc1NzE3NjksImV4cCI6MTQ4NzU3NzE2OX0.SMbRUfTbkTBD5tWdWFGLTKM2V_hOrQVI4XyPqUSJj5c
+http://stream.skynewsarabia.com/stream/snahls_high.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://www.cifra1.ru/files/pages/0000/0377/files/Russia-Today.png",Russia Today HD
