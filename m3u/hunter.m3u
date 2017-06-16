@@ -73,15 +73,15 @@ http://51.254.197.48:6204/live/kingo/ON20/637.ts|User-Agent=ONLINETVCLIENT_X6000
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
 http://stream-05.dc3.dailymotion.com/05/dm/1/x5hbjgh/live.isml/events(live-1497304959)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/107.ts
+http://51.254.197.48:6204/live/kingo/ON20/57.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/108.ts
+http://51.254.197.48:6204/live/kingo/ON20/58.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png", art Cinema
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/106.ts
+http://51.254.197.48:6204/live/kingo/ON20/59.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/ART_HEKAYAT.png/revision/latest?cb=20150308150842", art Hekayat 1
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/102.ts
+http://51.254.197.48:6204/live/kingo/ON20/55.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png/revision/latest?cb=20150308150904", art Hekayat 2
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/105.ts
+http://51.254.197.48:6204/live/kingo/ON20/105.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
