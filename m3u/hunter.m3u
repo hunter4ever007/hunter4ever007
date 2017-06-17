@@ -332,7 +332,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Documentary
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 
 
 
@@ -368,8 +368,6 @@ http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG", H2 ENG
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]     OSN CHANNELS [/COLOR]
