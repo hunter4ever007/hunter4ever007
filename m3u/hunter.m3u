@@ -408,54 +408,10 @@ http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1294.ts
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1660.ts
 
 
-
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE NETWORK
 http://dns1.theplayersklub.host:2095/live/husham/isaplayer/631.rtmp
-#EXTINF:-1 tvg-logo="http://cdd657a867bca3d5084e-b68367b7dbe633942cc09bdd6fb9eaea.r58.cf2.rackcdn.com/action%20max.png",ACTION MAX
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/645.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/644.rtmp
-#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/652.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG", DISCOVERY SCIENCE
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/651.rtmp
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",Animal Planet
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/671.rtmp
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b9/H2hd.png/revision/latest?cb=20120229052144",H2
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/633.rtmp
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/2/22/Cartoon_Network_HD_logo.png/revision/latest?cb=20140126202906",Cartoon Network HD
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/670.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png",SYFY
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/658.rtmp
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/outcastdatabase/images/a/ac/Fox_logo.png/revision/latest?cb=20150807073232",FOX
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/665.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2000px-FX_International_logo.svg.png",FX
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/664.rtmp
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/mycartoonnetworkav/images/4/40/FXX_Logo.svg.png/revision/latest?cb=20151222053625",FXX
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/635.rtmp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png",Velocity
 http://dns1.theplayersklub.host:2095/live/husham/isaplayer/646.rtmp
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/11/Starz_Cinema.png/revision/latest?cb=20100322083105",STARZ CINEMA
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/636.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/2000px-Starz_HD_logo.svg.png",STARZ EAST
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/637.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Showtime-Logo.svg/1000px-Showtime-Logo.svg.png",SHOWTIME
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/638.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png",COMEDY CENTRAL
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/667.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png",HBO COMEDY
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/624.rtmp
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647",HBO FAMILY
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/623.rtmp
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/sopranos/images/d/dd/HBO.png/revision/latest?cb=20150419044453",HBO
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/634.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/220px-Cartoon_Network_logo.svg.png",CARTOON NETWORK CANADA
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/805.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png",MOVIE TIME CANADA
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/787.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Teletoon_logo.svg/1280px-Teletoon_logo.svg.png",TELETOON CANADA
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/775.rtmp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/The_Movie_Network_Logo.svg/1200px-The_Movie_Network_Logo.svg.png",THE MOVIE NETWORK CANADA
-http://dns1.theplayersklub.host:2095/live/leetv/leet                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                    
