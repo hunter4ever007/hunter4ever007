@@ -21,8 +21,6 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 http://51.254.197.48:6204/live/kingo/ON20/511.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1 HD Online
 http://arabolivo.gcdn.co/LQ-AR-MBC1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://www.gobx.com/wp-content/uploads/2016/08/mbc_plus_drama.png", MBC+ Drama HD
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/2053.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 
 http://arabolivo.gcdn.co/LQ-AR-MBC2/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 
