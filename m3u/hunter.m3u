@@ -386,7 +386,7 @@ http://51.254.197.48:6204/live/kingo/ON20/669.ts|User-Agent=ONLINETVCLIENT_X6000
 http://51.254.197.48:6204/live/kingo/ON20/578.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/osn-logo.png",osn Platinum
 http://51.254.197.48:6204/live/kingo/ON20/45.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/OSN_First_HD.png",osn First HD
+#EXTINF:-1 tvg-logo="http://www.econet.com.lb/images/channels/osn_series.png",osn First HD
 http://51.254.197.48:6204/live/kingo/ON20/16.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www.econet.com.lb/images/channels/osn_series.png",osn Series HD First
 http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
@@ -396,7 +396,7 @@ http://51.254.197.48:6204/live/kingo/ON20/8.ts|User-Agent=ONLINETVCLIENT_X60000_
 http://51.254.197.48:6204/live/kingo/ON20/28.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/3d/OSN_Movies_HD.png/revision/latest?cb=20111116210120",osn Movies HD
 http://51.254.197.48:6204/live/kingo/ON20/18.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/OSN_Movies_Festival.png",osn Movies HD Festival 
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/3d/OSN_Movies_HD.png/revision/latest?cb=20111116210120",osn Movies HD 2 
 http://51.254.197.48:6204/live/kingo/ON20/671.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://osnplay.osn.com/Global/Channel%20Logos/NatGeoW.png",osn Nat Geo Wild
 http://51.254.197.48:6204/live/kingo/ON20/33.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
