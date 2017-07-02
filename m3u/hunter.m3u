@@ -92,8 +92,8 @@ http://arabolivo.gcdn.co/LQ-AR-Rotana-Music/index.m3u8|User-Agent=ONLINETVCLIENT
 http://asno.gcdn.co/mhd-Rotana-Masriya/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://arabolivo.gcdn.co/LQ-AR-Rotana-Khaliji/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia filmon
-http://zona-live-tv.com/Chan/Entertainments/RotanaKhalijia.m3u8
+#EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia S2
+http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://arabolivo.gcdn.co/LQ-AR-Rotana-Classic/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
@@ -411,7 +411,7 @@ http://51.254.197.48:6204/live/kingo/ON20/687.ts|User-Agent=ONLINETVCLIENT_X6000
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE NETWORK
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/631.rtmp
+http://thepk.co:2095/live/husham/isaplayer/1630.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png",Velocity
 http://dns1.theplayersklub.host:2095/live/husham/isaplayer/646.rtmp
                                                                                                                                                                                                                     
