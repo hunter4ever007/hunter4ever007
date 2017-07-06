@@ -389,46 +389,8 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]     OSN CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271410",osn Movies Action
-http://51.254.197.48:6204/live/kingo/ON20/10.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271425",osn Yahala Aloula
-http://51.254.197.48:6204/live/kingo/ON20/3.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://gulf-up.com/do.php?img=271619",Alfa Cinema 1 
-http://51.254.197.48:6204/live/kingo/ON20/23.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://media5.activedd.com/alfatvlive/Cinema_2.png",Alfa Cinema 2 
-http://51.254.197.48:6204/live/kingo/ON20/24.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET HD
-http://51.254.197.48:6204/live/kingo/ON20/14.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
-http://51.254.197.48:6204/live/kingo/ON20/9.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/c/c6/Amc.png.300x300_q85.png/revision/latest?cb=20141223232758", AMC
-http://51.254.197.48:6204/live/kingo/ON20/13.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
-http://51.254.197.48:6204/live/kingo/ON20/669.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/osn-logo.png",osn
-http://51.254.197.48:6204/live/kingo/ON20/578.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/osn-logo.png",osn Platinum
-http://51.254.197.48:6204/live/kingo/ON20/45.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://www.econet.com.lb/images/channels/osn_series.png",osn First HD
-http://51.254.197.48:6204/live/kingo/ON20/16.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www.econet.com.lb/images/channels/osn_series.png",osn Series HD First
 http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://www.econet.com.lb/images/channels/osn_series.png",osn Series HD
-http://51.254.197.48:6204/live/kingo/ON20/8.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/7811840_orig.png",FX HD
-http://51.254.197.48:6204/live/kingo/ON20/28.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/3d/OSN_Movies_HD.png/revision/latest?cb=20111116210120",osn Movies HD
-http://51.254.197.48:6204/live/kingo/ON20/18.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/3/3d/OSN_Movies_HD.png/revision/latest?cb=20111116210120",osn Movies HD 2 
-http://51.254.197.48:6204/live/kingo/ON20/671.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://osnplay.osn.com/Global/Channel%20Logos/NatGeoW.png",osn Nat Geo Wild
-http://51.254.197.48:6204/live/kingo/ON20/33.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://iistar-korea.eu/wp-content/uploads/2017/01/iStar-Online-TV-new-logo.png",Online Box Office
-http://51.254.197.48:6204/live/kingo/ON20/679.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://iistar-korea.eu/wp-content/uploads/2017/01/iStar-Online-TV-new-logo.png",Online Masrahyat
-http://51.254.197.48:6204/live/kingo/ON20/686.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://iistar-korea.eu/wp-content/uploads/2017/01/iStar-Online-TV-new-logo.png",Online Kids
-http://51.254.197.48:6204/live/kingo/ON20/687.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
