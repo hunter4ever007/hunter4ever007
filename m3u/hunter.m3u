@@ -243,13 +243,13 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&si
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
 http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1047.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3
-http://51.254.197.48:6204/live/kingo/ON20/513.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_264s18.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_266s30.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai
 http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai L2
@@ -377,12 +377,6 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/4music_(logo).svg/995px-4music_(logo).svg.png", 4 Music
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/c/c6/Amc.png.300x300_q85.png/revision/latest?cb=20141223232758", AMC
-http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/cartoonnetwork/images/e/ec/CN_Logo_(Detailed_Gray_Shadow).png/revision/20111112154653", CARTOON NETWORK
-http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
-#EXTINF:-1 tvg-logo="http://logonoid.com/images/nicktoons-logo.png", Nicktoons
-http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
