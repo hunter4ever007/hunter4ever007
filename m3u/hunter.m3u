@@ -103,7 +103,7 @@ http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
-http://130.185.144.63:8081/jppw/CBCDrama/chunks.m3u8
+http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76711/clearlogo/JackieChanAdventures-76711.png",JACKIE CHAN CHANNEL
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
@@ -340,14 +340,14 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
 rtmp://82.212.74.98/live//7905
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET HD LIVE
-http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET
+http://37.26.105.7:8002/play/a00j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Documentary
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
-http://208.86.19.13:8080/live/31.stream/index.m3u8
+http://37.26.105.7:8002/play/a00l
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
@@ -434,7 +434,5 @@ http://51.254.197.48:6204/live/kingo/ON20/687.ts|User-Agent=ONLINETVCLIENT_X6000
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png",[COLOR red]        HD ENGLISH CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE NETWORK
-http://thepk.co:2095/live/husham/isaplayer/1630.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png",Velocity
-http://dns1.theplayersklub.host:2095/live/husham/isaplayer/646.rtmp
+http://185.142.239.164:3135/WWe/Network/index.m3u8?token=MjRmOGRkYzg0ZWE0MmNmMWFiNzUzMTk0MTA3NDczMjI6MTQ5MzgzNjExNA==
                                                                                                                                                                                                                     
