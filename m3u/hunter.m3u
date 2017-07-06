@@ -17,8 +17,6 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1 HD
-http://51.254.197.48:6204/live/kingo/ON20/511.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1 HD Online
 http://arabolivo.gcdn.co/LQ-AR-MBC1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 
@@ -203,6 +201,27 @@ http://asno.gcdn.co/bn-sp-8-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X2500
 http://asno.gcdn.co/bn-sp-9-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fQH7K8Nr7EY/VTEo1vZyNaI/AAAAAAAABCk/2Ds-zyOdo9Q/s1600/10.png",Bein Sport 10 HD
 http://asno.gcdn.co/bn-sp-10-hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 1 SD
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 2 SD
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 3 SD
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 4 SD
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 5 SD
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 6 SD
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 7 SD
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 8 SD
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 9 SD
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://beinmediagroup.com/wp-content/uploads/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png",Bein 10 SD
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
