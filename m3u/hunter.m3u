@@ -54,11 +54,11 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
-http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/428.m3u8
+http://zona-live-tv.com/Chan/Entertainments/beINMovies1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
-http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/429.m3u8
+http://zona-live-tv.com/Chan/Entertainments/beINMovies2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
-http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/430.m3u8
+http://zona-live-tv.com/Chan/Entertainments/beINMovies3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 4
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/431.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
@@ -99,7 +99,9 @@ http://arabolivo.gcdn.co/LQ-AR-Rotana-Classic/index.m3u8|User-Agent=ONLINETVCLIE
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
 http://arabolivo.gcdn.co/LQ-AR-Rotana-clip/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
-http://130.185.144.63:8081/jppw/ZeeAflem/playlist.m3u8
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/165.ts|User-Agent=Lavf/55.19.104&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts|User-Agent=Lavf/55.19.104&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
@@ -250,6 +252,8 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_266s30.m3u8
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png",Oman TV
+http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai
 http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai L2
@@ -327,7 +331,7 @@ http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1263_1.png", CBC ExtraNews
 http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+http://abclive.abcnews.com/i/abc_live3@136329/index_1200_av-b.m3u8?sd=10&b=300,500-2500&rebase=on
 #EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 
