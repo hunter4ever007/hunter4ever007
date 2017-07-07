@@ -243,7 +243,7 @@ http://zona-live-tv.com/Chan/Arab/ToyorAlJanah.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72860/clearlogo/tomandjerry-72860.png",Tom and Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
-http://xc.cobra-iptv.com:25461/live/arabian-v2/Vq0H5ksVFU/1047.ts
+http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/192.ts|User-Agent=Lavf/55.19.104&.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
