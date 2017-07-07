@@ -145,7 +145,7 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN 
-http://zona-live-tv.com/Chan/Sport/IdmanTV.m3u8
+https://sorf.tvizlehd.com/idmantv.m3u8?tkn=Hzyj35O7osuvaAKpHI61Zg&tms=1499471832
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
 http://zona-live-tv.com/Chan/Sport/WWE.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban TV
