@@ -106,7 +106,7 @@ http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts|User-Agent=Lavf
 http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
 http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76711/clearlogo/JackieChanAdventures-76711.png",JACKIE CHAN CHANNEL
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76711/clearlogo/JackieChanAdventures-76711.png",JACKIE CHAN Channel
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 
@@ -150,6 +150,14 @@ http://zona-live-tv.com/Chan/Sport/MUTV.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
+#EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss1hd.png",Supersport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss2hd.png",Supersport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss3hd.png",Supersport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss4hd.png",Supersport 4
+http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.haberyazar.com/wp-content/uploads/2015/08/idman.png",IDMAN 
 https://sorf.tvizlehd.com/idmantv.m3u8?tkn=Hzyj35O7osuvaAKpHI61Zg&tms=1499471832
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
