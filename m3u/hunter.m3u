@@ -17,9 +17,22 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA 
+#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1
+http://185.2.83.139:6204/live/ara/ARA/1.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 
+http://185.2.83.139:6204/live/ara/ARA/2.ts
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 
+http://185.2.83.139:6204/live/ara/ARA/4.ts
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX 
+http://185.2.83.139:6204/live/ara/ARA/5.ts
+#EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION
+http://185.2.83.139:6204/live/ara/ARA/7.ts
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA  
+http://185.2.83.139:6204/live/ara/ARA/8.ts
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA S2
 http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
+http://185.2.83.139:6204/live/ara/ARA/10.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
@@ -72,23 +85,25 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema L2
-http://asno.gcdn.co/mhd-Rotana-Cinema-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://185.2.83.139:6204/live/ara/ARA/16.ts
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
-http://arabolivo.gcdn.co/LQ-AR-Rotana-Music/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://185.2.83.139:6204/live/ara/ARA/21.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
-http://asno.gcdn.co/mhd-Rotana-Masriya/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://185.2.83.139:6204/live/ara/ARA/20.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
-http://arabolivo.gcdn.co/LQ-AR-Rotana-Khaliji/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://185.2.83.139:6204/live/ara/ARA/19.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia S2
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
-http://arabolivo.gcdn.co/LQ-AR-Rotana-Classic/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://185.2.83.139:6204/live/ara/ARA/17.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
-http://arabolivo.gcdn.co/LQ-AR-Rotana-clip/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://185.2.83.139:6204/live/ara/ARA/18.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts|User-Agent=Lavf/55.19.104&.ts
+#EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
+http://185.2.83.139:6204/live/ara/ARA/91.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
@@ -247,8 +262,12 @@ http://zona-live-tv.com/Chan/Arab/ToyorAlJanah.m3u8
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/192.ts|User-Agent=Lavf/55.19.104&.ts
-#EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",Mbc 3
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
+http://185.2.83.139:6204/live/ara/ARA/277.ts
+#EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",mbc 3
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",mbc 3 S2
+http://185.2.83.139:6204/live/ara/ARA/2.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
@@ -281,6 +300,8 @@ http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC S2
+http://185.2.83.139:6204/live/ara/ARA/249.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png",Kifa
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-udOoSmeHTQk/T_Erl6pY4HI/AAAAAAAABO8/t_Gl_JULlgA/s1600/alhayat_2.png", Alhayat 2
