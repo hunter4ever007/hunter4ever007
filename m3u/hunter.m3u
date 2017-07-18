@@ -17,22 +17,9 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1 HD Online
-http://arabolivo.gcdn.co/LQ-AR-MBC1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 
-http://arabolivo.gcdn.co/LQ-AR-MBC2/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 
-http://arabolivo.gcdn.co/LQ-AR-MBC4/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA 
 http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX 
-http://51.254.197.48:6204/live/kingo/ON20/517.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION
-http://51.254.197.48:6204/live/kingo/ON20/515.ts|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
-http://arabolivo.gcdn.co/LQ-AR-MBC-Bollywood/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/09/c18fbaf7.png", MBC MASR 1
-http://arabolivo.gcdn.co/LQ-AR-MBC-MASR/index.m3u8|ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
@@ -187,11 +174,11 @@ http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYj
 http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
-http://arabolivo.gcdn.co/LQ-AR-MBC-SPORT1/index.m3u8
+http://185.2.83.139:6204/live/ara/ARA/11.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 HD
-http://arabolivo.gcdn.co/LQ-AR-MBC-SPORT2/index.m3u8
+http://185.2.83.139:6204/live/ara/ARA/12.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 HD
-http://arabolivo.gcdn.co/LQ-AR-MBC-SPORT3/index.m3u8
+http://185.2.83.139:6204/live/ara/ARA/13.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
