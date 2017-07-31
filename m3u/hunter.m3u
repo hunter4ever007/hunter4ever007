@@ -17,22 +17,8 @@ http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1
-http://185.2.83.139:6204/live/ara/ARA/1.ts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 
-http://185.2.83.139:6204/live/ara/ARA/2.ts
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png", MBC 4 
-http://185.2.83.139:6204/live/ara/ARA/4.ts
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png", MBC MAX 
-http://185.2.83.139:6204/live/ara/ARA/5.ts
-#EXTINF:-1 tvg-logo="http://139.59.159.5/pic/mbcaction.jpg", MBC ACTION
-http://185.2.83.139:6204/live/ara/ARA/7.ts
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA  
-http://185.2.83.139:6204/live/ara/ARA/8.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA S2
 http://asno.gcdn.co/mhd-MBC-Drama/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
-http://185.2.83.139:6204/live/ara/ARA/10.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
@@ -205,7 +191,7 @@ http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYj
 http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
-http://185.2.83.139:6204/live/ara/ARA/11.ts
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/276.ts|User-Agent=BlacIPTVLibVLC/3.0.0-git&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 HD
 http://185.2.83.139:6204/live/ara/ARA/12.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 HD
@@ -438,446 +424,920 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 #EXTINF:-1 tvg-logo="https://www.blackhatprotools.net/images/imported/2013/01/1.png",[COLOR yellow]     VIP CHANNELS [/COLOR]
 ***********
-#EXTINF:-1, Bein Sports 1 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/375.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 2 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/33.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/830.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 2 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/376.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/831.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 3 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/34.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 3 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/377.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/832.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 4 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/35.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 4 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/378.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 5 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/36.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/833.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 5 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/379.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 5
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/834.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 6 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/37.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 6 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/380.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 6
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/835.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 7 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/38.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 7 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/381.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 7
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/836.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 8 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/39.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 8 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/382.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 8
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/837.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 9 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/40.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 9 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/383.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 9
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/838.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 10 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/41.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 10 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/384.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 10
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/839.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 11 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/42.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 11 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/385.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 11
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/840.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 12 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/43.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 12 HD Backup
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/386.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Bein Sports 12
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/841.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bck: Bein Movies 1 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/351.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bck: Bein Movies 2 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/352.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bck: Bein Movies 3 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/353.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bck: Bein Movies 4 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/354.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Movies 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/387.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Movies 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/388.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Movies 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/389.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 1 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/289.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 2 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/290.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 3 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/291.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 4 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/292.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 5 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/293.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 6 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/294.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 7 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/295.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 8 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/296.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 9 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/297.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 10 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/298.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 11 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/299.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 12 AR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/300.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/75.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 1 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/124.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Sky Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/728.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/76.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 2 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/123.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Sky Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/729.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/77.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 3 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/122.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Sky Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/730.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/78.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 4 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/121.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Sky Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/731.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 5
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/79.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports 5 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/120.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Sky Sports 5
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/732.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports F1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/80.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports F1 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/119.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports News
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/81.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sports News HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/118.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, SP: Sky Sports Mix
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/860.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/45.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports 1 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/126.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: BT Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/733.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/46.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports 2 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/125.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: BT Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/734.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/127.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports 3 HQ
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/237.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: BT Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/781.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bt Sports ESPN UK
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/47.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Eir Sports1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/849.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Eir Sports2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/850.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, TSN 1 New
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/451.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, TSN 2 New
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/452.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Super Sport 1 Albania
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/416.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Super Sport 2 Albania
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/417.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Super Sport 3 Albania
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/418.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Super Sport 4 Albania
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/419.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Ten 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/153.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Ten 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/312.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Ten 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/152.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Ten 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/313.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Ten 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/815.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Ten 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/314.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, IN:SETMAX
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/511.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g+:Cricket 24×7
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/865.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sony Six
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/6.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Sony Six
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/766.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sony ESPN New
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/759.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Channel 9 (Bangladesh)
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/764.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: WWE Network
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/433.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, SP: Prime TV (SKY 792)
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/842.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: NBA TV HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/750.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NAM: Lfc TV
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/440.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/26.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 1 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/27.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Bein Sports 1 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/762.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 2 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/28.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Bein Sports 2 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/761.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Bein Sports 3 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/29.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Bein Sports 3 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/760.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sport Klub 1 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/87.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sport Klub 2 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/88.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sport Klub 3 HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/89.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sport TV1 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/7.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Sport TV1 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/723.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sport TV2 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/8.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Sport TV2 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/724.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sport TV3 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/9.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, New: Sport TV3 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/725.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Arena Sports 1 HD Croatian
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/18.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Arena Sports 2 HD Croatian
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/19.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Arena Sports 3 HD Croatian
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/20.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Arena Sports 4 HD Croatian
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/21.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 1 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/85.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 2 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/86.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Fox Sports 1 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/777.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Fox Sports 2 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/778.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NAM: SportsNetWorld
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/467.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Live: Box Nation
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/780.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NBC Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/17.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NAM: NBCSN
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/779.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, GeoSuper
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/238.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Premier Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/56.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Star Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/115.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, KHD: Star Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/435.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Star Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/150.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, SP:Star Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/436.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Star Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/240.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, SP:Star Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/437.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Star Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/149.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, KHD: Star Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/438.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, GTV
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/429.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, PTV Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/147.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, SP: PTV Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/859.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, WWE Network
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/146.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, MUTV
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/145.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Willow Tv (Cricket)
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/117.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, SP: Willow Cricket HD
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/434.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Chelsea TV
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/148.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Setanta Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/57.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sport 1 HD Italy
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/92.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sport 2 HD Italy
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/93.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sport 3 HD Italy
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/10.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sport 24 HD Italy
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/11.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sport 1 HD Deutch Germany
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/58.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Sport 2 HD Deutch Germany
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/59.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Sky Bundesliga HD1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/60.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NFL Network
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/82.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 1 HD NL
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/5.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 2 HD NL
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/4.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 3 HD NL
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/3.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 4 HD NL
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/2.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Fox Sports 5 HD NL
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/1.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Eurosport 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/50.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Eurosport 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/51.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NAM: ESPN USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/48.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, NAM: ESPN 2 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/49.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Canal + Sport
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/91.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:Sky Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/256.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:Sky Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/257.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:Sky Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/258.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:Sky Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/259.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:Sky Sports 5
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/260.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Sky Sports F1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/310.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Sky Sports News
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/309.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:BT Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/261.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:BT Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/262.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g:BT Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/263.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-BT Sports ESPN
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/792.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Sport TV1 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/324.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Sport TV2 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/325.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Sport TV3 Portugal
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/326.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-GeoSuper
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/239.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Gtv
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/430.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Sony Six
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/143.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Ptv Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/136.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Star Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/133.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Star Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/134.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Star Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/241.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Star Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/338.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Ten 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/138.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Ten 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/137.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Ten 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/315.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-WWE Network
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/286.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Channel 9 (Bangladesh)
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/765.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Willow Cricket
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/139.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Arena Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/320.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Arena Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/321.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Arena Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/322.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Arena Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/323.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 1 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/316.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 2 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/317.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Bein Sports 3 FR
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/318.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Premier Sports
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/763.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2G-Box Nation
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/816.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Fox Sports 1 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/813.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, 2g-Fox Sports 2 USA
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/814.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: BT Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/826.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: BT Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/827.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: BT Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/828.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Sky Sports 1
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/817.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Sky Sports 2
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/818.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Sky Sports 3
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/819.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Sky Sports 4
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/820.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1, Foot: Sky Sports 5
-http://live1.livetvindia.co.in:8000/live/333sdfs3d3fsfd333/sdf23sdr5sdf6r3dds/821.ts|User-Agent=sammaadsdsss&.ts
+#EXTM3U
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beIN_Sports_News" tvg-logo="" group-title="02- beIN SPORTS",beIN_Sports_News
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/22.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="BeIN-SPORTS-Global" tvg-logo="" group-title="02- beIN SPORTS",BeIN-SPORTS-Global
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/21.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS-1HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-1HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/1.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-1HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-1HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/2.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="beINSPORTS-2HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-2HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/3.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-2HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-2HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/4.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-3HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-3HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/5.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-3HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-3HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/6.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-4HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-4HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/7.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-4HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-4HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/8.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-5HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-5HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/9.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-5HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-5HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/10.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-6HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-6HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/11.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-6HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-6HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/12.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-7HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-7HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/13.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-7HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-7HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/14.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-8HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-8HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/15.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-8HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-8HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/16.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-9HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-9HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/17.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-9HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-9HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/18.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-10HD.LOCAL" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-10HD.LOCAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/19.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beINSPORTS-10HD.BACKUP" tvg-logo="" group-title="02- beIN SPORTS",beINSPORTS-10HD.BACKUP
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/20.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beIN-SPORTS-11HD-A" tvg-logo="" group-title="02- beIN SPORTS",beIN-SPORTS-11HD-A
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/23.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="beIN-SPORTS-12HD-A" tvg-logo="" group-title="02- beIN SPORTS",beIN-SPORTS-12HD-A
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/24.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="SFR-Sport-1-HD-France" tvg-logo="" group-title="02- beIN SPORTS",SFR-Sport-1-HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/25.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="SFR-Sport-2-HD-France" tvg-logo="" group-title="02- beIN SPORTS",SFR-Sport-2-HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/26.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="SFR-Sport-3-HD-France" tvg-logo="" group-title="02- beIN SPORTS",SFR-Sport-3-HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/27.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Sport_1HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_1HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/28.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Sport_1HD-Fr-B" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_1HD-Fr-B
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/29.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Sport_2HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_2HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/30.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Sport_2HD-Fr-B" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_2HD-Fr-B
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/31.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Sport_3HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_3HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/32.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Sport_3HD-Fr-B" tvg-logo="" group-title="02- beIN SPORTS",Bein_Sport_3HD-Fr-B
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/33.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_04HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_04HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/34.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_05HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_05HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/35.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_06HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_06HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/36.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_07HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_07HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/37.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_08HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_08HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/38.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_09HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_09HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/39.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Bein_Max_10HD-France" tvg-logo="" group-title="02- beIN SPORTS",Bein_Max_10HD-France
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/40.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-1HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-1HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/41.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-2HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-2HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/42.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-3HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-3HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/43.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-4HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-4HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/44.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-5HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-5HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/45.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="2" tvg-name="Abu.Dhabi.Sports-6HD" tvg-logo="" group-title="03- Abu Dhabi Sports",Abu.Dhabi.Sports-6HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/46.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_1_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_1_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/307.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_2_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_2_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/308.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_3_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_3_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/309.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Movies_4_HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Movies_4_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/310.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein_Series-HD" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein_Series-HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/311.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein-FX" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein-FX
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/312.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Bein-FOX-ACTION" tvg-logo="" group-title="04- beIN MOVIES",AR_Bein-FOX-ACTION
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/313.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Cinema_1HD." tvg-logo="" group-title="05- OSN",AR_OSN_Cinema_1HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/299.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Cinema_2HD." tvg-logo="" group-title="05- OSN",AR_OSN_Cinema_2HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/300.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Officebox_1HD." tvg-logo="" group-title="05- OSN",AR_OSN_Officebox_1HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/289.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Officebox_2HD." tvg-logo="" group-title="05- OSN",AR_OSN_Officebox_2HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/290.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Officebox_3HD." tvg-logo="" group-title="05- OSN",AR_OSN_Officebox_3HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/291.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/294.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_2_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_2_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/295.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Premiere." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Premiere.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/292.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Premiere_2." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Premiere_2.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/293.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Action_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Action_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/296.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Action_2_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Action_2_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/297.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Comedy_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Comedy_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/298.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Movies_Kids" tvg-logo="" group-title="05- OSN",AR_OSN_Movies_Kids
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/287.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Ondemand_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Ondemand_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/305.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Ondemend_Extra_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Ondemend_Extra_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/306.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/301.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_Cinema_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_Cinema_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/304.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_Shabab_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_Shabab_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/302.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Yahala_Drama_HD." tvg-logo="" group-title="05- OSN",AR_OSN_Yahala_Drama_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/303.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_OSN_Alsafwa" tvg-logo="" group-title="05- OSN",AR_OSN_Alsafwa
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/288.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_SeeVii-Drama HD" tvg-logo="" group-title="05- OSN",AR_SeeVii-Drama HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/280.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_SeeVii-Shamia." tvg-logo="" group-title="05- OSN",AR_SeeVii-Shamia.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/278.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_SeeVii-Premiere-HD" tvg-logo="" group-title="05- OSN",AR_SeeVii-Premiere-HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/279.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR-SeeVii-Beelink" tvg-logo="" group-title="05- OSN",AR-SeeVii-Beelink
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/281.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TF1" tvg-logo="" group-title="06- TNT France",FR_TF1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/470.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_M6" tvg-logo="" group-title="06- TNT France",FR_M6
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/471.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_O" tvg-logo="" group-title="06- TNT France",FR_FRANCE_O
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/472.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_2" tvg-logo="" group-title="06- TNT France",FR_FRANCE_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/473.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_3" tvg-logo="" group-title="06- TNT France",FR_FRANCE_3
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/474.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_4" tvg-logo="" group-title="06- TNT France",FR_FRANCE_4
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/475.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FRANCE_5" tvg-logo="" group-title="06- TNT France",FR_FRANCE_5
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/476.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ACTION" tvg-logo="" group-title="07- Canal+Cinema",FR_ACTION
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/450.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/455.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL CINEMA" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL CINEMA
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/454.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL SERIES" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL SERIES
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/451.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL FAMILY" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL FAMILY
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/452.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL DECALE" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL DECALE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/453.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_COMEDIE" tvg-logo="" group-title="07- Canal+Cinema",FR_COMEDIE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/464.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_PREMIER" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_PREMIER
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/456.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_FRISSON" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_FRISSON
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/459.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_EMOTION" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_EMOTION
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/461.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_CLASSIC" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_CLASSIC
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/463.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_POLAR" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_POLAR
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/457.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_CLUB" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_CLUB
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/462.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_FAMIZ" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_FAMIZ
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/460.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CINE_FX" tvg-logo="" group-title="07- Canal+Cinema",FR_CINE_FX
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/458.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_CHOC" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_CHOC
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/468.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_GEANT" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_GEANT
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/466.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_MAX" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_MAX
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/465.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OCS_CITY" tvg-logo="" group-title="07- Canal+Cinema",FR_OCS_CITY
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/467.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TCM_CINEMA" tvg-logo="" group-title="07- Canal+Cinema",FR_TCM_CINEMA
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/469.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_1" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/394.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_2" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/395.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_3" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_3
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/396.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_4" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_4
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/397.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_PLAY_5" tvg-logo="" group-title="07- Canal+Cinema",FR_CANAL_PLAY_5
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/398.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_1" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/399.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_2" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/400.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_3" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_3
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/401.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_4" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_4
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/402.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ALACARTE_5" tvg-logo="" group-title="07- Canal+Cinema",FR_ALACARTE_5
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/403.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ANIMAUX" tvg-logo="" group-title="08- Canal+Culture",FR_ANIMAUX
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/439.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISCOVRY" tvg-logo="" group-title="08- Canal+Culture",FR_DISCOVRY
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/437.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISCOVRY-SCI" tvg-logo="" group-title="08- Canal+Culture",FR_DISCOVRY-SCI
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/438.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NAT-GEO-WILD" tvg-logo="" group-title="08- Canal+Culture",FR_NAT-GEO-WILD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/436.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NATIONAL-GEO" tvg-logo="" group-title="08- Canal+Culture",FR_NATIONAL-GEO
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/435.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PLANETE" tvg-logo="" group-title="08- Canal+Culture",FR_PLANETE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/446.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PLANETE-CI" tvg-logo="" group-title="08- Canal+Culture",FR_PLANETE-CI
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/444.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PLANETE-AE" tvg-logo="" group-title="08- Canal+Culture",FR_PLANETE-AE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/445.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_RMC_DECOUVERTE" tvg-logo="" group-title="08- Canal+Culture",FR_RMC_DECOUVERTE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/447.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_SCIENCE_VIE" tvg-logo="" group-title="08- Canal+Culture",FR_SCIENCE_VIE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/448.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_SEASON" tvg-logo="" group-title="08- Canal+Culture",FR_SEASON
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/443.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TOUT_LHISTOIRE" tvg-logo="" group-title="08- Canal+Culture",FR_TOUT_LHISTOIRE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/449.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TREK" tvg-logo="" group-title="08- Canal+Culture",FR_TREK
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/442.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_USHUAIA_TV" tvg-logo="" group-title="08- Canal+Culture",FR_USHUAIA_TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/440.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CHASSE_PECHE" tvg-logo="" group-title="08- Canal+Culture",FR_CHASSE_PECHE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/441.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TIJI" tvg-logo="" group-title="09- Canal+Enfants",FR_TIJI
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/423.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_BOING" tvg-logo="" group-title="09- Canal+Enfants",FR_BOING
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/424.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_BOOMERANG." tvg-logo="" group-title="09- Canal+Enfants",FR_BOOMERANG.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/434.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL_J" tvg-logo="" group-title="09- Canal+Enfants",FR_CANAL_J
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/421.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_CHANNEL" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_CHANNEL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/432.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_CINEMA" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_CINEMA
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/431.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_JUNIOR
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/430.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_DISNEY_XD" tvg-logo="" group-title="09- Canal+Enfants",FR_DISNEY_XD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/429.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_GULLI" tvg-logo="" group-title="09- Canal+Enfants",FR_GULLI
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/428.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_MANGAS" tvg-logo="" group-title="09- Canal+Enfants",FR_MANGAS
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/427.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NICKELODEON" tvg-logo="" group-title="09- Canal+Enfants",FR_NICKELODEON
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/426.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_NICKELODEON_JUNIOR" tvg-logo="" group-title="09- Canal+Enfants",FR_NICKELODEON_JUNIOR
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/425.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_PIWI" tvg-logo="" group-title="09- Canal+Enfants",FR_PIWI
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/418.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_TELETOON" tvg-logo="" group-title="09- Canal+Enfants",FR_TELETOON
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/419.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ZOUZOUS" tvg-logo="" group-title="09- Canal+Enfants",FR_ZOUZOUS
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/422.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CARTON_NET" tvg-logo="" group-title="09- Canal+Enfants",FR_CARTON_NET
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/420.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_CANAL SPORT" tvg-logo="" group-title="10- Canal+Sports",FR_CANAL SPORT
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/408.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EQUIDAI_LIVE" tvg-logo="" group-title="10- Canal+Sports",FR_EQUIDAI_LIVE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/415.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EUROSPORT_1" tvg-logo="" group-title="10- Canal+Sports",FR_EUROSPORT_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/412.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EUROSPORT_2" tvg-logo="" group-title="10- Canal+Sports",FR_EUROSPORT_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/413.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FOOT 24" tvg-logo="" group-title="10- Canal+Sports",FR_FOOT 24
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/409.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_GOLF" tvg-logo="" group-title="10- Canal+Sports",FR_GOLF
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/414.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_INFOSPORT" tvg-logo="" group-title="10- Canal+Sports",FR_INFOSPORT
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/410.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_L'EQUIPE_21" tvg-logo="" group-title="10- Canal+Sports",FR_L'EQUIPE_21
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/411.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OL_TV" tvg-logo="" group-title="10- Canal+Sports",FR_OL_TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/417.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_OM_TV" tvg-logo="" group-title="10- Canal+Sports",FR_OM_TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/416.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_FRANCE_24" tvg-logo="" group-title="11- Canal+Info",FR_FRANCE_24
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/404.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_EURONEWS." tvg-logo="" group-title="11- Canal+Info",FR_EURONEWS.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/433.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_LCI" tvg-logo="" group-title="11- Canal+Info",FR_LCI
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/407.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_BFM" tvg-logo="" group-title="11- Canal+Info",FR_BFM
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/406.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="FR_ITELE" tvg-logo="" group-title="11- Canal+Info",FR_ITELE
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/405.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1" tvg-logo="" group-title="12- MBC",AR_MBC_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/260.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_1_HD" tvg-logo="" group-title="12- MBC",AR_MBC_1_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/261.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_2." tvg-logo="" group-title="12- MBC",AR_MBC_2.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/282.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_2_HD" tvg-logo="" group-title="12- MBC",AR_MBC_2_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/262.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_3" tvg-logo="" group-title="12- MBC",AR_MBC_3
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/263.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_3_HD." tvg-logo="" group-title="12- MBC",AR_MBC_3_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/285.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_4" tvg-logo="" group-title="12- MBC",AR_MBC_4
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/264.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_4_HD." tvg-logo="" group-title="12- MBC",AR_MBC_4_HD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/284.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MASR_1" tvg-logo="" group-title="12- MBC",AR_MBC_MASR_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/269.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MASR_2." tvg-logo="" group-title="12- MBC",AR_MBC_MASR_2.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/283.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_DRAMA" tvg-logo="" group-title="12- MBC",AR_MBC_DRAMA
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/268.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC DRAMA-HD" tvg-logo="" group-title="12- MBC",AR_MBC DRAMA-HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/266.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-VARIETY-HD" tvg-logo="" group-title="12- MBC",AR_MBC-VARIETY-HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/270.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ACTION" tvg-logo="" group-title="12- MBC",AR_MBC_ACTION
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/265.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_MAX" tvg-logo="" group-title="12- MBC",AR_MBC_MAX
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/267.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ZEE_Aflam" tvg-logo="" group-title="12- MBC",AR_MBC_ZEE_Aflam
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/272.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_ZEE_Alwan" tvg-logo="" group-title="12- MBC",AR_MBC_ZEE_Alwan
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/271.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_BOLLYWOOD." tvg-logo="" group-title="12- MBC",AR_MBC_BOLLYWOOD.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/286.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_B4U_AFLAM" tvg-logo="" group-title="12- MBC",AR_MBC_B4U_AFLAM
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/273.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-1HD" tvg-logo="" group-title="12- MBC",AR_MBC-SPORT-1HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/276.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-3HD" tvg-logo="" group-title="12- MBC",AR_MBC-SPORT-3HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/274.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC-SPORT-2HD" tvg-logo="" group-title="12- MBC",AR_MBC-SPORT-2HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/275.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_MBC_PRO_SPORT_4_HD" tvg-logo="" group-title="12- MBC",AR_MBC_PRO_SPORT_4_HD
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/277.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Art_Cinema" tvg-logo="" group-title="13- ART",AR_Art_Cinema
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/257.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Art_Aflam_1" tvg-logo="" group-title="13- ART",AR_Art_Aflam_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/255.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Art_Aflam_2" tvg-logo="" group-title="13- ART",AR_Art_Aflam_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/256.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Art_Hekayat_1" tvg-logo="" group-title="13- ART",AR_Art_Hekayat_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/258.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Art_Hekayat_2" tvg-logo="" group-title="13- ART",AR_Art_Hekayat_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/259.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Tele-Maroc" tvg-logo="http://rmd.primatv.club/picon/arabic/Tele-Maroc.jpg" group-title="14- Maroc",MA_Tele-Maroc
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/384.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Medi-1-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/Medi1_Maroc.jpg" group-title="14- Maroc",MA_Medi-1-TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/388.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Al-Aoula-Inter" tvg-logo="http://rmd.primatv.club/picon/arabic/Al-Aoula-TNT.jpg" group-title="14- Maroc",MA_Al-Aoula-Inter
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/385.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_2M-Monde" tvg-logo="http://rmd.primatv.club/picon/arabic/2M-Maroc-TNT.jpg" group-title="14- Maroc",MA_2M-Monde
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/386.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Arriadia" tvg-logo="http://rmd.primatv.club/picon/arabic/Arriadia.jpg" group-title="14- Maroc",MA_Arriadia
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/390.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Arrabia" tvg-logo="http://rmd.primatv.club/picon/arabic/Arrabia.jpg" group-title="14- Maroc",MA_Arrabia
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/391.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Al-Maghribia" tvg-logo="http://rmd.primatv.club/picon/arabic/Almaghribia.jpg" group-title="14- Maroc",MA_Al-Maghribia
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/387.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Assadisa" tvg-logo="http://rmd.primatv.club/picon/arabic/Assadisa.jpg" group-title="14- Maroc",MA_Assadisa
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/392.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_Tamazight" tvg-logo="http://rmd.primatv.club/picon/arabic/Tamazight.jpg" group-title="14- Maroc",MA_Tamazight
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/389.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="MA_SUD24-TV" tvg-logo="http://rmd.primatv.club/picon/arabic/SUD24-TV.jpg" group-title="14- Maroc",MA_SUD24-TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/393.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Echorouk_TV." tvg-logo="" group-title="15- Algerie",DZ_Echorouk_TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/361.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Echorouk_news." tvg-logo="" group-title="15- Algerie",DZ_Echorouk_news.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/360.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Echorouk_Benna." tvg-logo="" group-title="15- Algerie",DZ_Echorouk_Benna.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/383.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Ennahar_TV." tvg-logo="" group-title="15- Algerie",DZ_Ennahar_TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/362.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Ennahar_Laki." tvg-logo="" group-title="15- Algerie",DZ_Ennahar_Laki.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/363.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Eljazairia-TV." tvg-logo="" group-title="15- Algerie",DZ_Eljazairia-TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/374.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Elhaddaf-TV." tvg-logo="" group-title="15- Algerie",DZ_Elhaddaf-TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/375.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Dzair_TV." tvg-logo="" group-title="15- Algerie",DZ_Dzair_TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/368.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Dzai_News." tvg-logo="" group-title="15- Algerie",DZ_Dzai_News.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/367.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Samira-Tv." tvg-logo="" group-title="15- Algerie",DZ_Samira-Tv.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/381.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Samira-Tv" tvg-logo="" group-title="15- Algerie",DZ_Samira-Tv
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/358.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Fatafeat." tvg-logo="" group-title="15- Algerie",DZ_Fatafeat.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/382.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Fatafeat" tvg-logo="" group-title="15- Algerie",DZ_Fatafeat
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/359.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Programme.National." tvg-logo="" group-title="15- Algerie",DZ_Programme.National.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/364.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Kbc_Algeria." tvg-logo="" group-title="15- Algerie",DZ_Kbc_Algeria.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/366.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Elbilad." tvg-logo="" group-title="15- Algerie",DZ_Elbilad.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/376.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Canal-Algerie." tvg-logo="" group-title="15- Algerie",DZ_Canal-Algerie.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/365.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Beur-TV." tvg-logo="" group-title="15- Algerie",DZ_Beur-TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/377.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Berbere-TV." tvg-logo="" group-title="15- Algerie",DZ_Berbere-TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/378.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Berbere-Music." tvg-logo="" group-title="15- Algerie",DZ_Berbere-Music.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/379.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Berbere-Jeuness." tvg-logo="" group-title="15- Algerie",DZ_Berbere-Jeuness.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/380.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_BAHIA_TV." tvg-logo="" group-title="15- Algerie",DZ_BAHIA_TV.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/373.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_BAHIA_TV" tvg-logo="" group-title="15- Algerie",DZ_BAHIA_TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/357.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Al_Magharibia-1." tvg-logo="" group-title="15- Algerie",DZ_Al_Magharibia-1.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/370.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Al_Magharibia-2." tvg-logo="" group-title="15- Algerie",DZ_Al_Magharibia-2.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/369.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Algeria_3." tvg-logo="" group-title="15- Algerie",DZ_Algeria_3.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/372.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="DZ_Algeria_5." tvg-logo="" group-title="15- Algerie",DZ_Algeria_5.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/371.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_1" tvg-logo="" group-title="16- Egypt",AR_Alhayat_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/251.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Alhayat_2" tvg-logo="" group-title="16- Egypt",AR_Alhayat_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/252.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Cinema" tvg-logo="" group-title="16- Egypt",AR_Rotana_Cinema
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/232.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Aflam" tvg-logo="" group-title="16- Egypt",AR_Rotana_Aflam
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/233.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Music" tvg-logo="" group-title="16- Egypt",AR_Rotana_Music
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/237.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_classic" tvg-logo="" group-title="16- Egypt",AR_Rotana_classic
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/234.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Massrya" tvg-logo="" group-title="16- Egypt",AR_Rotana_Massrya
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/235.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Khaliji" tvg-logo="" group-title="16- Egypt",AR_Rotana_Khaliji
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/236.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Rotana_Clip" tvg-logo="" group-title="16- Egypt",AR_Rotana_Clip
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/238.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Drama" tvg-logo="" group-title="16- Egypt",AR_Melody_Drama
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/219.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Hits" tvg-logo="" group-title="16- Egypt",AR_Melody_Hits
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/218.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Aflam" tvg-logo="" group-title="16- Egypt",AR_Melody_Aflam
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/221.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Melody_Classic" tvg-logo="" group-title="16- Egypt",AR_Melody_Classic
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/220.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/231.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Cinema" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Cinema
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/229.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Drama" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Drama
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/228.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_One" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_One
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/227.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Al_Nahar_Al_Youm" tvg-logo="" group-title="16- Egypt",AR_Al_Nahar_Al_Youm
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/230.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Film" tvg-logo="" group-title="16- Egypt",AR_Panorama_Film
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/239.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Comedy" tvg-logo="" group-title="16- Egypt",AR_Panorama_Comedy
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/242.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama" tvg-logo="" group-title="16- Egypt",AR_Panorama_Drama
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/241.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Panorama_Drama _2" tvg-logo="" group-title="16- Egypt",AR_Panorama_Drama _2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/240.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Sport" tvg-logo="" group-title="16- Egypt",AR_Nile_Sport
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/243.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_News" tvg-logo="" group-title="16- Egypt",AR_Nile_News
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/244.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Life" tvg-logo="" group-title="16- Egypt",AR_Nile_Life
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/245.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_family" tvg-logo="" group-title="16- Egypt",AR_Nile_family
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/246.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Drama" tvg-logo="" group-title="16- Egypt",AR_Nile_Drama
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/247.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Culture" tvg-logo="" group-title="16- Egypt",AR_Nile_Culture
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/248.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Comedie" tvg-logo="" group-title="16- Egypt",AR_Nile_Comedie
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/249.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Nile_Cinema" tvg-logo="" group-title="16- Egypt",AR_Nile_Cinema
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/250.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Dream_1" tvg-logo="" group-title="16- Egypt",AR_Dream_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/253.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_Dream_2" tvg-logo="" group-title="16- Egypt",AR_Dream_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/254.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC" tvg-logo="" group-title="16- Egypt",AR_CBC
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/226.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_2" tvg-logo="" group-title="16- Egypt",AR_CBC_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/225.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Extra" tvg-logo="" group-title="16- Egypt",AR_CBC_Extra
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/223.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Drama" tvg-logo="" group-title="16- Egypt",AR_CBC_Drama
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/224.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="" tvg-name="AR_CBC_Sofra" tvg-logo="" group-title="16- Egypt",AR_CBC_Sofra
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/222.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Tunesia_1" tvg-logo="" group-title="17- Tunisie",TN_Tunesia_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/347.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Tunesia_2" tvg-logo="" group-title="17- Tunisie",TN_Tunesia_2
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/348.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Tonesna" tvg-logo="" group-title="17- Tunisie",TN_Tonesna
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/352.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TU_Hannibal" tvg-logo="" group-title="17- Tunisie",TU_Hannibal
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/350.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Zitouna" tvg-logo="" group-title="17- Tunisie",TN_Zitouna
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/351.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Telvaza" tvg-logo="" group-title="17- Tunisie",TN_Telvaza
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/353.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Nessma" tvg-logo="" group-title="17- Tunisie",TN_Nessma
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/354.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_El-Hiwar_Ettounsi" tvg-logo="" group-title="17- Tunisie",TN_El-Hiwar_Ettounsi
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/349.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Attasiaa" tvg-logo="" group-title="17- Tunisie",TN_Attasiaa
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/355.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="TN_Al-Janoubia" tvg-logo="" group-title="17- Tunisie",TN_Al-Janoubia
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/356.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Quest-Arabia" tvg-logo="" group-title="18- Culture Arab",AR_Quest-Arabia
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/341.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_National_Geo-Abudhabi" tvg-logo="" group-title="18- Culture Arab",AR_National_Geo-Abudhabi
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/340.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Aljazeera_Doc" tvg-logo="" group-title="18- Culture Arab",AR_Aljazeera_Doc
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/339.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_AJAIL" tvg-logo="" group-title="19- Enfant Arabic",AR_AJAIL
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/335.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_AlJazeera Kids" tvg-logo="" group-title="19- Enfant Arabic",AR_AlJazeera Kids
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/334.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Baraeem" tvg-logo="" group-title="19- Enfant Arabic",AR_Baraeem
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/333.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_CN_Arabia" tvg-logo="" group-title="19- Enfant Arabic",AR_CN_Arabia
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/331.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Semsem" tvg-logo="" group-title="19- Enfant Arabic",AR_Semsem
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/329.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Jeem_TV" tvg-logo="" group-title="19- Enfant Arabic",AR_Jeem_TV
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/330.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Space Toon" tvg-logo="" group-title="19- Enfant Arabic",AR_Space Toon
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/328.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Toyour_Baby" tvg-logo="" group-title="19- Enfant Arabic",AR_Toyour_Baby
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/327.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Toyour_ElJannah" tvg-logo="" group-title="19- Enfant Arabic",AR_Toyour_ElJannah
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/326.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd" tvg-logo="" group-title="20- Islam",AR_Al_Majd
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/316.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd_Quran" tvg-logo="" group-title="20- Islam",AR_Al_Majd_Quran
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/318.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Majd_Hadith" tvg-logo="" group-title="20- Islam",AR_Al_Majd_Hadith
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/317.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alnas" tvg-logo="" group-title="20- Islam",AR_Alnas
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/315.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alrahma" tvg-logo="" group-title="20- Islam",AR_Alrahma
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/314.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alresalah" tvg-logo="" group-title="20- Islam",AR_Alresalah
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/319.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Mekke" tvg-logo="" group-title="20- Islam",AR_Mekke
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/322.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Wesal_1" tvg-logo="" group-title="20- Islam",AR_Wesal_1
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/324.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Roya" tvg-logo="" group-title="20- Islam",AR_Roya
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/323.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_IQRAA" tvg-logo="" group-title="20- Islam",AR_IQRAA
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/320.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_alfajer_tv" tvg-logo="" group-title="20- Islam",AR_alfajer_tv
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/321.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Ahl_Al_Quran" tvg-logo="" group-title="20- Islam",AR_Ahl_Al_Quran
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/325.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_France_24." tvg-logo="" group-title="21- News Arab",AR_France_24.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/345.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Aljazeera." tvg-logo="" group-title="21- News Arab",AR_Aljazeera.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/342.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alarabiyia." tvg-logo="" group-title="21- News Arab",AR_Alarabiyia.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/344.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Alhadath." tvg-logo="" group-title="21- News Arab",AR_Alhadath.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/343.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Euronews." tvg-logo="" group-title="21- News Arab",AR_Euronews.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/346.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Euronews" tvg-logo="" group-title="21- News Arab",AR_Euronews
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/336.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_BBC." tvg-logo="" group-title="",AR_BBC.
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/332.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
+#EXTINF:-1 tvg-ID="19" tvg-name="AR_Al_Ekhbariya" tvg-logo="" group-title="21- News Arab",AR_Al_Ekhbariya
+http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/337.ts
+#EXTVLCOPT:http-user-agent=BlacIPTV LibVLC/3.0.0-git
 
 
 
