@@ -51,9 +51,10 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/431.m3u8
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1049.m3u8
 #EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/2562.m3u8
-
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/sopranos/images/d/dd/HBO.png/revision/latest?cb=20150419044453",HBO 
+http://93.174.93.84:8081/live/hbo-hq/chunks.m3u8?nimblesessionid=73469238&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMTcgNzo1OTowMiBQTSZoYXNoX3ZhbHVlPXJueGlrMzhnUWg1VTc0OWlDcEtENVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OS4xMjEmc3RybV9sZW49MTE=
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
-http://stream-04.dc3.dailymotion.com/15/dm/1/x5hbjgh/live.isml/live.m3u8?e=1499549562&st=NfVP13M28_WQGaf5UTc2DA
+http://www.dailymotion.com/cdn/live/video/x5hbjgh.m3u8?auth=1501794899-2562-i6aeav47-dee1067ba9191ec56a2adfc1f5613215&redirect=0
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
 http://plu10.stariptv.co:8888/16021_ARTAflam1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
@@ -77,7 +78,7 @@ http://185.2.83.139:6204/live/ara/ARA/20.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://185.2.83.139:6204/live/ara/ARA/19.ts
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
-http://185.2.83.139:6204/live/ara/ARA/17.ts
+http://185.27.116.54:1935/live/rotanaclassic/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
 http://185.2.83.139:6204/live/ara/ARA/18.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
