@@ -50,7 +50,9 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/431.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1049.m3u8
 #EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
-http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/2562.m3u8
+http://asno.gcdn.co/MY-Star-Movies-Hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/619px-STAR_World.svg.png",Star World HD
+http://asno.gcdn.co/MY-Star-World/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
 http://stream-12.dc3.dailymotion.com/17/dm/3/x5hbjgh/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
@@ -72,7 +74,7 @@ http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
 http://185.2.83.139:6204/live/ara/ARA/21.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
-http://185.2.83.139:6204/live/ara/ARA/20.ts
+http://asno.gcdn.co/mhd-Rotana-Masriya/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://185.2.83.139:6204/live/ara/ARA/19.ts
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
