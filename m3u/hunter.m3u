@@ -49,10 +49,6 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/353.ts|User-Ag
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/354.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1049.m3u8
-#EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
-http://asno.gcdn.co/MY-Star-Movies-Hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/619px-STAR_World.svg.png",Star World HD
-http://asno.gcdn.co/MY-Star-World/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
 http://stream-12.dc3.dailymotion.com/17/dm/3/x5hbjgh/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
@@ -103,7 +99,10 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign
 ***********
 #EXTINF:-1 tvg-logo="http://store1.up-00.com/2016-07/1467665722151.png",osn Yahala HD
 http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-
+#EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
+http://asno.gcdn.co/MY-Star-Movies-Hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/619px-STAR_World.svg.png",Star World HD
+http://asno.gcdn.co/MY-Star-World/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712149026.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
 ***********
