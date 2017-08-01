@@ -177,11 +177,13 @@ http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYj
 http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/276.ts|User-Agent=PrimaIPTV(2)&.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/288.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/275.ts|User-Agent=PrimaIPTV(2)&.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/290.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/274.ts|User-Agent=PrimaIPTV(2)&.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/291.ts|User-Agent=123456&.ts
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 4 HD
+http://173.212.206.199:25461/live/extra123/extraaa123/293.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
