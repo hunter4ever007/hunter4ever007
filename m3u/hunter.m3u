@@ -51,20 +51,18 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/431.m3u8
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1049.m3u8
 #EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
 http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/2562.m3u8
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/sopranos/images/d/dd/HBO.png/revision/latest?cb=20150419044453",HBO 
-http://93.174.93.84:8081/live/hbo-hq/chunks.m3u8?nimblesessionid=73469238&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMTcgNzo1OTowMiBQTSZoYXNoX3ZhbHVlPXJueGlrMzhnUWg1VTc0OWlDcEtENVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS45OS4xMjEmc3RybV9sZW49MTE=
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
-http://www.dailymotion.com/cdn/live/video/x5hbjgh.m3u8?auth=1501794899-2562-i6aeav47-dee1067ba9191ec56a2adfc1f5613215&redirect=0
+http://stream-12.dc3.dailymotion.com/17/dm/3/x5hbjgh/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
-http://plu10.stariptv.co:8888/16021_ARTAflam1/tracks-v1a1/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/255.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
-http://plu10.stariptv.co:8888/16022_ARTAflam2/tracks-v1a1/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/256.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png", art Cinema
-http://plu10.stariptv.co:8888/16023_ARTCinema/tracks-v1a1/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/257.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/ART_HEKAYAT.png/revision/latest?cb=20150308150842", art Hekayat 1
-http://plu10.stariptv.co:8888/16019_ARTHekayatZaman/tracks-v1a1/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/258.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5b/ART_HEKAYAT_2.png/revision/latest?cb=20150308150904", art Hekayat 2
-http://plu10.stariptv.co:8888/16020_AlHekayat2/tracks-v1a1/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/259.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
@@ -176,11 +174,11 @@ http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYj
 http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
-http://rmd.primatv.club:8899/live/newiptv/rTMqExQ69a/276.ts|User-Agent=BlacIPTVLibVLC/3.0.0-git&.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/276.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 HD
-http://185.2.83.139:6204/live/ara/ARA/12.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/275.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 HD
-http://185.2.83.139:6204/live/ara/ARA/13.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/274.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
