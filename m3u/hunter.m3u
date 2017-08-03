@@ -86,7 +86,7 @@ http://185.2.83.139:6204/live/ara/ARA/226.ts
 #EXTINF:-1 tvg-logo="http://www.b4uplus.com/images/logo.png", B4U Plus 
 http://185.2.83.139:6204/live/ara/ARA/225.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
-http://185.2.83.139:6204/live/ara/ARA/91.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/728.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
