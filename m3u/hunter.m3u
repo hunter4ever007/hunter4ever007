@@ -68,23 +68,25 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
-http://185.2.83.139:6204/live/ara/ARA/21.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/720.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
 http://asno.gcdn.co/mhd-Rotana-Masriya/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
-http://185.2.83.139:6204/live/ara/ARA/19.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/723.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
-http://185.2.83.139:6204/live/ara/ARA/18.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/717.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
+#EXTINF:-1 tvg-logo="http://www.masry-now.com/images/stories/RIADA/melody%20aflam.png",Melody Aflam
+http://173.212.206.199:25461/live/extra123/extraaa123/730.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts|User-Agent=Lavf/55.19.104&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam 
-http://185.2.83.139:6204/live/ara/ARA/226.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/695.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uplus.com/images/logo.png", B4U Plus 
-http://185.2.83.139:6204/live/ara/ARA/225.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/696.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
 http://173.212.206.199:25461/live/extra123/extraaa123/728.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
@@ -166,15 +168,15 @@ http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
 http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
-http://185.142.239.164:3135/1/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+http://173.212.206.199:25461/live/extra123/extraaa123/192.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
-http://185.142.239.164:3135/2/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+http://173.212.206.199:25461/live/extra123/extraaa123/194.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
-http://185.142.239.164:3135/3/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+http://173.212.206.199:25461/live/extra123/extraaa123/196.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
-http://185.142.239.164:3135/4/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+http://173.212.206.199:25461/live/extra123/extraaa123/198.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
-http://185.142.239.164:3135/5/Sports/index.m3u8?token=MGQwMTAzMzk3YWQ5YzExMGUwYjM4NWUxMTA3MjBiOTg6MTQ5MzgzNjExNA==
+http://173.212.206.199:25461/live/extra123/extraaa123/200.ts|User-Agent=123456&.ts
 
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
 http://173.212.206.199:25461/live/extra123/extraaa123/288.ts|User-Agent=123456&.ts
@@ -301,7 +303,7 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 #EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/almajd_tv_islamic_channel_live_online_free_arabic_channel.png", Almajd
-http://185.2.83.139:6204/live/ara/ARA/352.ts
+http://173.212.206.199:25461/live/extra123/extraaa123/766.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
 rtmpt://199.167.151.237/live/sp15_36.stream
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan S2
@@ -383,9 +385,9 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD (Saudi Arabia)
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel3/1.m3u8
 #EXTINF:-1 tvg-logo="http://sauditv.net/images/Saudi_TV_1.png", Saudi 1 HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/1.m3u8
+http://173.212.206.199:25461/live/extra123/extraaa123/752.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png", Saudi 2 HD (Saudi Arabia)
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel2/1.m3u8
+http://173.212.206.199:25461/live/extra123/extraaa123/753.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg", Al Thakafiyah HD (Saudi Arabia)
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
@@ -402,6 +404,30 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 #EXTINF:-1 tvg-logo="https://www.blackhatprotools.net/images/imported/2013/01/1.png",[COLOR yellow]     VIP CHANNELS [/COLOR]
 ***********
+#EXTINF:-1,SP-BEIN SPORTS 1 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/144.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 2 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/145.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 3 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/146.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 4 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/147.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 5 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/148.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 6 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/149.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 7 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/150.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 8 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/151.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 9 HD/AR
+http://173.212.206.199:25461/live/extra123/extraaa123/152.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 10 HD
+http://173.212.206.199:25461/live/extra123/extraaa123/153.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 11 HD
+http://173.212.206.199:25461/live/extra123/extraaa123/154.ts|User-Agent=123456&.ts
+#EXTINF:-1,SP-BEIN SPORTS 12 HD
+http://173.212.206.199:25461/live/extra123/extraaa123/155.ts|User-Agent=123456&.ts
 #EXTINF:-1, Bein Sports 1 HD Backup
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/375.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1, Bein Sports 2 HD
