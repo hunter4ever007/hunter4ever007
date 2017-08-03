@@ -79,10 +79,10 @@ http://185.27.116.54:1935/live/rotanaclassic/index.m3u8
 http://173.212.206.199:25461/live/extra123/extraaa123/717.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
-#EXTINF:-1 tvg-logo="http://www.masry-now.com/images/stories/RIADA/melody%20aflam.png",Melody Aflam
-http://173.212.206.199:25461/live/extra123/extraaa123/730.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts|User-Agent=Lavf/55.19.104&.ts
+#EXTINF:-1 tvg-logo="http://www.masry-now.com/images/stories/RIADA/melody%20aflam.png",Melody Aflam
+http://173.212.206.199:25461/live/extra123/extraaa123/730.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam 
 http://173.212.206.199:25461/live/extra123/extraaa123/695.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uplus.com/images/logo.png", B4U Plus 
