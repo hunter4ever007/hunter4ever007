@@ -95,9 +95,9 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]     OSN CHANNELS  [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://i86.servimg.com/u/f86/19/38/72/11/2016-012.png",osn Movies HD
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076223.png",osn Movies HD
 http://asno.gcdn.co/mon-Movies-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://www.fadaeyat.co/vb/storeimg/img_1429336080_847.jpg",osn Movies Drama
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076141.png",osn Movies Thriller
 http://asno.gcdn.co/mon-Movies-Drama/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaDrama.ae.png",osn Yahala Drama HD
 http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
@@ -178,19 +178,19 @@ http://173.212.206.199:25461/live/extra123/extraaa123/198.ts|User-Agent=123456&.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
 http://173.212.206.199:25461/live/extra123/extraaa123/200.ts|User-Agent=123456&.ts
 
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 
 http://live1.livetvindia.co.in:8000/live/ios/freem3u/1281.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 
 http://live1.livetvindia.co.in:8000/live/ios/freem3u/1280.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 
 http://live1.livetvindia.co.in:8000/live/ios/freem3u/1279.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 4 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 4 
 http://live1.livetvindia.co.in:8000/live/ios/freem3u/1048.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 SD
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 1 HD
