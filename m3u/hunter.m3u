@@ -346,7 +346,9 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index1600.m3u8
 http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528", ABC NEWS
 http://abclive.abcnews.com/i/abc_live3@136329/index_1200_av-b.m3u8?sd=10&b=300,500-2500&rebase=on
-#EXTINF:-1 tvg-logo="http://victorygroup.com/wp-content/uploads/FOX-NEWS-864x445.png", FOX NEWS
+#EXTINF:-1 tvg-logo="http://s3.amazonaws.com/media.fox13news.com/photo/2015/07/27/FOX13news_63628_ver1.0.png", FOX 13 News
+http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+#EXTINF:-1 tvg-logo="http://sustainabletulsainc.org/wp-content/uploads/2017/03/sponsor-fox.png", FOX 23 News
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 
 
