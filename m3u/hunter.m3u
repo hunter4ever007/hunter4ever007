@@ -111,7 +111,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png", Dubai Sports 
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg", Saudi Sport 1 HD (Saudi Arabia)
-http://osiptv.casacam.net/LQ-AR-Saudi-Sport/index.m3u8
+http://selevision9885-i.akamaihd.net/hls/live/219269/98853/1.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 1
@@ -294,8 +294,6 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/almajd_tv_islamic_channel_live_online_free_arabic_channel.png", Almajd
-http://173.212.206.199:25461/live/extra123/extraaa123/766.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
 http://osiptv.casacam.net/LQ-AR-AlMajd3/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png", Alafasy TV
@@ -303,7 +301,7 @@ http://osiptv.casacam.net/LQ-AR-Al-Afasy/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
-http://osiptv.casacam.net/LQ-AR-Al-Resalah/index.m3u8
+http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png",Huda
 http://zona-live-tv.com/Chan/Arab/Huda.m3u8
 #EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff",Peace USA
@@ -371,19 +369,19 @@ http://osiptv.casacam.net/LQ-AR-Quest-Arabiya/index.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/1490971214162.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
-http://osiptv.casacam.net/LQ-AR-Saudi-Quraan/index.m3u8
+http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png", Saudi Sunnah HD
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD (Saudi Arabia)
-http://osiptv.casacam.net/LQ-AR-Al-Ekhbaria/index.m3u8
+http://selevision9888-i.akamaihd.net/hls/live/219298/98882/1.m3u8
 #EXTINF:-1 tvg-logo="http://sauditv.net/images/Saudi_TV_1.png", Saudi 1 HD (Saudi Arabia)
-http://173.212.206.199:25461/live/extra123/extraaa123/752.ts|User-Agent=123456&.ts
+http://selevision9881-i.akamaihd.net/hls/live/219192/98819/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png", Saudi 2 HD (Saudi Arabia)
-http://173.212.206.199:25461/live/extra123/extraaa123/753.ts|User-Agent=123456&.ts
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel2/1.m3u8
 #EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg", Al Thakafiyah HD (Saudi Arabia)
-http://osiptv.casacam.net/LQ-AR-AlThuqafiah/index.m3u8
+http://selevision9885-i.akamaihd.net/hls/live/219271/98855/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD (Saudi Arabia)
-http://osiptv.casacam.net/LQ-AR-Aleqtisadiah/index.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095345394.png",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
