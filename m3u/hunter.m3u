@@ -68,7 +68,7 @@ http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9931.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
 http://asno.gcdn.co/mhd-Rotana-Masriya/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
-http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9933.ts
+http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/index.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
@@ -77,12 +77,6 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
 http://box.iptvpro.org:5070/live/Box.Links_New/7gvCUk8jwk/164.ts|User-Agent=Lavf/55.19.104&.ts
-#EXTINF:-1 tvg-logo="http://www.masry-now.com/images/stories/RIADA/melody%20aflam.png",Melody Aflam
-http://173.212.206.199:25461/live/extra123/extraaa123/730.ts|User-Agent=123456&.ts
-#EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", B4U Aflam 
-http://173.212.206.199:25461/live/extra123/extraaa123/695.ts|User-Agent=123456&.ts
-#EXTINF:-1 tvg-logo="http://www.b4uplus.com/images/logo.png", B4U Plus 
-http://173.212.206.199:25461/live/extra123/extraaa123/696.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
 http://173.212.206.199:25461/live/extra123/extraaa123/728.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
