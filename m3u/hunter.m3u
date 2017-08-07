@@ -95,8 +95,14 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]     OSN CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://store1.up-00.com/2016-07/1467665722151.png",osn Yahala HD
+#EXTINF:-1 tvg-logo="http://i86.servimg.com/u/f86/19/38/72/11/2016-012.png",osn Movies HD
+http://asno.gcdn.co/mon-Movies-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="http://www.fadaeyat.co/vb/storeimg/img_1429336080_847.jpg",osn Movies Drama
+http://asno.gcdn.co/mon-Movies-Drama/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaDrama.ae.png",osn Yahala Drama HD
 http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaCinema.ae.png",osn Yahala Cinema HD
+http://asno.gcdn.co/mon-Yahal-Cinema/index.m3u8|user-agent=+BoX@dash#|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
 http://asno.gcdn.co/MY-Star-Movies-Hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/619px-STAR_World.svg.png",Star World HD
@@ -123,19 +129,17 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png",Al Kass 5
 http://alkass-i.akamaihd.net/hls/live/205534/5/live_30s20.m3u8
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV L2
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-chelsea-tv.png",Chelsea
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
-http://78.129.239.105:8080/je3nNaM00tAaelfseea/Strm/index.m3u8
+http://95.154.237.88:8080/kaanN00le3kHanelfseea/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://zona-live-tv.com/Chan/Sport/MUTV.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Eng
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport French
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_2500.m3u8
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 
+http://95.154.237.88:8080/kaanN00le3kHanEYuR00sp-1/Strm/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss1hd.png",Supersport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss2hd.png",Supersport 2
@@ -174,14 +178,14 @@ http://173.212.206.199:25461/live/extra123/extraaa123/198.ts|User-Agent=123456&.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
 http://173.212.206.199:25461/live/extra123/extraaa123/200.ts|User-Agent=123456&.ts
 
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 HD
-http://173.212.206.199:25461/live/extra123/extraaa123/288.ts|User-Agent=123456&.ts
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 HD
-http://173.212.206.199:25461/live/extra123/extraaa123/290.ts|User-Agent=123456&.ts
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 HD
-http://173.212.206.199:25461/live/extra123/extraaa123/291.ts|User-Agent=123456&.ts
-#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 4 HD
-http://173.212.206.199:25461/live/extra123/extraaa123/293.ts|User-Agent=123456&.ts
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 
+http://live1.livetvindia.co.in:8000/live/ios/freem3u/1281.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 
+http://live1.livetvindia.co.in:8000/live/ios/freem3u/1280.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 3 
+http://live1.livetvindia.co.in:8000/live/ios/freem3u/1279.m3u8
+#EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 4 
+http://live1.livetvindia.co.in:8000/live/ios/freem3u/1048.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.just43rb.com/wp-content/uploads/2017/02/hqdefault-1.jpg",mbc pro sports 2 SD
@@ -360,8 +364,8 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", DISCOVERY CHANNEL
-http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/15248.ts
+#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", OSN DISCOVERY CHANNEL
+http://asno.gcdn.co/mon-Discovery-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png", Velocity
 http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16837.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
