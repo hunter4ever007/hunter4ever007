@@ -257,7 +257,7 @@ http://185.2.83.139:6204/live/ara/ARA/275.ts
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_266s30.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_272s30.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png",Oman TV
 http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png",Alrai
