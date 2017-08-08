@@ -127,13 +127,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-chelsea-tv.png",Chelsea
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
-http://95.154.237.88:8080/kaanN00le3kHanelfseea/Strm/index.m3u8
+http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/440.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://zona-live-tv.com/Chan/Sport/MUTV.m3u8
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Eng
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Int
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 
-http://95.154.237.88:8080/kaanN00le3kHanEYuR00sp-1/Strm/index.m3u8
+http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/50.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss1hd.png",Supersport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvshqiphd.com/images/sport/ss2hd.png",Supersport 2
