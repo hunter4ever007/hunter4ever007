@@ -81,8 +81,14 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=rehto&.ts
 http://173.212.206.199:25461/live/extra123/extraaa123/728.ts|User-Agent=123456&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
 http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9985.ts
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
 http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.al-nahar.tv/frontend/img/tv_new/img/logo/general.png",Al Nahar TV
+http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.al-nahar.tv/frontend/img/tv_new/img/logo/general.png",Al Nahar Drama
+http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76711/clearlogo/JackieChanAdventures-76711.png",JACKIE CHAN Channel
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
@@ -282,8 +288,6 @@ http://live.aldafrah.tv:1935/live/myStream3/gmswf.m3u8?v=632182903
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png", Arabica
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC
-http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png",Kifa
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
