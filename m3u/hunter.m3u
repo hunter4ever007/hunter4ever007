@@ -89,6 +89,8 @@ http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/alnahardrama34.png",Al Nahar Drama
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.mixmedia.tv/wp-content/uploads/2017/03/Biaban-Movies-TV.jpg",Biaban Movies HD
+http://sstvb1.vdmscdn.com/local-Biaban-Movies/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76711/clearlogo/JackieChanAdventures-76711.png",JACKIE CHAN Channel
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
@@ -152,8 +154,10 @@ http://81.7.13.162/hls/ss4/index.m3u8
 https://sorf.tvizlehd.com/idmantv.m3u8?tkn=Hzyj35O7osuvaAKpHI61Zg&tms=1499471832
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
 http://173.212.206.199:25461/live/extra123/extraaa123/183.ts|User-Agent=123456&.ts
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban TV
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban SportTV SD
 http://839324590.e.248015186.r.fdccdn.net/248015186/_definst_/shahin1/chunklist_w327525363.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban SportTV HD
+http://sstvb1.vdmscdn.com/local-Biaban-Sport/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--rObrTJftaE/Vd0bYfb8noI/AAAAAAAAD6E/9K0WNSsmSQo/s1600/1522758_223190081203856_1479619578_o.png",Falcon Eye Sport HD
 http://839324590.e.248015186.r.fdccdn.net/248015186/_definst_/shahin2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg",ON Sport
@@ -330,6 +334,8 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN
 http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8692.ts
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN S2
+http://37.48.70.138:8088/live/CNN_livestreaming2017/playlist.m3u8?id=71244&wowzasessionid=361701685&pk=d060d51e9b7a6077998cf193ce481bdff8dddd03f73a46490a6e75199a6b8265
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
 http://stream.skynewsarabia.com/stream/snahls_high.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
