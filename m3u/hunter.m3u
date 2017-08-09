@@ -876,52 +876,14 @@ http://11gb.gcdn.co/live/online/tv/1501.m3u8|User-Agent=ONLINETVCLIENT_X60000_X2
 http://11gb.gcdn.co/live/online/tv/1502.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK-Disney XD
 http://11gb.gcdn.co/live/online/tv/1122.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-Sahar Azari
-http://11gb.gcdn.co/live/online/tv/1110.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK-Boomerang
 http://11gb.gcdn.co/live/online/tv/1016.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK-Baby TV
 http://11gb.gcdn.co/live/online/tv/1014.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK- VH1
 http://11gb.gcdn.co/live/online/tv/1015.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-Xezer TV
-http://11gb.gcdn.co/live/online/tv/1003.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-SPACE TV
-http://11gb.gcdn.co/live/online/tv/1006.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-Medeniyet TV
-http://11gb.gcdn.co/live/online/tv/1000.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-LIDER TV AZERBAIJAN
-http://11gb.gcdn.co/live/online/tv/1005.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-InterAz
-http://11gb.gcdn.co/live/online/tv/1001.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,MY-Azerbican-Idman_Azerbaycan
 http://11gb.gcdn.co/live/online/tv/999.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-Ictimai TV
-http://11gb.gcdn.co/live/online/tv/997.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-DunyaTV
-http://11gb.gcdn.co/live/online/tv/1008.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-CBC_Azerbaycan
-http://11gb.gcdn.co/live/online/tv/998.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-AzTV Azerbaijan
-http://11gb.gcdn.co/live/online/tv/996.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-Azad_Azerbaycan
-http://11gb.gcdn.co/live/online/tv/1002.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-ANS TV
-http://11gb.gcdn.co/live/online/tv/1004.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Azerbican-AMC
-http://11gb.gcdn.co/live/online/tv/1007.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Georgia Saperavi Tv
-http://11gb.gcdn.co/live/online/tv/1013.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Georgia OBIEQT Tv
-http://11gb.gcdn.co/live/online/tv/1011.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Georgia Maestro Tv
-http://11gb.gcdn.co/live/online/tv/1010.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Georgia Ajara Tv
-http://11gb.gcdn.co/live/online/tv/1012.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-Georgia 1Tv Georgia
-http://11gb.gcdn.co/live/online/tv/1009.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-AR-EN-BBCW
-http://11gb.gcdn.co/live/online/tv/995.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK:MTV Hits
 http://11gb.gcdn.co/live/online/tv/992.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK:MTV Classic
@@ -930,12 +892,6 @@ http://11gb.gcdn.co/live/online/tv/993.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25
 http://11gb.gcdn.co/live/online/tv/994.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK-London Live
 http://11gb.gcdn.co/live/online/tv/987.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-ARMN-Shant
-http://11gb.gcdn.co/live/online/tv/990.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-ARMN-Armenia1 TV
-http://11gb.gcdn.co/live/online/tv/988.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-ARMN-Armenia TV
-http://11gb.gcdn.co/live/online/tv/989.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK-MTV Rocks
 http://11gb.gcdn.co/live/online/tv/973.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK: Sky True Movies 2
@@ -1204,18 +1160,7 @@ http://11gb.gcdn.co/live/online/tv/1836.m3u8|User-Agent=ONLINETVCLIENT_X60000_X2
 http://11gb.gcdn.co/live/online/tv/1840.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1,UK-Sky Box Office
 http://11gb.gcdn.co/live/online/tv/1911.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-EN-LTV HD
-http://11gb.gcdn.co/live/online/tv/1947.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-EN-Now TV
-http://11gb.gcdn.co/live/online/tv/1948.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-EN-Fashion Television
-http://11gb.gcdn.co/live/online/tv/1949.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-EN-Go TV
-http://11gb.gcdn.co/live/online/tv/1950.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,MY-EN-Pink2 HD
-http://11gb.gcdn.co/live/online/tv/1951.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1,My-EN-24B HD
-http://11gb.gcdn.co/live/online/tv/1952.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+
 
 
 
