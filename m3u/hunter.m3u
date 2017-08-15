@@ -186,11 +186,11 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/78.ts|User-Age
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/79.ts|User-Agent=sammaadsdsss&.ts
 
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 
-http://live1.livetvindia.co.in:8000/live/ios/freem3u/1281.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 
-http://live1.livetvindia.co.in:8000/live/ios/freem3u/1280.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT2/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 
-http://live1.livetvindia.co.in:8000/live/ios/freem3u/1279.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT3/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 4 
 http://live1.livetvindia.co.in:8000/live/ios/freem3u/1048.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 SD
