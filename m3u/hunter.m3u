@@ -55,11 +55,11 @@ http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1049.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ervv7L8jOZQIG_xwaVmM10O-zhbb6pqk7ZOnIzKBkAMcTr92-myTG5SkvJ5ZMfhkzw=w300", Embratoria Movies
 http://stream-12.dc3.dailymotion.com/17/dm/3/x5hbjgh/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
-http://we-you-iptv.tv:8000/live/local1/123456/194.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/518.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
-http://we-you-iptv.tv:8000/live/local1/123456/193.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/519.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png", art Cinema
-http://we-you-iptv.tv:8000/live/local1/123456/192.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/521.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
@@ -264,11 +264,11 @@ http://zona-live-tv.com/Chan/Arab/ToyorAlJanah.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72860/clearlogo/tomandjerry-72860.png",Tom and Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
-http://osiptv.casacam.net/LQ-AR-Spacetoon/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/527.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",mbc 3
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
-http://185.2.83.139:6204/live/ara/ARA/275.ts
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/523.ts|User-Agent=bbbbb&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
@@ -310,7 +310,7 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 #EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
-http://osiptv.casacam.net/LQ-AR-AlMajd3/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/543.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png", Alafasy TV
 http://osiptv.casacam.net/LQ-AR-Al-Afasy/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
@@ -380,7 +380,7 @@ http://asno.gcdn.co/mon-Discovery-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png", Velocity
 http://11gb.gcdn.co/live/online/tv/1720.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
-http://osiptv.casacam.net/LQ-AR-Quest-Arabiya/index.m3u8
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/528.ts|User-Agent=bbbbb&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/1490971214162.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
