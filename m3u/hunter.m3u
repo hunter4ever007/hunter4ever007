@@ -411,6 +411,26 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/org.novatheme.adwvip-w250.png",[COLOR yellow]     VIP CHANNELS [/COLOR]
 ***********
+#EXTINF:-1,bein 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1,bein 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+
+
 #EXTINF:-1, Bein Sports 1 HD Backup
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/375.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1, Bein Sports 2 HD
