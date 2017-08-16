@@ -108,8 +108,12 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_cl_1300&tag=live&ext=m3u8&sign
 http://asno.gcdn.co/mon-Movies-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/a/1502867882541.png",osn Movies Action
 http://asno.gcdn.co/mon-Movies-HD-Action/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/a/1502867882541.png",osn Movies Action +2
+http://asno.gcdn.co/mon-Action-Plus2-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076141.png",osn Movies Thriller
 http://asno.gcdn.co/mon-Movies-Drama/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/a/1502873380831.png",osn Movies First 
+http://asno.gcdn.co/mon-First-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaDrama.ae.png",osn Yahala Drama HD
 http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaCinema.ae.png",osn Yahala Cinema HD
@@ -381,6 +385,8 @@ http://asno.gcdn.co/mon-Discovery-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000
 http://11gb.gcdn.co/live/online/tv/1720.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/528.ts|User-Agent=bbbbb&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya S2
+http://sstvb.vdmscdn.com/LQ-AR-Quest-Arabiya/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/1490971214162.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
