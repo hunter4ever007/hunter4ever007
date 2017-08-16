@@ -185,14 +185,12 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/78.ts|User-Age
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/79.ts|User-Agent=sammaadsdsss&.ts
 
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 HD
 http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 HD
 http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT2/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 HD
 http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT3/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 4 
-http://live1.livetvindia.co.in:8000/live/ios/freem3u/1048.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 SD
