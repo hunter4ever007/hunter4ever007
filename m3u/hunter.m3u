@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
 http://sstvb.vdmscdn.com/LQ-AR-MBC1/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 S2
 http://sstvb.vdmscdn.com/LQ-AR-MBC1/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
@@ -23,7 +23,6 @@ http://sstvb.vdmscdn.com/LQ-AR-MBC-MAX/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&
 http://sstvb.vdmscdn.com/LQ-AR-MBC-Drama/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
 http://sstvb.vdmscdn.com/LQ-AR-MBC-Bollywood/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
@@ -69,9 +68,9 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
-http://Tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9931.ts
+http://sstvb.vdmscdn.com/LQ-AR-Rotana-Music/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
-http://asno.gcdn.co/mhd-Rotana-Masriya/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://sstvb.vdmscdn.com/LQ-AR-Rotana-Masriya/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
