@@ -3,12 +3,16 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
 http://sstvb.vdmscdn.com/LQ-AR-MBC1/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 S2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 Bckup
 http://sstvb.vdmscdn.com/LQ-AR-MBC1/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-VMNqvVR5gTA/UseX_2keucI/AAAAAAAAFnY/WPg-56kvqas/s1600/mbc1_hd.png", MBC 1 HD S3
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/2.ts|User-Agent=rehtp&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 SD S3
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/1.ts|User-Agent=rehtp&.ts
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2
 http://sstvb.vdmscdn.com/LQ-AR-MBC2/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png", MBC 3
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg", MBC 3
 
 http://sstvb.vdmscdn.com/LQ-AR-MBC3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png", MBC 4
@@ -52,7 +56,7 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/353.ts|User-Ag
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 4
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/354.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
-http://drop1.ipfox.co/live/Safin_Rmrwwr/U3w9wDUv/1049.m3u8
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/86.ts|User-Agent=rehtp&.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/518.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
@@ -165,8 +169,12 @@ http://81.7.13.162/hls/ss4/index.m3u8
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/146.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban SportTV HD
 http://sstvb1.vdmscdn.com/local-Biaban-Sport/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/--rObrTJftaE/Vd0bYfb8noI/AAAAAAAAD6E/9K0WNSsmSQo/s1600/1522758_223190081203856_1479619578_o.png",Falcon Eye HD
+http://sstvb1.vdmscdn.com/local-Falcon-HD/tracks-v1a1/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg",ON Sport
 http://asno.gcdn.co/On-Sport-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG",Raya TV
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551",Alfajr INT
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/IqPln1Wi8xomhb1-m7wiTGpgwqKhBh9wMlw8G0K4G9kUWYkRkSztZGce2ai9Z2BdJN8=w300", AjyalTV 
@@ -246,25 +254,27 @@ http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
-http://osiptv.casacam.net/LQ-AR-Jeem-Europe/index.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-Jeem-Europe/tracks-v1a1/index.m3u8?v=2965041927|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
-http://osiptv.casacam.net/LQ-AR-Baraem-Europe/index.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-Baraem/index.m3u8|User-Agent=rehtp&.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png",Ajyal
-http://osiptv.casacam.net/LQ-AR-Ajyal/index.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-Ajyal/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png",Karameesh
-rtmp://82.212.74.101/live//8049
+http://sstvb.vdmscdn.com/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/01/1-1.png",Toyor Aljannah
-http://zona-live-tv.com/Chan/Arab/ToyorAlJanah.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-Toyor-Al-Janah/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72860/clearlogo/tomandjerry-72860.png",Tom and Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon HD
+http://sstvb.vdmscdn.com/LQ-AR-Spacetoon/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/527.ts|User-Agent=bbbbb&.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",mbc 3
 http://sstvb.vdmscdn.com/LQ-AR-MBC3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/523.ts|User-Agent=bbbbb&.ts
+http://sstvb.vdmscdn.com/LQ-AR-Cartoon-Network/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
@@ -284,7 +294,7 @@ http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg",AljadeedTV
 http://185.2.83.139:6204/live/ara/ARA/264.ts
 #EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/andromo/dev244056/app232981/170/yemen-tv.png",Yemen TV
-http://osiptv.casacam.net/LQ-AR-Yemen-TV/index.m3u8
+http://sstvb.vdmscdn.com/LQ-AR-Yemen-TV/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800",Suhail
 rtmp://82.212.74.5/live//7626
 #EXTINF:-1 tvg-logo="http://jascostreaming.com/images/sanaa.png",Sana'a
@@ -306,7 +316,7 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 #EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/543.ts|User-Agent=bbbbb&.ts
+http://sstvb.vdmscdn.com/LQ-AR-AlMajd3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png", Alafasy TV
 http://osiptv.casacam.net/LQ-AR-Al-Afasy/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
