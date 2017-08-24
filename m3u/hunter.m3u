@@ -419,24 +419,417 @@ http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096
 
 #EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/org.novatheme.adwvip-w250.png",[COLOR yellow]     VIP CHANNELS [/COLOR]
 ***********
-#EXTINF:-1,bein 1
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 2
-http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 3
-http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 4
-http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 5
-http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 6
-http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 7
-http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 8
-http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1,bein 9
-http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+#EXTM3U
+#EXTINF:-1,IN: SONY SAB UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/505.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,IN: LIFE OK IND
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/543.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,IN: ZEE CINEMA UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/485.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,IN: STAR PLUS UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/498.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,IN: SONY TV ASIA
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/503.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Zee Tv UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/428.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g:Sky Sports Cricket
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/257.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Foot: Sky Sports Cricket
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/818.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports Cricket Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/729.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports Cricket
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/76.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports Cricket HQ
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/123.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Super Sport 1 Albania
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/416.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Super Sport 2 Albania
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/417.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Super Sport 3 Albania
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/418.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Super Sport 4 Albania
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/419.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sony Ten 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/153.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sony Ten 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/152.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sony Ten 1 Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/312.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sony Ten 2 Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/313.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,SP: Prime TV (SKY 792)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/842.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Live: NBA TV HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/750.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,LFC TV
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/440.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports 1 FR
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/27.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports 2 FR
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/28.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports 3 FR
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/29.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports 1 FR Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/762.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports 2 FR Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/761.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports 3 FR Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/760.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Sports USA
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/26.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/87.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/88.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/89.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport TV1 Portugal
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/7.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport TV2 Portugal
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/8.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport TV3 Portugal
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/9.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport TV1 Portugal Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/723.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport TV2 Portugal Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/724.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sport TV3 Portugal Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/725.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Arena Sports 1 HD  Croatian
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/18.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Arena Sports 2 HD Croatian
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/19.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Arena Sports 3 HD Croatian
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/20.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Arena Sports 4 HD Croatian
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/21.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,NAM: SportsNetWorld
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/467.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Box Nation Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/780.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,NBCSN
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/17.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Premier Sports
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/56.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/115.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/150.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 1 Hindi
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/240.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 1 Tamil
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/149.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 1 Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/435.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 2 Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/436.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 1 Tamil Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/438.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Star Sports 1 Hindi Backup
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/437.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,WWE Network
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/146.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,MUTV
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/145.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Chelsea TV
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/148.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sport 1 HD Italy
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/92.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sport 2 HD Italy
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/93.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sport 3 HD Italy
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/10.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sport 24 HD Italy
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/11.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Setanta Sports
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/57.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sport 1 HD Deutch Germany
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/58.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/59.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Bundesliga HD1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/60.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,NFL Network
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/82.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Fox Sports 1 HD NL
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/5.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Fox Sports 2 HD NL
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/4.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Fox Sports 3 HD NL
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/3.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Fox Sports 4 HD NL
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/2.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Fox Sports 5 HD NL
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/1.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Eurosport 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/50.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Eurosport 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/51.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,ESPN USA
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/48.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,ESPN 2 USA
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/49.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Canal + Sport
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/91.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Canal +
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/90.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Box Nation
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/44.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,At The Races
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/83.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Racing UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/84.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Movies 1 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/351.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Movies 2 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/352.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Movies 3 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/353.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Bein Movies 4 HD
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/354.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie Christmas (Ex-Drama)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/68.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Select)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/73.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (SciFi&Horror)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/72.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Premiere)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/71.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Modern Greats)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/70.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Family)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/69.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Crime&Thriller)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/67.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Comedy)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/66.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Movie (Action&Adventure)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/65.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,SkyMovies Disney
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/154.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Atlantic
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/74.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,ITV 1 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/52.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,ITV 2 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/53.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,ITV 3 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/54.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,ITV 4 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/55.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,BBC 1 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/22.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,BBC 2 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/23.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,BBC 3 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/24.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,BBC 4 UK
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/25.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,EN: SKY ATLANTIC (UK)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/639.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,*******2G Channels******
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/398.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Sport TV1 Portugal
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/324.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Sport TV2 Portugal
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/325.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Sport TV3 Portugal
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/326.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Star Sports 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/133.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Star Sports 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/134.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Star Sports 1 Hindi
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/241.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Star Sports 1 Tamil
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/338.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-Ten 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/138.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-Ten 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/137.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-WWE Network
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/286.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Arena Sports 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/320.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Arena Sports 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/321.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Arena Sports 3
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/322.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Arena Sports 4
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/323.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Sports 1 FR
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/316.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Sports 2 FR
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/317.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Sports 3 FR
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/318.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Premier Sports
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/763.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Box Nation
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/816.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Movies 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/387.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Movies 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/388.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Movies 3
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/389.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Bein Movies 4
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/390.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,GTV
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/429.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Sky Sports F1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/310.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-Sky Sports News
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/309.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Foot: Sky Sports F1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/822.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Foot: Sky Sports News
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/823.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports F1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/80.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports F1 HQ
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/119.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports News
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/81.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,Sky Sports News HQ
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/118.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2G-BT Sports ESPN
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/792.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 1 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/95.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 10 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/104.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 11 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/105.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 12 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/106.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 13 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/107.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 14 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/108.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 15 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/109.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 16 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/110.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 17 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/111.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 18 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/112.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 19 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/113.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 2 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/96.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 20 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/114.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 3 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/97.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 4 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/98.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 5 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/99.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 6 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/100.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 7 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/101.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 8 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/102.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,PPV 9 (not 24x7)
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/103.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 1
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/803.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 10
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/812.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 2
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/804.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 3
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/805.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 4
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/806.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 5
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/807.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 6
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/808.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 7
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/809.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 8
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/810.ts|User-Agent=sammaadsdsss&.ts
+#EXTINF:-1,2g-PPV 9
+http://live1.livetvindia.co.in:8000/live/sportstv204/freeapp/811.ts|User-Agent=sammaadsdsss&.ts
 
 
-
+#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/org.novatheme.adwvip-w250.png",[COLOR yellow]     VIP CHANNELS [/COLOR]
+***********
+#EXTM3U
+#EXTINF:-1,Tring Sport 3
+http://premium.tvshqip.us:8880/live/mega/iptv/145.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Tring Sport 2
+http://premium.tvshqip.us:8880/live/mega/iptv/144.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Tring Sport 1
+http://premium.tvshqip.us:8880/live/mega/iptv/143.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/163.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/162.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/161.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/160.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Supersport Kosova 2
+http://premium.tvshqip.us:8880/live/mega/iptv/142.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Supersport Kosova 1
+http://premium.tvshqip.us:8880/live/mega/iptv/141.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Super Sport 5
+http://premium.tvshqip.us:8880/live/mega/iptv/140.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Super Sport 4
+http://premium.tvshqip.us:8880/live/mega/iptv/139.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Super Sport 3
+http://premium.tvshqip.us:8880/live/mega/iptv/138.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Super Sport 2
+http://premium.tvshqip.us:8880/live/mega/iptv/137.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,Super Sport 1
+http://premium.tvshqip.us:8880/live/mega/iptv/136.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,FR: Bein Sport 3
+http://premium.tvshqip.us:8880/live/mega/iptv/156.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,FR: Bein Sport 2
+http://premium.tvshqip.us:8880/live/mega/iptv/155.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,FR: Bein Sport 1
+http://premium.tvshqip.us:8880/live/mega/iptv/154.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX:YU: ARENA SPORT 6 HR
+http://premium.tvshqip.us:8880/live/mega/iptv/169.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://premium.tvshqip.us:8880/live/mega/iptv/168.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://premium.tvshqip.us:8880/live/mega/iptv/166.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://premium.tvshqip.us:8880/live/mega/iptv/167.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://premium.tvshqip.us:8880/live/mega/iptv/165.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU: Arena Sport 1 HR
+http://premium.tvshqip.us:8880/live/mega/iptv/164.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU : SPORT KLUB 3 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/172.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU : SPORT KLUB 2 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/171.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,EX-YU : SPORT KLUB 1 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/170.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/153.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/152.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/151.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AR: beINSports 3 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/159.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AR: beINSports 2 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/158.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AR: beINSports 1 HD
+http://premium.tvshqip.us:8880/live/mega/iptv/157.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AL: Kujtesa Sport 4
+http://premium.tvshqip.us:8880/live/mega/iptv/150.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AL: Kujtesa Sport 3
+http://premium.tvshqip.us:8880/live/mega/iptv/149.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AL: Kujtesa Sport 2
+http://premium.tvshqip.us:8880/live/mega/iptv/148.ts|User-Agent=Lavf/57.56.100&.ts
+#EXTINF:-1,AL: Kujtesa Sport 1
+http://premium.tvshqip.us:8880/live/mega/iptv/147.ts|User-Agent=Lavf/57.56.100&.ts
