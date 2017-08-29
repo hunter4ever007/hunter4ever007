@@ -2,31 +2,24 @@
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
-http://sstvb.vdmscdn.com/LQ-AR-MBC1/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 Bckup
-http://sstvb.vdmscdn.com/LQ-AR-MBC1/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-VMNqvVR5gTA/UseX_2keucI/AAAAAAAAFnY/WPg-56kvqas/s1600/mbc1_hd.png", MBC 1 HD S3
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/477.ts|User-Agent=tttt&.ts
 http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/2.ts|User-Agent=rehtp&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 SD S3
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/1.ts|User-Agent=rehtp&.ts
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2
-http://sstvb.vdmscdn.com/LQ-AR-MBC2/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/478.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg", MBC 3
 
-http://sstvb.vdmscdn.com/LQ-AR-MBC3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/479.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png", MBC 4
-http://sstvb.vdmscdn.com/LQ-AR-MBC4/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/480.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="https://zapafri.s3.amazonaws.com/channels/original/c-2a5fb1c5b82af02b5a50f0f1f28ae16d.png", MBC ACTION 
 
-http://sstvb.vdmscdn.com/LQ-AR-MBC-Action/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/481.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG", MBC MAX 
-http://sstvb.vdmscdn.com/LQ-AR-MBC-MAX/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
-
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/488.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA
-http://sstvb.vdmscdn.com/LQ-AR-MBC-Drama/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/484.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
-http://sstvb.vdmscdn.com/LQ-AR-MBC-Bollywood/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/483.ts|User-Agent=tttt&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
