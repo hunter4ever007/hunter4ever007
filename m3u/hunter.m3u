@@ -40,13 +40,11 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/351.ts|User-Agent=sammaadsdsss&.ts
+http://zona-live-tv.com/Chan/Entertainments/beINMovies1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/352.ts|User-Agent=sammaadsdsss&.ts
+http://zona-live-tv.com/Chan/Entertainments/beINMovies2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/353.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 4
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/354.ts|User-Agent=sammaadsdsss&.ts
+http://zona-live-tv.com/Chan/Entertainments/beINMovies3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series1
 http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/86.ts|User-Agent=rehtp&.ts
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
@@ -82,7 +80,7 @@ http://173.212.206.199:25461/live/ticket/tick/695.ts|User-Agent=ten&.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
 http://sstvb.vdmscdn.com/LQ-AR-Moga-Comedy/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
-http://sstvb.vdmscdn.com/LQ-AR-Funoon/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png", CBC
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
