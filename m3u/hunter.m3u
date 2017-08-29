@@ -89,31 +89,13 @@ http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/alnahardrama34.png",Al Nahar Drama
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.mixmedia.tv/wp-content/uploads/2017/03/Biaban-Movies-TV.jpg",Biaban Movies HD
-http://sstvb1.vdmscdn.com/local-Biaban-Movies/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png",[COLOR yellow]     OSN CHANNELS  [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076223.png",osn Movies HD
-http://asno.gcdn.co/mon-Movies-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/a/1502867882541.png",osn Movies Action
-http://asno.gcdn.co/mon-Movies-HD-Action/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/a/1502867882541.png",osn Movies Action +2
-http://asno.gcdn.co/mon-Action-Plus2-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076141.png",osn Movies Thriller
-http://asno.gcdn.co/mon-Movies-Drama/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/a/1502873380831.png",osn Movies First 
-http://asno.gcdn.co/mon-First-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaDrama.ae.png",osn Yahala Drama HD
-http://asno.gcdn.co/mon-Yahal-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ae/OSNYahalaCinema.ae.png",osn Yahala Cinema HD
-http://asno.gcdn.co/mon-Yahal-Cinema/index.m3u8|user-agent=+BoX@dash#|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="http://tvimages.burrp.com/images/channels2/Movies/Star-Movies.png",Star Movies HD
-http://asno.gcdn.co/MY-Star-Movies-Hd/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/619px-STAR_World.svg.png",Star World HD
-http://asno.gcdn.co/MY-Star-World/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+https://cdn.arabcast.tv/hls/channel153/channel153.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712149026.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
 ***********
@@ -244,23 +226,23 @@ http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8|User-Agent=ONLINETVCLIENT_X
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
-http://sstvb.vdmscdn.com/LQ-AR-Jeem-Europe/tracks-v1a1/index.m3u8?v=2965041927|User-Agent=ExoPlayerLib/1.5.6&.ts
+https://cdn.arabcast.tv/hls/channel21/channel21.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png",Baraeem
-http://sstvb.vdmscdn.com/LQ-AR-Baraem/index.m3u8|User-Agent=rehtp&.ts
+https://cdn.arabcast.tv/hls/channel19/channel19.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png",Ajyal
-http://sstvb.vdmscdn.com/LQ-AR-Ajyal/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png",Karameesh
 http://sstvb.vdmscdn.com/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/01/1-1.png",Toyor Aljannah
-http://sstvb.vdmscdn.com/LQ-AR-Toyor-Al-Janah/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://zona-live-tv.com/Chan/Arab/ToyorAlJanah.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72860/clearlogo/tomandjerry-72860.png",Tom and Jerry
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon HD
 http://sstvb.vdmscdn.com/LQ-AR-Spacetoon/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/527.ts|User-Agent=bbbbb&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/527.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",mbc 3
 http://sstvb.vdmscdn.com/LQ-AR-MBC3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
