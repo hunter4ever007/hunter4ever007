@@ -3,7 +3,6 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
 http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/477.ts|User-Agent=tttt&.ts
-http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/2.ts|User-Agent=rehtp&.ts
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2
 http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/478.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg", MBC 3
@@ -75,9 +74,9 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM S2
-http://sstvb.vdmscdn.com/LQ-AR-ZEE-Aflam/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/494.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
-http://173.212.206.199:25461/live/ticket/tick/699.ts|User-Agent=ten&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/495.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", b4U Aflam
 http://173.212.206.199:25461/live/ticket/tick/695.ts|User-Agent=ten&.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
