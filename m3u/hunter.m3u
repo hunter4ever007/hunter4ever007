@@ -358,7 +358,7 @@ http://asno.gcdn.co/mon-Discovery-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png", Velocity
 http://11gb.gcdn.co/live/online/tv/1720.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/528.ts|User-Agent=bbbbb&.ts
+http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/528.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya S2
 http://sstvb.vdmscdn.com/LQ-AR-Quest-Arabiya/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 
