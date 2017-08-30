@@ -291,9 +291,7 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Al Jazeera English FHD 1080p
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN
-http://173.212.206.199:25461/live/ticket/tick/609.ts|User-Agent=ten&.ts
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN S2
-http://37.48.70.138:8088/live/CNN_livestreaming2017/playlist.m3u8?id=71244&wowzasessionid=361701685&pk=d060d51e9b7a6077998cf193ce481bdff8dddd03f73a46490a6e75199a6b8265
+http://2d05.janjuaplayer.com:8088/live/cnn_livestreaming/playlist.m3u8?id=71202&wowzasessionid=14856741&pk=5d5210b0de658bb5ec8256cdd44e7924e1eca84eba492ceb3c308d51e07971c5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
 http://stream.skynewsarabia.com/stream/snahls_high.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
