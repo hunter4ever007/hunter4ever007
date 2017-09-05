@@ -70,11 +70,11 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM S2
-http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/494.ts|User-Agent=tttt&.ts
+http://sstvb.vdmscdn.com/LQ-AR-ZEE-Aflam/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
-http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/495.ts|User-Agent=tttt&.ts
+http://sstvb.vdmscdn.com/LQ-AR-ZEE-Alwan/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png", b4U Aflam
-http://173.212.206.199:25461/live/ticket/tick/695.ts|User-Agent=ten&.ts
+http://sstvb.vdmscdn.com/LQ-AR-B4U-Aflam/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509", Moga Comedy
 http://sstvb.vdmscdn.com/LQ-AR-Moga-Comedy/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png", Funoon
@@ -162,11 +162,11 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/78.ts|User-Age
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/79.ts|User-Agent=sammaadsdsss&.ts
 
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 HD
-http://173.212.206.199:25461/live/control1/control1/288.ts|User-Agent=control1&.ts
+http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT1/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 HD
-http://173.212.206.199:25461/live/control1/control1/290.ts|User-Agent=control1&.ts
+http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT2/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 HD
-http://173.212.206.199:25461/live/control1/control1/291.ts|User-Agent=control1&.ts
+http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT3/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 SD
 http://bl.movcast.tv:1935/icoolkora/mbc-pro1_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 SD
@@ -215,7 +215,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&si
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon HD
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
-http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/527.ts|User-Agent=tttt&.ts
+http://sstvb.vdmscdn.com/LQ-AR-Spacetoon/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://www.stardima.com/home/upload/07-2016/cat/37mlD.png",mbc 3
 http://sstvb.vdmscdn.com/LQ-AR-MBC3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
