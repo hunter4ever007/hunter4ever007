@@ -179,25 +179,25 @@ http://bl.movcast.tv:1935/icoolkora/mbc-pro2_360p/playlist.m3u8
 http://bl.movcast.tv:1935/icoolkora/mbc-pro3_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 1 HD
-http://173.212.206.199:25461/live/control1/control1/144.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-1-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 2 HD
-http://173.212.206.199:25461/live/control1/control1/145.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-2-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 3 HD
-http://173.212.206.199:25461/live/control1/control1/146.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-3-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 4 HD
-http://173.212.206.199:25461/live/control1/control1/147.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-4-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 5 HD
-http://173.212.206.199:25461/live/control1/control1/148.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-5-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 6 HD
-http://173.212.206.199:25461/live/control1/control1/149.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-6-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 7 HD
-http://173.212.206.199:25461/live/control1/control1/150.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-7-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 8 HD
-http://173.212.206.199:25461/live/control1/control1/151.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-8-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 9 HD
-http://173.212.206.199:25461/live/control1/control1/152.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-9-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 10 HD
-http://173.212.206.199:25461/live/control1/control1/153.ts|User-Agent=control1&.ts
+http://sstvb1.vdmscdn.com/sport-bn-sport-10-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
