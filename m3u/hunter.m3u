@@ -166,11 +166,11 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/78.ts|User-Age
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/79.ts|User-Agent=sammaadsdsss&.ts
 
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 1 HD
-http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT1/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://194.88.104.57:8108/LQ-AR-MBC-SPORT1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 2 HD
-http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT2/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://194.88.104.57:8108/LQ-AR-MBC-SPORT2/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/s1/1502102076192.png",mbc pro sports 3 HD
-http://sstvb.vdmscdn.com/LQ-AR-MBC-SPORT3/index.m3u8|User-Agent=nONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://194.88.104.57:8108/LQ-AR-MBC-SPORT3/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 1 HD
 http://sstvb1.vdmscdn.com/sport-bn-sport-1-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
