@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
-http://194.88.104.57:8108/LQ-AR-MBC1/tracks-v1a1/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+http://frontend.arabcast.tv/hls/channel20/channel20.m3u8
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 
-http://194.88.104.57:8108/LQ-AR-MBC2/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+https://frontend.arabcast.tv/hls/channel24/channel24.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg", MBC 3 
-http://194.88.104.57:8108/LQ-AR-MBC3/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+https://frontend.arabcast.tv/hls/channel22/channel22.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png", MBC 4
 http://194.88.104.57:8108/LQ-AR-MBC4/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eZsEehieDsw/WPkWi2Gzr3I/AAAAAAAAFT4/0STrtKNzLAUgAnNik4-HHH2eMG7Zq5NiwCEw/s1600/mbc_ae_4_hd.png", MBC 4 HD S2
 http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
 #EXTINF:-1 tvg-logo="https://zapafri.s3.amazonaws.com/channels/original/c-6fb0ea0500a4b6b665cda8f1a96c0807.png", MBC ACTION 
-http://194.88.104.57:8108/LQ-AR-MBC-Action/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+http://frontend.arabcast.tv/hls/channel23/channel23.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG", MBC MAX 
-147.135.220.87:8877/live/CMqvMyMfdo/WOgMr8Cc2U/263.ts|User-Agent=Lavf/57.56.100&.ts
+http://frontend.arabcast.tv/hls/channel25/channel25.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA 
-http://194.88.104.57:8108/LQ-AR-MBC-Drama/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+http://selevision9883-i.akamaihd.net/hls/live/219251/98835/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD 
-http://194.88.104.57:8108/LQ-AR-MBC-Bollywood/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+http://frontend.arabcast.tv/hls/channel26/channel26.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/b/1504653341721.png", MBC BOLLYWOOD HD
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 
@@ -62,9 +62,9 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
 #EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
-http://194.88.104.57:8108/LQ-AR-Rotana-Music/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
 #EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
-http://194.88.104.57:8108/LQ-AR-Rotana-Masriya/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
