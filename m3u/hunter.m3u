@@ -122,9 +122,9 @@ http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/440.ts|User-Ag
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/145.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Int
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/50.ts|User-Agent=sammaadsdsss&.ts
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/50.ts|User-Agent=Sportstv204&.ts
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 2
+http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/51.ts|User-Agent=Sportstv204&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/146.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban SportTV HD
