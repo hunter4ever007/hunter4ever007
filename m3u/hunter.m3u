@@ -644,7 +644,7 @@ http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/100.ts|User-A
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/101.ts|User-Agent=Sportstv204&.ts
 #EXTINF:-1,PPV 8 (not 24x7)
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/102.ts|User-Agent=Sportstv204&.ts
-#EXTINF:-1,PPV 9 (not 24x7)
+#EXTINF:-1,PPV 9 
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/103.ts|User-Agent=Sportstv204&.ts
 #EXTINF:-1,2g-PPV 1
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/803.ts|User-Agent=Sportstv204&.ts
