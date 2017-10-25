@@ -47,7 +47,7 @@ http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/351.ts|User-A
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/352.ts|User-Agent=Sportstv204&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/353.ts|User-Agent=Sportstv204&.ts
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/ART_AFLAM_1.png/revision/latest?cb=20150308150712", art Aflam 1
 http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/518.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
 http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/519.ts|User-Agent=tttt&.ts
@@ -55,19 +55,19 @@ http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/519.ts|User-Agent=tttt&.ts
 http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/521.ts|User-Agent=tttt&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/tU934122.png", Rotana Aflam
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/WN734172.png", Rotana Cinema
+#EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/02/1-3.png", Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
-#EXTINF:-1 tvg-logo="http://upload.traidnt.net/upfiles/kSX34202.jpg", Rotana Music
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png", Rotana Music
 http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/1D.png", Rotana Masriya
+#EXTINF:-1 tvg-logo="http://masry-now.com/images/stories/RIADA/rotana%20masriya.png", Rotana Masriya
 http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
+#EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
 http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
 http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
@@ -85,9 +85,9 @@ http://zona-live-tv.com/Chan/Arab/Funoon.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png",CBC Drama
 http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.al-nahar.tv/frontend/img/tv_new/img/logo/general.png",Al Nahar TV
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-060113AM.png",Al Nahar TV
 http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/wp-content/files_mf/alnahardrama34.png",Al Nahar Drama
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png",Al Nahar Drama
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
 
 
