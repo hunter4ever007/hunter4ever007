@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png",[COLOR yellow]            MBC CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/06/mbc-channels.jpg",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
 http://frontend.arabcast.tv/hls/channel20/channel20.m3u8
@@ -23,7 +23,7 @@ http://frontend.arabcast.tv/hls/channel26/channel26.m3u8
 http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097130981411.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://sms53.com/images/uae.png",[COLOR yellow]           UAE CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png", ABU DHABI
 http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
@@ -39,7 +39,7 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095291711.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/picons-basic-1/57/basic1-128_tv_television-512.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
 http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/351.ts|User-Agent=Sportstv204&.ts
@@ -91,7 +91,7 @@ http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712149026.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Sports_portal_bar_icon.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -186,7 +186,7 @@ http://sstvb1.vdmscdn.com/sport-bn-sport-9-sd/tracks-v1a1/index.m3u8|User-Agent=
 http://sstvb1.vdmscdn.com/sport-bn-sport-10-sd/tracks-v1a1/index.m3u8|User-Agent=abd3@ nmlk;14n5&.ts
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097188349031.png",[COLOR yellow]                  KIDS TV [/COLOR]
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NONvSaI2L.png",[COLOR yellow]                  KIDS TV [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png",Jeem HD
 https://cdn.arabcast.tv/hls/channel21/channel21.m3u8
@@ -212,7 +212,7 @@ http://194.88.104.57:8108/LQ-AR-MBC3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.t
 http://194.88.104.57:8108/LQ-AR-Cartoon-Network/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709535995.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.xsjjys.com/data/out/124/WHDQ-512658602.png",[COLOR yellow]              INTERNATIONAL [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png",Qatar HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_272s30.m3u8
@@ -244,7 +244,7 @@ https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097298292521.png",[COLOR yellow]            Islamic Channels [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.dpna.ir/Content/img/portfolio/Art.png",[COLOR yellow]            Islamic Channels [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png",Iqraa
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
@@ -264,7 +264,7 @@ http://zona-live-tv.com/Chan/Arab/Huda.m3u8
 rtmp://peace.fms.visionip.tv/live/?v=1023804506/b2b-peace_usa-live-25f-4x3-sdh_3
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121451214.png",[COLOR yellow]          NEWS CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMMUWZoXcAEbzfa.png",[COLOR yellow]          NEWS CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png", AL Arabiya
 http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
@@ -300,7 +300,7 @@ http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909709532193.png",[COLOR yellow]  Documentary CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://alternatiftv.net/imgposter/3244.png",[COLOR yellow]  Documentary CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
@@ -324,7 +324,7 @@ http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/528.ts|User-Agent=tttt&.ts
 http://194.88.104.57:8108/LQ-AR-Quest-Arabiya/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/1490971214162.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Saudi-arabia-icon.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png", Saudi Quran HD
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
@@ -342,7 +342,7 @@ http://selevision9885-i.akamaihd.net/hls/live/219271/98855/1.m3u8
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097095345394.png",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/vista-flags/256/English-Language-Flag-2-icon.png",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/4music_(logo).svg/995px-4music_(logo).svg.png", 4 Music
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
