@@ -32,9 +32,11 @@ http://adtv.ercdn.net/addrama/addrama_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png", ABU DHABI Emirates HD
 http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png", Dubai TV HD
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif", Sama Dubai HD
-http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif", Sama Dubai 
+http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8?v=1314871538
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif", Sama Dubai HD S2
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png", Sharjah 
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
@@ -58,7 +60,7 @@ http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b180000
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/02/1-3.png", Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=2965217756
+http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png", Rotana Music
 http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
 #EXTINF:-1 tvg-logo="http://masry-now.com/images/stories/RIADA/rotana%20masriya.png", Rotana Masriya
@@ -66,7 +68,7 @@ http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/index.m3u8
+http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8?v=2965155790
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
 http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM
@@ -115,16 +117,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://alkass-i.akamaihd.net/hls/live/205534/5/live_30s20.m3u8
 #EXTINF:-1 tvg-logo="http://www.dreamboxgate.com/forum/imgcache/2013/6/174294.png",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-chelsea-tv.png",Chelsea
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFC
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/440.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MUTV
-http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/145.ts|User-Agent=sammaadsdsss&.ts
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 1 Int
-http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/50.ts|User-Agent=Sportstv204&.ts
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/tl/eurosport.png",Euro Sport 2
-http://live1.livetvindia.co.in:8000/live/SportsTTV204/SportsTTV204/51.ts|User-Agent=Sportstv204&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
 http://live1.livetvindia.co.in:8000/live/mobiletvfreeapp/freeasaa/146.ts|User-Agent=sammaadsdsss&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-BF0SYbBXpX8/WHE5__6NTRI/AAAAAAAAAAw/upeiWN8MoQE7LiRwvyld8SuF-04fmx2YwCK4B/s1600/biaban-tv-frekans.png",Biaban SportTV HD
@@ -134,9 +126,9 @@ http://asno.gcdn.co/local-Falcon-HD/tracks-v1a1/index.m3u8|User-Agent=ONLINETVCL
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg",ON Sport
 http://asno.gcdn.co/On-Sport-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG",Raya TV
-http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG",Raya TV S2
-http://vstream3.hadara.ps:8081/RayaHD_web/web/chunks.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://vstream3.hadara.ps:8081/RayaHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551",Alfajr INT
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/IqPln1Wi8xomhb1-m7wiTGpgwqKhBh9wMlw8G0K4G9kUWYkRkSztZGce2ai9Z2BdJN8=w300", AjyalTV 
@@ -231,7 +223,7 @@ http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg",AljadeedTV
 http://185.2.83.139:6204/live/ara/ARA/264.ts
 #EXTINF:-1 tvg-logo="http://apksave.com/storage/images/com/andromo/dev244056/app232981/170/yemen-tv.png",Yemen TV
-http://194.88.104.57:8108/LQ-AR-Yemen-TV/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800",Suhail
 rtmp://82.212.74.5/live//7626
 #EXTINF:-1 tvg-logo="http://jascostreaming.com/images/sanaa.png",Sana'a
