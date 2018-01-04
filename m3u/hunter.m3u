@@ -122,7 +122,7 @@ http://cdn.zona-live-tv.com:1935/live/player/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://leontv.xyz/assets/img/58692e8041903_img.png",Idman TV
 http://bein.website/ZonaLiveTV7/Turk3.m3u8?id=idman-tv-izle
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg",ON Sport
-http://asno.gcdn.co/On-Sport-HD/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+http://streaming.i-sat.tv:1935/live/sno/chunklist_w281333059.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG",Raya TV
 http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG",Raya TV S2
@@ -302,7 +302,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Today Documentary
 https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
-https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", OSN DISCOVERY CHANNEL
 http://asno.gcdn.co/mon-Discovery-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png", Velocity
