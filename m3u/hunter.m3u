@@ -57,9 +57,11 @@ http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b180000
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/02/1-3.png", Rotana Cinema
 http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/02/1-3.png", Rotana Cinema 2
+http://bein.website/ZonaLiveTV7/Local/Zona.m3u8?id=1396
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png", Rotana Music
 http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
-#EXTINF:-1 tvg-logo="http://masry-now.com/images/stories/RIADA/rotana%20masriya.png", Rotana Masriya
+#EXTINF:-1 tvg-logo="http://emarat-news.ae/documents/20181/7625488/drama.png/6f664327-f1f7-4722-a4cf-413baad53f8f?version=1.0&t=1507983105000", Rotana Drama
 http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
 #EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
