@@ -195,7 +195,7 @@ http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&si
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon HD
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
-http://194.88.104.57:8108/LQ-AR-Spacetoon/index.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770.ts
+http://bein.website/ZonaLiveTV7/Local/Zona.m3u8?id=1648
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg",mbc 3
 http://bein.website/ZonaLiveTV7/Local/Zona.m3u8?id=1381
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
@@ -291,7 +291,9 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/index_2500_av-p.m3u8?sd=10&
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", NAT GEO ABU DHABI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1000px-Logo_Nat_Geo_Wild.svg.png", osn Nat Geo Wild
+http://bein.website/ZonaLiveTV7/Local/Zona.m3u8?id=3702
+#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", Nat Geo Abu Dhabi
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
 rtmp://82.212.74.98/live//7905
