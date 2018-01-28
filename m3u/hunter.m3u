@@ -202,7 +202,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
 http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1648
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg",mbc 3
-http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1381
+http://2203.janjuaplayer.com:8088/live/mbc_3333/playlist.m3u8?id=75799&wowzasessionid=533581612&pk=59a826742fd0498bf3835927cf5029ce79ef7c38dc736355a45d6ab381c83e0d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
 http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1645
 
