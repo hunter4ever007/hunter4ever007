@@ -125,7 +125,7 @@ http://cdn.zona-live-tv.com:1935/live/wowza/playlist.m3u8
 http://cdn.zona-live-tv.com:1935/live/secure2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png",Falcon Eye HD
 http://cdn.zona-live-tv.com:1935/live/player/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://leontv.xyz/assets/img/58692e8041903_img.png",Idman TV
+#EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png",Idman TV
 http://bein.website/FaceBook.com/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg",ON Sport
 http://streaming.i-sat.tv:1935/live/sno/chunklist_w281333059.m3u8
