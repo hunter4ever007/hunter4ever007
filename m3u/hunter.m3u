@@ -41,12 +41,14 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/picons-basic-1/57/basic1-128_tv_television-512.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="https://serv2.samaup.com/i/00100/ln65hsm5dh8w.png", osn movies first
+http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3705
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
-https://goo.gl/fPYx2g
+http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1942
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
 http://103.mipsplayer.net:8088/live/reyreyreyreyreyeyyyery/playlist.m3u8?id=265120&wowzasessionid=539625854&pk=59a826742fd0498bf3835927cf5029ce79ef7c38dc736355a45d6ab381c83e0d
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
