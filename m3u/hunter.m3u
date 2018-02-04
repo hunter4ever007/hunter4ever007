@@ -72,9 +72,9 @@ http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8?v=2965155790
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
-http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+http://streaming.i-sat.tv:1935/live/rtcp/chunklist_w667900557.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM 
-http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
+http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM S2
 http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1422
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
@@ -286,7 +286,9 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",Al Jazeera English FHD 1080p
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN
-http://109.123.114.178:1935/Livenewson/Livenewson19/chunklist_w174813590.m3u8
+http://109.123.114.178:1935/Livenewson/Livenewson43/chunklist_w1339571717.m3u8
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN S2
+http://91.121.244.94:8081/81AEZJaJuYnL7uO8ijYf2euOceuYTZDxY8euQVRIrNVI2ND6dQr8/live/cnn_id6748/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
