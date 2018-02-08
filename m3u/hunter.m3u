@@ -41,8 +41,10 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/picons-basic-1/57/basic1-128_tv_television-512.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://serv2.samaup.com/i/00100/ln65hsm5dh8w.png", osn movies first
+#EXTINF:-1 tvg-logo="https://serv2.samaup.com/i/00100/ln65hsm5dh8w.png", osn Movies First
 http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3705 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png", osn Movies +2 First
+http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3704
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
@@ -310,6 +312,8 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/index_2500_av-p.m3u8?sd=10&
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1000px-Logo_Nat_Geo_Wild.svg.png", osn Nat Geo Wild
 http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3702
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png", osn Nat Geo People
+http://bein.website/FaceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3701
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", Nat Geo Abu Dhabi
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
