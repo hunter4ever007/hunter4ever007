@@ -207,8 +207,6 @@ http://194.88.104.57:8108/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/01/1-1.png",Toyor Aljannah
 http://bein.website/FaceBook.com/ZonaLiveTV/ArabM.m3u8?id=ToyorAlJanah_Med
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/72860/clearlogo/tomandjerry-72860.png",Tom and Jerry
-http://live.g3proxy.lecloud.com/gslb?stream_id=lb_mhls_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon HD
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
@@ -239,8 +237,6 @@ http://bein.website/FaceBook.com/ZonaLiveTV/AlJadidTV.m3u8
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800",Suhail
 rtmp://82.212.74.5/live//7626
-#EXTINF:-1 tvg-logo="http://jascostreaming.com/images/sanaa.png",Sana'a
-rtmp://82.212.74.3/live//7410
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/D88zlgeLYSxXX8aZdGvdBzDCj1Ovnaak3aCi74f0AzHcrdGC2_qU-m_8bblhpIVkUg=w300",Al Dafrah TV
 http://live.aldafrah.tv:1935/live/myStream3/gmswf.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png", Wanasah
@@ -289,8 +285,6 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson43/chunklist_w1339571717.m3u8
-#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png",CNN S2
-http://91.121.244.94:8081/81AEZJaJuYnL7uO8ijYf2euOceuYTZDxY8euQVRIrNVI2ND6dQr8/live/cnn_id6748/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
@@ -325,13 +319,11 @@ https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", OSN DISCOVERY CHANNEL
-http://asno.gcdn.co/mon-Discovery-HD/index.m3u8|user-agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png", Velocity
-http://11gb.gcdn.co/live/online/tv/1720.m3u8|User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1770&.ts
+https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
-http://rmd.primatv.club:8899/live/meiniptv/JKm6IGGviI/528.ts|User-Agent=tttt&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya S2
-http://194.88.104.57:8108/LQ-AR-Quest-Arabiya/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+https://goo.gl/fPYx2g
 
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Saudi-arabia-icon.png",[COLOR yellow]       SAUDI CHANNELS [/COLOR]
