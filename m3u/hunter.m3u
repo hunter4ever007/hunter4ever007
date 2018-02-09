@@ -124,7 +124,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN.jpg",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",WWE
-http://bein.website/FaceBook.com/ZonaLiveTV/beIN.m3u8?id=wwe-hq
+http://144.217.64.126:8080/live/toby1/toby1/20913.m3u8
 #EXTINF:-1 tvg-logo="https://serv3.samaup.com/i/00099/jse3u1nf7gvi.jpg",Biaban SportTV HD
 http://cdn.zona-live-tv.com:1935/live/wowza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png",Falcon Eye HD
@@ -237,8 +237,6 @@ http://bein.website/FaceBook.com/ZonaLiveTV/AlJadidTV.m3u8
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800",Suhail
 rtmp://82.212.74.5/live//7626
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/D88zlgeLYSxXX8aZdGvdBzDCj1Ovnaak3aCi74f0AzHcrdGC2_qU-m_8bblhpIVkUg=w300",Al Dafrah TV
-http://live.aldafrah.tv:1935/live/myStream3/gmswf.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png", Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png", Arabica
