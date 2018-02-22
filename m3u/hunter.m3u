@@ -46,9 +46,9 @@ http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3705
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png", osn Movies +2 First
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3704
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=beinmovies1-hq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=beinmovies2-hq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1942
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
@@ -149,15 +149,15 @@ http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
 http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=skysports1-hq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=skysports2-hq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=skysports3-hq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=skysports4-hq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
-https://goo.gl/fPYx2g
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=skysports5-hq
 
 
 #EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg",mbc pro sports 1 HD
@@ -171,26 +171,66 @@ http://2203.janjuaplayer.com:8088/live/mbc_sports2/playlist.m3u8?id=73834&wowzas
 #EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg",mbc pro sports 3 HD
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=2875
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 1 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 1
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1952
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 2 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 2
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1953
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 3 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 3
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1954
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 4 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 4
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1955
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 5 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 5
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1956
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 6 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 6
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1957
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 7 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 7
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1958
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 8 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 8
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1959
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 9 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 9
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1960
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 10 HD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 10
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1961
+
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 1 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein1-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 2 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein2-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 3 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein3-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 4 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein4-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 5 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein5-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 6 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein6-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 7 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein7-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 8 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein8-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 9 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein9-hq
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 10 HQ
+http://bein.website/FAceBook.com/ZonaLiveTV/beIN.m3u8?id=bein10-hq
+
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 1 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-1/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 2 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-2/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 3 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-3/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 4 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-4/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 5 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-5/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 6 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-6/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 7 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-7/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 8 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-8/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
+#EXTINF:-1 tvg-logo="http://www.4androidapk.net/data/programs/images/bein-sports_2389.png",Bein Sport 9 HD
+http://smart.zona-live-tv.com:8080/MatH33Raaabinooohdd-9/Strm/index.m3u8|User-Agent=AppleCoreMedia1234a&.ts
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NONvSaI2L.png",[COLOR yellow]                  KIDS TV [/COLOR]
@@ -252,7 +292,7 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 #EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
-http://194.88.104.57:8108/LQ-AR-AlMajd3/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+http://199.167.151.237:1935/live/sp15_24.stream/chunklist_w1252792235.m3u8
 #EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png", Alafasy TV
 http://osiptv.casacam.net/LQ-AR-Al-Afasy/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
@@ -306,6 +346,8 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png", osn Nat Geo People
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3701
+#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", OSN DISCOVERY CHANNEL
+http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1861
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", Nat Geo Abu Dhabi
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
@@ -316,8 +358,6 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", OSN DISCOVERY CHANNEL
-https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png", Velocity
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png", Quest Arabiya
@@ -332,8 +372,6 @@ http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 #EXTINF:-1 tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png", Saudi 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219192/98819/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_channel_2_tv_islamic_live_online_free_arabic_channel.png", Saudi 2 HD
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel2/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png", Ekhbariya HD
 http://selevision9888-i.akamaihd.net/hls/live/219298/98882/1.m3u8
 #EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg", Al Thakafiyah HD
@@ -349,7 +387,4 @@ http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://cdn.apk-cloud.com/detail/image/org.novatheme.adwvip-w250.png",[COLOR yellow]     VIP CHANNELS [/COLOR]
-***********
 
