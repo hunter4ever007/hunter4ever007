@@ -3,8 +3,8 @@
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1379
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1  S2
-http://milk.primatv.club:2450/live/troytroy2/ZTAtmYBUuQ/1278.ts|User-Agent=VLC/3.0.0-rc6 LibVLC/3.0.0-rc6&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1  BkUp
+http://srvt.topiptv.org:80/live/New_acc_.@_....mmxnghgffdccccccccxxm_.......ccccccccX.._X...X___@....@@...xxx.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/1750.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png", MBC 2 
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1380
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg", MBC 3 
