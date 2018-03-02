@@ -63,15 +63,15 @@ https://goo.gl/fPYx2g
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png", Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/02/1-3.png", Rotana Cinema
+#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png", Rotana Cinema
 http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/02/1-3.png", Rotana Cinema 2
+#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png", Rotana Cinema 2
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1396
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png", Rotana Music
 http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
 #EXTINF:-1 tvg-logo="http://emarat-news.ae/documents/20181/7625488/drama.png/6f664327-f1f7-4722-a4cf-413baad53f8f?version=1.0&t=1507983105000", Rotana Drama
 http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
-#EXTINF:-1 tvg-logo="http://marfaworld.org/img/partners/rotana.png", Rotana Khaligia
+#EXTINF:-1 tvg-logo="https://mgl.skyrock.net/art/SHAR.5776.383.2.png", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png", Rotana Classic
 http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8?v=2965155790
@@ -247,7 +247,7 @@ https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/index.m3u8
 http://194.88.104.57:8108/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.satchannelfrequency.com/public_html/wp-content/uploads/2016/01/1-1.png",Toyor Aljannah
+#EXTINF:-1 tvg-logo="https://www.w6an.net/wp-content/uploads/%D8%B7%D9%8A%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9.png",Toyor Aljannah
 http://bein.website/FAceBook.com/ZonaLiveTV/ArabM.m3u8?id=ToyorAlJanah_Med
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon HD
 http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
@@ -344,7 +344,7 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png", osn Nat Geo People
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=3701
-#EXTINF:-1 tvg-logo="https://www.gospanishnow.com/wp-content/uploads/2015/12/Discovery-Channel-HD.png", OSN DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png", OSN DISCOVERY CHANNEL
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1861
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", Nat Geo Abu Dhabi
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
