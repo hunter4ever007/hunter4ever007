@@ -101,17 +101,15 @@ http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Sports_portal_bar_icon.png",[COLOR yellow]      SPORTS CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD sport 1
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png",AD Sports 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C31ndAhWQAI5A-l.png",AD sport 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C31ndAhWQAI5A-l.png",AD Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png", Dubai Sports 
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png", Dubai Sports HD
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png", Dubai Sports 2 HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg", Saudi Sport 1 HD (Saudi Arabia)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg", KSA Sports HD
 http://selevision9885-i.akamaihd.net/hls/live/219269/98853/1.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
@@ -135,6 +133,8 @@ http://cdn.zona-live-tv.com:1935/live/secure2/playlist.m3u8
 http://cdn.zona-live-tv.com:1935/live/player/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png",Idman TV
 http://bein.website/FAceBook.com/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png", Movistar Futbol
+http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1925
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg",ON Sport
 http://streaming.i-sat.tv:1935/live/sno/chunklist_w281333059.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG",Raya TV
@@ -253,8 +253,6 @@ http://bein.website/FAceBook.com/ZonaLiveTV/ArabM.m3u8?id=ToyorAlJanah_Med
 http://streaming.i-sat.tv:8081/live/spacetoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon S2
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1648
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg",mbc 3
-http://2203.janjuaplayer.com:8088/live/mbc_3333/playlist.m3u8?id=75799&wowzasessionid=533581612&pk=59a826742fd0498bf3835927cf5029ce79ef7c38dc736355a45d6ab381c83e0d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",CN Arabia
 http://bein.website/FAceBook.com/ZonaLiveTV/Local/Zona.m3u8?id=1645
 
@@ -295,8 +293,6 @@ http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png",Almajd Quraan
 http://199.167.151.237:1935/live/sp15_24.stream/chunklist_w1252792235.m3u8
-#EXTINF:-1 tvg-logo="http://www.m5zn.com/uploads/2011/7/10/photo/071011170724wkrzv19758r9jwhxe.png", Alafasy TV
-http://osiptv.casacam.net/LQ-AR-Al-Afasy/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large", Trteel
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png",Alresalah
@@ -381,11 +377,10 @@ http://selevision9885-i.akamaihd.net/hls/live/219271/98855/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png", Al Eqtisadiyah HD
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/icons-land/vista-flags/256/English-Language-Flag-2-icon.png",[COLOR yellow]     ENGLISH CHANNELS [/COLOR]
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/i/d/E/o/4/L/other-md.png",[COLOR yellow]       OTHER CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/4music_(logo).svg/995px-4music_(logo).svg.png", 4 Music
-http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/4_music-mobile.3gp.m3u8
+#EXTINF:-1 tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/logos/fox-premium-movies.png", Fox Movies Premium
+http://streaming.i-sat.tv:8081/live/fox1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
