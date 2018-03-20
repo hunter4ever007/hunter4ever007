@@ -69,7 +69,7 @@ http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=5241
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1849
 #EXTINF:-1 tvg-logo="https://cdn.mypanel.tv/picon/ae/OSNMoviesComedy.ae.png", osn Movies Comedy
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1850
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/OSN_Movies_Kids.png/revision/latest?cb=20111116193600", osn Movies Kids
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1232_1.png", osn Movies Kids
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1845
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1249_1.png", osn Movies Festival
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1848
@@ -416,7 +416,7 @@ https://goo.gl/fPYx2g
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png",BBC Arabic 
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.cifra1.ru/files/pages/0000/0377/files/Russia-Today.png",Russia Today Arabic HD
+#EXTINF:-1 tvg-logo="http://data.satellitekuwait.com/wp-content/uploads/Watch-Rosia-Alyom-Live-Stream.jpg",Russia Today Arabic HD
 https://secure-streams.akamaized.net/rt-arab/index800.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png", Russia Today Eng
 https://secure-streams.akamaized.net/rt/index800.m3u8
