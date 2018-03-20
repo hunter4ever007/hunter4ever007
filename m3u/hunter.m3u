@@ -41,22 +41,57 @@ http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/picons-basic-1/57/basic1-128_tv_television-512.png",[COLOR yellow]     AFLAM & MUSALSALAT [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png", osn Star Movies HD
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1840
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png", osn YA-Hala Cinema
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1978
+#EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg",  osn Movies Box Office 1
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1853
+#EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg", osn Movies Box Office 2
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1852
+#EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg", osn Movies Box Office 3
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1851
 #EXTINF:-1 tvg-logo="https://serv2.samaup.com/i/00100/ln65hsm5dh8w.png", osn Movies First
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=3705 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png", osn Movies +2 First
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=3704
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/OSN_Movies_2013.jpg", osn Movies HD
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1847
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1211_1.png", osn Movies Action HD
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1855
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/397199/logo_osn%20movies%20action%203.png", osn Movies Action 2 HD
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1856
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/63168/logo_osn%20movies%20premiere.png", osn Movies Premiere HD
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1844
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1210_1.png", osn Movies Premiere 2 HD
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=5241
+#EXTINF:-1 tvg-logo="https://sourcetv.info/wp-content/uploads/2015/03/osn_movies_drama.png", osn Movies Drama
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1849
+#EXTINF:-1 tvg-logo="https://cdn.mypanel.tv/picon/ae/OSNMoviesComedy.ae.png", osn Movies Comedy
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1850
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/63/OSN_Movies_Kids.png/revision/latest?cb=20111116193600", osn Movies Kids
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1845
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1249_1.png", osn Movies Festival
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1848
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 1
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=beinmovies1-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1866
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 2
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=beinmovies2-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1867
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 3
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1942
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png", Bein Movies 4
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=2032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png", Bein Series 1
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=4336
+
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png", art Aflam 1
-http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
+http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/419.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849", art Aflam 2
-http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
+http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/420.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png", art Cinema
-https://goo.gl/fPYx2g
+http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/105.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png", Dubai One HD
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png", Rotana Aflam
@@ -75,9 +110,9 @@ http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 http://selevision9879-i.akamaihd.net/hls/live/219144/98796/1.m3u8?v=2965155790
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png", Rotana Clip
 http://streaming.i-sat.tv:1935/live/rtcp/chunklist_w667900557.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300", ZEE AFLAM 
 http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png", ZEE AFLAM S2
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300", ZEE AFLAM S2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1422
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png", ZEE ALWAN
 http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
@@ -149,15 +184,15 @@ http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
 http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 1
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=skysports1-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1324
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 2
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=skysports2-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1323
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 3
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=skysports3-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1322
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 4
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=skysports4-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1321
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png", Sky Sports 5
-http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=skysports5-hq
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=3070
 
 
 #EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg",mbc pro sports 1 HD
@@ -301,7 +336,7 @@ https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/index.m3u8
 http://194.88.104.57:8108/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.w6an.net/wp-content/uploads/%D8%B7%D9%8A%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%A9.png",Toyor Aljannah
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/d/d6/20160820122024%21Logo_Toyor_Aljanah.PNG",Toyor Aljannah
 http://bein.website/FaceBOOk.com/ZonaLiveTV/ArabM.m3u8?id=ToyorAlJanah_Med
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
@@ -396,18 +431,20 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/index_2500_av-p.m3u8?sd=10&
 ***********
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", osn ANIMAL PLANET
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1864
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1000px-Logo_Nat_Geo_Wild.svg.png", osn Nat Geo Wild
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=3702
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png", osn Nat Geo People
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=3701
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png", osn Discovery
-http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1861
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png", Nat Geo Abu Dhabi
 http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png", osn Discovery
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1861
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png", osn History
+http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=3699
 #EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg",Arab Geographic
 rtmp://82.212.74.98/live//7905
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356", ANIMAL PLANET
-https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png", Russia Today Documentary
 https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png", NASA TV HD
