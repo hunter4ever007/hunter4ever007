@@ -170,90 +170,100 @@ http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=2875
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=2876
 
 
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 1 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 1 HD VIP
 http://beinshoot.net:8000/live/255222/777222/1.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 2 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 2 HD VIP
 http://beinshoot.net:8000/live/255222/777222/2.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 3 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 3 HD VIP
 http://beinshoot.net:8000/live/255222/777222/3.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 4 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 4 HD VIP
 http://beinshoot.net:8000/live/255222/777222/4.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 5 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 5 HD VIP
 http://beinshoot.net:8000/live/255222/777222/5.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 6 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 6 HD VIP
 http://beinshoot.net:8000/live/255222/777222/6.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 7 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 7 HD VIP
 http://beinshoot.net:8000/live/255222/777222/7.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 8 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 8 HD VIP
 http://beinshoot.net:8000/live/255222/777222/8.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 9 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 9 HD VIP
 http://beinshoot.net:8000/live/255222/777222/9.ts
-#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sport 10 VIP
+#EXTINF:-1 tvg-logo="http://suckmysite.com/images/channels/beIN-Sports-3_0.png",Bein Sports 10 HD VIP
 http://beinshoot.net:8000/live/255222/777222/249.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png", Bein Sports 1 HD IND
+http://62.210.152.188:8000/live/sportt/ssnew/30.ts|User-Agent=okjhjdsfd&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png", Bein Sports 2 HD IND
+http://62.210.152.188:8000/live/sportt/ssnew/29.ts|User-Agent=okjhjdsfd&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png", Bein Sports 3 HD IND
+http://62.210.152.188:8000/live/sportt/ssnew/28.ts|User-Agent=okjhjdsfd&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png", Bein Sports 4 HD IND
+http://62.210.152.188:8000/live/sportt/ssnew/27.ts|User-Agent=okjhjdsfd&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png", Bein Sports 5 HD IND
+http://62.210.152.188:8000/live/sportt/ssnew/26.ts|User-Agent=okjhjdsfd&.ts
 
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 1 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 1 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/940.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 2 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 2 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/938.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 3 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 3 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/937.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 4 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 4 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/936.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 5 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 5 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/935.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 6 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 6 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/934.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 7 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 7 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/933.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 8 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 8 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/932.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 9 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 9 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/931.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
-#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sport 10 HD
+#EXTINF:-1 tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg",Bein Sports 10 HD F-IPTV
 http://srvt.topiptv.org:80/live/New_xxxacc.@XX........._XX@Free-IPTV-com/8BzaNhSgNG/939.ts|User-Agent=Free-IPTV/1.0.0 LibVLC/3.0.0-git&.ts
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 1
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 1 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1952
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 2
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 2 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1953
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 3
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 3 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1954
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 4 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1955
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 5
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 5 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1956
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 6
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 6 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1957
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 7
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 7 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1958
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 8 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1959
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 9
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 9 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1960
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sport 10
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png",Bein Sports 10 Zon
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1961
 
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 1 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 1 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein1-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 2 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 2 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein2-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 3 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 3 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein3-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 4 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 4 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein4-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 5 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 5 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein5-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 6 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 6 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein6-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 7 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 7 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein7-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 8 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 8 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein8-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 9 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 9 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein9-hq
-#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 10 HQ
+#EXTINF:-1 tvg-logo="https://kabadz.com/wp-content/uploads/2018/01/unnamed.png",Bein Sport 10 HQ Zon2
 http://bein.website/FaceBOOk.com/ZonaLiveTV/beIN.m3u8?id=bein10-hq
 
 
