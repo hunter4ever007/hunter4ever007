@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/06/mbc-channels.jpg",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
-#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/MBCHD.PNG", MBC 1 HD
 http://5.196.90.62:8080/MBC1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2 HD
 http://5.196.90.62:8080/MBC2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.gobx.com/wp-content/uploads/2016/10/MBC-4.png", MBC 4 HD
+#EXTINF:-1 tvg-logo="http://static.myhdmedia.co/hd/channels/General%20Entertainment/dark/mbc4.png", MBC 4 HD
 http://5.196.90.62:8080/MBC4_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1459016683.png", MBC Drama HD
+#EXTINF:-1 tvg-logo="http://www.ewsat.com/img/MBC_DRAMA.png", MBC Drama HD
 http://5.196.90.62:8080/MBC_Drama_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 SD
 http://5.196.90.62:8080/MBC_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
 http://5.196.90.62:8080/MBC_2/index.m3u8
-#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png", MBC 4 SD
 http://5.196.90.62:8080/MBC_4/index.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA
 http://5.196.90.62:8080/MBC_Drama/index.m3u8
