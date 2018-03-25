@@ -1,6 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/06/mbc-channels.jpg",[COLOR yellow]            MBC CHANNELS [/COLOR]
 ***********
+#EXTINF:-1 tvg-logo="http://live-tv.us/wp-content/uploads/2015/02/mbc_ae_1_hd_plus3.png", MBC 1 HD
+http://5.196.90.62:8080/MBC1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png", MBC 2 HD
+http://5.196.90.62:8080/MBC2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.gobx.com/wp-content/uploads/2016/10/MBC-4.png", MBC 4 HD
+http://5.196.90.62:8080/MBC4_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1459016683.png", MBC Drama HD
+http://5.196.90.62:8080/MBC_Drama_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 SD
+http://5.196.90.62:8080/MBC_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png/revision/latest?cb=20131118010642", MBC 2 SD
+http://5.196.90.62:8080/MBC_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/50421488224366.png", MBC 4 SD
+http://5.196.90.62:8080/MBC_4/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA
+http://5.196.90.62:8080/MBC_Drama/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png", MBC BOLLYWOOD
+http://5.196.90.62:8080/MBC_Bollywood/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png", MBC DRAMA 
+http://5.196.90.62:8080/MBC_Drama_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC 1 
 http://bein.website/FaceBOOk.com/ZonaLiveTV/Local/Zona.m3u8?id=1379
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png", MBC 2 
