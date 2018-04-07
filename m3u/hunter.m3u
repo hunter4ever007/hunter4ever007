@@ -189,6 +189,8 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1925
 #EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg" group-title="" ,ON Sport
 http://streaming.i-sat.tv:1935/live/sno/chunklist_w281333059.m3u8
+#EXTINF:-1 tvg-logo="http://www.makan.org.il/images/logo_makan_33.png" group-title="" , Makan
+https://82-80-192-11.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w130511_b1928000.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="" ,Raya TV
 http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="" ,Raya TV S2
