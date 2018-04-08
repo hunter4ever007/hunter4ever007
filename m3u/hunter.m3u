@@ -291,7 +291,7 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1645
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_272s30.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_344s.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Other Channels",Oman TV
 http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="Other Channels",Alrai
@@ -303,7 +303,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106" group-title="Other Channels",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/AlJadidTV.m3u8
+http://streaming.i-sat.tv:8081/live/tnv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
@@ -338,8 +338,6 @@ http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
 http://selevision9881-i.akamaihd.net/hls/live/219192/98819/1.m3u8
 #EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg" group-title="Other Channels", Al Thakafiyah HD
 http://selevision9885-i.akamaihd.net/hls/live/219271/98855/1.m3u8
-#EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/08/20130826184739_channelsbig.png" group-title="Other Channels", Al Eqtisadiyah HD
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/1.m3u8
 
 
 
@@ -371,11 +369,11 @@ http://live.alhadath.net/hadath/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%86.png" group-title="News Channels", Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/552fae9ae4b07ad1f4790787/556ff99be4b0467afc6baf0d/5573b7f0e4b0c1433c07ac8e/1433647090181/aljazeera.png" group-title="News Channels", Aljazeera News
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hKKdyyCaTgc/VIo0jqp27eI/AAAAAAAAAAo/c7F_TAGa5jg/w600-h1080/Al_Jazeera_Mubasher.png" group-title="News Channels",Aljazeera Mubasher
-http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/160.m3u8
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News Channels",Aljazeera English
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News Channels",Al Jazeera English FHD 1080p
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png" group-title="News Channels", Ekhbariya HD
