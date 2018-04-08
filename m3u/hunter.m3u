@@ -41,17 +41,17 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1384
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE CHANNELS", ABU DHABI
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/30/Abudhabidrama_logo.png" group-title="UAE CHANNELS", ABU DHABI Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8?v=
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE CHANNELS", ABU DHABI Emirates HD
-http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?v=2591622963
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png" group-title="UAE CHANNELS", Dubai TV HD
-http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai 
 http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8?v=1314871538
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD S2
-http://dmiffthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://www.arab-tvs.com/images/channels/dubai-zaman.PNG" group-title="UAE CHANNELS", Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png" group-title="UAE CHANNELS", Sharjah 
@@ -211,15 +211,15 @@ http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 1 HD IND
-http://62.210.152.188:8000/live/sportt/ssnew/30.ts|User-Agent=okjhjdsfd&.ts
+http://163.172.38.45:8081/live/b1ar/playlist.m3u8|User-Agent=iikklllllg&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 2 HD IND
-http://62.210.152.188:8000/live/sportt/ssnew/29.ts|User-Agent=okjhjdsfd&.ts
+http://163.172.38.45:8081/live/b2ar/playlist.m3u8|User-Agent=iikklllllg&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 3 HD IND
-http://62.210.152.188:8000/live/sportt/ssnew/28.ts|User-Agent=okjhjdsfd&.ts
+http://163.172.38.45:8081/live/b3ar/playlist.m3u8|User-Agent=iikklllllg&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 4 HD IND
-http://62.210.152.188:8000/live/sportt/ssnew/27.ts|User-Agent=okjhjdsfd&.ts
+http://163.172.38.45:8081/live/b4ar/playlist.m3u8|User-Agent=iikklllllg&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 5 HD IND
-http://62.210.152.188:8000/live/sportt/ssnew/26.ts|User-Agent=okjhjdsfd&.ts
+http://163.172.38.45:8081/live/b5ar/playlist.m3u8|User-Agent=iikklllllg&.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1 BKUP
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5659
@@ -264,27 +264,6 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1959
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1960
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 10 Zon2
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961
-
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 1 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein1-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 2 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein2-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 3 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein3-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 4 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein4-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 5 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein5-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 6 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein6-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 7 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein7-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 8 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein8-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 9 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein9-hq
-#EXTINF:-1 tvg-logo="https://static.apkbird.com/media/ea7d85d7821959962355c04a63115617" group-title="Bein Channels",Bein Sport 10 HQ Zon3
-http://bein.website/FaceBOOk.com1/ZonaLiveTV/beIN.m3u8?id=bein10-hq
 
 
 
