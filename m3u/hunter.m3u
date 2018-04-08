@@ -109,9 +109,9 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=4336
 
 
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png" group-title="ART Channels", art Aflam 1
-http://beinshoot.net:8000/live/825221/777222/444.ts
+http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="ART Channels", art Aflam 2
-http://beinshoot.net:8000/live/825221/777222/445.ts
+http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png" group-title="ART Channels", art Cinema
 http://beinshoot.net:8000/live/825221/777222/446.ts
 
