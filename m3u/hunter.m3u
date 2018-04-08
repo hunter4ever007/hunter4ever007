@@ -113,7 +113,7 @@ http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="ART Channels", art Aflam 2
 http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png" group-title="ART Channels", art Cinema
-http://beinshoot.net:8000/live/825221/777222/446.ts
+https://goo.gl/fPYx2g
 
 
 
@@ -137,9 +137,9 @@ http://streaming.i-sat.tv:1935/live/rtcp/chunklist_w667900557.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png" group-title="Sports Channels",AD Sports 1
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+http://adtv.ercdn.net/adsport1/adsport1_720p-1521045381.ts?v=2534408772
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C31ndAhWQAI5A-l.png" group-title="Sports Channels",AD Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=1606096188
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports HD
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
@@ -149,7 +149,7 @@ http://selevision9885-i.akamaihd.net/hls/live/219269/98853/1.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png" group-title="Sports Channels", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png" group-title="Sports Channels", Sharjah Sports HD S2
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/gmswf.m3u8?v=1023807272
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/gmswf.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 2
@@ -270,7 +270,7 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png" group-title="Kids Channels",Jeem HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5700
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="Kids Channels",Baraeem
-https://cdn.arabcast.tv/hls/channel19/channel19.m3u8
+http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="Kids Channels",Ajyal
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png" group-title="Kids Channels",Karameesh
