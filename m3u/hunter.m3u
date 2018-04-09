@@ -121,8 +121,10 @@ https://goo.gl/fPYx2g
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema
 http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema 2
+#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema S2
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1396
+#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema Sa
+http://92.222.87.254:8000/live/frffhdoHkdu6d/zdc8hd9ne2n1f8/23.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png" group-title="Rotana Channels", Rotana Music
 http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
 #EXTINF:-1 tvg-logo="http://emarat-news.ae/documents/20181/7625488/drama.png/6f664327-f1f7-4722-a4cf-413baad53f8f?version=1.0&t=1507983105000" group-title="Rotana Channels", Rotana Drama
