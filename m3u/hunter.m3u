@@ -211,7 +211,7 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
 #EXTINF:-1 tvg-logo="http://www.makan.org.il/images/logo_makan_33.png" group-title="Today's Matches", Makan
 https://82-80-192-11.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w130511_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551" group-title="Today's Matches",Alfajr INT
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://serv3.samaup.com/i/00099/jse3u1nf7gvi.jpg" group-title="Today's Matches",Biaban SportTV HD
 http://cdn.zona-live-tv.com:1935/live/wowza/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png" group-title="Today's Matches",Falcon Eye HD
