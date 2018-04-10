@@ -448,83 +448,81 @@ http://streaming.i-sat.tv:8081/live/fox1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png" group-title="Foreign Channels", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
-
-
-#EXTINF:-1, group-title="UK Channels", UK.BT-Sports1
+#EXTINF:-1,UK.BT-Sports1
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1349
-#EXTINF:-1, group-title="UK Channels", UK.BT-Sports2
+#EXTINF:-1,UK.BT-Sports2
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1348
-#EXTINF:-1, group-title="UK Channels", UK-Discovery-History.HD
+#EXTINF:-1,UK-Discovery-History.HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Sports1HD
+#EXTINF:-1,UK.Sky-Sports1HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Sports2HD
+#EXTINF:-1,UK.Sky-Sports2HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Sports3HD
+#EXTINF:-1,UK.Sky-Sports3HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Sports4HD
+#EXTINF:-1,UK.Sky-Sports4HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Sports5HD
+#EXTINF:-1,UK.Sky-Sports5HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070
-#EXTINF:-1, group-title="UK Channels", UK.SkySports.F1HD
+#EXTINF:-1,UK.SkySports.F1HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1320
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Action
+#EXTINF:-1,UK.Sky-Movies-Action
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1332
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Scifi.Horror
+#EXTINF:-1,UK.Sky-Movies-Scifi.Horror
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1327
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Modern
+#EXTINF:-1,UK.Sky-Movies-Modern
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1328
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Family
+#EXTINF:-1,UK.Sky-Movies-Family
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1329
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Drama
+#EXTINF:-1,UK.Sky-Movies-Drama
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1330
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Comedy
+#EXTINF:-1,UK.Sky-Movies-Comedy
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1331
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Thriller-HD
+#EXTINF:-1,UK.Sky-Thriller-HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1947
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movie-ShowCase
+#EXTINF:-1,UK.Sky-Movie-ShowCase
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1948
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Atlantic-Plus1
+#EXTINF:-1,UK.Sky-Atlantic-Plus1
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1946
-#EXTINF:-1, group-title="UK Channels", UK.Nat-GeoGraphic
+#EXTINF:-1,UK.Nat-GeoGraphic
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1340
-#EXTINF:-1, group-title="UK Channels", UK.Discovery-Channel
+#EXTINF:-1,UK.Discovery-Channel
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341
-#EXTINF:-1, group-title="UK Channels", UK.SkyPremier
+#EXTINF:-1,UK.SkyPremier
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3066
-#EXTINF:-1, group-title="UK Channels", UK.SkyLiving
+#EXTINF:-1,UK.SkyLiving
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3065
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Movies-Seclect
+#EXTINF:-1,UK.Sky-Movies-Seclect
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3069
-#EXTINF:-1, group-title="UK Channels", UK.Sky-Disney
+#EXTINF:-1,UK.Sky-Disney
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3063
-#EXTINF:-1, group-title="UK Channels", UK.Nickelodeon
+#EXTINF:-1,UK.Nickelodeon
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3071
-#EXTINF:-1, group-title="UK Channels", UK.Discovery-Science.HD
+#EXTINF:-1,UK.Discovery-Science.HD
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3059
-#EXTINF:-1, group-title="UK Channels", UK.Animal-Planet
+#EXTINF:-1,UK.Animal-Planet
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3061
-#EXTINF:-1, group-title="UK Channels", UK.Nat-Geo-Wild
+#EXTINF:-1,UK.Nat-Geo-Wild
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053
-#EXTINF:-1, group-title="UK Channels", UK.History
+#EXTINF:-1,UK.History
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3060
-#EXTINF:-1, group-title="UK Channels", UK.Alibi
+#EXTINF:-1,UK.Alibi
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3057
-#EXTINF:-1, group-title="UK Channels", UK.Itv-1
+#EXTINF:-1,UK.Itv-1
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3056
-#EXTINF:-1, group-title="UK Channels", UK.Itv-2
+#EXTINF:-1,UK.Itv-2
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3055
-#EXTINF:-1, group-title="UK Channels", UK.Itv-3
+#EXTINF:-1,UK.Itv-3
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3054
-#EXTINF:-1, group-title="UK Channels", UK.DisneyXd
+#EXTINF:-1,UK.DisneyXd
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3072
-#EXTINF:-1, group-title="UK Channels", UK.BBC-1
+#EXTINF:-1,UK.BBC-1
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1351
-#EXTINF:-1, group-title="UK Channels", UK.BBC-News
+#EXTINF:-1,UK.BBC-News
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3046
-#EXTINF:-1, group-title="UK Channels", UK.BBC-2
+#EXTINF:-1,UK.BBC-2
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1350
-#EXTINF:-1, group-title="UK Channels", UK.BBC-3
+#EXTINF:-1,UK.BBC-3
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319
-#EXTINF:-1, group-title="UK Channels", UK.BBC-4
+#EXTINF:-1,UK.BBC-4
 http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047
