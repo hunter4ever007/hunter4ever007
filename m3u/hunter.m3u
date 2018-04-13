@@ -20,19 +20,19 @@ http://bein.website/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1384
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE CHANNELS", ABU DHABI
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8?v=1023850523
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/30/Abudhabidrama_logo.png" group-title="UAE CHANNELS", ABU DHABI Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8?v=
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE CHANNELS", ABU DHABI Emirates HD
-http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8?v=2591622963
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png" group-title="UAE CHANNELS", Dubai TV HD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai 
 http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8?v=1314871538
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD S2
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://www.arab-tvs.com/images/channels/dubai-zaman.PNG" group-title="UAE CHANNELS", Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png" group-title="UAE CHANNELS", Sharjah 
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png" group-title="UAE CHANNELS", Dubai One HD
@@ -118,9 +118,9 @@ http://streaming.i-sat.tv:1935/live/rtcp/chunklist_w667900557.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png" group-title="Sports Channels",AD Sports 1
-http://adtv.ercdn.net/adsport1/adsport1_720p-1521045381.ts?v=2534408772
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C31ndAhWQAI5A-l.png" group-title="Sports Channels",AD Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=1606096188
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports HD
 http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
