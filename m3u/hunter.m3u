@@ -293,6 +293,10 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1645
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_344s.m3u8?v=1023850523
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Ktv_1.png/170px-Ktv_1.png" group-title="Other Channels",Kuwait TV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/kuwait_2_tv_channel_live_online_free_arabic_channel.png" group-title="Other Channels",Kuwait TV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Other Channels",Oman TV
 http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="Other Channels",Alrai
