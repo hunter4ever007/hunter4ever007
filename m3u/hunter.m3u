@@ -99,8 +99,6 @@ https://goo.gl/fPYx2g
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema
 http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema S2
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1396
 #EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema Sa
 http://92.222.87.254:8000/live/frffhdoHkdu6d/zdc8hd9ne2n1f8/23.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png" group-title="Rotana Channels", Rotana Music
@@ -125,7 +123,7 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b17500
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD
-http://selevision9885-i.akamaihd.net/hls/live/219269/98853/1.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/Index1400.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png" group-title="Sports Channels", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png" group-title="Sports Channels", Sharjah Sports HD S2
@@ -275,7 +273,7 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5700
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="Kids Channels",Baraeem
 http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="Kids Channels",Ajyal
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/index.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png" group-title="Kids Channels",Karameesh
 http://194.88.104.57:8108/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png" group-title="Kids Channels",Majid
@@ -338,9 +336,9 @@ http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Other Channels",Al Nahar Drama
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
 #EXTINF:-1 tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="Other Channels", Saudi 1 HD
-http://selevision9881-i.akamaihd.net/hls/live/219192/98819/1.m3u8
-#EXTINF:-1 tvg-logo="http://enjjaz.com/contents/newsm/13856.jpg" group-title="Other Channels", Al Thakafiyah HD
-http://selevision9885-i.akamaihd.net/hls/live/219271/98855/1.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
+#EXTINF:-1 tvg-logo="http://www.sbcchannel.sa/assets/themes/TriTheme/images/logo.png" group-title="Other Channels", SBC HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/1.m3u8
 
 
 
@@ -359,9 +357,9 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Huda_Med
 #EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace UK
 rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
-http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
 
 
 
@@ -380,7 +378,7 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News Channels",Al Jazeera English FHD 1080p
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png" group-title="News Channels", Ekhbariya HD
-http://selevision9888-i.akamaihd.net/hls/live/219298/98882/1.m3u8
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
 #EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png" group-title="News Channels",CNN
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png" group-title="News Channels",Sky News Arabia
