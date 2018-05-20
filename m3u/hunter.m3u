@@ -26,12 +26,10 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png" group-title="UAE CHANNELS", Dubai TV HD
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai 
-http://selevision9878-i.akamaihd.net/hls/live/219135/98787/1.m3u8?v=1314871538
-#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD S2
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://www.arab-tvs.com/images/channels/dubai-zaman.PNG" group-title="UAE CHANNELS", Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png" group-title="UAE CHANNELS", Sharjah 
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png" group-title="UAE CHANNELS", Dubai One HD
@@ -87,9 +85,9 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=4336
 
 
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png" group-title="ART Channels", art Aflam 1
-http://streaming.i-sat.tv:8081/live/art1/playlist.m3u8
+http://185.27.116.54:8081/live/art1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="ART Channels", art Aflam 2
-http://streaming.i-sat.tv:8081/live/art2/playlist.m3u8
+http://185.27.116.54:8081/live/art2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png" group-title="ART Channels", art Cinema
 https://goo.gl/fPYx2g
 
@@ -104,7 +102,7 @@ http://92.222.87.254:8000/live/frffhdoHkdu6d/zdc8hd9ne2n1f8/23.ts|User-Agent=reh
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png" group-title="Rotana Channels", Rotana Music
 http://selevision9889-i.akamaihd.net/hls/live/219309/98892/1.m3u8
 #EXTINF:-1 tvg-logo="http://emarat-news.ae/documents/20181/7625488/drama.png/6f664327-f1f7-4722-a4cf-413baad53f8f?version=1.0&t=1507983105000" group-title="Rotana Channels", Rotana Drama
-http://selevision9893-i.akamaihd.net/hls/live/219353/98936/master.m3u8
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1399
 #EXTINF:-1 tvg-logo="https://mgl.skyrock.net/art/SHAR.5776.383.2.png" group-title="Rotana Channels", Rotana Khaligia
 http://selevision9879-i.akamaihd.net/hls/live/219139/98791/1.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png" group-title="Rotana Channels", Rotana Classic
@@ -212,15 +210,15 @@ http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 1 HD IND
-http://163.172.42.245:8081/jaga/b1ar/playlist.m3u8|User-Agent=jiikklllllg&.ts
+http://62.210.78.84:8000/live/beiinnnn/sppodtt/68.ts|User-Agent=linabibhu&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 2 HD IND
-http://163.172.38.45:8081/live/b2ar/playlist.m3u8|User-Agent=jiikklllllg&.ts
+http://62.210.78.84:8000/live/beiinnnn/sppodtt/67.ts|User-Agent=linabibhu&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 3 HD IND
-http://163.172.38.45:8081/live/b3ar/playlist.m3u8|User-Agent=jiikklllllg&.ts
+http://62.210.78.84:8000/live/beiinnnn/sppodtt/66.ts|User-Agent=linabibhu&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 4 HD IND
-http://163.172.38.45:8081/live/b4ar/playlist.m3u8|User-Agent=jiikklllllg&.ts
+http://62.210.78.84:8000/live/beiinnnn/sppodtt/65.ts|User-Agent=linabibhu&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 5 HD IND
-http://163.172.38.45:8081/live/b5ar/playlist.m3u8|User-Agent=jiikklllllg&.ts
+http://62.210.78.84:8000/live/beiinnnn/sppodtt/64.ts|User-Agent=linabibhu&.ts
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1 BKUP
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5659
@@ -271,7 +269,7 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png" group-title="Kids Channels",Jeem HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5700
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="Kids Channels",Baraeem
-http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8?v=1023850523
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5701
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="Kids Channels",Ajyal
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png" group-title="Kids Channels",Karameesh
@@ -291,24 +289,24 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1645
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_344s.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Ktv_1.png/170px-Ktv_1.png" group-title="Other Channels",Kuwait TV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/kuwait_2_tv_channel_live_online_free_arabic_channel.png" group-title="Other Channels",Kuwait TV 2
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
+http://b-qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Other Channels",Oman TV
 http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="Other Channels",Alrai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-On2XcooiA1U/VWyozxbZk-I/AAAAAAAADJk/la_cVCg5yg8/s1600/murr_tv_al_lubnaniya.png" group-title="Other Channels",MTV Lebanon
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3u8
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106" group-title="Other Channels",LBC
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
-http://streaming.i-sat.tv:8081/live/tnv/chunks.m3u8
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/AlJadidTV.m3u8
 #EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
