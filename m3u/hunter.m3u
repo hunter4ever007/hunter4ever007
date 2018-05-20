@@ -312,7 +312,7 @@ http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
 rtmp://82.212.74.5/live//7626
 #EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png",Yemen Shabab
-https://stream.starmenacdn.com:8082/hls/yemenshabab-52666.ts
+https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Other Channels", Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png" group-title="Other Channels", Arabica
