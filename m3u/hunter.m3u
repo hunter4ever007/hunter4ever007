@@ -324,7 +324,7 @@ https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106" group-title="Other Channels",LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/AlJadidTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Other Channels", Wanasah
