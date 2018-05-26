@@ -289,16 +289,32 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1645
 
 
 
+#EXTINF:-1 tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="Other Channels", Saudi 1 HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
+#EXTINF:-1 tvg-logo="http://www.sbcchannel.sa/assets/themes/TriTheme/images/logo.png" group-title="Other Channels", SBC HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Ktv_1.png/170px-Ktv_1.png" group-title="Other Channels",Kuwait TV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/kuwait_2_tv_channel_live_online_free_arabic_channel.png" group-title="Other Channels",Kuwait TV 2
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-logo="http://www.inlife.tv/sites/default/files/logos/bahrain-tv-channel-44.png" group-title="Other Channels",Bahrain TV
+http://185.105.4.106:1935/live/Bahrain TV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
 http://b-qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
 #EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Other Channels",Oman TV
 http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="Other Channels",Alrai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tRHEf7IGNHk/VU4bSooykQI/AAAAAAAAPeU/GqMtFoZxn1M/s1600/0fe53ae6.png" group-title="Jordan TV
+http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
+rtmp://82.212.74.5/live//7626
+#EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png",Yemen Shabab
+https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png" group-title="Other Channels", Funoon
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Funoon_Med
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-On2XcooiA1U/VWyozxbZk-I/AAAAAAAADJk/la_cVCg5yg8/s1600/murr_tv_al_lubnaniya.png" group-title="Other Channels",MTV Lebanon
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV
@@ -307,18 +323,10 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/AlJadidTV.m3u8
-#EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
-http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
-rtmp://82.212.74.5/live//7626
-#EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png",Yemen Shabab
-https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Other Channels", Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png" group-title="Other Channels", Arabica
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png" group-title="Other Channels",Kifa
-http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Hindi Channels", ZEE AFLAM 
 http://streaming.i-sat.tv:8081/live/zeeaflam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Hindi Channels", ZEE AFLAM S2
@@ -329,8 +337,6 @@ http://streaming.i-sat.tv:8081/live/zeealwan/playlist.m3u8
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1423
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509" group-title="Other Channels", Moga Comedy
 http://streaming.i-sat.tv:8081/live/mogacomedy/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png" group-title="Other Channels", Funoon
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Funoon_Med
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png" group-title="Other Channels", CBC
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
 #EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png" group-title="Other Channels",CBC Drama
@@ -339,11 +345,8 @@ http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
 http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Other Channels",Al Nahar Drama
 http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
-#EXTINF:-1 tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="Other Channels", Saudi 1 HD
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
-#EXTINF:-1 tvg-logo="http://www.sbcchannel.sa/assets/themes/TriTheme/images/logo.png" group-title="Other Channels", SBC HD
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/1.m3u8
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png" group-title="Other Channels",Kifa
+http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png" group-title="Religious Channels",Iqraa
@@ -356,6 +359,8 @@ http://199.167.151.237:1935/live/sp15_24.stream/chunklist_w1252792235.m3u8
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png" group-title="Religious Channels",Alresalah
 http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/bahrain-quran-webtvonlive-com.jpg" group-title="Religious Channels", Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain Quran/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png" group-title="Religious Channels",Huda
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Huda_Med
 #EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace UK
