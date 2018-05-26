@@ -307,6 +307,10 @@ http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tRHEf7IGNHk/VU4bSooykQI/AAAAAAAAPeU/GqMtFoZxn1M/s1600/0fe53ae6.png" group-title=",Jordan TV
 http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title=",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title=",Syria Drama
+http://82.137.248.16:1935/Drama/stream25042018/chunklist_w1119504262.m3u8
 #EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
