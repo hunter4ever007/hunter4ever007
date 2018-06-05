@@ -191,6 +191,16 @@ http://falconeyeiptv.sytes.net:1935/f2/f2live/manifest.m3u8
 https://82-80-192-11.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w130511_b1928000.m3u8
 #EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png" group-title="Today's Matches",Idman TV
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Today's Matches",Canal+ Sport
+http://zonalive.stream/Global.m3u8?id=1419|User-Agent=VLC/3.0.2 LibVLC/3.0.2&.ts
+#EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="Today's Matches",TRT SPOR
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=trt-spor-canli-izle
+#EXTINF:-1 tvg-logo="https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/IRIB_Varzesh_Logo.png" group-title="Today's Matches",IRIB Varzesh 
+http://sl11.telewebion.com:1935/devices/_definst_/varzesh-500k.stream/chunklist_w1694174322.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png" group-title="Today's Matches",TVP SPORT HD
+rtmp://185.142.236.99/stream/2313?e=1522570726&st=qb6LuUaXI0YBKT-gD_nKzw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DasErste_-_Cornerlogo_seit_dem_28._Februar_2015.png" group-title="Today's Matches",ARD Das Erste HD
+https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_7_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551" group-title="Today's Matches",Alfajr INT
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ea/13/55/ea1355f57438727280ccf926e3522611.png" group-title="Today's Matches",Kora Star
