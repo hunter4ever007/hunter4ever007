@@ -201,6 +201,20 @@ http://sl11.telewebion.com:1935/devices/_definst_/varzesh-500k.stream/chunklist_
 rtmp://185.142.236.99/stream/2313?e=1522570726&st=qb6LuUaXI0YBKT-gD_nKzw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DasErste_-_Cornerlogo_seit_dem_28._Februar_2015.png" group-title="Today's Matches",ARD Das Erste HD
 https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_7_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Today's Matches",TF1
+http://vapi.vaders.tv/play/39262.m3u8?token=eyJ1c2VybmFtZSI6ImJyYWQzOTgwIiwicGFzc3dvcmQiOiJhcm15MDk4MyJ9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DasErste_-_Cornerlogo_seit_dem_28._Februar_2015.png" group-title="Today's Matches",TVP 
+rtmp://185.142.236.99/stream/2313L?e=1522570726&st=SdYs5fd-n5mlgLSRFclOEA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png" group-title="Today's Matches",TVP HD
+rtmp://185.142.236.99/stream/2313?e=1522570726&st=qb6LuUaXI0YBKT-gD_nKzw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="Today's Matches",Telecinco HD
+https://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png" group-title="Today's Matches",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/es/CUATRO.png" group-title="Today's Matches",Cuatro HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="http://www.firstonetv.net/images/logos/es/CUATRO.png" group-title="Today's Matches",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551" group-title="Today's Matches",Alfajr INT
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ea/13/55/ea1355f57438727280ccf926e3522611.png" group-title="Today's Matches",Kora Star
