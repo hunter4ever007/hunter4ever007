@@ -150,13 +150,13 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 5
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070
 
-#EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg" group-title="Sports Channels",mbc pro sports 1 HD
+#EXTINF:-1 tvg-logo="http://mshreqnews.net/img/w660/e00Mr.jpg" group-title="Sports Channels",mbc pro sports 1 HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2873
-#EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg" group-title="Sports Channels",mbc pro sports 2 HD
+#EXTINF:-1 tvg-logo="http://mshreqnews.net/img/w660/e00Mr.jpg" group-title="Sports Channels",mbc pro sports 2 HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2874
-#EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg" group-title="Sports Channels",mbc pro sports 3 HD
+#EXTINF:-1 tvg-logo="http://mshreqnews.net/img/w660/e00Mr.jpg" group-title="Sports Channels",mbc pro sports 3 HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2875
-#EXTINF:-1 tvg-logo="http://prosports.mbc.net/ar/ogImageBinary/39746f5e12f1005f959d3006aeb23df4d19b1650/prosport_og.jpg" group-title="Sports Channels",mbc pro sports 4 HD
+#EXTINF:-1 tvg-logo="http://mshreqnews.net/img/w660/e00Mr.jpg" group-title="Sports Channels",mbc pro sports 4 HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2876
 
 
@@ -187,7 +187,7 @@ http://46.29.163.101/live10/tracks-v1a1/index.m3u8
 http://falconeyeiptv.sytes.net:1935/f1/f1live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png" group-title="Today's Matches",Falcon Eye 2 
 http://falconeyeiptv.sytes.net:1935/f2/f2live/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://www.makan.org.il/images/logo_makan_33.png" group-title="Today's Matches", Makan
+#EXTINF:-1 tvg-logo="https://kanweb.blob.core.windows.net/download/pictures/station13_logo_1.png" group-title="Today's Matches", Makan
 https://82-80-192-11.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w130511_b1928000.m3u8
 #EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png" group-title="Today's Matches",Idman TV
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
