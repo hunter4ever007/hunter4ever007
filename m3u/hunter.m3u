@@ -328,17 +328,17 @@ http://b-qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
 http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="Other Channels",Alrai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tRHEf7IGNHk/VU4bSooykQI/AAAAAAAAPeU/GqMtFoZxn1M/s1600/0fe53ae6.png" group-title=",Jordan TV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tRHEf7IGNHk/VU4bSooykQI/AAAAAAAAPeU/GqMtFoZxn1M/s1600/0fe53ae6.png" group-title="Other Channels",Jordan TV
 http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title=",Syria TV
+#EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title="Other Channels",Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title=",Syria Drama
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title="Other Channels",Syria Drama
 http://82.137.248.16:1935/Drama/stream25042018/chunklist_w1119504262.m3u8
 #EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
 rtmp://82.212.74.5/live//7626
-#EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png",Yemen Shabab
+#EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png" group-title="Other Channels",Yemen Shabab
 https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png" group-title="Other Channels", Funoon
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Funoon_Med
@@ -464,83 +464,83 @@ http://streaming.i-sat.tv:8081/live/fox1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png" group-title="Foreign Channels", Mangas
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
 
-#EXTINF:-1,UK.BT-Sports1
+#EXTINF:-1, group-title="Foreign Channels", UK.BT-Sports1
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1349
-#EXTINF:-1,UK.BT-Sports2
+#EXTINF:-1, group-title="Foreign Channels", UK.BT-Sports2
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1348
-#EXTINF:-1,UK-Discovery-History.HD
+#EXTINF:-1, group-title="Foreign Channels", UK-Discovery-History.HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346
-#EXTINF:-1,UK.Sky-Sports1HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Sports1HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324
-#EXTINF:-1,UK.Sky-Sports2HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Sports2HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323
-#EXTINF:-1,UK.Sky-Sports3HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Sports3HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322
-#EXTINF:-1,UK.Sky-Sports4HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Sports4HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321
-#EXTINF:-1,UK.Sky-Sports5HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Sports5HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070
-#EXTINF:-1,UK.SkySports.F1HD
+#EXTINF:-1, group-title="Foreign Channels", UK.SkySports.F1HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1320
-#EXTINF:-1,UK.Sky-Movies-Action
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Action
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1332
-#EXTINF:-1,UK.Sky-Movies-Scifi.Horror
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Scifi.Horror
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1327
-#EXTINF:-1,UK.Sky-Movies-Modern
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Modern
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1328
-#EXTINF:-1,UK.Sky-Movies-Family
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Family
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1329
-#EXTINF:-1,UK.Sky-Movies-Drama
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Drama
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1330
-#EXTINF:-1,UK.Sky-Movies-Comedy
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Comedy
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1331
-#EXTINF:-1,UK.Sky-Thriller-HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Thriller-HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1947
-#EXTINF:-1,UK.Sky-Movie-ShowCase
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movie-ShowCase
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1948
-#EXTINF:-1,UK.Sky-Atlantic-Plus1
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Atlantic-Plus1
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1946
-#EXTINF:-1,UK.Nat-GeoGraphic
+#EXTINF:-1, group-title="Foreign Channels", UK.Nat-GeoGraphic
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1340
-#EXTINF:-1,UK.Discovery-Channel
+#EXTINF:-1, group-title="Foreign Channels", UK.Discovery-Channel
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341
-#EXTINF:-1,UK.SkyPremier
+#EXTINF:-1, group-title="Foreign Channels", UK.SkyPremier
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3066
-#EXTINF:-1,UK.SkyLiving
+#EXTINF:-1, group-title="Foreign Channels", UK.SkyLiving
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3065
-#EXTINF:-1,UK.Sky-Movies-Seclect
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Movies-Seclect
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3069
-#EXTINF:-1,UK.Sky-Disney
+#EXTINF:-1, group-title="Foreign Channels", UK.Sky-Disney
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3063
-#EXTINF:-1,UK.Nickelodeon
+#EXTINF:-1, group-title="Foreign Channels", UK.Nickelodeon
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3071
-#EXTINF:-1,UK.Discovery-Science.HD
+#EXTINF:-1, group-title="Foreign Channels", UK.Discovery-Science.HD
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3059
-#EXTINF:-1,UK.Animal-Planet
+#EXTINF:-1, group-title="Foreign Channels", UK.Animal-Planet
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3061
-#EXTINF:-1,UK.Nat-Geo-Wild
+#EXTINF:-1, group-title="Foreign Channels", UK.Nat-Geo-Wild
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053
-#EXTINF:-1,UK.History
+#EXTINF:-1, group-title="Foreign Channels", UK.History
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3060
-#EXTINF:-1,UK.Alibi
+#EXTINF:-1, group-title="Foreign Channels", UK.Alibi
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3057
-#EXTINF:-1,UK.Itv-1
+#EXTINF:-1, group-title="Foreign Channels", UK.Itv-1
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3056
-#EXTINF:-1,UK.Itv-2
+#EXTINF:-1, group-title="Foreign Channels", UK.Itv-2
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3055
-#EXTINF:-1,UK.Itv-3
+#EXTINF:-1, group-title="Foreign Channels", UK.Itv-3
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3054
-#EXTINF:-1,UK.DisneyXd
+#EXTINF:-1, group-title="Foreign Channels", UK.DisneyXd
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3072
-#EXTINF:-1,UK.BBC-1
+#EXTINF:-1, group-title="Foreign Channels", UK.BBC-1
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1351
-#EXTINF:-1,UK.BBC-News
+#EXTINF:-1, group-title="Foreign Channels", UK.BBC-News
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3046
-#EXTINF:-1,UK.BBC-2
+#EXTINF:-1, group-title="Foreign Channels", UK.BBC-2
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1350
-#EXTINF:-1,UK.BBC-3
+#EXTINF:-1, group-title="Foreign Channels", UK.BBC-3
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319
-#EXTINF:-1,UK.BBC-4
+#EXTINF:-1, group-title="Foreign Channels", UK.BBC-4
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047
 
 
