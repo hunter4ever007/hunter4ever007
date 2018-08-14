@@ -533,5 +533,694 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319
 #EXTINF:-1 group-title="Foreign Channels", UK.BBC-4
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047
 
+#EXTINF:-1 group-title="VIP Lists", 2g-Sky Sports Mix
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2108.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports Mix
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/860.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sky Sports F1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/310.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Foot: Sky Sports F1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/822.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports F1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/80.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports F1 HQ
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/119.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Foot: Sky Sports News
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/823.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sky Sports News
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/309.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports News
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/81.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports News HQ
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/118.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Sports USA
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/26.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,TR : Turkish Bein Sports 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2127.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/133.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/115.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/435.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/134.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/150.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 2 Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/436.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 1 Hindi
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/241.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Hindi
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/240.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Hindi Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/437.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 1 Tamil
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/338.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Tamil
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/149.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Tamil Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/438.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Eir Sports1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Eir Sports2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/850.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Channel 9 (Bangladesh)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/764.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,LFC TV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/440.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/87.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SLO: SPORTKLUB 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/769.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/88.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SLO: SPORTKLUB 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/770.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/89.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SLO: SPORTKLUB 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/771.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sport TV2 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/325.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport TV2 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/8.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SportTV2 Portugal Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/724.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sport TV3 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/326.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport TV3 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/9.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SportTV3 Portugal Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/725.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NAM: SportsNetWorld
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/467.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Box Nation Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NBCSN (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/17.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NBCSN Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/779.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-GeoSuper
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/239.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,GeoSuper
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/238.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Premier Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/56.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-Gtv
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/430.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,GTV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/429.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-Ptv Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/136.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PTV Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/147.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PTV Sports Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/859.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-WWE Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/286.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,WWE Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/146.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,MUTV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/145.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-Willow Cricket
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/139.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Willow Cricket
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/117.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Willow Cricket Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/434.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Chelsea TV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/148.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Setanta Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/57.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 1 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/92.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 2 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/93.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 3 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/10.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 24 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/11.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/59.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Bundesliga HD1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/60.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NFL Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/82.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 1 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/5.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 2 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/4.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 3 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 4 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 5 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/50.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/51.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ESPN USA
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/48.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ESPN 2 USA
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/49.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Box Nation
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/44.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,At The Races
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/83.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Racing UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/84.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/387.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/351.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/388.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/352.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 3
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/389.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 4
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/390.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 4 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie Christmas (Ex-Drama)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/68.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SkyMovies Select
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/73.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (SciFi&Horror)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/72.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Premiere)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/71.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Modern Greats)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/70.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Family)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/69.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Crime&Thriller)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/67.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Comedy)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/66.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Action&Adventure)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/65.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SkyMovies Disney
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/154.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Atlantic
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/74.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ITV 2 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/53.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ITV 3 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/54.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ITV 4 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/55.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,BBC 2 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/23.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,BBC 3 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/24.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,BBC 4 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/25.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Channel 9 (Bangladesh)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/765.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Premier Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/763.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Box Nation
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/816.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 7 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/809.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 8 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/810.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 9 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/811.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 10 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/812.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 11 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2154.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 12 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2155.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Cartoon Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2098.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Nicklodean
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2097.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Pogo
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2100.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Sonic
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2101.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ENG: Disney
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2103.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Eng: Nick JR
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2099.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ENG: RTE Jr.
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2102.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,AF: 1 TV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2562.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g: Ten Sports (Pak)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2565.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Ten Sports (Pak)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2564.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 1  Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2156.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 1 Backup 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2158.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 2 Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2157.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 2 Backup 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2159.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,DSports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2563.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports Select HD 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2528.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports Select HD 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2529.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi-Sports | Dsports HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3616.ts|User-Agent=freeapppsss&.ts
 
 
+#EXTM3U
+#EXTINF:-1,BeINSPORTS News
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1496.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS Global
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1495.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 1HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1494.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 2HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1493.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 3HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1492.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 4HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1491.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 5HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1490.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 6HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1489.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 7HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1488.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 8HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1487.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 9HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1486.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 10HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1485.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 11HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1484.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,beINSPORTS 12HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1483.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,AD Sports 1HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1467.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,AD Sports 2HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1468.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,AD Sports 3HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1469.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,AD Sports 4HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1470.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,AD Sports 5HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1471.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,AD Sports 6HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1472.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1456.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 04HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1457.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 05HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1458.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 06HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1459.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 07HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1460.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 08HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1461.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 09HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1462.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeINMAX 10HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1463.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SFR Sport 1HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1464.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SFR Sport 2HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1465.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SFR Sport 3HD Fr
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1466.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,TF1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1428.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,FRANCE 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1430.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,FRANCE 3
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1431.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,FRANCE 4
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1432.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,FRANCE 5
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1433.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,FRANCE O
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1434.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,M6
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1429.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ACTION
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1453.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL FAMILY
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1438.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL DECALE
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1437.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE PREMIER
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1440.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE POLAR
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1446.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE FX
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1447.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE FRISSON
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1441.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE FAMIZ
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1445.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE EMOTION
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1442.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE CLUB
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1444.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CINE CLASSIC
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1443.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,OCS MAX
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1451.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,OCS GEANT
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1449.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,OCS CITY
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1450.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,OCS CHOC
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1448.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,COMEDIE
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1452.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL PLAY 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1390.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL PLAY 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1391.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL PLAY 3
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1392.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL PLAY 4
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1393.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL PLAY 5
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1394.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ALACARTE 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1395.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ALACARTE 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1396.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ALACARTE 3
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1397.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ALACARTE 4
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1398.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ALACARTE 5
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1399.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ANIMAUX
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1424.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,DISCOVRY-SCI
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1423.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,DISCOVRY
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1422.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,USHUAIA TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1425.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SEASON
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1427.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,NATIONAL-GEO
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1420.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,NAT-GEO-WILD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1421.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CHASSE PECHE
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1426.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,France 24
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1329.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Euronews
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1330.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,LCI
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1401.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,ITELE
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1400.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,INFOSPORT
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1419.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,FOOT 24
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1418.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,PIWI
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1402.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CARTON NET
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1405.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BOOMERANG
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1404.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,TIJI
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1403.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,GULLI
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1406.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,TELETOON
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1410.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CANAL J
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1408.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1412.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,NICKELODEON
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1411.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MANGAS
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1407.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,DISNEY XD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1416.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1413.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,DISNEY CINEMA
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1415.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1414.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BOING
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1409.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Cine1HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1313.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Cine2HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1314.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies Action HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1302.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies Action 2 HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1303.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1300.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies 2 HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1301.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies Comedy HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1306.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies Premiere
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1304.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Movies Premiere 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1305.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Officebox 1HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1297.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Officebox 2HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1298.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Officebox 3HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1299.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Ondemand HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1307.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Ondemend Extra HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1308.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SeeVii Al oula HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1316.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SeeVii Beelink HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1318.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SeeVii DraHD.
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1315.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SeeVii-Shamia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1317.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Yahala CineHD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1312.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Yahala HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1309.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Yahala DraHD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1310.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Yahala Shabab HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1311.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Movies 1HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1473.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Movies 2HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1474.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Movies 3HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1475.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Movies 4HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1476.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Discovery HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1478.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN GROUMMET
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1477.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Jeem_HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1482.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Baraim_HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1480.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN Fatafeat
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1479.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BeIN JUNIOR
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1481.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1278.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1279.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC 3
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1280.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC 4
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1281.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC MAX
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1283.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC ACTION
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1282.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC DRAMA
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1286.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC DRAMA HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1287.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1289.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC MASR 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1284.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC MASR 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1285.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC B4U AFLAM
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1292.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC ZEE Alwan
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1290.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC ZEE Aflam
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1291.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC VARIETY HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1288.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC SPORT 1HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1293.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC SPORT 2HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1294.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC SPORT 3HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1295.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,MBC SPORT 4HD
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1296.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Aflam 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1319.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Aflam 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1320.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Hekayat 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1321.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Hekayat 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1322.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Cinema
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1323.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al-Aoula-Inter
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1382.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,2M-Monde
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1383.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Medi-1-TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1381.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al-Maghribia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1384.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Tele-Maroc
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1380.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Tamazight
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1385.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Arriadia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1388.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,SUD24-TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1389.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Samira-Tv
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1379.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Programme.National
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1360.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Canal-Algerie
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1361.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Algeria 3
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1362.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Algeria 5
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1363.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Echorouk TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1358.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Echorouk news
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1357.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Echorouk Benna
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1359.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Kbc Algeria
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1369.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Eljazairia-TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1372.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,EnnahLaki
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1365.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,EnnahTV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1364.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Elhaddaf-TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1371.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Elbilad
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1370.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Dzair TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1368.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Dzai News
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1367.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al Magharibia-1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1373.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al Magharibia-2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1374.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Berbere-TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1376.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Berbere-Music
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1377.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Berbere-Jeuness
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1378.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Beur-TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1375.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BAHIA TV
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1366.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Tonesna
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1349.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Tunesia 1
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1347.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Tunesia 2
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1348.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Nessma
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1352.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Hannibal
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1351.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Telvaza
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1355.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Zitouna
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1353.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,El-HiwEttounsi
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1350.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Attasiaa
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1354.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al-Janoubia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1356.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Alrahma
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1343.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Alnas
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1344.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al Majd Quran
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1340.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al Majd Hadith
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1341.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al Majd
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1342.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Alresalah
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1346.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,IQRAA
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1345.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Aljazeera
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1324.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Alarabiyia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1325.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Alhadath
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1326.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Al Ekhbariya
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1328.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,BBC
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1331.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Skynews
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1327.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,CN Arabia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1335.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Baraeem
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1337.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Toyour ElJannah
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1338.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Toyour Baby
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1339.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Space Toon
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1336.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Quest-Arabia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1334.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,National Geo-Abudhabi
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1333.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Aljazeera Doc
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1332.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Assadisa
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1387.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
+#EXTINF:-1,Arrabia
+http://2.primatv.club:1010/live/Free21tv09/edvlgg2ndo/1386.ts|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
