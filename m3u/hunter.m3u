@@ -52,7 +52,7 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1853
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1852
 #EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg" group-title="osn Channels", osn Movies Box Office 3
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1851
-#EXTINF:-1 tvg-logo="https://serv2.samaup.com/i/00100/ln65hsm5dh8w.png" group-title="osn Channels", osn Movies First
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1213_1.png" group-title="osn Channels", osn Movies First
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3705 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png" group-title="osn Channels", osn Movies +2 First
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3704
@@ -107,9 +107,9 @@ https://goo.gl/fPYx2g
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png" group-title="Rotana Channels", Rotana Aflam
 http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema
+#EXTINF:-1 tvg-logo="https://3yonnews.com/content/uploads/images/G5831e61a81b2b.png" group-title="Rotana Channels", Rotana Cinema
 http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/20130825183343_channelsbig.png" group-title="Rotana Channels", Rotana Cinema Sa
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1148_1.png" group-title="Rotana Channels", Rotana Cinema Sa
 http://streaming.i-sat.tv:1935/livestream/mrtc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png" group-title="Rotana Channels", Rotana Music
 http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
@@ -134,9 +134,9 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b17500
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/Index1400.m3u8
-#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png" group-title="Sports Channels", Sharjah Sports HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://photosarab.com/wp-content/uploads/2016/11/sharjah-sport-off.png" group-title="Sports Channels", Sharjah Sports HD S2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD S2
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/gmswf.m3u8?v=1023850523
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
@@ -150,7 +150,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5668
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports Channels",WWE S2
 http://streaming.i-sat.tv:8081/livestream/wwe/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://now-post.net/wp-content/uploads/2017/06/onsports-300x169.jpg" group-title="Sports Channels",ON Sport
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="Sports Channels",ON Sport
 http://streaming.i-sat.tv:1935/livestream/sno/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 1
@@ -211,7 +211,7 @@ http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XG8Nljk0ojY/WpBW2SzS2BI/AAAAAAAAAe0/UrFwwrJfJuga9l6bQODnPVgeGe3CI6l6QCLcBGAs/s1600/logosmall.png" group-title="Today's Matches",Yalla Live
 https://goo.gl/fPYx2g
-#EXTINF:-1 tvg-logo="https://serv3.samaup.com/i/00099/jse3u1nf7gvi.jpg" group-title="Today's Matches",Biaban SportTV HD
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3784489/logo_biaban%20sport.png" group-title="Today's Matches",Biaban SportTV HD
 http://cdn.zona-live-tv.com:1935/live/wowza/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="Today's Matches",Raya TV
 http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
@@ -299,7 +299,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u
 http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645" group-title="Kids Channels",Spacetoon S3
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1648
-#EXTINF:-1 tvg-logo="http://up.hawahome.com/uploads/14007454081.png" group-title="Kids Channels",Semsem TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/500970580867153920/qHx9efJv_400x400.png" group-title="Kids Channels",Semsem TV
 http://streaming.i-sat.tv:1935/livestream/sms/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="Kids Channels",CN Arabia
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1645
@@ -372,7 +372,7 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png" group-title="Religious Channels",Iqraa
 http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
-#EXTINF:-1 tvg-logo="http://eshragatmakkah.com/images/logo-mecca.png" group-title="Religious Channels", Mecca
+#EXTINF:-1 tvg-logo="http://makkahtv.tv/img/logo.png" group-title="Religious Channels", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Religious Channels",Almajd Quraan
 http://199.167.151.237:1935/live/sp15_24.stream/chunklist_w1252792235.m3u8
