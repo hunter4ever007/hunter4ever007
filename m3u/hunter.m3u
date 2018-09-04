@@ -801,6 +801,7 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3616.ts|User-Agent=freeap
 
 
 
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4620.jpg" group-title="English-Vod",+12 Tomb Raider EN
 http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4620.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4619.jpg" group-title="English-Vod",A Wrinkle in Time EN
@@ -1037,8 +1038,6 @@ http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3914.mp4
 http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3915.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3916.jpg" group-title="English-Vod",+12 Railroad Tigers
 http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3916.mp4
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="Ellila Elkebira" tvg-logo="http://190.2.132.7:8080/images/univers/4586.jpg" group-title="Arabic-Vod",Ellila Elkebira
 http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4586.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="Aaelt Micky" tvg-logo="http://190.2.132.7:8080/images/univers/4585.jpg" group-title="Arabic-Vod",Aaelt Micky
@@ -1761,8 +1760,6 @@ http://1290922571.rsc.cdn77.org/movies/Prisoners-2013.mp4/playlist.m3u8
 https://forja.tn/hls_movies/tt6738136/sd/manifest.m3u8
 EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.cinemagouda.nl/afbeeldingen/92743_ps1_SD-HIGH.jpg" group-title="English-Vod",The Commuter
 https://forja.tn/hls_movies/tt1590193/sd/manifest.m3u8
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1523887223.jpg" group-title="Kids-Vod",Peter Rabbit
 http://server603.load.is/dl/1527878610/Peter.Rabbit.2018.720P.WEB-DL.akoam.com.mkv
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_1.jpg" group-title="Kids-Vod",Ice-Age-1
