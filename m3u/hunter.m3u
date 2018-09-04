@@ -76,7 +76,7 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1845
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1847
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1249_1.png" group-title="osn Channels", osn Movies Festival
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1848
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1249_1.png" group-title="osn Channels", osn Star Gold
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/Star_Gold.png/revision/latest?cb=20110928224003" group-title="osn Channels", osn Star Gold
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2874
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/413_300.png" group-title="osn Channels", Fox Movies 
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
