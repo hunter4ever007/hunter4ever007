@@ -133,7 +133,7 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b17500
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/Index1400.m3u8
+https://svs.itworkscdn.net/ksasports1live/ksasports1/chunklist.m3u8?nimblesessionid=3245588&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTggOTo0MDozNiBQTSZoYXNoX3ZhbHVlPVh4RXhLS2FYNndjOU1GTXBaYnhFZ3c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjM=
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD S2
@@ -145,7 +145,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 #EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN.jpg" group-title="Sports Channels",REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports Channels",WWE
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5668
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports Channels",WWE S2
@@ -164,32 +164,6 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 5
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070
 
-#EXTINF:-1 tvg-logo="http://mshreqnews.net/img/w660/e00Mr.jpg" group-title="Sports Channels",mbc pro sports 1 HD
-https://goo.gl/fPYx2g
-#EXTINF:-1 tvg-logo="http://mshreqnews.net/img/w660/e00Mr.jpg" group-title="Sports Channels",mbc pro sports 2 HD
-https://goo.gl/fPYx2g
-
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 1
-http://46.29.163.101/live1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 2
-http://46.29.163.101/live2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 3
-http://46.29.163.101/live3/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 4
-http://46.29.163.101/live4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 5
-http://46.29.163.101/live5/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 6
-http://46.29.163.101/live6/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 7
-http://46.29.163.101/live7/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 8
-http://46.29.163.101/live8/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 9
-http://46.29.163.101/live9/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 10
-http://46.29.163.101/live10/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png" group-title="Today's Matches",Falcon Eye 
 http://falconeyeiptv.sytes.net:1935/f1/f1live/manifest.m3u8
@@ -197,22 +171,14 @@ http://falconeyeiptv.sytes.net:1935/f1/f1live/manifest.m3u8
 http://falconeyeiptv.sytes.net:1935/f2/f2live/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png" group-title="Today's Matches",Idman TV
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Today's Matches",Canal+ Sport
-http://zonalive.stream/Global.m3u8?id=1419|User-Agent=VLC/3.0.2 LibVLC/3.0.2&.ts
 #EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="Today's Matches",TRT SPOR
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=trt-spor-canli-izle
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png" group-title="Today's Matches",TVP SPORT HD
-rtmp://185.142.236.99/stream/2313?e=1522570726&st=qb6LuUaXI0YBKT-gD_nKzw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="Today's Matches",TF1
-http://vapi.vaders.tv/play/39262.m3u8?token=eyJ1c2VybmFtZSI6ImJyYWQzOTgwIiwicGFzc3dvcmQiOiJhcm15MDk4MyJ9
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551" group-title="Today's Matches",Alfajr INT
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ea/13/55/ea1355f57438727280ccf926e3522611.png" group-title="Today's Matches",Kora Star
 https://goo.gl/fPYx2g
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XG8Nljk0ojY/WpBW2SzS2BI/AAAAAAAAAe0/UrFwwrJfJuga9l6bQODnPVgeGe3CI6l6QCLcBGAs/s1600/logosmall.png" group-title="Today's Matches",Yalla Live
 https://goo.gl/fPYx2g
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/3784489/logo_biaban%20sport.png" group-title="Today's Matches",Biaban SportTV HD
-http://cdn.zona-live-tv.com:1935/live/wowza/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="Today's Matches",Raya TV
 http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/IqPln1Wi8xomhb1-m7wiTGpgwqKhBh9wMlw8G0K4G9kUWYkRkSztZGce2ai9Z2BdJN8=w300" group-title="Today's Matches", AjyalTV 
@@ -223,17 +189,28 @@ http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
 http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 1
+http://blackhouse.sx/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 2
+http://blackhouse.sx/live2/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 3
+http://blackhouse.sx/live3/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 4
+http://blackhouse.sx/live4/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 5
+http://blackhouse.sx/live5/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 6
+http://blackhouse.sx/live6/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 7
+http://blackhouse.sx/live7/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 8
+http://blackhouse.sx/live8/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 9
+#EXTINF:-1,(KSA) BeoutQ Sports 9 Tv
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 10
+http://46.29.163.101/live10/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 1 HD IND
-http://62.210.78.84:8000/live/beiinnnn/sppodtt/68.ts|User-Agent=linabibhu&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 2 HD IND
-http://62.210.78.84:8000/live/beiinnnn/sppodtt/67.ts|User-Agent=linabibhu&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 3 HD IND
-http://62.210.78.84:8000/live/beiinnnn/sppodtt/66.ts|User-Agent=linabibhu&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 4 HD IND
-http://62.210.78.84:8000/live/beiinnnn/sppodtt/65.ts|User-Agent=linabibhu&.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Bein Channels", Bein Sports 5 HD IND
-http://62.210.78.84:8000/live/beiinnnn/sppodtt/64.ts|User-Agent=linabibhu&.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1 BKUP
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5659
@@ -288,7 +265,7 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5701
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="Kids Channels",Ajyal
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png" group-title="Kids Channels",Karameesh
-http://194.88.104.57:8108/LQ-AR-Karameesh/index.m3u8|User-Agent=ExoPlayerLib/1.5.6&.ts
+rtmp://82.212.74.5/live//8049
 #EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png" group-title="Kids Channels",Majid
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/d/d6/20160820122024%21Logo_Toyor_Aljanah.PNG" group-title="Kids Channels",Toyor Aljannah
@@ -324,14 +301,18 @@ http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tRHEf7IGNHk/VU4bSooykQI/AAAAAAAAPeU/GqMtFoZxn1M/s1600/0fe53ae6.png" group-title="Other Channels",Jordan TV
 http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title="Other Channels",Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Syria_TV_Logo.png/300px-Syria_TV_Logo.png" group-title="Other Channels",Syria TV
+http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title="Other Channels",Syria Drama
 http://streaming.i-sat.tv:8081/livestream/syriadrama/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title="Other Channels",Syria 
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
+#EXTINF:-1 tvg-logo="http://anhri.net/wp-content/uploads/2016/05/logo.png" group-title="Other Channels",Alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
 http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
-rtmp://82.212.74.5/live//7626
+rtmp://82.212.74.98/live//7626
 #EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png" group-title="Other Channels",Yemen Shabab
 https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png" group-title="Other Channels", Funoon
@@ -371,7 +352,7 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png" group-title="Religious Channels",Iqraa
-http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/chunklist_b2500000_t64NTc2cA==.m3u8
+http://streaming.i-sat.tv:8081/livestream/iqraa/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://makkahtv.tv/img/logo.png" group-title="Religious Channels", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Religious Channels",Almajd Quraan
