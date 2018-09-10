@@ -1,45 +1,1905 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://img4.hostingpics.net/pics/829844mbc1.png" group-title="MBC CHANNELS", MBC 1 HD
-http://iplo.ru/2mqrz5
+http://streaming.i-sat.tv:8081/livestream/mbc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC CHANNELS", MBC 1 
-http://iplo.ru/2mJez5
+http://158.58.172.243:8081/edge/Hi_mbc1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" group-title="MBC CHANNELS" , MBC 2 
-http://iplo.ru/2myrz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1380|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" group-title="MBC CHANNELS" , MBC 2 L2
-http://iplo.ru/2mgrz5
+http://streaming.i-sat.tv:8081/livestream/mbc2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg" group-title="MBC CHANNELS", MBC 3 
-http://iplo.ru/2mzrz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1381|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png" group-title="MBC CHANNELS", MBC 4
-http://iplo.ru/2mdtz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1382|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png" group-title="MBC CHANNELS", MBC 4 L2
-http://iplo.ru/2mjtz5
+http://158.58.172.243:8081/edge/Hi_mbc4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zapafri.s3.amazonaws.com/channels/original/c-6fb0ea0500a4b6b665cda8f1a96c0807.png" group-title="MBC CHANNELS", MBC ACTION 
-http://iplo.ru/2mctz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1383|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG" group-title="MBC CHANNELS", MBC MAX 
-http://iplo.ru/2mmtz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1387|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png" group-title="MBC CHANNELS", MBC DRAMA 
-http://iplo.ru/2mBuz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1385|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png" group-title="MBC CHANNELS", MBC BOLLYWOOD 
-http://iplo.ru/2m6iz5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1384|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE CHANNELS", ABU DHABI
-http://iplo.ru/28j8e5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/30/Abudhabidrama_logo.png" group-title="UAE CHANNELS", ABU DHABI Drama
-http://iplo.ru/28n8e5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE CHANNELS", ABU DHABI Emirates HD
-http://iplo.ru/28E8e5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png" group-title="UAE CHANNELS", Dubai TV HD
-http://iplo.ru/28P8e5
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD
-http://iplo.ru/28D8e5
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://www.arab-tvs.com/images/channels/dubai-zaman.PNG" group-title="UAE CHANNELS", Dubai Zaman
-http://iplo.ru/28B8e5
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png" group-title="UAE CHANNELS", Sharjah 
-http://iplo.ru/2869e5
+http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png" group-title="UAE CHANNELS", Dubai One HD
-http://iplo.ru/28r9e5
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="osn Channels", osn Star Movies HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1840|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="osn Channels", osn YA-Hala Cinema
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1978|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg" group-title="osn Channels",  osn Movies Box Office 1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1853|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg" group-title="osn Channels", osn Movies Box Office 2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1852|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg" group-title="osn Channels", osn Movies Box Office 3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1851|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1213_1.png" group-title="osn Channels", osn Movies First
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3705|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1214_1.png" group-title="osn Channels", osn Movies +2 First
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3704|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/OSN_Movies_2013.jpg" group-title="osn Channels", osn Movies HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2873|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1211_1.png" group-title="osn Channels", osn Movies Action HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1855|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/397199/logo_osn%20movies%20action%203.png" group-title="osn Channels", osn Movies Action 2 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1856|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/63168/logo_osn%20movies%20premiere.png" group-title="osn Channels", osn Movies Premiere HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1844|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1210_1.png" group-title="osn Channels", osn Movies Premiere 2 HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5241|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://sourcetv.info/wp-content/uploads/2015/03/osn_movies_drama.png" group-title="osn Channels", osn Movies Drama
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1849|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://cdn.mypanel.tv/picon/ae/OSNMoviesComedy.ae.png" group-title="osn Channels", osn Movies Comedy
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1850|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1232_1.png" group-title="osn Channels", osn Movies Kids
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1845|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1232_1.png" group-title="osn Channels", osn Movies Kids L2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1847|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1249_1.png" group-title="osn Channels", osn Movies Festival
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1848|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/Star_Gold.png" group-title="osn Channels", osn Star Gold
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2874|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/413_300.png" group-title="osn Channels", Fox Movies 
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="Bein Channels", Bein Movies 1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1866|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="Bein Channels", Bein Movies 2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1867|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="Bein Channels", Bein Movies 3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1942|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png" group-title="Bein Channels", Bein Movies 4
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2032|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png" group-title="Bein Channels", Bein Series 1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=4336|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png" group-title="ART Channels", art Aflam 1
+http://streaming.i-sat.tv:8081/livestream/arttt1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="ART Channels", art Aflam 2
+http://streaming.i-sat.tv:8081/livestream/arttt2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png" group-title="ART Channels", art Cinema
+https://goo.gl/fPYx2g
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png" group-title="Rotana Channels", Rotana Aflam
+http://streaming.i-sat.tv:8081/livestream/rotanaaflamm/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://3yonnews.com/content/uploads/images/G5831e61a81b2b.png" group-title="Rotana Channels", Rotana Cinema
+http://185.27.116.54:1935/live/mrtc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1148_1.png" group-title="Rotana Channels", Rotana Cinema Sa
+http://streaming.i-sat.tv:1935/livestream/mrtc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-UKQIw6OV6Qg/VbYAPbMGQnI/AAAAAAAAT7g/vUgE4aTPriEwIPMXh1yTs1phQlk6_5t5w/w573-h573/N.Mousica.png" group-title="Rotana Channels", Rotana Music
+http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://emarat-news.ae/documents/20181/7625488/drama.png/6f664327-f1f7-4722-a4cf-413baad53f8f?version=1.0&t=1507983105000" group-title="Rotana Channels", Rotana Drama
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1399|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://mgl.skyrock.net/art/SHAR.5776.383.2.png" group-title="Rotana Channels", Rotana Khaligia
+http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png" group-title="Rotana Channels", Rotana Classic
+http://streaming.i-sat.tv:1935/livestream/rtca/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png" group-title="Rotana Channels", Rotana Clip
+http://streaming.i-sat.tv:1935/livestream/rtcp/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png" group-title="Sports Channels",AD Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C31ndAhWQAI5A-l.png" group-title="Sports Channels",AD Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports HD
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+#EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD
+https://svs.itworkscdn.net/ksasports1live/ksasports1/chunklist.m3u8?nimblesessionid=3245588&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTggOTo0MDozNiBQTSZoYXNoX3ZhbHVlPVh4RXhLS2FYNndjOU1GTXBaYnhFZ3c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjM=
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD S2
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/gmswf.m3u8?v=1023850523
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="http://img11.hostingpics.net/pics/680919364.png" group-title="Sports Channels",Al Kass 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN.jpg" group-title="Sports Channels",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports Channels",WWE
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5668|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports Channels",WWE S2
+http://streaming.i-sat.tv:8081/livestream/wwe/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="Sports Channels",ON Sport
+http://streaming.i-sat.tv:1935/livestream/sno/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 4
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 5
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+
+
+#EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png" group-title="Today's Matches",Falcon Eye 
+http://falconeyeiptv.sytes.net:1935/f1/f1live/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://edge.sf.hitbox.tv/static/img/channel/falconeye-tv_55366d6425081_large.png" group-title="Today's Matches",Falcon Eye 2 
+http://falconeyeiptv.sytes.net:1935/f2/f2live/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png" group-title="Today's Matches",Idman TV
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
+#EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="Today's Matches",TRT SPOR
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=trt-spor-canli-izle
+#EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551" group-title="Today's Matches",Alfajr INT
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ea/13/55/ea1355f57438727280ccf926e3522611.png" group-title="Today's Matches",Kora Star
+https://goo.gl/fPYx2g
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XG8Nljk0ojY/WpBW2SzS2BI/AAAAAAAAAe0/UrFwwrJfJuga9l6bQODnPVgeGe3CI6l6QCLcBGAs/s1600/logosmall.png" group-title="Today's Matches",Yalla Live
+https://goo.gl/fPYx2g
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="Today's Matches",Raya TV
+http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/IqPln1Wi8xomhb1-m7wiTGpgwqKhBh9wMlw8G0K4G9kUWYkRkSztZGce2ai9Z2BdJN8=w300" group-title="Today's Matches", AjyalTV 
+http://w2.mada.ps:1935/ajyal/livestream2/chunklist_w15789212.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000427903725/c5119b4fea16d2b74f2378b63720a019_400x400.png" group-title="Today's Matches", KolalNasTV
+http://htv.mada.ps:8888/kolalnas/c1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://s1.dmcdn.net/HP1iT/240x240-UBB.jpg" group-title="Today's Matches", SalamTV
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 1
+http://blackhouse.sx/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 2
+http://blackhouse.sx/live2/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 3
+http://blackhouse.sx/live3/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 4
+http://blackhouse.sx/live4/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 5
+http://blackhouse.sx/live5/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 6
+http://blackhouse.sx/live6/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 7
+http://blackhouse.sx/live7/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 8
+http://blackhouse.sx/live8/index.m3u8
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 9
+#EXTINF:-1,(KSA) BeoutQ Sports 9 Tv
+#EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 10
+http://46.29.163.101/live10/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1 BKUP
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5659|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=971|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports2 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=972|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports3 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=973|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports4 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=974|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports5 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=975|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports6 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=976|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports7 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=977|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports8 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=978|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports9 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=979|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports10 Zon1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=980|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 1 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1952|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 2 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1953|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 3 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1954|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 4 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1955|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 5 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1956|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 6 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1957|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 7 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1958|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 8 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1959|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 9 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1960|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png" group-title="Bein Channels",Bein Sports 10 Zon2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png" group-title="Kids Channels",Jeem HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5700|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="Kids Channels",Baraeem
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5701|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="Kids Channels",Ajyal
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png" group-title="Kids Channels",Karameesh
+rtmp://82.212.74.5/live//8049
+#EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png" group-title="Kids Channels",Majid
+http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/d/d6/20160820122024%21Logo_Toyor_Aljanah.PNG" group-title="Kids Channels",Toyor Aljannah
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=ToyorAlJanah_Med
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645" group-title="Kids Channels",Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645" group-title="Kids Channels",Spacetoon S2
+http://streaming.i-sat.tv:8081/livestream/spacetooon/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/webarebears/images/e/e3/Spacetoon.png/revision/latest?cb=20151110172645" group-title="Kids Channels",Spacetoon S3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1648|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/500970580867153920/qHx9efJv_400x400.png" group-title="Kids Channels",Semsem TV
+http://streaming.i-sat.tv:1935/livestream/sms/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="Kids Channels",CN Arabia
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1645|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="Other Channels", Saudi 1 HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
+#EXTINF:-1 tvg-logo="http://www.sbcchannel.sa/assets/themes/TriTheme/images/logo.png" group-title="Other Channels", SBC HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Ktv_1.png/170px-Ktv_1.png" group-title="Other Channels",Kuwait TV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/kuwait_2_tv_channel_live_online_free_arabic_channel.png" group-title="Other Channels",Kuwait TV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-logo="http://www.inlife.tv/sites/default/files/logos/bahrain-tv-channel-44.png" group-title="Other Channels",Bahrain TV
+http://185.105.4.106:1935/live/Bahrain TV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
+http://b-qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/images/omantv_general.png" group-title="Other Channels",Oman TV
+http://38.96.148.30:1935/live/omantv1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="Other Channels",Alrai
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=632182903
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-tRHEf7IGNHk/VU4bSooykQI/AAAAAAAAPeU/GqMtFoZxn1M/s1600/0fe53ae6.png" group-title="Other Channels",Jordan TV
+http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Syria_TV_Logo.png/300px-Syria_TV_Logo.png" group-title="Other Channels",Syria TV
+http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title="Other Channels",Syria Drama
+http://streaming.i-sat.tv:8081/livestream/syriadrama/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title="Other Channels",Syria 
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
+#EXTINF:-1 tvg-logo="http://anhri.net/wp-content/uploads/2016/05/logo.png" group-title="Other Channels",Alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://worldondemand.net/images/allchannels/yemen%20tv.png" group-title="Other Channels",Yemen TV
+http://streamer12.elementssys.com:8080/demo/Yemen/index.m3u8?v=1023804426
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/S74MbEl-MliWB4g1Sh7tKtYet63AUVTIlqoB7s6EvPiNAq7EJ1UfoSwVLATdCoCdNZo=h800" group-title="Other Channels",Suhail
+rtmp://82.212.74.98/live//7626
+#EXTINF:-1 tvg-logo="https://yemenshabab.net/upimages/about/YemenShabab2017-07-30-153882.png" group-title="Other Channels",Yemen Shabab
+https://stream.starmenacdn.com:8082/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-gE6kFE-wlyE/VU4OjRIAPgI/AAAAAAAAPb0/VNBqBIVMTYU/s1600/14041.png" group-title="Other Channels", Funoon
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Funoon_Med
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-On2XcooiA1U/VWyozxbZk-I/AAAAAAAADJk/la_cVCg5yg8/s1600/murr_tv_al_lubnaniya.png" group-title="Other Channels",MTV Lebanon
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106" group-title="Other Channels",LBC
+https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/AlJadidTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Other Channels", Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png" group-title="Other Channels", Arabica
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Hindi Channels", ZEE AFLAM 
+http://streaming.i-sat.tv:8081/livestream/zeeaflaam/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Hindi Channels", ZEE AFLAM S2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1422
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Hindi Channels", ZEE ALWAN
+http://streaming.i-sat.tv:8081/livestream/zeealwan/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Hindi Channels", ZEE ALWAN S2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1423
+#EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509" group-title="Other Channels", Moga Comedy
+http://streaming.i-sat.tv:8081/live/mogacomedy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png" group-title="Other Channels", CBC
+http://streaming.i-sat.tv:1935/livestream/cbcone/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://speedtv.ps/img/posters/cbc-drama.png" group-title="Other Channels",CBC Drama
+http://streaming.i-sat.tv:1935/livestream/cbc/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-060113AM.png" group-title="Other Channels",Al Nahar TV
+http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Other Channels",Al Nahar Drama
+http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png" group-title="Other Channels",Kifa
+http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png" group-title="Religious Channels",Iqraa
+http://streaming.i-sat.tv:8081/livestream/iqraa/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://makkahtv.tv/img/logo.png" group-title="Religious Channels", Mecca
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Religious Channels",Almajd Quraan
+http://199.167.151.237:1935/live/sp15_24.stream/chunklist_w1252792235.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large" group-title="Religious Channels", Trteel
+rtmp://82.212.74.101/live//8043
+#EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png" group-title="Religious Channels",Alresalah
+http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/bahrain-quran-webtvonlive-com.jpg" group-title="Religious Channels", Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain Quran/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png" group-title="Religious Channels",Huda
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Huda_Med
+#EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace UK
+rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png" group-title="News Channels", AL Arabiya
+http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/alhadath.png" group-title="News Channels", Al Hadath
+http://live.alhadath.net/hadath/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%86.png" group-title="News Channels", Al Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/552fae9ae4b07ad1f4790787/556ff99be4b0467afc6baf0d/5573b7f0e4b0c1433c07ac8e/1433647090181/aljazeera.png" group-title="News Channels", Aljazeera News
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hKKdyyCaTgc/VIo0jqp27eI/AAAAAAAAAAo/c7F_TAGa5jg/w600-h1080/Al_Jazeera_Mubasher.png" group-title="News Channels",Aljazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News Channels",Aljazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="News Channels",Al Jazeera English FHD 1080p
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Al_Ekhbariya.png" group-title="News Channels", Ekhbariya HD
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/kbia/files/styles/medium/public/201405/cnn.png" group-title="News Channels",CNN
+http://streaming.i-sat.tv:8081/livestream/cnn1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png" group-title="News Channels",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png" group-title="News Channels",BBC Arabic 
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://data.satellitekuwait.com/wp-content/uploads/Watch-Rosia-Alyom-Live-Stream.jpg" group-title="News Channels",Russia Today Arabic HD
+https://secure-streams.akamaized.net/rt-arab/index800.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" group-title="News Channels", Russia Today Eng
+https://secure-streams.akamaized.net/rt/index800.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1263_1.png" group-title="News Channels", CBC ExtraNews
+http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Channels", ABC NEWS
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/index_2500_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Documentary Channels",Aljazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356" group-title="Documentary Channels", osn ANIMAL PLANET
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1864|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1000px-Logo_Nat_Geo_Wild.svg.png" group-title="Documentary Channels", osn Nat Geo Wild
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3702|User-Agent=MX Player/1.0&.ts
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3702|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary Channels", osn Nat Geo People
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3701|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png" group-title="Documentary Channels", osn Discovery
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1861|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentary Channels", osn History
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3699|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 tvg-logo="http://is4.mzstatic.com/image/thumb/Purple22/v4/4c/ab/ce/4cabce78-d2e4-fecb-26eb-a768084a50eb/source/512x512bb.jpg" group-title="Documentary Channels",Arab Geographic
+rtmp://82.212.74.98/live//7905
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Documentary Channels", Russia Today Documentary
+https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary Channels", NASA TV HD
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="Documentary Channels", Velocity
+https://goo.gl/fPYx2g
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png" group-title="Documentary Channels", Quest Arabiya
+https://goo.gl/fPYx2g
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e4/Mangas_(TV)_logo_2015.png" group-title="Foreign Channels", Mangas
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+
+#EXTINF:-1 group-title="Foreign Channels", UK.BT-Sports1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1349|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.BT-Sports2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1348|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK-Discovery-History.HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1346|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Sports1HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Sports2HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1323|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Sports3HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1322|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Sports4HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1321|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Sports5HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3070|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.SkySports.F1HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1320|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Action
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1332|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Scifi.Horror
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1327|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Modern
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1328|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Family
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1329|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Drama
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1330|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Comedy
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1331|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Thriller-HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1947|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movie-ShowCase
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1948|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Atlantic-Plus1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1946|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Nat-GeoGraphic
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1340|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Discovery-Channel
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1341|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.SkyPremier
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3066|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.SkyLiving
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3065|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Movies-Seclect
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3069|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Sky-Disney
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3063|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Nickelodeon
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3071|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Discovery-Science.HD
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3059|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Animal-Planet
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3061|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Nat-Geo-Wild
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3053|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.History
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3060|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Alibi
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3057|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Itv-1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3056|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Itv-2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3055|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.Itv-3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3054|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.DisneyXd
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3072|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.BBC-1
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1351|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.BBC-News
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3046|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.BBC-2
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1350|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.BBC-3
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+#EXTINF:-1 group-title="Foreign Channels", UK.BBC-4
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+
+#EXTINF:-1 group-title="VIP Lists", 2g-Sky Sports Mix
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2108.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports Mix
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/860.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sky Sports F1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/310.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Foot: Sky Sports F1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/822.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports F1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/80.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports F1 HQ
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/119.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Foot: Sky Sports News
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/823.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sky Sports News
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/309.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports News
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/81.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sports News HQ
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/118.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Sports USA
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/26.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,TR : Turkish Bein Sports 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2127.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/133.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/115.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/435.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/134.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/150.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 2 Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/436.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 1 Hindi
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/241.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Hindi
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/240.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Hindi Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/437.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Star Sports 1 Tamil
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/338.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Tamil
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/149.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports 1 Tamil Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/438.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Eir Sports1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/849.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Eir Sports2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/850.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Channel 9 (Bangladesh)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/764.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,LFC TV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/440.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport Klub 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/87.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SLO: SPORTKLUB 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/769.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport Klub 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/88.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SLO: SPORTKLUB 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/770.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport Klub 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/89.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SLO: SPORTKLUB 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/771.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sport TV2 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/325.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport TV2 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/8.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SportTV2 Portugal Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/724.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Sport TV3 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/326.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sport TV3 Portugal
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/9.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SportTV3 Portugal Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/725.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NAM: SportsNetWorld
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/467.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Box Nation Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/780.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NBCSN (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/17.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NBCSN Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/779.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-GeoSuper
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/239.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,GeoSuper
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/238.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Premier Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/56.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-Gtv
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/430.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,GTV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/429.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-Ptv Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/136.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PTV Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/147.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PTV Sports Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/859.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-WWE Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/286.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,WWE Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/146.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,MUTV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/145.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g-Willow Cricket
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/139.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Willow Cricket
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/117.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Willow Cricket Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/434.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Chelsea TV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/148.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Setanta Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/57.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 1 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/92.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 2 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/93.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 3 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/10.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 24 HD Italy
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/11.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/59.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Bundesliga HD1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/60.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,NFL Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/82.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 1 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/5.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 2 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/4.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 3 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 4 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Fox Sports 5 HD NL
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/1.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/50.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/51.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ESPN USA
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/48.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ESPN 2 USA
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/49.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Box Nation
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/44.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,At The Races
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/83.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Racing UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/84.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/387.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 1 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/351.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/388.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 2 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/352.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 3
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/389.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 3 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/353.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Bein Movies 4
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/390.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Bein Movies 4 HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/354.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie Christmas (Ex-Drama)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/68.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SkyMovies Select
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/73.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (SciFi&Horror)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/72.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Premiere)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/71.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Modern Greats)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/70.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Family)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/69.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Crime&Thriller)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/67.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Comedy)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/66.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Movie (Action&Adventure)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/65.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,SkyMovies Disney
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/154.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Sky Atlantic
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/74.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ITV 2 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/53.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ITV 3 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/54.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ITV 4 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/55.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,BBC 2 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/23.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,BBC 3 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/24.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,BBC 4 UK
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/25.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Channel 9 (Bangladesh)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/765.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Premier Sports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/763.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2G-Box Nation
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/816.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 7 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/809.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 8 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/810.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 9 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/811.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 10 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/812.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 11 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2154.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,PPV 12 (576p)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2155.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Cartoon Network
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2098.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Nicklodean
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2097.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Pogo
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2100.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi: Sonic
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2101.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ENG: Disney
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2103.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Eng: Nick JR
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2099.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,ENG: RTE Jr.
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2102.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,AF: 1 TV
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2562.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,2g: Ten Sports (Pak)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2565.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Ten Sports (Pak)
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2564.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 1  Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2156.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 1 Backup 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2158.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 2 Backup
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2157.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,British Eurosport 2 Backup 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2159.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,DSports
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2563.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports Select HD 1
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2528.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Star Sports Select HD 2
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2529.ts|User-Agent=freeapppsss&.ts
+#EXTINF:-1,Hindi-Sports | Dsports HD
+http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3616.ts|User-Agent=freeapppsss&.ts
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4620.jpg" group-title="English-Vod",+12 Tomb Raider EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4620.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4619.jpg" group-title="English-Vod",A Wrinkle in Time EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4619.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4618.jpg" group-title="English-Vod",+12 Thoroughbreds EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4618.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4572.jpg" group-title="English-Vod",+12 The Titan EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4572.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4584.jpg" group-title="English-Vod",+12 Game Night EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4584.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4583.jpg" group-title="English-Vod",+12 The 15:17 to Paris EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4583.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4569.jpg" group-title="English-Vod",The Leisure Seeker EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4569.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4570.jpg" group-title="English-Vod",+12 Please Stand By EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4570.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4571.jpg" group-title="English-Vod",+16 Tremors 6 EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4571.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4573.jpg" group-title="English-Vod",+16 Zombies EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4573.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4574.jpg" group-title="English-Vod",+16 Bent EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4574.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4575.jpg" group-title="English-Vod",+12 The Forgiven EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4575.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4567.jpg" group-title="English-Vod",+12 Black Panther EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4567.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4563.jpg" group-title="English-Vod",+16 Guardians of the Tomb
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4563.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4565.jpg" group-title="English-Vod",+16 Submergence
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4565.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4566.jpg" group-title="English-Vod",+16 The Humanity Bureau
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4566.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4564.jpg" group-title="English-Vod",+16 You Were Never Really Here
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4564.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4553.jpg" group-title="English-Vod",Kodachrome EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4553.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4555.jpg" group-title="English-Vod",+16 Lazer Team 2
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4555.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4557.jpg" group-title="English-Vod",+12 The Debt Collector
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4557.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4556.jpg" group-title="English-Vod",Nostalgia
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4556.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4550.jpg" group-title="English-Vod",Ali Wedding
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4550.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4551.jpg" group-title="English-Vod",+16 Bleeding Steel
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4551.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4552.jpg" group-title="English-Vod",+16 Genesis
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4552.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4554.jpg" group-title="English-Vod",+16 Last Seen in Idaho
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4554.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4501.jpg" group-title="English-Vod",+12 Maze Runner Death Cure EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4501.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4492.jpg" group-title="English-Vod",+12 The Commuter EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4492.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4490.jpg" group-title="English-Vod",I Kill Giants
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4490.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4489.jpg" group-title="English-Vod",+12 Mollys Game EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4489.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4455.jpg" group-title="English-Vod",The Greatest Showman EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4455.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4448.jpg" group-title="English-Vod",Benji EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4448.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4425.jpg" group-title="English-Vod",+16 Annihilation EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4425.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4422.jpg" group-title="English-Vod",+12 Jumanji Welcome to the Jungle EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4422.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4421.jpg" group-title="English-Vod",+12 Downsizing EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4421.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4420.jpg" group-title="English-Vod",+12 The Last Jedi EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4420.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4423.jpg" group-title="English-Vod",+12 Pitch Perfect 3 EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4423.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4419.jpg" group-title="English-Vod",+12 Justice League EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4419.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4417.jpg" group-title="English-Vod",+12 The Florida Project EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4417.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4418.jpg" group-title="English-Vod",+12 Roman J. Israel EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4418.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4415.jpg" group-title="English-Vod",+16 I Tonya EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4415.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4424.jpg" group-title="English-Vod",The Stray
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4424.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4407.jpg" group-title="English-Vod",+12 Crooked House
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4407.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4406.jpg" group-title="English-Vod",+12 Accident
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4406.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4398.jpg" group-title="English-Vod",+12 Beast of Burden
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4398.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4399.jpg" group-title="English-Vod",+12 Murder on The Orient Express EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4399.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4320.jpg" group-title="English-Vod",Christmas Inheritance
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4320.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4319.jpg" group-title="English-Vod",Albion The Enchanted Stallion
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4319.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4318.jpg" group-title="English-Vod",+16 Fun Mom Dinner
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4318.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4317.jpg" group-title="English-Vod",+16 Borg McEnroe
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4317.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4316.jpg" group-title="English-Vod",+16 Walking Out
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4316.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4315.jpg" group-title="English-Vod",Wonder EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4315.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4314.jpg" group-title="English-Vod",+16 24 Hours to Live EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4314.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4313.jpg" group-title="English-Vod",Daddy's Home 2
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4313.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4246.jpg" group-title="English-Vod",+16 Devil's Gate
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4246.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4245.jpg" group-title="English-Vod",+12 Thor Ragnarok EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4245.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4229.jpg" group-title="English-Vod",+16 Last Flag Flying EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4229.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4223.jpg" group-title="English-Vod",+16 Project Eden Vol I
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4223.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4221.jpg" group-title="English-Vod",+16 Thank You for Your Service
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4221.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4216.jpg" group-title="English-Vod",+12 The Man from Earth: Holocene
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4216.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4215.jpg" group-title="English-Vod",+16 Day of the Dead Bloodline
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4215.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4214.jpg" group-title="English-Vod",Same Kind of Different as Me EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4214.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4213.jpg" group-title="English-Vod",+16 Jigsaw EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4213.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4212.jpg" group-title="English-Vod",+16 The Snowman EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4212.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4174.jpg" group-title="English-Vod",Wonderstruck EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4174.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4156.jpg" group-title="English-Vod",+16 Blade Runner 2049 EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4156.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4155.jpg" group-title="English-Vod",+16 Happy Death Day EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4155.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4145.jpg" group-title="English-Vod",Mark Felt
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4145.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4149.jpg" group-title="English-Vod",+16 Brawl in Cell Block 99
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4149.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4150.jpg" group-title="English-Vod",+12 Marshall EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4150.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4129.jpg" group-title="English-Vod",+16 Bright EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4129.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4132.jpg" group-title="English-Vod",+16 It EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4132.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4130.jpg" group-title="English-Vod",+16 Beyond Skyline
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4130.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4131.jpg" group-title="English-Vod",+12 Breathe
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4131.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4103.jpg" group-title="English-Vod",+12 Logan Lucky EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4103.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4110.jpg" group-title="English-Vod",+16 The Foreigner EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4110.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4105.jpg" group-title="English-Vod",+16 Detroit EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4105.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4107.jpg" group-title="English-Vod",+12 Dunkirk EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4107.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4106.jpg" group-title="English-Vod",+16 1922
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4106.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4108.jpg" group-title="English-Vod",+12 The Mountain Between Us EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4108.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4109.jpg" group-title="English-Vod",+16 Slumber
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4109.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4099.jpg" group-title="English-Vod",Bigfoot Junior EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4099.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4100.jpg" group-title="English-Vod",+12 Home Again EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4100.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4101.jpg" group-title="English-Vod",+16 Amityville: The Awakening
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4101.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4102.jpg" group-title="English-Vod",+16 Mudbound EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4102.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4072.jpg" group-title="English-Vod",+16 Kingsman: The Golden Circle EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4072.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4074.jpg" group-title="English-Vod",+12 Valerian EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4074.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4073.jpg" group-title="English-Vod",+12 Goon: Last of the Enforcers
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4073.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4075.jpg" group-title="English-Vod",+16 Death Note
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4075.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4054.jpg" group-title="English-Vod",The Big Sick EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4054.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4055.jpg" group-title="English-Vod",+12 American Made EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4055.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4057.jpg" group-title="English-Vod",+12 Hangman
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4057.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4043.jpg" group-title="English-Vod",+12 The Glass Castle
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4043.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4042.jpg" group-title="English-Vod",Churchill
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4042.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4041.jpg" group-title="English-Vod",+16 Jungle EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4041.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4040.jpg" group-title="English-Vod",+16 Atomic Blonde EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4040.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4039.jpg" group-title="English-Vod",+12 War for the Planet of the Apes EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4039.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4038.jpg" group-title="English-Vod",The Book of Henry
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4038.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4037.jpg" group-title="English-Vod",My Pet Dinosaur
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4037.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4035.jpg" group-title="English-Vod",+12 Spider Man Homecoming
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4035.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4034.jpg" group-title="English-Vod",+12 Rememory
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4034.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3857.jpg" group-title="English-Vod",+16 Aftermath EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3857.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3861.jpg" group-title="English-Vod",+16 Extortion
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3861.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3862.jpg" group-title="English-Vod",+12 Once Upon a Time in Venice EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3862.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3863.jpg" group-title="English-Vod",+16 Resident Evil Vendetta
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3863.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3865.jpg" group-title="English-Vod",The Boss Baby EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3865.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3887.jpg" group-title="English-Vod",+12 King Arthur: Legend of the Sword EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3887.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3888.jpg" group-title="English-Vod",+12 The Shack
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3888.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3891.jpg" group-title="English-Vod",+12 The Promise
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3891.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3892.jpg" group-title="English-Vod",+16 The Bad Batch
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3892.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3894.jpg" group-title="English-Vod",+12 Before I Fall
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3894.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3895.jpg" group-title="English-Vod",+12 Ghost in the Shell EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3895.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3896.jpg" group-title="English-Vod",+12 Collide
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3896.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3911.jpg" group-title="English-Vod",+12 Black Butterfly
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3911.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3912.jpg" group-title="English-Vod",+16 Kill'em All
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3912.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3913.jpg" group-title="English-Vod",+16 The Lost City of Z
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3913.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3914.jpg" group-title="English-Vod",+12 Rogue One EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3914.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3915.jpg" group-title="English-Vod",+12 The Fate of the Furious EN
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3915.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/3916.jpg" group-title="English-Vod",+12 Railroad Tigers
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3916.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ellila Elkebira" tvg-logo="http://190.2.132.7:8080/images/univers/4586.jpg" group-title="Arabic-Vod",Ellila Elkebira
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4586.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Aaelt Micky" tvg-logo="http://190.2.132.7:8080/images/univers/4585.jpg" group-title="Arabic-Vod",Aaelt Micky
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4585.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Alqahira 678" tvg-logo="http://190.2.132.7:8080/images/univers/4587.jpg" group-title="Arabic-Vod",+12 Alqahira 678
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4587.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Photocopy" tvg-logo="http://190.2.132.7:8080/images/univers/4515.jpg" group-title="Arabic-Vod",Photocopy
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4515.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Akher Ayyam Madina" tvg-logo="http://190.2.132.7:8080/images/univers/4513.jpg" group-title="Arabic-Vod",Akher Ayyam Madina
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4513.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Leel Dakhely" tvg-logo="http://190.2.132.7:8080/images/univers/4514.jpg" group-title="Arabic-Vod",+16 Leel Dakhely
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4514.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="3awdat al Madi" tvg-logo="http://190.2.132.7:8080/images/univers/4488.jpg" group-title="Arabic-Vod",3awdat al Madi
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4488.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Khallik fi Halak" tvg-logo="http://190.2.132.7:8080/images/univers/4487.jpg" group-title="Arabic-Vod",+12 Khallik fi Halak
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4487.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Taht Tarabiza" tvg-logo="http://190.2.132.7:8080/images/univers/4447.jpg" group-title="Arabic-Vod",+12 Taht Tarabiza
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4447.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El Barr Thani" tvg-logo="http://190.2.132.7:8080/images/univers/4446.jpg" group-title="Arabic-Vod",El Barr Thani
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4446.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Bingo" tvg-logo="http://190.2.132.7:8080/images/univers/4445.jpg" group-title="Arabic-Vod",+12 Bingo
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4445.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Akher Waraqa" tvg-logo="http://190.2.132.7:8080/images/univers/4444.jpg" group-title="Arabic-Vod",Akher Waraqa
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4444.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Sila7 al Talamid" tvg-logo="http://190.2.132.7:8080/images/univers/4331.jpg" group-title="Arabic-Vod",Sila7 al Talamid
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4331.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Kalb Balady" tvg-logo="http://190.2.132.7:8080/images/univers/4330.jpg" group-title="Arabic-Vod",+12 Kalb Balady
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4330.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Akhlaq Al 3abeed" tvg-logo="http://190.2.132.7:8080/images/univers/4329.jpg" group-title="Arabic-Vod",+16 Akhlaq Al 3abeed
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4329.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Nawwara" tvg-logo="http://190.2.132.7:8080/images/univers/4328.jpg" group-title="Arabic-Vod",+12 Nawwara
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4328.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Satw Mothalat" tvg-logo="http://190.2.132.7:8080/images/univers/3903.jpg" group-title="Arabic-Vod",+12 Satw Mothalat
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3903.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Akher Dik fi Masr" tvg-logo="http://190.2.132.7:8080/images/univers/4309.jpg" group-title="Arabic-Vod",+12 Akher Dik fi Masr
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4309.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Youm men El Ayyam" tvg-logo="http://190.2.132.7:8080/images/univers/4026.jpg" group-title="Arabic-Vod",+12 Youm men El Ayyam
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4026.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Jawab I3tiqal" tvg-logo="http://190.2.132.7:8080/images/univers/4028.jpg" group-title="Arabic-Vod",+16 Jawab I3tiqal
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4028.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 El Haram El Rabe3" tvg-logo="http://190.2.132.7:8080/images/univers/3866.jpg" group-title="Arabic-Vod",+16 El Haram El Rabe3
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3866.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 El Qird Beytkalem" tvg-logo="http://190.2.132.7:8080/images/univers/3850.jpg" group-title="Arabic-Vod",+16 El Qird Beytkalem
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3850.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Hamlat Fraser" tvg-logo="http://190.2.132.7:8080/images/univers/3868.jpg" group-title="Arabic-Vod",+12 Hamlat Fraser
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3868.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Saber Google" tvg-logo="http://190.2.132.7:8080/images/univers/3855.jpg" group-title="Arabic-Vod",+12 Saber Google
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3855.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Oshan 14" tvg-logo="http://190.2.132.7:8080/images/univers/3878.jpg" group-title="Arabic-Vod",+12 Oshan 14
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3878.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Kanghar Hubbena" tvg-logo="http://190.2.132.7:8080/images/univers/3874.jpg" group-title="Arabic-Vod",+12 Kanghar Hubbena
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3874.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Akel Shareb Nayem" tvg-logo="http://190.2.132.7:8080/images/univers/4237.jpg" group-title="Arabic-Vod",+12 Akel Shareb Nayem
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4237.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Max w Antar" tvg-logo="http://190.2.132.7:8080/images/univers/4233.jpg" group-title="Arabic-Vod",+12 Max w Antar
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4233.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Fi Sourya" tvg-logo="http://190.2.132.7:8080/images/univers/4224.jpg" group-title="Arabic-Vod",+12 Fi Sourya
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4224.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Omar El Azraq" tvg-logo="http://190.2.132.7:8080/images/univers/4220.jpg" group-title="Arabic-Vod",+12 Omar El Azraq
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4220.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kanz V1" tvg-logo="http://190.2.132.7:8080/images/univers/4162.jpg" group-title="Arabic-Vod",Al Kanz V1
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4162.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Horob Edterary" tvg-logo="http://190.2.132.7:8080/images/univers/4119.jpg" group-title="Arabic-Vod",+12 Horob Edterary
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4119.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 3antar Ben Shaddad" tvg-logo="http://190.2.132.7:8080/images/univers/4114.jpg" group-title="Arabic-Vod",+12 3antar Ben Shaddad
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4114.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Da3doosh" tvg-logo="http://190.2.132.7:8080/images/univers/4111.jpg" group-title="Arabic-Vod",+12 Da3doosh
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4111.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Tesba7 3ala Khir" tvg-logo="http://190.2.132.7:8080/images/univers/4098.jpg" group-title="Arabic-Vod",+12 Tesba7 3ala Khir
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4098.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Yabany Asly" tvg-logo="http://190.2.132.7:8080/images/univers/4052.jpg" group-title="Arabic-Vod",Yabany Asly
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4052.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Bighamdet 3in" tvg-logo="http://190.2.132.7:8080/images/univers/4053.jpg" group-title="Arabic-Vod",+12 Bighamdet 3in
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4053.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Youm li Sittat" tvg-logo="http://190.2.132.7:8080/images/univers/4051.jpg" group-title="Arabic-Vod",+16 Youm li Sittat
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4051.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Edhay fi Thailand" tvg-logo="http://190.2.132.7:8080/images/univers/4027.jpg" group-title="Arabic-Vod",+12 Edhay fi Thailand
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4027.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Al Asleyeen" tvg-logo="http://190.2.132.7:8080/images/univers/3996.jpg" group-title="Arabic-Vod",+12 Al Asleyeen
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3996.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Yg3alo  3amer" tvg-logo="http://190.2.132.7:8080/images/univers/3919.jpg" group-title="Arabic-Vod",+12 Yg3alo  3amer
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3919.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Soukkar Barra" tvg-logo="http://190.2.132.7:8080/images/univers/4025.jpg" group-title="Arabic-Vod",+12 Soukkar Barra
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4025.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Mamnou3 Al Eqtirab aw Al Taswir" tvg-logo="http://190.2.132.7:8080/images/univers/3998.jpg" group-title="Arabic-Vod",+16 Mamnou3 Al Eqtirab aw Al Taswir
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3998.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Yathaddi Yat3addi" tvg-logo="http://190.2.132.7:8080/images/univers/4029.jpg" group-title="Arabic-Vod",+12 Yathaddi Yat3addi
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4029.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Bashtery Ragel" tvg-logo="http://190.2.132.7:8080/images/univers/3758.jpg" group-title="Arabic-Vod",+16 Bashtery Ragel
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3758.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Fin Qalbi" tvg-logo="http://190.2.132.7:8080/images/univers/4030.jpg" group-title="Arabic-Vod",+12 Fin Qalbi
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4030.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Mawlana" tvg-logo="http://190.2.132.7:8080/images/univers/4020.jpg" group-title="Arabic-Vod",+12 Mawlana
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4020.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+16 Ali Mi3zah w Ibrahim" tvg-logo="http://190.2.132.7:8080/images/univers/3917.jpg" group-title="Arabic-Vod",+16 Ali Mi3zah w Ibrahim
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3917.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 3ashan Kharjin" tvg-logo="http://190.2.132.7:8080/images/univers/3897.jpg" group-title="Arabic-Vod",+12 3ashan Kharjin
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3897.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Laff wa Dawaran" tvg-logo="http://190.2.132.7:8080/images/univers/3771.jpg" group-title="Arabic-Vod",+12 Laff wa Dawaran
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3771.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Al Maa wa Al Khodra" tvg-logo="http://190.2.132.7:8080/images/univers/3995.jpg" group-title="Arabic-Vod",+12 Al Maa wa Al Khodra
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3995.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 El Bab yefawet Amal" tvg-logo="http://190.2.132.7:8080/images/univers/4021.jpg" group-title="Arabic-Vod",+12 El Bab yefawet Amal
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/4021.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Eshtebak" tvg-logo="http://190.2.132.7:8080/images/univers/3852.jpg" group-title="Arabic-Vod",+12 Eshtebak
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3852.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Min 30 Sana" tvg-logo="http://190.2.132.7:8080/images/univers/3869.jpg" group-title="Arabic-Vod",+12 Min 30 Sana
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3869.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Gahim fil Hind" tvg-logo="http://190.2.132.7:8080/images/univers/3759.jpg" group-title="Arabic-Vod",+12 Gahim fil Hind
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3759.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 30 Youm Fil3izz" tvg-logo="http://190.2.132.7:8080/images/univers/3898.jpg" group-title="Arabic-Vod",+12 30 Youm Fil3izz
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3898.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Abu Shanab" tvg-logo="http://190.2.132.7:8080/images/univers/3900.jpg" group-title="Arabic-Vod",+12 Abu Shanab
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3900.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Hepta" tvg-logo="http://190.2.132.7:8080/images/univers/3909.jpg" group-title="Arabic-Vod",+12 Hepta
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3909.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="+12 Ahlan Bikom fi Lebnan" tvg-logo="http://190.2.132.7:8080/images/univers/3905.jpg" group-title="Arabic-Vod",+12 Ahlan Bikom fi Lebnan
+http://190.2.132.7:8080/movie/atlasvooooooooood/eozMxFVdlY/3905.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/1000.Mabrouk.jpg" group-title="Arabic-Vod",1000 Mabrouk
+http://1290922571.rsc.cdn77.org/movies/1000.Mabrouk.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Aziz-s-Dream-2012.jpg" group-title="Arabic-Vod",Aziz s Dream
+http://1290922571.rsc.cdn77.org/movies/Aziz-s-Dream-2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Black-February-2013.jpg" group-title="Arabic-Vod",Black February
+http://1290922571.rsc.cdn77.org/movies/Black-February-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ala.Gothaty.2013.jpg" group-title="Arabic-Vod",Ala Gothaty
+http://1290922571.rsc.cdn77.org/movies/Ala.Gothaty.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Game.Over.2012.jpg" group-title="Arabic-Vod",Game Over
+http://1290922571.rsc.cdn77.org/movies/Game.Over.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Alanisaa-Mammy-2012.jpg" group-title="Arabic-Vod",Alanisaa Mammy
+http://1290922571.rsc.cdn77.org/movies/Alanisaa-Mammy-2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Almaslaha.2012.jpg" group-title="Arabic-Vod",Almaslaha
+http://1290922571.rsc.cdn77.org/movies/Almaslaha.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Lembi.8Giga.2010.jpg" group-title="Arabic-Vod",Lembi 8 Giga
+http://1290922571.rsc.cdn77.org/movies/Lembi.8Giga.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Hasal.Kheer.2012.jpg" group-title="Arabic-Vod",Hasal Kheer
+http://1290922571.rsc.cdn77.org/movies/Hasal.Kheer.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Omar-Salma3.2012.jpg" group-title="Arabic-Vod",Omar Salma 3
+http://1290922571.rsc.cdn77.org/movies/Omar-Salma3.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Banat.Elaam.2012.jpg" group-title="Arabic-Vod",Banat Elaam
+http://1290922571.rsc.cdn77.org/movies/Banat.Elaam.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Papa.Habbibi.2012.jpg" group-title="Arabic-Vod",Papa Habbibi
+http://1290922571.rsc.cdn77.org/movies/Papa.Habbibi.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ghesh.ElZawgeya.2012.jpg" group-title="Arabic-Vod",Ghesh ElZawgeya
+http://1290922571.rsc.cdn77.org/movies/Ghesh.ElZawgeya.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/EUC-2011.jpg" group-title="Arabic-Vod",EUC
+http://1290922571.rsc.cdn77.org/movies/EUC-2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Sarkhet.Namla.2011.jpg" group-title="Arabic-Vod",Sarkhet Namla
+http://1290922571.rsc.cdn77.org/movies/Sarkhet.Namla.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Fasel.wa.Naood.2011.jpg" group-title="Arabic-Vod",Fasel Wa Naood
+http://1290922571.rsc.cdn77.org/movies/Fasel.wa.Naood.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tek.Tek.Boom.2011.jpg" group-title="Arabic-Vod",Tek Tek Boom
+http://1290922571.rsc.cdn77.org/movies/Tek.Tek.Boom.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/X.Large.2011.jpg" group-title="Arabic-Vod",X Large
+http://1290922571.rsc.cdn77.org/movies/X.Large.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Sami.Oxide.Elcarbon.2011.jpg" group-title="Arabic-Vod",Sami Oxide Elcarbon
+http://1290922571.rsc.cdn77.org/movies/Sami.Oxide.Elcarbon.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Bebo.we.Basher.2011.jpg" group-title="Arabic-Vod",Bebo We Basher
+http://1290922571.rsc.cdn77.org/movies/Bebo.we.Basher.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ezaaet.Hob.2011.jpg" group-title="Arabic-Vod",Ezaaet Hob
+http://1290922571.rsc.cdn77.org/movies/Ezaaet.Hob.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Amn.Dowlt.2011.jpg" group-title="Arabic-Vod",Amn Dowlt
+http://1290922571.rsc.cdn77.org/movies/Amn.Dowlt.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ana.Badea.Ya.Wadia.2011.jpg" group-title="Arabic-Vod",Ana Badea Ya Wadia
+http://1290922571.rsc.cdn77.org/movies/Ana.Badea.Ya.Wadia.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/365.Yom.Saada.2011.jpg" group-title="Arabic-Vod",365 Yom Saada
+http://1290922571.rsc.cdn77.org/movies/365.Yom.Saada.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Asmaa.2011.jpg" group-title="Arabic-Vod",Asmaa
+http://1290922571.rsc.cdn77.org/movies/Asmaa.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Fokak.Menny.2011.jpg" group-title="Arabic-Vod",Fokak Menny
+http://1290922571.rsc.cdn77.org/movies/Fokak.Menny.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Assal.Eswed.2010.jpg" group-title="Arabic-Vod",Assal Eswed
+http://1290922571.rsc.cdn77.org/movies/Assal.Eswed.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/ElRagol.ElGhamed.Beslamto.2010.jpg" group-title="Arabic-Vod",El Ragol El Ghamed Beslamto
+http://1290922571.rsc.cdn77.org/movies/ElRagol.ElGhamed.Beslamto.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Welad.ElBalad.2010.jpg" group-title="Arabic-Vod",Welad ElBalad
+http://1290922571.rsc.cdn77.org/movies/Welad.ElBalad.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Bentein.Men.Masr.2010.jpg" group-title="Arabic-Vod",Bentein Men Masr
+http://1290922571.rsc.cdn77.org/movies/Bentein.Men.Masr.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mohtram.ila.Robaa.2010.jpg" group-title="Arabic-Vod",Mohtram ila Robaa
+http://1290922571.rsc.cdn77.org/movies/Mohtram.ila.Robaa.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Bon.Swary.2010.jpg" group-title="Arabic-Vod",Bon Swary
+http://1290922571.rsc.cdn77.org/movies/Bon.Swary.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ahasees.2010.jpg" group-title="Arabic-Vod",Ahasees
+http://1290922571.rsc.cdn77.org/movies/Ahasees.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/LaTaragoaWalaEsteslam.jpg" group-title="Arabic-Vod",La Taragoa Wala Esteslam
+http://1290922571.rsc.cdn77.org/movies/LaTaragoaWalaEsteslam.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/iBrahiM-EL-aByaD-2009.jpg" group-title="Arabic-Vod",iBrahim EL Abyad
+http://1290922571.rsc.cdn77.org/movies/iBrahiM-EL-aByaD-2009.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/SeLeNa-2009.jpg" group-title="Arabic-Vod",Selena
+http://1290922571.rsc.cdn77.org/movies/SeLeNa-2009.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/AeZBeT-ADaM-2009.jpg" group-title="Arabic-Vod",Aezbet Adam
+http://1290922571.rsc.cdn77.org/movies/AeZBeT-ADaM-2009.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Welad.ElAm.jpg" group-title="Arabic-Vod",Welad ElAm
+http://1290922571.rsc.cdn77.org/movies/Welad.ElAm.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mafish-Fayda.jpg" group-title="Arabic-Vod",Mafish Fayda
+http://1290922571.rsc.cdn77.org/movies/Mafish-Fayda.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TiMoR-We-ShaFiKa-2007.jpg" group-title="Arabic-Vod",Timor We Shafika
+http://1290922571.rsc.cdn77.org/movies/TiMoR-We-ShaFiKa-2007.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Khareg.Ala.Elqanon.2007.jpg" group-title="Arabic-Vod",Khareg Ala Elqanon
+http://1290922571.rsc.cdn77.org/movies/Khareg.Ala.Elqanon.2007.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Asad.wo4.Cats.jpg" group-title="Arabic-Vod",Asad Wo 4 Cats
+http://1290922571.rsc.cdn77.org/movies/Asad.wo4.Cats.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/ZaKi-Chan-2005.jpg" group-title="Arabic-Vod",ZaKi Chan
+http://1290922571.rsc.cdn77.org/movies/ZaKi-Chan-2005.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Aris.Min.Geha.Amneya.2004.jpg" group-title="Arabic-Vod",Aris Min Geha Amneya
+http://1290922571.rsc.cdn77.org/movies/Aris.Min.Geha.Amneya.2004.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mamnoua.Fi.Lailat.AlDokhlah.1975.jpg" group-title="Arabic-Vod",Mamnoua Fi Lailat AlDokhlah
+http://1290922571.rsc.cdn77.org/movies/Mamnoua.Fi.Lailat.AlDokhlah.1975.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TangledEverAfter.jpg" group-title="Arabic-Vod",Tangled Ever After
+http://1290922571.rsc.cdn77.org/movies/TangledEverAfter.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/MadagascarEuropesMostWanted.jpg" group-title="Arabic-Vod",Madagascar Europes Most Wanted
+http://1290922571.rsc.cdn77.org/movies/MadagascarEuropesMostWanted.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ice-Age-4.jpg" group-title="Arabic-Vod",Ice-Age-4
+http://1290922571.rsc.cdn77.org/movies/IceAgeContinentalDrift.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Ice-Age-4.jpg" group-title="Arabic-Vod",Ice-Age-5
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice.Age-4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Fast-And-Furious-2003-Arabic.jpg" group-title="Arabic-Vod",Fast And Furious
+http://1290922571.rsc.cdn77.org/movies/Fast-And-Furious-2003-Arabic.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Transporter-2002-Arabic.jpg" group-title="Arabic-Vod",The Transporter
+http://1290922571.rsc.cdn77.org/movies/The-Transporter-2002-Arabic.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Transporter-2005-Arabic.jpg" group-title="Arabic-Vod",The Transporter 2
+http://1290922571.rsc.cdn77.org/movies/The-Transporter-2005-Arabic.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Transporter-2008-Arabic.jpg" group-title="Arabic-Vod",The Transporter 3
+http://1290922571.rsc.cdn77.org/movies/The-Transporter-2008-Arabic.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Saboba-2012.jpg" group-title="Arabic-Vod",Saboba
+http://1290922571.rsc.cdn77.org/movies/Saboba-2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TeLK-aL-aYaM-2010.jpg" group-title="Arabic-Vod",Telk Al Ayam
+http://1290922571.rsc.cdn77.org/movies/TeLK-aL-aYaM-2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tom-and-Jimmy-2013.jpg" group-title="Arabic-Vod",Tom and Jimmy
+http://1290922571.rsc.cdn77.org/movies/Tom-and-Jimmy-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tatah-2013.jpg" group-title="Arabic-Vod",Tatah
+http://1290922571.rsc.cdn77.org/movies/Tatah-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tita-Rahiba-2013.jpg" group-title="Arabic-Vod",Tita Rahiba
+http://1290922571.rsc.cdn77.org/movies/Tita-Rahiba-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Sea-Shadow-2011.jpg" group-title="Arabic-Vod",Sea Shadow
+http://1290922571.rsc.cdn77.org/movies/Sea-Shadow-2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Samir-Abu-Elnile01.jpg" group-title="Arabic-Vod",Samir Abu Elnile 1
+http://1290922571.rsc.cdn77.org/movies/Samir-Abu-Elnile01.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Samir-Abu-Elnile02.jpg" group-title="Arabic-Vod",Samir Abu Elnile 2
+http://1290922571.rsc.cdn77.org/movies/Samir-Abu-Elnile02.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Lamh-Albaser.jpg" group-title="Arabic-Vod",Lamh Albaser
+http://1290922571.rsc.cdn77.org/movies/Lamh-Albaser.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Haz-Said.jpg" group-title="Arabic-Vod",Haz Said
+http://1290922571.rsc.cdn77.org/movies/Haz-Said.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/The-Intern.jpg" group-title="Arabic-Vod",The Intern
+http://1290922571.rsc.cdn77.org/vod1/movie/eng/The_Intern.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/abdaa_motaa.jpg" group-title="Arabic-Vod",Abda Motaa
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/abda-motaa.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al-watar.jpg" group-title="Arabic-Vod",Al-Watar
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/al-watar.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/one_saadey.jpg" group-title="Arabic-Vod",one-saadey
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Action/one-saadey.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al_mawatin_bars.jpg" group-title="Arabic-Vod",Al-mawatin-bars
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Al-mawatin-bars.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al-snafir.jpg" group-title="Arabic-Vod",Al-snafir
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Al-snafir.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/mr-peabody-and-sherman.jpg" group-title="Arabic-Vod",Mr-Peabody-and-Sherman
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Mr-Peabody-and-Sherman.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/shark_tele.jpg" group-title="Arabic-Vod",Shark-and-Tale
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Shark-and-Tale.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/timon-and-bomba.jpg" group-title="Arabic-Vod",Timon-and-Bomba
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/timon-and-bomba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Al_anisa_mammy.jpg" group-title="Arabic-Vod",Al-anaisa-mammy
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Al-anaisa-mammy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/el_7arami_w_el_3abet.jpg" group-title="Arabic-Vod",El-7arami-W-El-3abet
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/El.7arami.W.El.3abet.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/gwazet_maryy.jpg" group-title="Arabic-Vod",gwazet- maryy
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/gwazet-maryy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/hatoli_ragel.jpg" group-title="Arabic-Vod",Hatoli ragel
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Hatoli.Ragel.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/la_mukhaza.jpg" group-title="Arabic-Vod",La-muakhaza
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/La-muakhaza.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/mr_and_mrs_owais.jpg" group-title="Arabic-Vod",MR And Mrs Owais
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/MR.And.Mrs.Owais.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/qot_w_far.jpg" group-title="Arabic-Vod",Qot-W-Far
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Qot-W-Far.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/saeid_kilaket.jpg" group-title="Arabic-Vod",Saeid- Kilaket
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Saeid- Kilaket.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/salim_abu_akhta.jpg" group-title="Arabic-Vod",Salim Abu Akhta
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Salim.Abu.Akhta.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sone3a.fe.masr.jpg" group-title="Arabic-Vod",Sone3a.Fe.Masr
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Sone3a.Fe.Masr.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ya_ana_ya_hwa.jpg" group-title="Arabic-Vod",ya-ana-ya-hwa
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/ya-ana-ya-hwa.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al_markeb.jpg" group-title="Arabic-Vod",Al-markeb
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Al-markeb.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Al_masafer.jpg" group-title="Arabic-Vod",Al-masafer
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Al-masafer.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al_sheta_el_fat.jpg" group-title="Arabic-Vod",Al-Shata-ele-fat
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Al-Shata-ele-fat.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/asrar_aaeleye_2014.jpg" group-title="Arabic-Vod",Asrar.Aaeleya
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Asrar.Aaeleya.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cairo_time.jpg" group-title="Arabic-Vod",Cairo.Time
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Cairo.Time.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cumheriyet_ambaba.jpg" group-title="Arabic-Vod",cumheriyet-Ambaba
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/cumheriyet-Ambaba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/el-princessa.jpg" group-title="Arabic-Vod",Elprincessa
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Action/Elprincessa.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/factory_girl.jpg" group-title="Arabic-Vod",factory-girl
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/factory-girl.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/hafla_fe_muntasaf_al_lil.jpg" group-title="Arabic-Vod",Hafla-muntasaf-al-lil
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Hafla-muntasaf-al-lil.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Halawet.Roo7.jpg" group-title="Arabic-Vod",Halawet.Roo7
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Halawet.Roo7.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/harm_street.jpg" group-title="Arabic-Vod",Harm-street
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Harm-street.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/hwa_fe_kida.jpg" group-title="Arabic-Vod",Hwa-fe-kida
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Hwa-fe-kida.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/input-game.jpg" group-title="Arabic-Vod",inside-the-game
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Action/inside-the-game.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/kan_refeeji.jpg" group-title="Arabic-Vod",Kan.Refeeji
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Kan.Refeeji.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/karam_the_king.jpg" group-title="Arabic-Vod",Karam.king
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Karam.king.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/kalam_jaryad.jpg" group-title="Arabic-Vod",Klam-jarayad
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Klam-jarayad.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/mohema_fe_film_kadim_poster.jpg" group-title="Arabic-Vod",Mohma-fe-film-kadim
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Mohma-fe-film-kadim.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/saa_wa_nas.jpg" group-title="Arabic-Vod",Saa-we-nassaf
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Saa-we-nassaf.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the_blue_elephent.jpg" group-title="Arabic-Vod",The-Blue-Elephant
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/The-Blue-Elephant.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/safari.jpg" group-title="Arabic-Vod",Safari
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Safari.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/west_beirut.jpg" group-title="Arabic-Vod",West.Beirut
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/West.Beirut.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/world_war_3.jpg" group-title="Arabic-Vod",World-War-III
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/World-War-III.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/101_dalmatians_ii_patchs_london.jpg" group-title="Arabic-Vod",101-Dalmatians-II
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/101-Dalmatians-II.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al_kharuj_min_al_kahira.jpg" group-title="Arabic-Vod",Al-kharuj-min-Al-kahira-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Al-kharuj-min-Al-kahira-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/a-monster-in-paris-1.jpg" group-title="Arabic-Vod",A-Monster-In-Paris
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/A-Monster-In-Paris.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al-nabtashy-1.jpg" group-title="Arabic-Vod",Al.Nabatshy
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Al.Nabatshy.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/assaleswad-1.jpg" group-title="Arabic-Vod",Assal-Eswed
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Assal-Eswed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bambi_ii-1.jpg" group-title="Arabic-Vod",Bambi-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Bambi-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bolt.jpg" group-title="Arabic-Vod",Bolt
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Bolt.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cars.jpg" group-title="Arabic-Vod",Cars
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Cars.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cashfolow-1.jpg" group-title="Arabic-Vod",Cash Flow
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Cash.Flow.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/el-gezira-island-1.jpg" group-title="Arabic-Vod",El-Gezira-Island
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/El-Gezira-Island.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/eldonia-ma2looba-1.jpg" group-title="Arabic-Vod",Eldonia Ma2looba
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Eldonia.Ma2looba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/elghorba-1.jpg" group-title="Arabic-Vod",ElGhorba
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/ElGhorba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/hassallenaelro3b-1.jpg" group-title="Arabic-Vod",Hassal Lena Elro3b
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Hassal.Lena.Elro3b.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/hez_west_el_balad.jpg" group-title="Arabic-Vod",Haz West El Balad
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Haz.West.El.Balad.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/home-1.jpg" group-title="Arabic-Vod",Home
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Home.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_1.jpg" group-title="Arabic-Vod",Ice-Age-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice-Age-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_2.jpg" group-title="Arabic-Vod",Ice-Age-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice-Age-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_3.jpg" group-title="Arabic-Vod",Ice-Age-3
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice-Age-3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/jeraanal-sa3d-1.jpg" group-title="Arabic-Vod",Jeraan.Al-Sa3d
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Jeraan.Al-Sa3d.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/kabtinmasr-1.jpg" group-title="Arabic-Vod",kabtin-masr
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/kabtin-masr.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/mob-of-women-1.jpg" group-title="Arabic-Vod",Mob-Of-Women
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Mob-Of-Women.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/nashet-harket-1.jpg" group-title="Arabic-Vod",Nashet-Harket
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Nashet-Harket.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/nazeryetamity-1.jpg" group-title="Arabic-Vod",Nazareyet-Amity
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Nazareyet-Amity.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/omar-1.jpg" group-title="Arabic-Vod",Omar
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Omar.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/road-to-kabul-1.jpg" group-title="Arabic-Vod",Road-To-Kabul
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Road-To-Kabul.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sima_ali_baba.jpg" group-title="Arabic-Vod",sima-ali-baba
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/sima-ali-baba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sleeping_beauty.jpg" group-title="Arabic-Vod",Sleeping-Beauty
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Sleeping-Beauty.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-rescuers-1.jpg" group-title="Arabic-Vod",The-Rescuers
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Rescuers.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tannoura-maxi-1.jpg" group-title="Arabic-Vod",Tannora-Maxi
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/Tannora-Maxi.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/teta-alf-marra-1.jpg" group-title="Arabic-Vod",Teta-Alf-Marra
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Documentary/Teta-Alf-Marra.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/asef-3la-el-es3aj-1.jpg" group-title="Arabic-Vod",Asef-3la-el-ez3aj
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Asef-3la-el-ez3aj.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ga3ltni-mogramen-1.jpg" group-title="Arabic-Vod",Ga3alatni-Mogreman
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Ga3alatni-Mogreman.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/keda-reda-1.jpg" group-title="Arabic-Vod",Keda-Reda
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Keda-Reda.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/zarf-tare-1.jpg" group-title="Arabic-Vod",Zarf-Tare-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Zarf-Tare-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/zeki-chan-1.jpg" group-title="Arabic-Vod",Zeki-Chan
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Zeki-Chan.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/asterix-and-the-vikings-1.jpg" group-title="Arabic-Vod",Asterix-and-the-Vikings
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Asterix-and-the-Vikings.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/asterix-the-gaul-1.jpg" group-title="Arabic-Vod",Asterix-the-Gaul
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Asterix-the-Gaul.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/barbie_and_the_diamond_castle.jpg" group-title="Arabic-Vod",Barbie-and-the-Diamond-Castle
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Barbie-and-the-Diamond-Castle.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bee-movie-1.jpg" group-title="Arabic-Vod",Bee-Movie
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Bee-Movie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/big-hero-1.jpg" group-title="Arabic-Vod",Big-Hero
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Big-Hero.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/brave-1.jpg" group-title="Arabic-Vod",Brave
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Brave.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cars-1.jpg" group-title="Arabic-Vod",Cars-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Cars-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/despicable-me-1.jpg" group-title="Arabic-Vod",Despicable-Me
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Despicable-Me.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/dinosaur-1.jpg" group-title="Arabic-Vod",Dinosaur
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Dinosaur.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/feast-1.jpg" group-title="Arabic-Vod",Feast
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Feast.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/flushed-away-1.jpg" group-title="Arabic-Vod",Flushed-Away
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Flushed-Away.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/garfields-funfast-1.jpg" group-title="Arabic-Vod",Garfields-FunFest
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Garfields-FunFest.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/iron-man-hulk-heroes-united-1.jpg" group-title="Arabic-Vod",Iron-Man-Hulk-Heroes-United
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Iron-Man-Hulk-Heroes-United.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/maya-the-bee-movie-1.jpg" group-title="Arabic-Vod",Maya-The-Bee-Movie
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Maya-The-Bee-Movie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/megamind-1.jpg" group-title="Arabic-Vod",Megamind
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Megamind.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monsters-1.jpg" group-title="Arabic-Vod",Monsters
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Monsters.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/niko-the-way-to-the-stars-1.jpg" group-title="Arabic-Vod",Niko The Way To The Stars
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Niko-The-Way-To-The-Stars.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/nine-1.jpg" group-title="Arabic-Vod",Nine
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Nine.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/planes-1.jpg" group-title="Arabic-Vod",Planes
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Planes.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ratatouille-1.jpg" group-title="Arabic-Vod",Ratatouille
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ratatouille.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sammy-1.jpg" group-title="Arabic-Vod",SammY-Adventure-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/SammY-Adventure-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sinbad-1.jpg" group-title="Arabic-Vod",Sinbad
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Sinbad.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sofia-the-first-1.jpg" group-title="Arabic-Vod",Sofia-The-First-The-Floating-Palace
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Sofia-The-First-The-Floating-Palace.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/space-chimps-1.jpg" group-title="Arabic-Vod",Space-Chimps
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Space-Chimps.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/surfs-up-1.jpg" group-title="Arabic-Vod",Surfs-up
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Surfs-up.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tad-the-explorer-1.jpg" group-title="Arabic-Vod",Tad-The-Lost-Explorer
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Tad-The-Lost-Explorer.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tarzan-1.jpg" group-title="Arabic-Vod",Tarzan
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Tarzan.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-incredibles-1.jpg" group-title="Arabic-Vod",The-Incredibles
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Incredibles.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-lorax-1.jpg" group-title="Arabic-Vod",The-Lorax
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Lorax.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-smurfs-1.jpg" group-title="Arabic-Vod",The-Smurfs-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Smurfs-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-smurfs-2-1.jpg" group-title="Arabic-Vod",The-Smurfs-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Smurfs-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-ugly-duckling-and-me-1.jpg" group-title="Arabic-Vod",The-Ugly-Ducklin-And-Me
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Ugly-Ducklin-And-Me.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tinker-bell-and-the-legend-of-the-never-beast-1.jpg" group-title="Arabic-Vod",Tinker-Bell-and-the-Legend-of-the-Never-Beast
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Tinker-Bell-and-the-Legend-of-the-Never-Beast.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tmnt-1.jpg" group-title="Arabic-Vod",TMNT
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/TMNT.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/turbo-1.jpg" group-title="Arabic-Vod",Turbo
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Turbo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/up-1.jpg" group-title="Arabic-Vod",Up
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Up.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/wall-e-1.jpg" group-title="Arabic-Vod",WALL-E
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/WALL-E.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-bride-he-bought-1.jpg" group-title="Arabic-Vod",The-bride-he-bought
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Horror-Thriller/The-Bride-He-Bought.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/fantastic-four-1.jpg" group-title="Arabic-Vod",Fantastic Four
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Adventure/Fantastic-Four.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/aloha-1.jpg" group-title="Arabic-Vod",Aloha
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Comedy/Aloha.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/The-Revenant.jpg" group-title="Arabic-Vod",The Revenant
+http://1290922571.rsc.cdn77.org/vod1/movie/eng/the-revenant.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/redeemer-1.jpg" group-title="Arabic-Vod",Redeemer
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Crime/Redeemer.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-runner-1.jpg" group-title="Arabic-Vod",The-Runner
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Drama-Romance/The-Runner.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bad-building-1.jpg" group-title="Arabic-Vod",Bad Building
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Horror-Thriller/Bad-Building.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/terminator-genisys-1.jpg" group-title="Arabic-Vod",Terminator Genisys
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Top-movies/Terminator-Genisys.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/snake_in_the_eagle_is_shadow-1.jpg" group-title="Arabic-Vod",Snake in the eagle is shadow
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Action/Snake-in-the-Eagle-s-Shadow.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/housband-factory-1.jpg" group-title="Arabic-Vod",Husband-Factor
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Top-movies/Husband-Factor.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-lake-on-clinton-road.jpg" group-title="Arabic-Vod",The Lake on Clinton road
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Horror-Thriller/The.Lake.on.Clinton-road.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/The-Martian.jpg" group-title="Arabic-Vod",The Martian
+http://1290922571.rsc.cdn77.org/vod1/movie/eng/the-martian.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/awesome-asian-bad-guys-1.jpg" group-title="Arabic-Vod",Awesome Asian Bad Guys
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Action/Awesome-Asian-Bad-Guys.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Barbie-in-The-Pink-Shoes.jpg" group-title="Arabic-Vod",Barbie in The Pink Shoes
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/BarbieinThePinkShoes.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/boxtrolls.jpg" group-title="Arabic-Vod",Boxtrolls
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/boxtrolls.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/C.w.C.o.M.jpg" group-title="Arabic-Vod",C.w.C.o.M
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/C.w.C.o.M.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/dragon-hunters.jpg" group-title="Arabic-Vod",Dragon Hunters
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Dragon.Hunters.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/epic-1.jpg" group-title="Arabic-Vod",Epic
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Epic.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/finding-nemo-1.jpg" group-title="Arabic-Vod",Finding-nemo
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Finding.nemo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/garfield.jpg" group-title="Arabic-Vod",Garfields-FunFest
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Garfields.FunFest.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/how-to-train-your-dragon.jpg" group-title="Arabic-Vod",How To Train Your Dragon
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/How.to.Train.Your.Dragon.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Earth-Vs-Everything.jpg" group-title="Arabic-Vod",Earth Vs Everything
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/HT.H.vs.E.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monster-house.jpg" group-title="Arabic-Vod",Monster-House
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Monster-House.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monster-university.jpg" group-title="Arabic-Vod",Monsters-University
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Monsters-University.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monsters-inc.jpg" group-title="Arabic-Vod",MONSTERS-INC
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/MONSTERS-INC.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Rio-2.jpg" group-title="Arabic-Vod",Rio-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Rio-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/spongebob.jpg" group-title="Arabic-Vod",Sponge Bob Bikini Bottom Adventures
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/SpongeBobBikiniBottomAdventures.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/taloreantia.jpg" group-title="Arabic-Vod",Taloreantia
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/taloreatia.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/The-croods.jpg" group-title="Arabic-Vod",The-croods
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The.Croods.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-pirates-in-an-adventure.jpg" group-title="Arabic-Vod",The Pirates In An Adventure With Scientists
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The.Pirates.In.An.Adventure.With-Scientists.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-reef.jpg" group-title="Arabic-Vod",The-Reef
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Reef.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/TMNT.jpg" group-title="Arabic-Vod",TMNT-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/TMNT-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/treasure-planet.jpg" group-title="Arabic-Vod",Treasure planet
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Treasure-Planet.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Assassins-Tale.jpg" group-title="Arabic-Vod",Assassins Tale
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Crime/Assassins-Tale.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Ahwak.jpg" group-title="Arabic-Vod",Ahwak
+http://1290922571.rsc.cdn77.org/vod4/Movies/ARAB/Ahwak.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/TheFourth.jpg" group-title="Arabic-Vod",The Fourth Generation
+http://1290922571.rsc.cdn77.org/vod4/Movies/ARAB/TheFourth.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Cairo.jpg" group-title="Arabic-Vod",Cairo Time
+http://1290922571.rsc.cdn77.org/vod4/Movies/ARAB/Cairo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ayal.jpg" group-title="Arabic-Vod",Ayal Harefa
+http://1290922571.rsc.cdn77.org/vod4/Movies/ARAB/ayal.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/need_for_speed_movie_2014_leaked.jpg" group-title="English-Vod",Need For Speed
+http://1290922571.rsc.cdn77.org/movies/need_for_speed_movie_2014_leaked.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Kevin-Hart-Let-Me-Explain-2013.jpg" group-title="English-Vod",Kevin Hart Let Me Explain
+http://1290922571.rsc.cdn77.org/movies/Kevin-Hart-Let-Me-Explain-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Turbo-2013.jpg" group-title="English-Vod",Turbo
+http://1290922571.rsc.cdn77.org/movies/Turbo-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/JOBS-2013.jpg" group-title="English-Vod",JOBS
+http://1290922571.rsc.cdn77.org/movies/JOBS-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Man.of.Steel.2013.jpg" group-title="English-Vod",Man Of Steel
+http://1290922571.rsc.cdn77.org/movies/Man.of.Steel.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The.Mortal.Instruments.City.of.Bones.2013.jpg" group-title="English-Vod",The Mortal Instruments City Of Bones
+http://1290922571.rsc.cdn77.org/movies/The.Mortal.Instruments.City.of.Bones.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The.Internship.2013.jpg" group-title="English-Vod",The Internship
+http://1290922571.rsc.cdn77.org/movies/The.Internship.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/I.Spit.On.Your.Grave.2.2013.jpg" group-title="English-Vod",I Spit On Your Grave 2
+http://1290922571.rsc.cdn77.org/movies/I.Spit.On.Your.Grave.2.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/42.2013.jpg" group-title="English-Vod",42
+http://1290922571.rsc.cdn77.org/movies/42.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Blood.of.redemption.2013.jpg" group-title="English-Vod",Blood Of Redemption
+http://1290922571.rsc.cdn77.org/movies/Blood.of.redemption.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Lovelace.2013.jpg" group-title="English-Vod",Lovelace
+http://1290922571.rsc.cdn77.org/movies/Lovelace.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The.Bling.Ring.2013.jpg" group-title="English-Vod",The Bling Ring
+http://1290922571.rsc.cdn77.org/movies/The.Bling.Ring.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Pacific-Rim-2013.jpg" group-title="English-Vod",Pacific Rim
+http://1290922571.rsc.cdn77.org/movies/Pacific-Rim-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The.Colony.2013.jpg" group-title="English-Vod",The Colony
+http://1290922571.rsc.cdn77.org/movies/The.Colony.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Run.2013.jpg" group-title="English-Vod",Run
+http://1290922571.rsc.cdn77.org/movies/Run.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Blue.Caprice.2013.jpg" group-title="English-Vod",Blue Caprice
+http://1290922571.rsc.cdn77.org/movies/Blue.Caprice.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Now.You.See.Me.2013.jpg" group-title="English-Vod",Now You See Me
+http://1290922571.rsc.cdn77.org/movies/Now.You.See.Me.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Pain.and.Gain.2013.jpg" group-title="English-Vod",Pain and Gain
+http://1290922571.rsc.cdn77.org/movies/Pain.and.Gain.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/HouseOfCards2013.jpg" group-title="English-Vod",House Of Cards
+http://1290922571.rsc.cdn77.org/movies/HouseOfCards2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Dark-Knight-Rises-2012.jpg" group-title="English-Vod",The Dark Knight Rises
+http://1290922571.rsc.cdn77.org/movies/The-Dark-Knight-Rises-2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Contraband.2012.jpg" group-title="English-Vod",Contraband
+http://1290922571.rsc.cdn77.org/movies/Contraband.2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TheKarateKid.jpg" group-title="English-Vod",The Karate Kid
+http://1290922571.rsc.cdn77.org/movies/TheKarateKid.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TheEast2013.jpg" group-title="English-Vod",The East
+http://1290922571.rsc.cdn77.org/movies/TheEast2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Pirates-of-the-Caribbean-On-Stranger-Tides-2011.jpg" group-title="English-Vod",Pirates Of The Caribbean On Stranger Tides
+http://1290922571.rsc.cdn77.org/movies/Pirates-of-the-Caribbean-On-Stranger-Tides-2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Thor.2011.jpg" group-title="English-Vod",Thor
+http://1290922571.rsc.cdn77.org/movies/Thor.2011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TheFrozenGround2013.jpg" group-title="English-Vod",The Frozen Ground
+http://1290922571.rsc.cdn77.org/movies/TheFrozenGround2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/From.Paris.with.Love-2010.jpg" group-title="English-Vod",From Paris with Love
+http://1290922571.rsc.cdn77.org/movies/From.Paris.with.Love-2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Tourist-2010.jpg" group-title="English-Vod",The Tourist
+http://1290922571.rsc.cdn77.org/movies/The-Tourist-2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Mask.jpg" group-title="English-Vod",The Mask
+http://1290922571.rsc.cdn77.org/movies/The-Mask.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Wanted-2008.jpg" group-title="English-Vod",Wanted
+http://1290922571.rsc.cdn77.org/movies/Wanted-2008.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/I-Am-Legend-2007.jpg" group-title="English-Vod",I Am Legend
+http://1290922571.rsc.cdn77.org/movies/I-Am-Legend-2007.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Family-2013.jpg" group-title="English-Vod",The Family
+http://1290922571.rsc.cdn77.org/movies/The-Family-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Clear-History-2013.jpg" group-title="English-Vod",Clear History
+http://1290922571.rsc.cdn77.org/movies/Clear-History-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Hours-2013.jpg" group-title="English-Vod",Hours
+http://1290922571.rsc.cdn77.org/movies/Hours-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Last-Days-On-Mars-2013.jpg" group-title="English-Vod",The Last Days On Mars
+http://1290922571.rsc.cdn77.org/movies/The-Last-Days-On-Mars-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Top-Gear-The-Perfect-Road-Trip-2013.jpg" group-title="English-Vod",Top Gear The Perfect Road Trip
+http://1290922571.rsc.cdn77.org/movies/Top-Gear-The-Perfect-Road-Trip-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Getaway-2013.jpg" group-title="English-Vod",Getaway
+http://1290922571.rsc.cdn77.org/movies/Getaway-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Darkroom-2013.jpg" group-title="English-Vod",Darkroom
+http://1290922571.rsc.cdn77.org/movies/Darkroom-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Force-of-Execution-2013.jpg" group-title="English-Vod",Force of Execution
+http://1290922571.rsc.cdn77.org/movies/Force-of-Execution-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Enemies-Closer-2013.jpg" group-title="English-Vod",Enemies Closer
+http://1290922571.rsc.cdn77.org/movies/Enemies-Closer-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Man-of-Tai-Chi-2013.jpg" group-title="English-Vod",Man Of Tai Chi
+http://1290922571.rsc.cdn77.org/movies/Man-of-Tai-Chi-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Death-Race-UNRATED-2008.jpg" group-title="English-Vod",Death Race UNRATED 1
+http://1290922571.rsc.cdn77.org/movies/Death-Race-UNRATED-2008.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Death-Race-2-2010.jpg" group-title="English-Vod",Death Race 2
+http://1290922571.rsc.cdn77.org/movies/Death-Race-2-2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Death-Race-3-2013.jpg" group-title="English-Vod",Death Race 3
+http://1290922571.rsc.cdn77.org/movies/Death-Race-3-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/This-Is-the-End-2013.jpg" group-title="English-Vod",This Is The End
+http://1290922571.rsc.cdn77.org/movies/This-Is-the-End-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Star.Trek.Into.Darkness.2013.jpg" group-title="English-Vod",Star Trek Into Darkness
+http://1290922571.rsc.cdn77.org/movies/Star.Trek.Into.Darkness.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The.Lone.Ranger.2013.jpg" group-title="English-Vod",The Lone Ranger
+http://1290922571.rsc.cdn77.org/movies/The.Lone.Ranger.2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Hotel-Transylvania-2012.jpg" group-title="English-Vod",Hotel Transylvania
+http://1290922571.rsc.cdn77.org/movies/Hotel-Transylvania-2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tom-and-Jerry-2007.jpg" group-title="English-Vod",Tom and Jerry
+http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2007.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tom-and-Jerry-2006.jpg" group-title="English-Vod",Tom and Jerry
+http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2006.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tom-and-Jerry-2005.jpg" group-title="English-Vod",Tom and Jerry
+http://1290922571.rsc.cdn77.org/movies/Tom-and-Jerry-2005.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Tom.And.Jerry.The.Movie.1992.jpg" group-title="English-Vod",Tom and Jerry
+http://1290922571.rsc.cdn77.org/movies/Tom.And.Jerry.The.Movie.1992.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/TomAndJerry.jpg" group-title="English-Vod",Tom and Jerry
+http://1290922571.rsc.cdn77.org/movies/TomAndJerry.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Brave2012.jpg" group-title="English-Vod",Brave
+http://1290922571.rsc.cdn77.org/movies/Brave2012.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Barney-Land-Of-Make-Believe.jpg" group-title="English-Vod",Barney Land Of Make Believe
+http://1290922571.rsc.cdn77.org/movies/Barney-Land-Of-Make-Believe.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Bratz.Pampered.Petz.2010.jpg" group-title="English-Vod",Bratz Pampered Petz
+http://1290922571.rsc.cdn77.org/movies/Bratz.Pampered.Petz.2010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Dragon-Lore-Curse-Of-The-Shadow-2013.jpg" group-title="English-Vod",Dragon Lore Curse Of The Shadow
+http://1290922571.rsc.cdn77.org/movies/Dragon-Lore-Curse-Of-The-Shadow-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mr.Bean.jpg" group-title="English-Vod",Mr Bean
+http://1290922571.rsc.cdn77.org/movies/Mr.Bean.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mr.Bean.The-Return-of-Mr.Bean.jpg" group-title="English-Vod",Mr Bean The Return of Mr Bean
+http://1290922571.rsc.cdn77.org/movies/Mr.Bean.The-Return-of-Mr.Bean.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mr.Bean-Back-To-School.jpg" group-title="English-Vod",Mr Bean Back To School
+http://1290922571.rsc.cdn77.org/movies/Mr.Bean-Back-To-School.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mr.Bean-Do-It-Yourself.jpg" group-title="English-Vod",Mr Bean Do It Yourself
+http://1290922571.rsc.cdn77.org/movies/Mr.Bean-Do-It-Yourself.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mr.Bean-of-London.jpg" group-title="English-Vod",Mr Bean of London
+http://1290922571.rsc.cdn77.org/movies/Mr.Bean-of-London.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Mr.Bean-Tee-Off.jpg" group-title="English-Vod",Mr Bean Tee Off
+http://1290922571.rsc.cdn77.org/movies/Mr.Bean-Tee-Off.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/MrBean-Merry-Chistmas.jpg" group-title="English-Vod",Mr Bean Merry Christmas
+http://1290922571.rsc.cdn77.org/movies/MrBean-Merry-Chistmas.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Italian-Job-2003.jpg" group-title="English-Vod",The Italian Job
+http://1290922571.rsc.cdn77.org/movies/The-Italian-Job-2003.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Specialist-1994.jpg" group-title="English-Vod",The Specialist
+http://1290922571.rsc.cdn77.org/movies/The-Specialist-1994.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-SUBSTITUTE.jpg" group-title="English-Vod",The Substitute
+http://1290922571.rsc.cdn77.org/movies/The-SUBSTITUTE.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Cockneys-VS-Zombies.jpg" group-title="English-Vod",Cockneys VS Zombies
+http://1290922571.rsc.cdn77.org/movies/Cockneys-VS-Zombies.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Dead-Drop-2013.jpg" group-title="English-Vod",Dead Drop
+http://1290922571.rsc.cdn77.org/movies/Dead-Drop-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Deadly-Descent-2013.jpg" group-title="English-Vod",Deadly Descent
+http://1290922571.rsc.cdn77.org/movies/Deadly-Descent-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Angry-Birds-Toons-2013.jpg" group-title="English-Vod",Angry Birds Toons
+http://1290922571.rsc.cdn77.org/movies/Angry-Birds-Toons-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Line-Of-Duty-2013.jpg" group-title="English-Vod",Line Of Duty
+http://1290922571.rsc.cdn77.org/movies/Line-Of-Duty-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Deadly-Game.jpg" group-title="English-Vod",Deadly Game
+http://1290922571.rsc.cdn77.org/movies/Deadly-Game.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Alan-Partridge-Alpha-Papa-2013.jpg" group-title="English-Vod",Alan Partridge Alpha Papa
+http://1290922571.rsc.cdn77.org/movies/Alan-Partridge-Alpha-Papa-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Closed-Circuit-2013.jpg" group-title="English-Vod",Closed Circuit
+http://1290922571.rsc.cdn77.org/movies/Closed-Circuit-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Despicable-Me-2-2013.jpg" group-title="English-Vod",Despicable Me 2
+http://1290922571.rsc.cdn77.org/movies/Despicable-Me-2-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Fruitvale-Station-2013.jpg" group-title="English-Vod",Fruitvale Station
+http://1290922571.rsc.cdn77.org/movies/Fruitvale-Station-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Insidious-Chapter2.jpg" group-title="English-Vod",Insidious Chapter 2
+http://1290922571.rsc.cdn77.org/moviesnew/en/horror/Insidious-Chapter2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Krrish-3-2013.jpg" group-title="English-Vod",Krrish 3
+http://1290922571.rsc.cdn77.org/movies/Krrish-3-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Ninja-Shadow-Of-A-Tear-2013.jpg" group-title="English-Vod",Ninja Shadow Of A Tear
+http://1290922571.rsc.cdn77.org/movies/Ninja-Shadow-Of-A-Tear-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Butler-2013.jpg" group-title="English-Vod",The Butler
+http://1290922571.rsc.cdn77.org/movies/The-Butler-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Outsider-2013.jpg" group-title="English-Vod",The Outsider
+http://1290922571.rsc.cdn77.org/movies/The-Outsider-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/The-Call-2013.jpg" group-title="English-Vod",The Call
+http://1290922571.rsc.cdn77.org/movies/The-Call-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Lone-Survivor-2013.jpg" group-title="English-Vod",Lone Survivor
+http://1290922571.rsc.cdn77.org/movies/Lone-Survivor-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/Prisoners-2013.jpg" group-title="Arabic-Vod",Prisoners
+http://1290922571.rsc.cdn77.org/movies/Prisoners-2013.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.imgur.com/7vhS707.jpg" group-title="English-Vod",Revenge
+https://forja.tn/hls_movies/tt6738136/sd/manifest.m3u8
+EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.cinemagouda.nl/afbeeldingen/92743_ps1_SD-HIGH.jpg" group-title="English-Vod",The Commuter
+https://forja.tn/hls_movies/tt1590193/sd/manifest.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1523887223.jpg" group-title="Kids-Vod",Peter Rabbit
+http://server603.load.is/dl/1527878610/Peter.Rabbit.2018.720P.WEB-DL.akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_1.jpg" group-title="Kids-Vod",Ice-Age-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice-Age-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_2.jpg" group-title="Kids-Vod",Ice-Age-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice-Age-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ice_age_3.jpg" group-title="Kids-Vod",Ice-Age-3
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice-Age-3.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Ice-Age-4.jpg" group-title="Kids-Vod",Ice-Age-4
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ice.Age-4.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1478189856.jpg"  group-title="Kids-Vod",Ice-Age-5
+http://s2.server958.akoam.download/dl/1527872833/Ice.Age.Collision.Course.2016.720p.BluRay.akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/al-snafir.jpg" group-title="Kids-Vod",Al-snafir
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Al-snafir.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/mr-peabody-and-sherman.jpg" group-title="Kids-Vod",Mr-Peabody-and-Sherman
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Mr-Peabody-and-Sherman.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/shark_tele.jpg" group-title="Kids-Vod",Shark-and-Tale
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Shark-and-Tale.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/timon-and-bomba.jpg" group-title="Kids-Vod",Timon-and-Bomba
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/timon-and-bomba.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/101_dalmatians_ii_patchs_london.jpg" group-title="Kids-Vod",101-Dalmatians-II
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/101-Dalmatians-II.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/a-monster-in-paris-1.jpg" group-title="Kids-Vod",A-Monster-In-Paris
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/A-Monster-In-Paris.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bambi_ii-1.jpg" group-title="Kids-Vod",Bambi-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Bambi-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bolt.jpg" group-title="Kids-Vod",Bolt
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Bolt.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cars.jpg" group-title="Kids-Vod",Cars
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Cars.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/cars-1.jpg" group-title="Kids-Vod",Cars-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Cars-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/home-1.jpg" group-title="Kids-Vod",Home
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Home.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sleeping_beauty.jpg" group-title="Kids-Vod",Sleeping-Beauty
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Sleeping-Beauty.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-rescuers-1.jpg" group-title="Kids-Vod",The-Rescuers
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Rescuers.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/asterix-and-the-vikings-1.jpg" group-title="Kids-Vod",Asterix-and-the-Vikings
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Asterix-and-the-Vikings.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/asterix-the-gaul-1.jpg" group-title="Kids-Vod",Asterix-the-Gaul
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Asterix-the-Gaul.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/barbie_and_the_diamond_castle.jpg" group-title="Kids-Vod",Barbie-and-the-Diamond-Castle
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Barbie-and-the-Diamond-Castle.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/bee-movie-1.jpg" group-title="Kids-Vod",Bee-Movie
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Bee-Movie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/big-hero-1.jpg" group-title="Kids-Vod",Big-Hero
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Big-Hero.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/brave-1.jpg" group-title="Kids-Vod",Brave
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Brave.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/despicable-me-1.jpg" group-title="Kids-Vod",Despicable-Me
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Despicable-Me.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/dinosaur-1.jpg" group-title="Kids-Vod",Dinosaur
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Dinosaur.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/feast-1.jpg" group-title="Kids-Vod",Feast
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Feast.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/flushed-away-1.jpg" group-title="Kids-Vod",Flushed-Away
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Flushed-Away.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/garfields-funfast-1.jpg" group-title="Kids-Vod",Garfields-FunFest
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Garfields-FunFest.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/iron-man-hulk-heroes-united-1.jpg" group-title="Kids-Vod",Iron-Man-Hulk-Heroes-United
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Iron-Man-Hulk-Heroes-United.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/maya-the-bee-movie-1.jpg" group-title="Kids-Vod",Maya-The-Bee-Movie
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Maya-The-Bee-Movie.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/megamind-1.jpg" group-title="Kids-Vod",Megamind
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Megamind.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monsters-1.jpg" group-title="Kids-Vod",Monsters
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Monsters.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/niko-the-way-to-the-stars-1.jpg" group-title="Kids-Vod",Niko The Way To The Stars
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Niko-The-Way-To-The-Stars.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/nine-1.jpg" group-title="Kids-Vod",Nine
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Nine.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/planes-1.jpg" group-title="Kids-Vod",Planes
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Planes.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/ratatouille-1.jpg" group-title="Kids-Vod",Ratatouille
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Ratatouille.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sammy-1.jpg" group-title="Kids-Vod",SammY-Adventure-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/SammY-Adventure-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sinbad-1.jpg" group-title="Kids-Vod",Sinbad
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Sinbad.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/sofia-the-first-1.jpg" group-title="Kids-Vod",Sofia-The-First-The-Floating-Palace
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Sofia-The-First-The-Floating-Palace.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/space-chimps-1.jpg" group-title="Kids-Vod",Space-Chimps
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Space-Chimps.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/surfs-up-1.jpg" group-title="Kids-Vod",Surfs-up
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Surfs-up.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tad-the-explorer-1.jpg" group-title="Kids-Vod",Tad-The-Lost-Explorer
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Tad-The-Lost-Explorer.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tarzan-1.jpg" group-title="Kids-Vod",Tarzan
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Tarzan.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-incredibles-1.jpg" group-title="Kids-Vod",The-Incredibles
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Incredibles.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-lorax-1.jpg" group-title="Kids-Vod",The-Lorax
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Lorax.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-smurfs-1.jpg" group-title="Kids-Vod",The-Smurfs-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Smurfs-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-smurfs-2-1.jpg" group-title="Kids-Vod",The-Smurfs-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Smurfs-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-ugly-duckling-and-me-1.jpg" group-title="Kids-Vod",The-Ugly-Ducklin-And-Me
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Ugly-Ducklin-And-Me.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tinker-bell-and-the-legend-of-the-never-beast-1.jpg" group-title="Kids-Vod",Tinker-Bell-and-the-Legend-of-the-Never-Beast
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Tinker-Bell-and-the-Legend-of-the-Never-Beast.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/tmnt-1.jpg" group-title="Kids-Vod",TMNT
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/TMNT.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/turbo-1.jpg" group-title="Kids-Vod",Turbo
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Turbo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/up-1.jpg" group-title="Kids-Vod",Up
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Up.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/wall-e-1.jpg" group-title="Kids-Vod",WALL-E
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/WALL-E.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Barbie-in-The-Pink-Shoes.jpg" group-title="Kids-Vod",Barbie in The Pink Shoes
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/BarbieinThePinkShoes.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/boxtrolls.jpg" group-title="Kids-Vod",Boxtrolls
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/boxtrolls.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/C.w.C.o.M.jpg" group-title="Kids-Vod",C.w.C.o.M
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/C.w.C.o.M.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/dragon-hunters.jpg" group-title="Kids-Vod",Dragon Hunters
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Dragon.Hunters.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/epic-1.jpg" group-title="Kids-Vod",Epic
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Epic.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/finding-nemo-1.jpg" group-title="Kids-Vod",Finding-nemo
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Finding.nemo.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/garfield.jpg" group-title="Kids-Vod",Garfields-FunFest
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Garfields.FunFest.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/how-to-train-your-dragon.jpg" group-title="Kids-Vod",How To Train Your Dragon
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/How.to.Train.Your.Dragon.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Earth-Vs-Everything.jpg" group-title="Kids-Vod",Earth Vs Everything
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/HT.H.vs.E.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monster-house.jpg" group-title="Kids-Vod",Monster-House
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Monster-House.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monster-university.jpg" group-title="Kids-Vod",Monsters-University
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Monsters-University.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/monsters-inc.jpg" group-title="Kids-Vod",MONSTERS-INC
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/MONSTERS-INC.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/Rio-2.jpg" group-title="Kids-Vod",Rio-2
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Rio-2.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/spongebob.jpg" group-title="Kids-Vod",Sponge Bob Bikini Bottom Adventures
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/SpongeBobBikiniBottomAdventures.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/taloreantia.jpg" group-title="Kids-Vod",Taloreantia
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/taloreatia.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/The-croods.jpg" group-title="Kids-Vod",The-croods
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The.Croods.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-pirates-in-an-adventure.jpg" group-title="Kids-Vod",The Pirates In An Adventure With Scientists
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The.Pirates.In.An.Adventure.With-Scientists.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/the-reef.jpg" group-title="Kids-Vod",The-Reef
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/The-Reef.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/TMNT.jpg" group-title="Kids-Vod",TMNT-1
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/TMNT-1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://1922950681.rsc.cdn77.org/pictures/newpics/treasure-planet.jpg" group-title="Kids-Vod",Treasure planet
+http://1290922571.rsc.cdn77.org/moviesnew/arb/Animation/Treasure-Planet.mp4/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1519935141.jpg" group-title="Kids-Vod",Coco
+http://s1.server964.akoam.download/dl/1527910194/Coco.2017.1080p.BluRay.AraDubb.akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1506042024.jpg" group-title="Kids-Vod",Puss in Book Trapped in an Epic Tale
+http://s1.server959.akoam.download/dl/1527796532/Puss.in.Book.Trapped.in.an.Epic.Tale.2017.HD.akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1478028185.jpg" group-title="Kids-Vod",Dory
+http://s2.server963.akoam.download/dl/1527884911/Finding.Dory.2016.720p.BluRay.akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1446378748.jpg" group-title="Kids-Vod",Kung Fu Panda 1
+http://s2.server965.akoam.download/dl/1527863579/Kung.Fu.Panda.2008-akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1446379165.jpg" group-title="Kids-Vod",Kung Fu Panda 2
+http://s2.server965.akoam.download/dl/1527861760/Kung.Fu.Panda.2.2011-akoam.com.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.akoam.net/files/1467515427.jpg" group-title="Kids-Vod",Kung Fu Panda 3
+http://s2.server956.akoam.download/dl/1527873989/Kung.Fu.Panda.3.2016.1080p.Bluray.akoam.com.mkv
