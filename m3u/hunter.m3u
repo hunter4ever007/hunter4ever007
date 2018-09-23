@@ -115,7 +115,9 @@ http://streaming.i-sat.tv:1935/livestream/mrtc/chunks.m3u8
 http://streaming.i-sat.tv:8081/livestream/rotanamusick/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://emarat-news.ae/documents/20181/7625488/drama.png/6f664327-f1f7-4722-a4cf-413baad53f8f?version=1.0&t=1507983105000" group-title="Rotana Channels", Rotana Drama
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1399|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 tvg-logo="https://mgl.skyrock.net/art/SHAR.5776.383.2.png" group-title="Rotana Channels", Rotana Khaligia
+#EXTINF:-1 tvg-logo="https://mgl.skyrock.net/art/SHAR.5776.383.2.png" group-title="Rotana Channels", Rotana Khaligia 
+https://svs.itworkscdn.net/rotanakhalijialive/rkhalijia_360p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://mgl.skyrock.net/art/SHAR.5776.383.2.png" group-title="Rotana Channels", Rotana Khaligia S2
 http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png" group-title="Rotana Channels", Rotana Classic
 http://streaming.i-sat.tv:1935/livestream/rtca/chunks.m3u8
