@@ -135,7 +135,9 @@ http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b17500
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD
-https://svs.itworkscdn.net/ksasports1live/ksasports1/chunklist.m3u8?nimblesessionid=3245588&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMTggOTo0MDozNiBQTSZoYXNoX3ZhbHVlPVh4RXhLS2FYNndjOU1GTXBaYnhFZ3c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MjM=
+http://176.9.107.183:1935/ksa3/KSASPORTSHD1_source/playlist.m3u8?liveplusendtime=1537891925&liveplusstarttime=1537805525&liveplushash=T8cH2eh6EJCSmhY_ORN7mW7_n5b6A0Q5WrQHDeeiZvI=
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD L2
+http://176.9.107.183:1935/ksa3/KSASPORTSHD1_source/chunklist_w903517330_tkbGl2ZXBsdXNlbmR0aW1lPTE1Mzc4OTE5MjUmbGl2ZXBsdXNzdGFydHRpbWU9MTUzNzgwNTUyNSZsaXZlcGx1c2hhc2g9VDhjSDJlaDZFSkNTbWhZX09STjdtVzdfbjViNkEwUTVXclFIRGVlaVp2ST0=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD
 http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD S2
