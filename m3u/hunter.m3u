@@ -1010,70 +1010,13 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3432.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3433.ts
 #EXTINF:-1,beIN Sports 8 LOW
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3434.ts
-#EXTINF:-1, -------BEIN ENTRAINMENT-------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3446.ts
-#EXTINF:-1,beIN Series 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3452.ts
-#EXTINF:-1,beIN Series 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3453.ts
-#EXTINF:-1,beIN Movies 1 HD | Premiere |
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3448.ts
-#EXTINF:-1,beIN Movies 2 HD | Action |
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3449.ts
-#EXTINF:-1,beIN Movies 3 HD  | Drama |
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3450.ts
-#EXTINF:-1,beIN Movies 4 HD | Family |
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3451.ts
-#EXTINF:-1,beIN Box Office 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3447.ts
-#EXTINF:-1,------ OSN-------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3435.ts
-#EXTINF:-1,OSN OnDemande 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3444.ts
-#EXTINF:-1,OSN OnDemande 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3445.ts
-#EXTINF:-1,OSN Movies Action
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3439.ts
-#EXTINF:-1,OSN Movies Action  2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3440.ts
-#EXTINF:-1,OSN Movies  2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3437.ts
-#EXTINF:-1,OSN Movies
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3436.ts
-#EXTINF:-1,OSN Box Office 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3441.ts
-#EXTINF:-1,OSN Box Office 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3442.ts
-#EXTINF:-1,OSN Box Office 3
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3443.ts
-#EXTINF:-1,------- MY-HD -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3454.ts
-#EXTINF:-1,MY-HD | FOX Movies
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3455.ts
-#EXTINF:-1,MY-HD | FOX HD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3456.ts
-#EXTINF:-1,MY-HD | FOX Family Movies
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3458.ts
-#EXTINF:-1,MY-HD | FOX Action Movies
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3457.ts
+
 #EXTINF:-1, -------FRENCH -------
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3088.ts
 #EXTINF:-1,TF1
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3378.ts
-#EXTINF:-1,FR | France 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3459.ts
-#EXTINF:-1,FR | France 3
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3460.ts
-#EXTINF:-1,FR | France 4
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3461.ts
-#EXTINF:-1,FR | France 5
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3462.ts
-#EXTINF:-1,FR | France O
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3463.ts
 #EXTINF:-1,ARTE
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3380.ts
-#EXTINF:-1,FR | M6
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3464.ts
 #EXTINF:-1,FR | France24
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3479.ts
 #EXTINF:-1,L'Equipe 21
@@ -1086,26 +1029,6 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3392.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3393.ts
 #EXTINF:-1,Canal+
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3394.ts
-#EXTINF:-1,FR | CanalPlay 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3473.ts
-#EXTINF:-1,FR | CanalPlay 3
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3475.ts
-#EXTINF:-1,FR | CanalPlay 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3474.ts
-#EXTINF:-1,FR | Canal Series
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3471.ts
-#EXTINF:-1,FR | Canal Family
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3470.ts
-#EXTINF:-1,FR | Canal Decale
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3469.ts
-#EXTINF:-1,FR | Canal Cinema
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3468.ts
-#EXTINF:-1,FR | beIN Sports 1 HD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3465.ts
-#EXTINF:-1,FR | beIN Sports 2 HD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3466.ts
-#EXTINF:-1,FR | beIN Sports 3 HD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3467.ts
 #EXTINF:-1,Animal Planet
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3386.ts
 #EXTINF:-1,nrj12
@@ -1114,8 +1037,6 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3383.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3387.ts
 #EXTINF:-1,RT France
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3388.ts
-#EXTINF:-1,FR | Action
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3476.ts
 #EXTINF:-1,Disney XD
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3389.ts
 #EXTINF:-1,Disney Cinéma
@@ -1126,7 +1047,7 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3382.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3384.ts
 #EXTINF:-1,------- ISLAMIC -------
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3480.ts
-#EXTINF:-1,makkahtv
+#EXTINF:-1,makkah tv
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3483.ts
 #EXTINF:-1,QURAN
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3482.ts
@@ -1136,7 +1057,7 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3481.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3485.ts
 #EXTINF:-1,CN Arabic
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3489.ts
-#EXTINF:-1,tyor
+#EXTINF:-1,toyor Aljannah
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3486.ts
 #EXTINF:-1,spacetoon
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3487.ts
@@ -1154,9 +1075,9 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3506.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3505.ts
 #EXTINF:-1,AL  JADEED
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3498.ts
-#EXTINF:-1,M T V 2
+#EXTINF:-1,MTV 2
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3500.ts
-#EXTINF:-1,M T V
+#EXTINF:-1,MTV
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3499.ts
 #EXTINF:-1,teleliban
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3507.ts
@@ -1164,7 +1085,7 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3507.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3503.ts
 #EXTINF:-1,NBN Lebanon
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3501.ts
-#EXTINF:-1,AL oriennews
+#EXTINF:-1,AL orient news
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3497.ts
 #EXTINF:-1,Future TV
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3493.ts
@@ -1180,31 +1101,31 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3357.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3356.ts
 #EXTINF:-1,DUBAI TV
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2518.ts
-#EXTINF:-1,dubaizaman
+#EXTINF:-1,DUBAI Zaman
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2520.ts
 #EXTINF:-1,Dubai sama
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2521.ts
 #EXTINF:-1,DUBAI one
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2517.ts
-#EXTINF:-1,zitounatv tv
+#EXTINF:-1,zitouna tv
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2456.ts
 #EXTINF:-1,Al Jazeera Documentary
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2506.ts
 #EXTINF:-1,Quest Arabic
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2508.ts
-#EXTINF:-1,Nat Geo Wild eng
+#EXTINF:-1,Nat Geo Wild Ru
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2510.ts
 #EXTINF:-1,Al Aan TV
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2552.ts
-#EXTINF:-1,2m morco
+#EXTINF:-1,2M Maroc
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2448.ts
-#EXTINF:-1,zeealwann hd
+#EXTINF:-1,Zee Alwan
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3532.ts
-#EXTINF:-1,zeeaflaam hd
+#EXTINF:-1,Zee Aflaam
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3531.ts
-#EXTINF:-1,suadi alkashibre
+#EXTINF:-1,Saudi News
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3529.ts
-#EXTINF:-1,suadi 2
+#EXTINF:-1,Suadi 2
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3528.ts
 #EXTINF:-1,SharjahTV kalbla
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3513.ts
@@ -1240,11 +1161,11 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3523.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3519.ts
 #EXTINF:-1,Dubai Noor Dubai TV
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3508.ts
-#EXTINF:-1,dmc dreame
+#EXTINF:-1,dmc drama
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3546.ts
 #EXTINF:-1,DMC
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3547.ts
-#EXTINF:-1,cbc dreame
+#EXTINF:-1,cbc drama
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3545.ts
 #EXTINF:-1,CBC
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3533.ts
@@ -1300,7 +1221,7 @@ http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2504.ts
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2493.ts
 #EXTINF:-1,Al Arabiya
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2498.ts
-#EXTINF:-1,Medi1tvmaghreb
+#EXTINF:-1,Medi1tv maghreb
 http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2454.ts
 
 
