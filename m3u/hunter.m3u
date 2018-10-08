@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://img4.hostingpics.net/pics/829844mbc1.png" group-title="MBC CHANNELS", MBC 1 HD
-http://streaming.i-sat.tv:8081/livestream/mbc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC CHANNELS", MBC 1 
 http://158.58.172.243:8081/edge/Hi_mbc1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" group-title="MBC CHANNELS" , MBC 2 
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1380|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" group-title="MBC CHANNELS" , MBC 2 L2
-http://streaming.i-sat.tv:8081/livestream/mbc2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5-oNoW871xM/VMSdUquLa3I/AAAAAAAABV0/8-NcDIUyYqo/s1600/photo.jpg" group-title="MBC CHANNELS", MBC 3 
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1381|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png" group-title="MBC CHANNELS", MBC 4
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1382|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png" group-title="MBC CHANNELS", MBC 4 L2
-http://158.58.172.243:8081/edge/Hi_mbc4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zapafri.s3.amazonaws.com/channels/original/c-6fb0ea0500a4b6b665cda8f1a96c0807.png" group-title="MBC CHANNELS", MBC ACTION 
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1383|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG" group-title="MBC CHANNELS", MBC MAX 
@@ -33,13 +27,13 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png" group-title="UAE CHANNELS", Dubai TV HD
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-logo="http://www.arab-tvs.com/images/channels/dubai-zaman.PNG" group-title="UAE CHANNELS", Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 tvg-logo="http://www.shoofeetv.com/images/2013/09/20130908190209_channelsbig.png" group-title="UAE CHANNELS", Sharjah 
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eTNZhrGWOKc/VO-ywqZ5aJI/AAAAAAAAArw/tvBYevLQidM/s1600/Dubai%2BOne%2BLogo.png" group-title="UAE CHANNELS", Dubai One HD
-http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="osn Channels", osn Star Movies HD
@@ -307,6 +301,12 @@ http://stream.joinvisions.net:1935/Jordantv/Jordan_TV/gmswf.m3u8
 http://82.137.248.16:1935/Sat/stream11072018/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title="Other Channels",Syria Drama
 http://streaming.i-sat.tv:8081/livestream/syriadrama/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/SyriaDrama.png" group-title="Other Channels",Syria Drama S2
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+#EXTINF:-1 tvg-logo="http://www.ortas.gov.sy/archive/products/p1538634668.jpg" group-title="Other Channels",Syria Education
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nouralsham.png/1200px-Nouralsham.png" group-title="Other Channels",Syria Nour El Sham
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
 #EXTINF:-1 tvg-logo="https://www.syria.tv/sites/all/themes/syriatv/images/logo.png" group-title="Other Channels",Syria 
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/chunklist_b1625000.m3u8
 #EXTINF:-1 tvg-logo="http://anhri.net/wp-content/uploads/2016/05/logo.png" group-title="Other Channels",Alaraby
@@ -377,7 +377,7 @@ https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png" group-title="News Channels", AL Arabiya
-http://live.alarabiya.net/alarabiya/myStream/chunklist.m3u8
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/alhadath.png" group-title="News Channels", Al Hadath
 http://live.alhadath.net/hadath/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%86.png" group-title="News Channels", Al Aan TV
@@ -520,7 +520,7 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047|User-Age
 
 
 
-#EXTINF:-1,FR-Foot
+#EXTINF:-1 group-title="French Channels", FR-Foot
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1020|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1,FR-Canal+Sport
 http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1036|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
@@ -976,252 +976,6 @@ http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/2529.ts|User-Agent=freeap
 #EXTINF:-1,Hindi-Sports | Dsports HD
 http://51.15.160.31:8000/live/wsspassphp/234654d54f6d5/3616.ts|User-Agent=freeapppsss&.ts
 
-
-
-#EXTINF:-1 group-title="VIP List 2", beIN Sports 1 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3419.ts
-#EXTINF:-1,beIN Sports 2 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3420.ts
-#EXTINF:-1,beIN Sports 3 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3421.ts
-#EXTINF:-1,beIN Sports 4 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3422.ts
-#EXTINF:-1,beIN Sports 5 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3423.ts
-#EXTINF:-1,beIN Sports 6 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3424.ts
-#EXTINF:-1,beIN Sports 7 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3425.ts
-#EXTINF:-1,beIN Sports 8 SD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3426.ts
-#EXTINF:-1,beIN Sports 1 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3427.ts
-#EXTINF:-1,beIN Sports 2 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3428.ts
-#EXTINF:-1,beIN Sports 3 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3429.ts
-#EXTINF:-1,beIN Sports 4 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3430.ts
-#EXTINF:-1,beIN Sports 5 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3431.ts
-#EXTINF:-1,beIN Sports 6 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3432.ts
-#EXTINF:-1,beIN Sports 7 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3433.ts
-#EXTINF:-1,beIN Sports 8 LOW
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3434.ts
-#EXTINF:-1, -------FRENCH -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3088.ts
-#EXTINF:-1,TF1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3378.ts
-#EXTINF:-1,ARTE
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3380.ts
-#EXTINF:-1,FR | France24
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3479.ts
-#EXTINF:-1,L'Equipe 21
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3385.ts
-#EXTINF:-1,La Une
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3391.ts
-#EXTINF:-1,La Deux
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3392.ts
-#EXTINF:-1,La Trois
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3393.ts
-#EXTINF:-1,Canal+
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3394.ts
-#EXTINF:-1,Animal Planet
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3386.ts
-#EXTINF:-1,nrj12
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3383.ts
-#EXTINF:-1,NRJ HITS
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3387.ts
-#EXTINF:-1,RT France
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3388.ts
-#EXTINF:-1,Disney XD
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3389.ts
-#EXTINF:-1,Disney Cinéma
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3390.ts
-#EXTINF:-1,cherie25
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3382.ts
-#EXTINF:-1,BFM Paris
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3384.ts
-#EXTINF:-1,------- ISLAMIC -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3480.ts
-#EXTINF:-1,makkah tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3483.ts
-#EXTINF:-1,QURAN
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3482.ts
-#EXTINF:-1,SUNNA tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3481.ts
-#EXTINF:-1,------- KIDS -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3485.ts
-#EXTINF:-1,CN Arabic
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3489.ts
-#EXTINF:-1,toyor Aljannah
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3486.ts
-#EXTINF:-1,spacetoon
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3487.ts
-#EXTINF:-1,smsem
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3490.ts
-#EXTINF:-1,------- SYRIA & LEBNON -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3492.ts
-#EXTINF:-1,Syria tv 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3496.ts
-#EXTINF:-1,syria  TV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3494.ts
-#EXTINF:-1,LBC tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3506.ts
-#EXTINF:-1,Lana tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3505.ts
-#EXTINF:-1,AL  JADEED
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3498.ts
-#EXTINF:-1,MTV 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3500.ts
-#EXTINF:-1,MTV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3499.ts
-#EXTINF:-1,teleliban
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3507.ts
-#EXTINF:-1,OTV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3503.ts
-#EXTINF:-1,NBN Lebanon
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3501.ts
-#EXTINF:-1,AL orient news
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3497.ts
-#EXTINF:-1,Future TV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3493.ts
-#EXTINF:-1,------- ARABIC -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2383.ts
-#EXTINF:-1,MBC drama
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3355.ts
-#EXTINF:-1,MBC 4
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3354.ts
-#EXTINF:-1,MBC 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3357.ts
-#EXTINF:-1,MBC 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3356.ts
-#EXTINF:-1,DUBAI TV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2518.ts
-#EXTINF:-1,DUBAI Zaman
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2520.ts
-#EXTINF:-1,Dubai sama
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2521.ts
-#EXTINF:-1,DUBAI one
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2517.ts
-#EXTINF:-1,zitouna tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2456.ts
-#EXTINF:-1,Al Jazeera Documentary
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2506.ts
-#EXTINF:-1,Quest Arabic
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2508.ts
-#EXTINF:-1,Nat Geo Wild Ru
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2510.ts
-#EXTINF:-1,Al Aan TV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2552.ts
-#EXTINF:-1,2M Maroc
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2448.ts
-#EXTINF:-1,Zee Alwan
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3532.ts
-#EXTINF:-1,Zee Aflaam
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3531.ts
-#EXTINF:-1,Saudi News
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3529.ts
-#EXTINF:-1,Suadi 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3528.ts
-#EXTINF:-1,SharjahTV kalbla
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3513.ts
-#EXTINF:-1,SharjahTV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3512.ts
-#EXTINF:-1,MehwarTV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3534.ts
-#EXTINF:-1,ROTANA music
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3537.ts
-#EXTINF:-1,Rotana Khalijia
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3539.ts
-#EXTINF:-1,Rotana Drama
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3538.ts
-#EXTINF:-1,Rotana clip
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3536.ts
-#EXTINF:-1,ROTANA clasic
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3535.ts
-#EXTINF:-1,ROTANA Cinema
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3541.ts
-#EXTINF:-1,Rotana aflamm
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3540.ts
-#EXTINF:-1,OM Oman TV 4
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3525.ts
-#EXTINF:-1,OM Oman TV 3
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3524.ts
-#EXTINF:-1,KTV Plus
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3522.ts
-#EXTINF:-1,KTV Ethraa
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3520.ts
-#EXTINF:-1,KTV Al Majlis
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3523.ts
-#EXTINF:-1,KTV 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3519.ts
-#EXTINF:-1,Dubai Noor Dubai TV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3508.ts
-#EXTINF:-1,dmc drama
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3546.ts
-#EXTINF:-1,DMC
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3547.ts
-#EXTINF:-1,cbc drama
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3545.ts
-#EXTINF:-1,CBC
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3533.ts
-#EXTINF:-1,ayat
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3484.ts
-#EXTINF:-1,alshrqye
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3526.ts
-#EXTINF:-1,alrayyan 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3517.ts
-#EXTINF:-1,alrayyan 1
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3516.ts
-#EXTINF:-1,Alaan.tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3515.ts
-#EXTINF:-1,Hura
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2437.ts
-#EXTINF:-1,Al Rai
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2528.ts
-#EXTINF:-1,Russia Today
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2499.ts
-#EXTINF:-1,EchoroukTV
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2457.ts
-#EXTINF:-1,el-nahar-tv
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2458.ts
-#EXTINF:-1,------- SPORTS -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2349.ts
-#EXTINF:-1,DUBAI SPORTS
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2542.ts
-#EXTINF:-1,Al Sharjah sport
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2540.ts
-#EXTINF:-1,Oman sports
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2543.ts
-#EXTINF:-1,Sharjah Sports
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2547.ts
-#EXTINF:-1,Al Kass Sports 2
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2544.ts
-#EXTINF:-1,Al Kass Sports 3
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2545.ts
-#EXTINF:-1,Al Kass Sports 5
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2546.ts
-#EXTINF:-1,ARENA SPORT 1 low
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3345.ts
-#EXTINF:-1,ARENA SPORT 2 low
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3346.ts
-#EXTINF:-1,ARENA SPORT 3 low
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3347.ts
-#EXTINF:-1,ARENA SPORT 4 low
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/3348.ts
-#EXTINF:-1,------- NEWS -------
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2351.ts
-#EXTINF:-1,Aljazeera Mubasher
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2504.ts
-#EXTINF:-1,ALJAZEERA (ARABIA)
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2493.ts
-#EXTINF:-1,Al Arabiya
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2498.ts
-#EXTINF:-1,Medi1tv maghreb
-http://man-iptv.spdns.de:8000/live/maniptv323879/maniptv010233/2454.ts
 
 
 
