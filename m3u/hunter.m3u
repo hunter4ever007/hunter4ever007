@@ -172,9 +172,9 @@ http://server1.almustasharun.com/video/byaban.m3u8
 #EXTINF:-1 tvg-logo="http://slappuk.com/wp-content/uploads/a-sport-logo-hoejopl-sort-456244-300x214.png" group-title="Today's Matches",A Sport
 http://server1.cleverschool.net/video/c.m3u8
 #EXTINF:-1 tvg-logo="http://anka.tv/uploads/tvlogo/idman_tv.png" group-title="Today's Matches",Idman TV
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=idman-tv-izle
+http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk7.m3u8?id=idman-tv-izle|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36&.ts
 #EXTINF:-1 tvg-logo="http://tv.sarcheshmeh.us/index_files/channels/trtspor.png" group-title="Today's Matches",TRT SPOR
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Turk3.m3u8?id=trt-spor-canli-izle
+https://trt-live.ercdn.net/trtspor/trtspor.m3u8
 #EXTINF:-1 tvg-logo="https://www.gulf-up.com/do.php?img=315551" group-title="Today's Matches",Alfajr INT
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="Today's Matches",Raya TV
@@ -353,11 +353,11 @@ https://svs.itworkscdn.net/arabicatvlive/arabicatv/260000.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Hindi Channels", ZEE AFLAM 
 http://streaming.i-sat.tv:8081/livestream/zeeaflaam/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Hindi Channels", ZEE AFLAM S2
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1422|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://zonalive.stream/Global.m3u8?id=228|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Hindi Channels", ZEE ALWAN
 http://streaming.i-sat.tv:8081/livestream/zeealwan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Hindi Channels", ZEE ALWAN S2
-http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1423|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://zonalive.stream/Global.m3u8?id=227|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git&.ts
 #EXTINF:-1 tvg-logo="http://7pictures.net/images/moga-comedy.png?crc=282748509" group-title="Other Channels", Moga Comedy
 http://streaming.i-sat.tv:8081/live/mogacomedy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zone/en/images/logo/channel/crops/ccb241b4014cfb8a2ba0da0a943ac9ff.png" group-title="Other Channels", CBC
