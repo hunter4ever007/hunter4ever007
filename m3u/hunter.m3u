@@ -182,11 +182,13 @@ http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_x-ACavgfUX0/S9QrMbw-C8I/AAAAAAAAAZY/yR5g0tywDCw/s1600/raya.JPG" group-title="Today's Matches",Raya TV
 http://htv.mada.ps:8888/raya/tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/IqPln1Wi8xomhb1-m7wiTGpgwqKhBh9wMlw8G0K4G9kUWYkRkSztZGce2ai9Z2BdJN8=w300" group-title="Today's Matches", AjyalTV 
-http://w2.mada.ps:1935/ajyal/livestream2/chunklist_w15789212.m3u8
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000427903725/c5119b4fea16d2b74f2378b63720a019_400x400.png" group-title="Today's Matches", KolalNasTV
-http://htvmada.mada.ps:8888/kolalnas/index.m3u8
+http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://s1.dmcdn.net/HP1iT/240x240-UBB.jpg" group-title="Today's Matches", SalamTV
-http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+http://185.17.233.214:8889/salamtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660527912240717824/Bj3ADIyq_400x400.png" group-title="Today's Matches", bethlehem TV
+http://185.17.233.214:8889//btv/tracks-v1a1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 1
