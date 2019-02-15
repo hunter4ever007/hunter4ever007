@@ -308,7 +308,7 @@ http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio
 
 
 #EXTINF:-1 tvg-logo="http://temosoft.com/wp-content/uploads/2017/06/Saudi-TV-1.png" group-title="Other Channels", Saudi 1 HD
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel1/Index1400.m3u8
+http://199.167.151.237:1935/live/nsahs19_30.stream/gmswf.m3u8?v=2162838725
 #EXTINF:-1 tvg-logo="http://www.sbcchannel.sa/assets/themes/TriTheme/images/logo.png" group-title="Other Channels", SBC HD
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Ktv_1.png/170px-Ktv_1.png" group-title="Other Channels",Kuwait TV 1
@@ -382,7 +382,7 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png" group-title="Religious Channels",Iqraa
-http://streaming.i-sat.tv:8081/livestream/iqraa/playlist.m3u8
+http://199.167.151.237:1935/live/nsahs19_25.stream/gmswf.m3u8?v=2162838725
 #EXTINF:-1 tvg-logo="http://makkahtv.tv/img/logo.png" group-title="Religious Channels", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Religious Channels",Almajd Quraan
@@ -398,9 +398,9 @@ http://zonalive.stream/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Huda_Med
 #EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace UK
 rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+http://m.live.net.sa:1935/live/quran/chunklist_w1519828032.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+http://199.167.151.237:1935/live/nsahs19_31.stream/gmswf.m3u8?v=2162838725
 
 
 
