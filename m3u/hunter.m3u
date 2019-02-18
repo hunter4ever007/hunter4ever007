@@ -429,10 +429,10 @@ rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
 http://m.live.net.sa:1935/live/quran/chunklist_w1519828032.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
 http://livecdnh2.tvanywhere.ae/hls/quran/05.m3u8
-#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah 
 http://199.167.151.237:1935/live/nsahs19_31.stream/gmswf.m3u8?v=2162838725
-
-
+#EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
+http://livecdnh2.tvanywhere.ae/hls/sunnah/05.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png" group-title="News Channels", AL Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
