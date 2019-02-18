@@ -57,7 +57,7 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="osn Channels", osn Star Movies HD
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1840|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="osn Channels", osn YA-Hala Cinema
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1978|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg" group-title="osn Channels",  osn Movies Box Office 1
@@ -136,6 +136,8 @@ https://svs.itworkscdn.net/rotanakhalijialive/rkhalijia_360p/chunklist.m3u8
 http://streaming.i-sat.tv:8081/livestream/rotanakhalejeh/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png" group-title="Rotana Channels", Rotana Classic
 http://streaming.i-sat.tv:1935/livestream/rtca/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://my-hd.tv/shared/img/channels/addon/Rotana-Classic.png" group-title="Rotana Channels", Rotana Classic S2
+http://95.170.215.124/live/disk1/Rotana-Classic/anevia1/Rotana-Classic-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/6566.png" group-title="Rotana Channels", Rotana Clip
 http://streaming.i-sat.tv:1935/livestream/rtcp/chunks.m3u8
 
@@ -373,10 +375,12 @@ http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Funoon_Me
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV S2 
+http://livecdnh2.tvanywhere.ae/hls/future/05.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106" group-title="Other Channels",LBC
 https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/AlJadidTV.m3u8
+http://livecdnh3.tvanywhere.ae/hls/jadeed/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Other Channels", Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pKoAkbKvCYA/VTeau6DJc7I/AAAAAAAAC4c/6Flp6IGYmnI/w506-h910/arabica__tv.png" group-title="Other Channels", Arabica
@@ -421,8 +425,10 @@ http://185.105.4.106:1935/live/Bahrain Quran/chunklist.m3u8
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Huda_Med
 #EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace UK
 rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran
 http://m.live.net.sa:1935/live/quran/chunklist_w1519828032.m3u8
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
+http://livecdnh2.tvanywhere.ae/hls/quran/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
 http://199.167.151.237:1935/live/nsahs19_31.stream/gmswf.m3u8?v=2162838725
 
@@ -468,9 +474,9 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356" group-title="Documentary Channels", osn ANIMAL PLANET
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1864|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1000px-Logo_Nat_Geo_Wild.svg.png" group-title="Documentary Channels", osn Nat Geo Wild
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3702|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary Channels", osn Nat Geo People
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3701|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png" group-title="Documentary Channels", osn Discovery
