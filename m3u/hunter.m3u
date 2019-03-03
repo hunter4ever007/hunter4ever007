@@ -30,7 +30,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-fkYU25SKsBo/VVuC2gwLw3I/AAAAAAAAAyM/v7Y2hY6yFyU/s1600/MBC-Max.PNG" group-title="MBC CHANNELS", MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-8FcEnAzgJ-c/VWAduVHq56I/AAAAAAAABCs/Is8_7qRXFC8/s1600/MBC-Drama.png" group-title="MBC CHANNELS", MBC DRAMA HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/2972016-101447PM.png" group-title="MBC CHANNELS", MBC BOLLYWOOD HD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
@@ -58,6 +58,8 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="osn Channels", osn Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="osn Channels", osn Star World HD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1285_1.png" group-title="osn Channels", osn YA-Hala Cinema
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1978|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://www.adwonline.ae/wp-content/uploads/2015/04/film_and_tv_06.jpg" group-title="osn Channels",  osn Movies Box Office 1
@@ -94,7 +96,10 @@ http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1848
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=2874|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/413_300.png" group-title="osn Channels", Fox Movies 
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/413_300.png" group-title="osn Channels", Fox Movies S2
+http://itats.dynv6.net:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/165x120/CM1.png" group-title="osn Channels", Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
 
 
 
@@ -301,9 +306,9 @@ http://iplo.ru/2DpS65
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/220px-JeemTV_logo.png" group-title="Kids Channels",Jeem HD
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5700|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://livecdnh2.tvanywhere.ae/hls/jeem/05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="Kids Channels",Baraeem
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=5701|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
+http://livecdnh2.tvanywhere.ae/hls/baraeim/05.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="Kids Channels",Ajyal
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel9/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.froha.com/uploads/24122014-033955AM.png" group-title="Kids Channels",Karameesh
@@ -378,7 +383,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.
 #EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/YTYzpPR53j96pXS8Kbo6oWoJERP_euAoAKPd7FWbde1IFOiWS6ZxBcjAmwhjE6RP5w=w300" group-title="Other Channels",Future TV S2 
 http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/8/80/310px-LBC_Europe_Logo.svg.png/revision/latest?cb=20120620111106" group-title="Other Channels",LBC
-https://svs.itworkscdn.net/lbcdramalive/drama/chunklist.m3u8
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/05.m3u8
 #EXTINF:-1 tvg-logo="http://www.lebanonfiles.com/files/images/02-06-15-NTV.jpg" group-title="Other Channels",AljadeedTV
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Other Channels", Wanasah
@@ -403,8 +408,10 @@ http://streaming.i-sat.tv:1935/livestream/cbcone/chunks.m3u8
 http://streaming.i-sat.tv:1935/livestream/cbc/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-060113AM.png" group-title="Other Channels",Al Nahar TV
 http://stream1.orange.ps:1935/tv/Al-Nahar-One/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-060113AM.png" group-title="Other Channels",Al Nahar TV S2
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/alnahar-drama/al-nahar-drama-logo.png" group-title="Other Channels",Al Nahar Drama
-http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-97W8twaodRI/VRFDBgH_CuI/AAAAAAAAAZU/EdxnXJbFA7Q/w1137-h1134/logo3_00000.png" group-title="Other Channels",Kifa
 http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
@@ -437,7 +444,7 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png" group-title="News Channels", AL Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/2015/12/alhadath.png" group-title="News Channels", Al Hadath
-http://live.alhadath.net/hadath/myStream/chunklist.m3u8
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://nnewsn.com/channelsFrequencies/wp-content/uploads/2014/12/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%86.png" group-title="News Channels", Al Aan TV
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/552fae9ae4b07ad1f4790787/556ff99be4b0467afc6baf0d/5573b7f0e4b0c1433c07ac8e/1433647090181/aljazeera.png" group-title="News Channels", Aljazeera News
@@ -459,9 +466,9 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/2117/2117305.png" group-title="News Channels",BBC Arabic 
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://data.satellitekuwait.com/wp-content/uploads/Watch-Rosia-Alyom-Live-Stream.jpg" group-title="News Channels",Russia Today Arabic HD
-https://secure-streams.akamaized.net/rt-arab/index800.m3u8
+https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" group-title="News Channels", Russia Today Eng
-https://secure-streams.akamaized.net/rt/index800.m3u8
+https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1263_1.png" group-title="News Channels", CBC ExtraNews
 http://selevision9891-i.akamaihd.net/hls/live/219328/98911/1.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/cd/ABC_News_2013.png/revision/latest?cb=20130610165528" group-title="News Channels", ABC NEWS
@@ -475,11 +482,13 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1864|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1000px-Logo_Nat_Geo_Wild.svg.png" group-title="Documentary Channels", osn Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary Channels", osn Nat Geo People
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary Channels", osn Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Documentary Channels", osn Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi 
+#EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi HD
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png" group-title="Documentary Channels", osn Discovery
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1861|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
