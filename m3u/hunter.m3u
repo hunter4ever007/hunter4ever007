@@ -242,6 +242,17 @@ http://zona-live-tv.com/streamm/beoutY.m3u8?cat=6&id=37|User-Agent=yacinetv12345
 
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX1 Zon1
+http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=1|User-Agent=yacine00&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX2 Zon1
+http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=2|User-Agent=yacine00&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX3 Zon1
+http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=3|User-Agent=yacine00&.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX4 Zon1
+http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=4|User-Agent=yacine00&.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=971|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports2 Zon1
