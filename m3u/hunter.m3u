@@ -250,24 +250,44 @@ http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=2|User-Agent=yacine00&.ts
 http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=3|User-Agent=yacine00&.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX4 Zon1
 http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=4|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX5 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=5|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX6 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=6|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX7 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=7|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX8 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=8|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX9 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=9|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX10 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=10|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX11 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=11|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX12 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=16|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX13 Zon1
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=17|User-Agent=yacine00&.ts
+
+#EXTINF:-1,Bein Max HD1
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/15.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max HD2
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/16.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max HD3
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/17.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max HD4
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/18.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max SD1
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/11.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max SD2
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/12.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max SD3
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/13.ts|User-Agent=yacine00
+#EXTINF:-1,Bein Max SD4
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/14.ts|User-Agent=yacine00
+#EXTINF:-1,restreaml Bein HD1
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/1.ts|User-Agent=yacine00
+#EXTINF:-1,restreaml Bein HD2
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/2.ts|User-Agent=yacine00
+#EXTINF:-1,restreaml Bein HD3
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/3.ts|User-Agent=yacine00
+#EXTINF:-1,restreaml Bein HD4
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/4.ts|User-Agent=yacine00
+#EXTINF:-1,RESTREAML BEIN HD5
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/5.ts|User-Agent=yacine00
+#EXTINF:-1,Restreaml Bein SD1
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/6.ts|User-Agent=yacine00
+#EXTINF:-1,Restreaml Bein SD2
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/7.ts|User-Agent=yacine00
+#EXTINF:-1,Restreaml Bein SD3
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/8.ts|User-Agent=yacine00
+#EXTINF:-1,Restreaml Bein SD4
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/9.ts|User-Agent=yacine00
+#EXTINF:-1,RESTREAML BEIN SD5
+http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/10.ts|User-Agent=yacine00
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1
