@@ -153,9 +153,11 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/C31ndAhWQAI5A-l.png" group-title="Sports Channels",AD Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports HD
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 #EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 2 HD
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+#EXTINF:-1 tvg-logo="http://www.wcbu2015.org/wp-content/uploads/Dubai_Sports_2014_Logo.png" group-title="Sports Channels", Dubai Sports 3 HD
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD
 http://176.9.107.183:1935/ksa3/KSASPORTSHD1_source/playlist.m3u8?liveplusendtime=1537891925&liveplusstarttime=1537805525&liveplushash=T8cH2eh6EJCSmhY_ORN7mW7_n5b6A0Q5WrQHDeeiZvI=
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD L2
@@ -179,7 +181,7 @@ http://streaming.i-sat.tv:8081/livestream/wwe/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="Sports Channels",ON Sport
 http://streaming.i-sat.tv:1935/livestream/sno/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-UoB2RrneWlk/WrTw8haUv-I/AAAAAAAABTg/aUO011tKuww4kLrhPCNms9K6CM4ndUn4wCLcBGAs/s320/on%2Bsport.png" group-title="Sports Channels",ON Sport S2
-http://stream1.orange.ps:1935/tv/ON-Sport/playlist.m3u8
+http://162.210.198.17:8080/ONSportHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Sky_Sport_HD_DE_Logo_2016.png" group-title="Sports Channels", Sky Sports 1
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1324|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
@@ -242,25 +244,6 @@ http://zona-live-tv.com/streamm/beoutY.m3u8?cat=6&id=37|User-Agent=yacinetv12345
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX1 Zon1 low
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=1|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX2 Zon1 low
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=2|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX3 Zon1 low
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=3|User-Agent=yacine00&.ts
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinMAX4 Zon1 low
-http://zona-live-tv.com/streamm/maxzona.m3u8?cat=12&id=4|User-Agent=yacine00&.ts
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",Bein Max HD1
-http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/15.ts|User-Agent=yacine00
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",Bein Max HD2
-http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/16.ts|User-Agent=yacine00
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",Bein Max HD3
-http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/17.ts|User-Agent=yacine00
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",Bein Max HD4
-http://5.9.5.82:8000/live/5.9.5.82tvyac/6GSJH8nF5T/18.ts|User-Agent=yacine00
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports1 Zon1
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=971|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/1b/5f/b21b5fecece729f3d00058b3bbeff923.png" group-title="Bein Channels",BeinSports2 Zon1
@@ -304,13 +287,13 @@ http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1960
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 1 online
-http://iplo.ru/2DjA65
+http://albkanale.com/topkanale/onlineusers-b1.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 2 online
-http://iplo.ru/2DWA65
+http://albkanale.com/topkanale/onlineusers-b2.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 3 online
-http://iplo.ru/2DYA65
+http://albkanale.com/topkanale/onlineusers-b3.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 4 online
-http://iplo.ru/2DDA65
+http://albkanale.com/topkanale/onlineusers-b4.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 5 online
 http://iplo.ru/2DJA65
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 6 online
@@ -364,9 +347,9 @@ http://199.167.151.237:1935/live/nsahs19_30.stream/gmswf.m3u8?v=2162838725
 #EXTINF:-1 tvg-logo="http://www.sbcchannel.sa/assets/themes/TriTheme/images/logo.png" group-title="Other Channels", SBC HD
 http://zona-live-tv.com/streamm/sbc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Ktv_1.png/170px-Ktv_1.png" group-title="Other Channels",Kuwait TV 1
-https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/game/files/image/kuwait_2_tv_channel_live_online_free_arabic_channel.png" group-title="Other Channels",Kuwait TV 2
-https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.inlife.tv/sites/default/files/logos/bahrain-tv-channel-44.png" group-title="Other Channels",Bahrain TV
 http://185.105.4.106:1935/live/Bahrain TV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xQqridLdfAc/Vu76plT4eXI/AAAAAAAADxQ/Bxgv4xawRk8m2lAWm_vlgSXyOaTq1C1dA/s1600/Qatar_TV_Logo.png" group-title="Other Channels",Qatar HD
@@ -442,21 +425,21 @@ http://streaming.i-sat.tv:1935/live/kifa.stream_360p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://boutique.orange.fr/media-cms/mediatheque/362x263-iqraa-international-34008.png" group-title="Religious Channels",Iqraa
-http://199.167.151.237:1935/live/nsahs19_25.stream/gmswf.m3u8?v=2162838725
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://makkahtv.tv/img/logo.png" group-title="Religious Channels", Mecca
 http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-y899J9boO9Q/UjB095xvylI/AAAAAAAAV64/TB1PuG8WQHM/s1600/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%AC%D8%AF+%D9%84%D9%84%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Religious Channels",Almajd Quraan
-http://199.167.151.237:1935/live/sp15_24.stream/chunklist_w1252792235.m3u8
+http://199.167.151.237:1935/live/shk35_24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CZ0QUMhWwAAyfe3.jpg:large" group-title="Religious Channels", Trteel
 rtmp://82.212.74.101/live//8043
 #EXTINF:-1 tvg-logo="http://nassar2.com/images/al_resalah.png" group-title="Religious Channels",Alresalah
-http://selevision9891-i.akamaihd.net/hls/live/219329/98912/1.m3u8
+http://199.167.151.237:1935/live/shk35_28.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/bahrain-quran-webtvonlive-com.jpg" group-title="Religious Channels", Bahrain Quran
-http://185.105.4.106:1935/live/Bahrain Quran/chunklist.m3u8
+http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VbReWaqgrBw/VYv3BE1T-1I/AAAAAAAAARs/tau-9ijn7i0/s1600/hudalog900tr.png" group-title="Religious Channels",Huda
-http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/ArabM.m3u8?id=Huda_Med
-#EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace UK
-rtmp://peace.fms.visionip.tv/live//b2b-peace_sky-live-25f-4x3-sdh_1
+http://41.33.67.146:1935/live/1mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://qph.ec.quoracdn.net/main-qimg-cb51596e3efd4a381d593cdd528928ff" group-title="Religious Channels",Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran
 http://m.live.net.sa:1935/live/quran/chunklist_w1519828032.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/-nIVRgdzbd7k/VWHGP_OP5SI/AAAAAAAADEI/ihaJxa_qLTA/w800-h500-no/al_quran_al_kareem_tv.png" group-title="Religious Channels", Saudi Quran HD
@@ -464,7 +447,8 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah 
 http://199.167.151.237:1935/live/nsahs19_31.stream/gmswf.m3u8?v=2162838725
 #EXTINF:-1 tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sunnah_islamic_channel_live_online_free_arabic_channel.png" group-title="Religious Channels", Saudi Sunnah HD
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8#EXTINF:-1 tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/59e457478a.png" group-title="Religious Channels", Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_Z2ep4gT2uY/VovIyWIm26I/AAAAAAAAAcg/1jG2CX_dFCk/s1600/mzl.npfcjtdl.png" group-title="News Channels", AL Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
