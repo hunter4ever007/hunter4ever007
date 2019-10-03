@@ -287,13 +287,13 @@ http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1960
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1961|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 1 online
-http://albkanale.com/topkanale/onlineusers-b1.php/stream.m3u8
+http://albkanale.com/topkanale/onlineusers-b1.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 2 online
-http://albkanale.com/topkanale/onlineusers-b2.php/stream.m3u8
+http://albkanale.com/topkanale/onlineusers-b2.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 3 online
-http://albkanale.com/topkanale/onlineusers-b3.php/stream.m3u8
+http://albkanale.com/topkanale/onlineusers-b3.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 4 online
-http://albkanale.com/topkanale/onlineusers-b4.php/stream.m3u8
+http://albkanale.com/topkanale/onlineusers-b4.php
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 5 online
 http://iplo.ru/2DJA65
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/sites/2/2017/05/beIN_SPORTS_Digital_Package_RGB-01.png" group-title="Bein Channels",BeinSports 6 online
