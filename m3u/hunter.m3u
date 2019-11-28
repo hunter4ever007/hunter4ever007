@@ -35,7 +35,6 @@ http://iplo.ru/2H4n85
 http://iplo.ru/2Hzn85
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE CHANNELS", ABU DHABI
 http://iplo.ru/28j8e5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/30/Abudhabidrama_logo.png" group-title="UAE CHANNELS", ABU DHABI Drama
@@ -114,14 +113,12 @@ https://archive.org/download/try_again_201910/try_again.ts
 https://archive.org/download/try_again_201910/try_again.ts
 
 
-
 #EXTINF:-1 tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/ART_Aflam_1.png" group-title="ART Channels", art Aflam 1
 https://archive.org/download/try_again_201910/try_again.ts
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849" group-title="ART Channels", art Aflam 2
 https://archive.org/download/try_again_201910/try_again.ts
 #EXTINF:-1 tvg-logo="http://rightandrights.com/images/demo/art_cinema.png" group-title="ART Channels", art Cinema
 https://archive.org/download/try_again_201910/try_again.ts
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CykqgJ7WQAABvCp.png" group-title="Rotana Channels", Rotana Aflam
@@ -212,7 +209,6 @@ http://iplo.ru/2Gncm5
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://s1.dmcdn.net/HP1iT/240x240-UBB.jpg" group-title="Today's Matches", SalamTV
 http://iplo.ru/2Gvcm5
-
 
 
 #EXTINF:-1 tvg-logo="https://mostaql.hsoubcdn.com/uploads/109673-friQm-1521462470-1513500521176307.png" group-title="Today's Matches",Beout 1
@@ -590,7 +586,6 @@ http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1350
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1319|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 group-title="UK/US Channels", UK.BBC-4
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=3047|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
-
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://190.2.132.7:8080/images/univers/4620.jpg" group-title="English-Vod",+12 Tomb Raider EN
