@@ -158,8 +158,8 @@ https://iplogger.org/2Icda
 https://iplogger.org/2WTgd5
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports HD L2
 https://iplogger.org/2wGaz5
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/968954348901486592/8oLu-Gmx_400x400.jpg" group-title="Sports Channels", KSA Sports new temp
-https://d2kh9ebcjtouxt.cloudfront.net/out/v1/a8d6da6816d14b7aa956c89c35ffaa2d/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Sports_portal_bar_icon.png" group-title="Sports Channels", Live
+https://steambroadcast.akamaized.net/broadcast/76561199030630726/6981911072923034250/hls_manifest/0/steambroadcast.akamaized.net/1800000/video.m3u8?broadcast_origin=repo-02-ord1.broadcast.steamcontent.com:80
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD
 https://iplogger.org/2nvNx5
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DEVASmmWsAArQd3.png" group-title="Sports Channels", Sharjah Sports HD S2
