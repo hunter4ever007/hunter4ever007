@@ -36,11 +36,11 @@ https://iplogger.org/2Hzn85
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" group-title="UAE CHANNELS", ABU DHABI
-https://iplogger.org/28j8e5
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/30/Abudhabidrama_logo.png" group-title="UAE CHANNELS", ABU DHABI Drama
 https://iplogger.org/28n8e5
 #EXTINF:-1 tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE CHANNELS", ABU DHABI Emirates HD
-https://iplogger.org/28E8e5
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi.com.sa/index/wp-content/uploads/42.png" group-title="UAE CHANNELS", Dubai TV HD
 https://iplogger.org/28P8e5
 #EXTINF:-1 tvg-logo="http://www.wataan.com/uploads/4122016-062525AM.gif" group-title="UAE CHANNELS", Sama Dubai HD
@@ -493,7 +493,7 @@ https://iplogger.org/2Os9Z
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi
 https://iplogger.org/2HXF95
 #EXTINF:-1 tvg-logo="http://www.almrsal.com/wp-content/uploads/2014/12/national-geographic-channel-abu-dhabi-2.png" group-title="Documentary Channels", Nat Geo Abu Dhabi HD
-https://iplogger.org/2HuG95
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/83/86/64/8386647da1ff81667fe74dc00804dad5.png" group-title="Documentary Channels", osn Discovery
 http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Local/Zona.m3u8?id=1861|User-Agent=zero/2.0 (Linux;Android 5.0) ExoPlayerLib/2.4.0&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentary Channels", osn History
