@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Amerika_*Latino_MIX" tvg-logo="http://hasbahca.net/TVLogo/world/trt-diyanet_medium_135.png",135 TV EXTREMA HDTV
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-logo="https://i.imgur.com/eEV4r6J.jpg" group-title="Business",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
