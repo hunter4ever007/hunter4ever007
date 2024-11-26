@@ -10,7 +10,7 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="Spacetoon.sy" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="Kids",Spacetoon (1080p)
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/AlHADATH.png" group-title="News",Al Hadath TV (1080p)
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/MBC_3_Transparent_Background_Logo.png" group-title="Kids",MBC 3 (1080p)
