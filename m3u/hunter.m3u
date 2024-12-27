@@ -22,4 +22,4 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/in
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://play-lh.googleusercontent.com/pbq7M2cDYYmkaC1AToqXKLnw9adL2JjXRG2nLbr-H7k_jiG_h_-GjHCs3rrq7Fdj7sA=w240-h480-rw" group-title="General",AIC TV
 http://185.236.229.50:8002/play/a03h
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Documentary",National Geographic Abu Dhabi
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/stream_04/index.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
