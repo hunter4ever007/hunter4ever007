@@ -205,8 +205,6 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="News",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 tvg-id="Alquran.iq" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Alquran (1080p)
-https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="AlShoub.eg" tvg-logo="https://alshoub.tv/storage/2023/09/logo-3-1.png" group-title="Undefined",AlShoub (720p)
 https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AltaghierTV.jo" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="News",Altaghier TV (1080p)
