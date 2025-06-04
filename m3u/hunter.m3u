@@ -41,6 +41,17 @@ https://live20.bozztv.com/gin-36bay3/ga-alkahera/tracks-v1a1/mono.m3u8
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (480p)
 https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="News",Al Mamlaka TV (1080p)
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",Al Manar (576p) [Not 24/7]
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News",Al Masar TV (576p)
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="News",Al Mashhad (1080p)
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+>>>>>>> 2f4ba669a71b4b2853f5990025e39a1d8b45c8c1
 #EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-logo="https://i.imgur.com/wTeOM2J.png" group-title="General",Al Masriyah
 https://live20.bozztv.com/gin-36bay4/ga-almasriya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlRabiaaTV.iq" tvg-logo="https://i.imgur.com/3a98qcO.png" group-title="General" http-referrer="https://player.castr.com/live_c6c4040053cd11ee95b47153d2861736",Al Rabiaa TV (1080p)
@@ -62,6 +73,11 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="General",Alawla TV (720p)
 https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Religious",Alerth Alnabawi Channel (576p)
+http://82.212.74.2:8000/live/7307.m3u8
+>>>>>>> 2f4ba669a71b4b2853f5990025e39a1d8b45c8c1
 #EXTINF:-1 tvg-id="AlForatTV.iq" tvg-logo="https://i.imgur.com/f6PQzKd.png" group-title="General",Alforat TV (1080p)
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhayatTV.eg" tvg-logo="https://i.imgur.com/bl9ie9u.png" group-title="General",Alhayat TV (720p)
@@ -274,8 +290,33 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-id="AlhurraIraq.us" tvg-logo="https://i.ibb.co/sWWdpdH/1687955091062.jpg" group-title="News",Alhurra Iraq (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="News",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
+=======
+#EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-logo="https://i.imgur.com/2FPtYZr.png" group-title="Religious",Alistiqama TV (576p)
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="AlkassFive.qa" tvg-logo="https://i.imgur.com/6RGNGsM.png" group-title="Sports",Alkass Five (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" group-title="Sports",Alkass Four (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" group-title="Sports",Alkass One (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSHOOF.qa" tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" group-title="Sports",Alkass SHOOF (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1 tvg-id="AlkassSix.qa" tvg-logo="https://i.imgur.com/CrPSPSC.png" group-title="Sports",Alkass Six (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" group-title="Sports",Alkass Three (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" group-title="Sports",Alkass Two (1080p)
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:-1 tvg-id="AlkhuzamaRadio.sa" tvg-logo="https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b" group-title="Undefined",Alkhuzama Radio (1080p)
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="News",Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-id="AlShoub.eg" tvg-logo="https://alshoub.tv/storage/2023/09/logo-3-1.png" group-title="Undefined",AlShoub (720p)
+https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
+>>>>>>> 2f4ba669a71b4b2853f5990025e39a1d8b45c8c1
 #EXTINF:-1 tvg-id="AltaghierTV.jo" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="News",Altaghier TV (1080p)
 https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="ALWifakNewsTV.lb" tvg-logo="https://i.imgur.com/1vqhmNz.png" group-title="News",ALWifak News TV (720p)
@@ -820,3 +861,62 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="Undefined",Yemen Today TV (480p)
 https://video.yementdy.tv/hls/yementoday.m3u8
 
+<<<<<<< HEAD
+=======
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/bein.png" group-title="Sports",Bein Sports 1
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/bein.png" group-title="Sports",Bein Sports 1
+https://tv.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/bein.png" group-title="Sports",Bein Sports 1
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/ssc1.jpg" group-title="Sports",SSC 1
+https://stream.sainaertebat.com/hls2/ssc1s.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="Sports",Bein Sports 1
+http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="Sports",Bein Sports 1
+http://het116a.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="Sports",Bein Sports 1
+http://het120a.4rouwanda-shop.store/live/918454578001/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="Sports",Bein Sports 2
+http://bdd78.4rouwanda-shop.store/live/69854211/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="Sports",Bein Sports 2
+http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Sports",Bein Sports 3
+http://het105a.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Sports",Bein Sports 3
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports",Bein Sports 4
+http://het111a.4rouwanda-shop.store/live/0103088447/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports",Bein Sports 4
+http://het113a.4rouwanda-shop.store/live/9787488847/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports",Bein Sports 4
+http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports",Bein Sports 4
+http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="Sports",Bein Sports 5
+http://het116a.4rouwanda-shop.store/live/610303030/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="Sports",Bein Sports 5
+http://bdd78.4rouwanda-shop.store/live/610303030/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="Sports",Bein Sports 6
+http://het120a.4rouwanda-shop.store/live/1515000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="Sports",Bein Sports 6
+http://bdd78.4rouwanda-shop.store/live/1515000000/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="Sports",Bein Sports 7
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar7.m3u8
+>>>>>>> 2f4ba669a71b4b2853f5990025e39a1d8b45c8c1
