@@ -252,8 +252,6 @@ https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/64
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMashhad.ae" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="News",Al Mashhad (1080p)
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-logo="https://i.imgur.com/V055t5e.png" group-title="News",Al Masirah (720p) [Not 24/7]
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="News",Al Najah News (720p)
