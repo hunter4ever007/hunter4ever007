@@ -420,6 +420,14 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3
 https://stream.sainaertebat.com/hls2/ssc1s.m3u8
 #EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="Sports",SSC Action Waleed (1080p) [Not 24/7]
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/bein.png" group-title="Sports",Bein Sports 1
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/bein.png" group-title="Sports",Bein Sports 1
+https://tv.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://live12.ir/icon/bein.png" group-title="Sports",Bein Sports 1
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+
 #EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="Sports",Bein Sports 1
 http://bdd78.4rouwanda-shop.store/live/918454578001/index.m3u8?t=hY6lFWVqs01l25PnZ8Oe5g&e=1746694034
 #EXTINF:-1 tvg-id="Hunter Picks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="Sports",Bein Sports 1
