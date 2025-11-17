@@ -443,6 +443,12 @@ https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="Religious", Quran Radio (1080p)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="Religious", Peace TV Eng
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%87%D8%AF%D9%89_%D9%85%D8%B5%D8%B1_%D9%85%D9%81%D8%B1%D8%BA.png" group-title="Religious", Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1839193247303770112/hJf5Tcaq_400x400.jpg" group-title="Religious", SAAD TV
+https://ssadtv.ddns.net/live/saad/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laEk64E.png" group-title="Religious", Nidae AlIslam Radio (1080p)
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Religious", Holy Quran Radio Nablus (720p)
@@ -513,6 +519,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids", Majid TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/JeemTV_logo.png/250px-JeemTV_logo.png" group-title="Kids", Jeem TV
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="Kids", CN Network Arabic
 https://live20.bozztv.com/akamaissh101/ssh101/cnarabia99/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Kids", Taha TV
