@@ -346,7 +346,7 @@ https://py.dencreak.com/bn_u_576P_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="Sports", Bein Sports 7
 https://py.dencreak.com/bn_u_576P_7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports", Thamanya 1
-https://m.dencreak.com/meta/18785.m3u8
+https://py.dencreak.com/meta/18785.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png" group-title="Sports", Thamanya 2
 https://m.dencreak.com/meta/18783.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="Sports", SSC Action Waleed (1080p) [Not 24/7]
