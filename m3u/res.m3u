@@ -7,5 +7,5 @@ https://karwan.tv/live/nrt-sport-1.php
 https://karwan.tv/live/nubar-sport-1.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General", KTV
 https://www.giniko.com/watch.php?id=604
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/3.png" Desc="Saudi TV Channel", group-title="General", Saudi TV 1
-https://www.giniko.com/watch.php?id=3
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1570.jpg" Desc="4k US Movies", group-title="Movies", 4k movies
+https://www.giniko.com/watch.php?id=1570
