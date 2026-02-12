@@ -5,6 +5,7 @@ https://karwan.tv/live/duhok-tv-sport-1.php
 https://karwan.tv/live/nrt-sport-1.php
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" Desc="Join Nubar Sport for high-definition streaming of your favorite sports." group-title="Sport", Nubar Sport
 https://karwan.tv/live/nubar-sport-1.php
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV channel", group-title="General", KTV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General", KTV
 https://www.giniko.com/watch.php?id=604
-
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/3.png" Desc="Saudi TV Channel", group-title="General", Saudi TV 1
+https://www.giniko.com/watch.php?id=3
