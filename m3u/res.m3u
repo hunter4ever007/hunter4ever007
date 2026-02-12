@@ -9,3 +9,5 @@ https://karwan.tv/live/nubar-sport-1.php
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1570.jpg" Desc="4k US Movies", group-title="Movies", 4k movies
 https://www.giniko.com/watch.php?id=1570
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids", Masha and bear
+https://www.giniko.com/watch.php?id=1626
