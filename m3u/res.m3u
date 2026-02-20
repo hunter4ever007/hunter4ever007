@@ -11,5 +11,5 @@ https://www.giniko.com/watch.php?id=604
 https://www.giniko.com/watch.php?id=1570
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids", Masha & bear 
 https://www.giniko.com/watch.php?id=1626
-EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/797110500899360769/5mRpwZCd_400x400.jpg Desc="A public heritage channel dedicated to broadcasting classic television archives from the "Golden Era" of Egyptian TV", group-title="Movies", Maspero Zaman
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/797110500899360769/5mRpwZCd_400x400.jpg Desc="A public heritage channel dedicated to broadcasting classic television archives from the "Golden Era" of Egyptian TV", group-title="Movies", Maspero Zaman
 https://www.dailymotion.com/player/metadata/video/x8n6e4h
