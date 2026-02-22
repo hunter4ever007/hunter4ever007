@@ -21,3 +21,5 @@ https://www.dailymotion.com/player/metadata/video/x84nwne
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious", Sunnah TV
 https://www.giniko.com/watch.php?id=326
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/26.png" Desc="CNN News Channel International", group-title="News", CNN INT
+https://www.giniko.com/watch.php?id=26
