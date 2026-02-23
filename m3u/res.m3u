@@ -21,6 +21,7 @@ https://www.dailymotion.com/player/metadata/video/x84nwne
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious", Sunnah TV
 https://www.giniko.com/watch.php?id=326
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa@SD",Desc="Rotana Khalijia", group-title="General",Rotana Khalijia (1080p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Khalejia.png",Desc="Rotana Khalijia", group-title="General",Rotana Khalijia (1080p)
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
