@@ -23,6 +23,8 @@ https://www.giniko.com/watch.php?id=327
 https://www.giniko.com/watch.php?id=326
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1y8Wzk4iXUjwKbr60Q3CHrSAl9EqHfSNeQ&s" Desc="Cima Movies Channel", group-title="Movies", Cima 
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=Cima_HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMknJCi2n4bVPmtHUFFA39Ov1sI1WMsj-JQ&s" Desc="PNC Film", group-title="Movies", PNC Film
+https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaFilm_HD
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" Desc="Oman Thaqafiyah", group-title="General", Oman Thaqafiyah
 https://www.giniko.com/watch.php?id=184
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1557.jpg" Desc="Top Movies", group-title="Movies", Top movies
