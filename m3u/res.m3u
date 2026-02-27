@@ -37,3 +37,5 @@ https://www.giniko.com/xml/secure/plist.php?ch=887
 https://www.giniko.com/xml/secure/plist.php?ch=954
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUojwBpbzr7ATB1LStM_Am7mZETJtX2apbg&s" Desc="The channel offers a diverse range of genres, including social dramas, historical epics, Bedouin stories, and dubbed international content, particularly Turkish and Indian productions.", group-title="Entertainment", MBC Drama
 http://azrogo.com/iphone/arabic/ch/mbmd.php
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" Desc="KSA Thikrayat Channel", group-title="General", Thikrayat 
+http://azrogo.com/iphone/arabic/ch2/thikrayat_tv.php
