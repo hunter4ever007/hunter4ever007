@@ -39,3 +39,5 @@ https://www.giniko.com/xml/secure/plist.php?ch=954
 http://azrogo.com/iphone/arabic/ch/mbmd.php
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" Desc="KSA Thikrayat Channel", group-title="General", Thikrayat 
 http://azrogo.com/m3u8/sa/?id=thikrayat
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" Desc="Al-Hayat Blue for series", group-title="Entertainment", Al-Hayat series
+https://www.giniko.com/xml/secure/plist.php?ch=747
