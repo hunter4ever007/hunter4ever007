@@ -41,3 +41,5 @@ http://azrogo.com/iphone/arabic/ch/mbmd.php
 http://azrogo.com/m3u8/sa/?id=thikrayat
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" Desc="Al-Hayat Blue for series", group-title="Entertainment", Al-Hayat series
 https://www.giniko.com/xml/secure/plist.php?ch=747
+#EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" Desc="Rotana Khalijiya", group-title="Entertainment", Rotana Khalijiya
+https://www.giniko.com/xml/secure/plist.php?ch=1092
