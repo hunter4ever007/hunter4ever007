@@ -1,89 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" group-title="Entertainment" description="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.",MBC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" group-title="Entertainment" desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.",MBC 1
 http://azrogo.com/iphone/f/mb1/
-#EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" group-title="Entertainment" description="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.",LBC
+#EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" group-title="Entertainment" desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.",LBC
 https://www.giniko.com/xml/secure/plist.php?ch=887
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUojwBpbzr7ATB1LStM_Am7mZETJtX2apbg&s" group-title="Entertainment" description="The channel offers a diverse range of genres, including social dramas, historical epics, Bedouin stories, and dubbed international content, particularly Turkish and Indian productions.",MBC Drama
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUojwBpbzr7ATB1LStM_Am7mZETJtX2apbg&s" group-title="Entertainment" desc="The channel offers a diverse range of genres, including social dramas, historical epics, Bedouin stories, and dubbed international content, particularly Turkish and Indian productions.",MBC Drama
 http://azrogo.com/iphone/arabic/ch/mbmd.php
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" group-title="Entertainment" description="Al-Hayat Blue for series",Al-Hayat series
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" group-title="Entertainment" desc="Al-Hayat Blue for series",Al-Hayat series
 https://www.giniko.com/xml/secure/plist.php?ch=747
-#EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" group-title="Entertainment" description="Rotana Khalijiya",Rotana Khalijiya
+#EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" group-title="Entertainment" desc="Rotana Khalijiya",Rotana Khalijiya
 https://www.qanwatlive.com/2024/12/MBC-1-Live.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="Entertainment" description="DMC Drama",DMC Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="Entertainment" desc="DMC Drama",DMC Drama
 https://www.giniko.com/xml/secure/plist.php?ch=504
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8vdgf.png" group-title="Entertainment" description="PNC Drama",PNC Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8vdgf.png" group-title="Entertainment" desc="PNC Drama",PNC Drama
 http://giniko.com/xml/secure/plist.php?ch=526
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Entertainment" description="MBC Drama S2",MBC Drama S2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Entertainment" desc="MBC Drama S2",MBC Drama S2
 https://www.giniko.com/xml/secure/plist.php?ch=552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Entertainment" description="Rotana Drama",Rotana Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Entertainment" desc="Rotana Drama",Rotana Drama
 https://www.giniko.com/xml/secure/plist.php?ch=1051
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" group-title="General" description="Saudi TV 1 Channel",Saudi TV 1
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" group-title="General" desc="Saudi TV 1 Channel",Saudi TV 1
 https://www.giniko.com/xml/secure/plist.php?ch=3
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" group-title="General" description="Kuwait TV Channel",KTV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" group-title="General" desc="Kuwait TV Channel",KTV
 https://www.giniko.com/watch.php?id=604
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" group-title="General" description="Yemen TV Channel",Yemen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" group-title="General" desc="Yemen TV Channel",Yemen TV
 https://www.giniko.com/xml/secure/plist.php?ch=5
-#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="General" description="Egypt Channel 1",Egyptian Channel 1
+#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="General" desc="Egypt Channel 1",Egyptian Channel 1
 https://www.dailymotion.com/player/metadata/video/x856hbh
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" group-title="General" description="Oman Thaqafiyah",Oman Thaqafiyah
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" group-title="General" desc="Oman Thaqafiyah",Oman Thaqafiyah
 https://www.giniko.com/watch.php?id=184
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" group-title="General" description="KSA Thikrayat Channel",Thikrayat
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" group-title="General" desc="KSA Thikrayat Channel",Thikrayat
 http://azrogo.com/m3u8/sa/?id=thikrayat
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZohZFuq.png" group-title="General" description="Alrai TV Channel",Alrai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZohZFuq.png" group-title="General" desc="Alrai TV Channel",Alrai TV
 https://www.giniko.com/xml/secure/plist.php?ch=920
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S7TgVxT.png" group-title="General" description="Abu Dhabi TV",Abu Dhabi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7TgVxT.png" group-title="General" desc="Abu Dhabi TV",Abu Dhabi TV
 https://www.giniko.com/xml/secure/plist.php?ch=1075
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" group-title="Kids" description="Masha and bear Channel 24/7",Masha & bear
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" group-title="Kids" desc="Masha and bear Channel 24/7",Masha & bear
 https://www.giniko.com/watch.php?id=1626
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1570.jpg" group-title="Movies" description="4k US Movies",4k movies
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1570.jpg" group-title="Movies" desc="4k US Movies",4k movies
 https://www.giniko.com/watch.php?id=1570
-#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" group-title="Movies" description="A public heritage channel dedicated to broadcasting classic television archives from the ",Maspero Zaman
+#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" group-title="Movies" desc="A public heritage channel dedicated to broadcasting classic television archives from the ",Maspero Zaman
 https://www.dailymotion.com/player/metadata/video/x8n6e4h
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1y8Wzk4iXUjwKbr60Q3CHrSAl9EqHfSNeQ&s" group-title="Movies" description="Cima Movies Channel",Cima
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1y8Wzk4iXUjwKbr60Q3CHrSAl9EqHfSNeQ&s" group-title="Movies" desc="Cima Movies Channel",Cima
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=Cima_HD
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMknJCi2n4bVPmtHUFFA39Ov1sI1WMsj-JQ&s" group-title="Movies" description="PNC Film",PNC Film
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMknJCi2n4bVPmtHUFFA39Ov1sI1WMsj-JQ&s" group-title="Movies" desc="PNC Film",PNC Film
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaFilm_HD
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a52376190793661.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="Movies" description="First free-to-air Arabic movie channel, Rotana Cinema KSA, is the number one channel of choice for audiences in the MENA region.",Rotana Cinema
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a52376190793661.Y3JvcCw4MDgsNjMyLDAsMA.jpg" group-title="Movies" desc="First free-to-air Arabic movie channel, Rotana Cinema KSA, is the number one channel of choice for audiences in the MENA region.",Rotana Cinema
 https://www.giniko.com/xml/secure/plist.php?ch=954
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZxknutA.png" group-title="Movies" description="Zee Aflam",Zee Aflam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZxknutA.png" group-title="Movies" desc="Zee Aflam",Zee Aflam
 https://www.giniko.com/xml/secure/plist.php?ch=551
-#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" group-title="News" description="Egypt News Channel",Nile News
+#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" group-title="News" desc="Egypt News Channel",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
-#EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" group-title="News" description="Aljazeera English",Aljazeera English
+#EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" group-title="News" desc="Aljazeera English",Aljazeera English
 https://www.giniko.com/xml/secure/plist.php?ch=2
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/cnn-international-logo.png" group-title="News" description="CNN International",CNN International
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/cnn-international-logo.png" group-title="News" desc="CNN International",CNN International
 https://www.giniko.com/xml/secure/plist.php?ch=26
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png" group-title="News" description="BBC News ",BBC News
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png" group-title="News" desc="BBC News ",BBC News
 https://www.giniko.com/xml/secure/plist.php?ch=27
-#EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" group-title="News" description="Sky News Arabia ",Sky News Arabia
+#EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" group-title="News" desc="Sky News Arabia ",Sky News Arabia
 https://www.giniko.com/xml/secure/plist.php?ch=271
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News" description="Sky News Arabia ",Sky News Arabia 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News" desc="Sky News Arabia ",Sky News Arabia 
 https://www.giniko.com/xml/secure/plist.php?ch=271
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News" description="ABC News",ABC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News" desc="ABC News",ABC News
 https://www.giniko.com/xml/secure/plist.php?ch=451
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="News" description="Echorouk News",Echorouk News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="News" desc="Echorouk News",Echorouk News
 http://giniko.com/xml/secure/plist.php?ch=537
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" group-title="News" description="EuroNews English",EuroNews English
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" group-title="News" desc="EuroNews English",EuroNews English
 https://www.giniko.com/xml/secure/plist.php?ch=675
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-arabi-logo-png_seeklogo-398139.png" group-title="News" description="TRT Arabic",TRT Arabic
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/2/trt-arabi-logo-png_seeklogo-398139.png" group-title="News" desc="TRT Arabic",TRT Arabic
 https://www.giniko.com/xml/secure/plist.php?ch=684
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/948.jpg" group-title="News" description="DW News",Deutsche Welle News
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/948.jpg" group-title="News" desc="DW News",Deutsche Welle News
 https://www.giniko.com/xml/secure/plist.php?ch=948
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News" description="BBC News Arabic",BBC News Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News" desc="BBC News Arabic",BBC News Arabic
 https://www.giniko.com/xml/secure/plist.php?ch=1026
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" group-title="Religious" description="Al Quran Al Kareem Channel",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" group-title="Religious" desc="Al Quran Al Kareem Channel",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" group-title="Religious" description="Saudi Sunnah Channel",Sunnah TV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" group-title="Religious" desc="Saudi Sunnah Channel",Sunnah TV
 https://www.giniko.com/watch.php?id=326
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaVZSxrLrP_ZqtBSC-bUGuj5Y9cLLZ9Bvyg&s" group-title="Religious" description="Huda TV",Huda TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaVZSxrLrP_ZqtBSC-bUGuj5Y9cLLZ9Bvyg&s" group-title="Religious" desc="Huda TV",Huda TV
 http://azrogo.com/iphone/arabic/ch2/huda.php
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" group-title="Sport" description="The best sport channel in Duhok, bringing you live matches and analysis.",Duhok TV Sport
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" group-title="Sport" desc="The best sport channel in Duhok, bringing you live matches and analysis.",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" group-title="Sport" description="NRT Sport offers 24/7 sports coverage, highlighting local and international events.",NRT Sport
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" group-title="Sport" desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.",NRT Sport
 https://karwan.tv/live/nrt-sport-1.php
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" group-title="Sport" description="Join Nubar Sport for high-definition streaming of your favorite sports.",Nubar Sport
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" group-title="Sport" desc="Join Nubar Sport for high-definition streaming of your favorite sports.",Nubar Sport
 https://karwan.tv/live/nubar-sport-1.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sport" description="Abu Dhabi Sport 1",Abu Dhabi Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sport" desc="Abu Dhabi Sport 1",Abu Dhabi Sport 1
 https://www.giniko.com/xml/secure/plist.php?ch=269
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sport" description="KSA Sports1",KSA Sports1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sport" desc="KSA Sports1",KSA Sports1
 https://www.giniko.com/xml/secure/plist.php?ch=481
