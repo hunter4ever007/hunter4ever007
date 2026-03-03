@@ -45,3 +45,5 @@ http://azrogo.com/m3u8/sa/?id=thikrayat
 https://www.giniko.com/xml/secure/plist.php?ch=747
 #EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" Desc="Rotana Khalijiya", group-title="Entertainment", Rotana Khalijiya
 https://www.qanwatlive.com/2024/12/MBC-1-Live.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png" Desc="Saudi TV 1 Channel", group-title="General", Saudi TV 1
+https://www.giniko.com/xml/secure/plist.php?ch=3
