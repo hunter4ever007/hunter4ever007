@@ -17,6 +17,8 @@ https://www.dailymotion.com/player/metadata/video/x8n6e4h
 https://www.dailymotion.com/player/metadata/video/x856hbh
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News", Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
+#EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News", Aljazeera English
+https://www.giniko.com/xml/secure/plist.php?ch=2
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious", Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious", Sunnah TV
@@ -43,5 +45,3 @@ http://azrogo.com/m3u8/sa/?id=thikrayat
 https://www.giniko.com/xml/secure/plist.php?ch=747
 #EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" Desc="Rotana Khalijiya", group-title="Entertainment", Rotana Khalijiya
 https://www.qanwatlive.com/2024/12/MBC-1-Live.html
-#EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News", Aljazeera English
-https://www.giniko.com/xml/secure/plist.php?ch=2
