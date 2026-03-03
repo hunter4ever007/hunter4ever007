@@ -27,6 +27,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=2
 https://www.giniko.com/xml/secure/plist.php?ch=26
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png" Desc="BBC News ", group-title="News", BBC News 
 https://www.giniko.com/xml/secure/plist.php?ch=27
+#EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" Desc="Sky News Arabia ", group-title="News", Sky News Arabia
+https://www.giniko.com/xml/secure/plist.php?ch=271
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious", Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious", Sunnah TV
