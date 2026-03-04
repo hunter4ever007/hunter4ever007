@@ -25,6 +25,8 @@ https://www.giniko.com/watch.php?id=184
 http://azrogo.com/m3u8/sa/?id=thikrayat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" Desc="Qatar TV", group-title="General",Qatar TV
 http://azrogo.com/iphone/arabic/ch/qatar.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" Desc="MTV Lebanon", group-title="General",MTV 
+http://venolie.com/navo/view/p/mtv.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
