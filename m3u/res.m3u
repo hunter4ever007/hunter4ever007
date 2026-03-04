@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5dNJlLo.png" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
+http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" Desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.", group-title="Entertainment",MBC 1
 http://azrogo.com/iphone/f/mb1/
 #EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" Desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.", group-title="Entertainment",LBC
@@ -47,6 +49,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=27
 https://www.giniko.com/xml/secure/plist.php?ch=271
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" Desc="Aljazeera Channel", group-title="News",Aljazeera
 http://azrogo.com/iphone/news/ch/aljazeera_ar.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfJI4t5.png" Desc="Aljazeera Mubashir", group-title="News",Aljazeera Mubashir
+http://azrogo.com/iphone/news/ch/aljazeera_mubashir.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
@@ -57,5 +61,7 @@ http://azrogo.com/iphone/arabic/ch2/huda.php
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
 https://karwan.tv/live/nrt-sport-1.php
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" Desc="Join Nubar Sport for high-definition streaming of your favorite sports.", group-title="Sport",Nubar Sport 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" Desc="Join Nubar Sport for high-definition streaming of your favorite sports.", group-title="Sport",Nubar Sport
 https://karwan.tv/live/nubar-sport-1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" Desc="Alkass 1", group-title="Sport",Alkass 1
+http://azrogo.com/iphone/srt/ch/alkass1.php
