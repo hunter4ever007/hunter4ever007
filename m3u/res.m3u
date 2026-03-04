@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world." group-title="Entertainment",MBC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" Desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.", group-title="Entertainment",MBC 1
 http://azrogo.com/iphone/f/mb1/
-#EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows." group-title="Entertainment",LBC
+#EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" Desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.", group-title="Entertainment",LBC
 https://www.giniko.com/xml/secure/plist.php?ch=887
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUojwBpbzr7ATB1LStM_Am7mZETJtX2apbg&s" desc="The channel offers a diverse range of genres, including social dramas, historical epics, Bedouin stories, and dubbed international content, particularly Turkish and Indian productions." group-title="Entertainment",MBC Drama
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUojwBpbzr7ATB1LStM_Am7mZETJtX2apbg&s" Desc="The channel offers a diverse range of genres, including social dramas, historical epics, Bedouin stories, and dubbed international content, particularly Turkish and Indian productions.", group-title="Entertainment",MBC Drama
 http://azrogo.com/iphone/arabic/ch/mbmd.php
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" desc="Al-Hayat Blue for series" group-title="Entertainment",Al-Hayat series
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" Desc="Al-Hayat Blue for series", group-title="Entertainment",Al-Hayat series
 https://www.giniko.com/xml/secure/plist.php?ch=747
-#EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" desc="Rotana Khalijiya" group-title="Entertainment",Rotana Khalijiya
+#EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" Desc="Rotana Khalijiya", group-title="Entertainment",Rotana Khalijiya
 https://www.qanwatlive.com/2024/12/MBC-1-Live.html
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" desc="Kuwait TV Channel" group-title="General",KTV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" desc="Saudi TV 1 Channel" group-title="General",Saudi TV 1
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
 https://www.giniko.com/xml/secure/plist.php?ch=3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" desc="Yemen TV Channel" group-title="General",Yemen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" Desc="Yemen TV Channel", group-title="General",Yemen TV
 https://www.giniko.com/xml/secure/plist.php?ch=5
-#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" desc="Egypt Channel 1" group-title="General",Egyptian Channel 1
+#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" Desc="Egypt Channel 1", group-title="General",Egyptian Channel 1
 https://www.dailymotion.com/player/metadata/video/x856hbh
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" desc="Oman Thaqafiyah" group-title="General",Oman Thaqafiyah
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" Desc="Oman Thaqafiyah", group-title="General",Oman Thaqafiyah
 https://www.giniko.com/watch.php?id=184
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" desc="KSA Thikrayat Channel" group-title="General",Thikrayat
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" Desc="KSA Thikrayat Channel", group-title="General",Thikrayat
 http://azrogo.com/m3u8/sa/?id=thikrayat
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" desc="Qatar TV" group-title="General",Qatar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" Desc="Qatar TV", group-title="General",Qatar TV
 http://azrogo.com/iphone/arabic/ch/qatar.php
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" desc="Masha and bear Channel 24/7" group-title="Kids",Masha & bear
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
-#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" desc="A public heritage channel dedicated to broadcasting classic television archives from the " group-title="Movies",Maspero Zaman
+#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://www.dailymotion.com/player/metadata/video/x8n6e4h
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1570.jpg" desc="4k US Movies" group-title="Movies",4k movies
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1570.jpg" Desc="4k US Movies", group-title="Movies",4k movies
 https://www.giniko.com/watch.php?id=1570
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1y8Wzk4iXUjwKbr60Q3CHrSAl9EqHfSNeQ&s" desc="Cima Movies Channel" group-title="Movies",Cima
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1y8Wzk4iXUjwKbr60Q3CHrSAl9EqHfSNeQ&s" Desc="Cima Movies Channel", group-title="Movies",Cima
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=Cima_HD
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMknJCi2n4bVPmtHUFFA39Ov1sI1WMsj-JQ&s" desc="PNC Film" group-title="Movies",PNC Film
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMknJCi2n4bVPmtHUFFA39Ov1sI1WMsj-JQ&s" Desc="PNC Film", group-title="Movies",PNC Film
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaFilm_HD
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a52376190793661.Y3JvcCw4MDgsNjMyLDAsMA.jpg" desc="First free-to-air Arabic movie channel, Rotana Cinema KSA, is the number one channel of choice for audiences in the MENA region." group-title="Movies",Rotana Cinema
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a52376190793661.Y3JvcCw4MDgsNjMyLDAsMA.jpg" Desc="First free-to-air Arabic movie channel, Rotana Cinema KSA, is the number one channel of choice for audiences in the MENA region.", group-title="Movies",Rotana Cinema
 https://www.giniko.com/xml/secure/plist.php?ch=954
-#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" desc="Egypt News Channel" group-title="News",Nile News
+#EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
-#EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" desc="Aljazeera English" group-title="News",Aljazeera English
+#EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
 https://www.giniko.com/xml/secure/plist.php?ch=2
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/cnn-international-logo.png" desc="CNN International" group-title="News",CNN International
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/cnn-international-logo.png" Desc="CNN International", group-title="News",CNN International
 https://www.giniko.com/xml/secure/plist.php?ch=26
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png" desc="BBC News " group-title="News",BBC News
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png" Desc="BBC News ", group-title="News",BBC News
 https://www.giniko.com/xml/secure/plist.php?ch=27
-#EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" desc="Sky News Arabia " group-title="News",Sky News Arabia
+#EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" Desc="Sky News Arabia ", group-title="News",Sky News Arabia
 https://www.giniko.com/xml/secure/plist.php?ch=271
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" desc="Al Quran Al Kareem Channel" group-title="Religious",Al Quran Al Kareem TV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" desc="Saudi Sunnah Channel" group-title="Religious",Sunnah TV
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
 https://www.giniko.com/watch.php?id=326
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaVZSxrLrP_ZqtBSC-bUGuj5Y9cLLZ9Bvyg&s" desc="Huda TV" group-title="Religious",Huda TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaVZSxrLrP_ZqtBSC-bUGuj5Y9cLLZ9Bvyg&s" Desc="Huda TV", group-title="Religious",Huda TV
 http://azrogo.com/iphone/arabic/ch2/huda.php
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" desc="The best sport channel in Duhok, bringing you live matches and analysis." group-title="Sport",Duhok TV Sport
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
-#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events." group-title="Sport",NRT Sport
+#EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
 https://karwan.tv/live/nrt-sport-1.php
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" desc="Join Nubar Sport for high-definition streaming of your favorite sports." group-title="Sport",Nubar Sport
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" Desc="Join Nubar Sport for high-definition streaming of your favorite sports.", group-title="Sport",Nubar Sport
 https://karwan.tv/live/nubar-sport-1.php
