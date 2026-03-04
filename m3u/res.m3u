@@ -45,6 +45,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=26
 https://www.giniko.com/xml/secure/plist.php?ch=27
 #EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" Desc="Sky News Arabia ", group-title="News",Sky News Arabia
 https://www.giniko.com/xml/secure/plist.php?ch=271
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" Desc="Aljazeera Channel", group-title="News",Aljazeera
+http://azrogo.com/iphone/news/ch/aljazeera_ar.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
