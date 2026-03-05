@@ -49,7 +49,7 @@ https://www.giniko.com/xml/secure/plist.php?ch=26
 https://www.giniko.com/xml/secure/plist.php?ch=27
 #EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" Desc="Sky News Arabia ", group-title="News",Sky News Arabia
 https://www.giniko.com/xml/secure/plist.php?ch=271
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" Desc="Aljazeera Channel", group-title="News",Aljazeera
+#EXTINF:-1 tvg-logo="https://al-sharq.com/get/maximage/20170725_1501008854-27677.jpg" Desc="Aljazeera Channel", group-title="News",Aljazeera
 http://azrogo.com/iphone/news/ch/aljazeera_ar.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DfJI4t5.png" Desc="Aljazeera Mubashir", group-title="News",Aljazeera Mubashir
 http://azrogo.com/iphone/news/ch/aljazeera_mubashir.php
