@@ -13,6 +13,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=747
 https://www.qanwatlive.com/2024/12/MBC-1-Live.html
 #EXTINF:-1 tvg-logo="https://darelhilal.com/Media/News/2023/2/15/2023-638120775782324438-232.jpg" Desc="Mix One", group-title="Entertainment",Mix One
 http://azrogo.com/iphone/arabic/ch5/mixone.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FasJFMM.png" Desc="Nile Drama Channel", group-title="Entertainment",Nile Drama 
+https://www.dailymotion.com/player/metadata/video/x8n6e3a
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
@@ -49,6 +51,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=954
 http://azrogo.com/iphone/arabic/ch5/mx.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" Desc="Dubai One Channel", group-title="Movies",Dubai One
 https://www.giniko.com/xml/secure/plist.php?ch=874
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCpizej.png" Desc="Nile Cinema Channel", group-title="Movies",Nile Cinema
+https://www.dailymotion.com/player/metadata/video/x8n6do7
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
 #EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
