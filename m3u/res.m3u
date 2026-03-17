@@ -80,6 +80,8 @@ https://www.giniko.com/watch.php?id=327
 https://www.giniko.com/watch.php?id=326
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaVZSxrLrP_ZqtBSC-bUGuj5Y9cLLZ9Bvyg&s" Desc="Huda TV", group-title="Religious",Huda TV
 http://azrogo.com/iphone/arabic/ch2/huda.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2fJysM.png" Desc="Quran TV Saudi", group-title="Religious",Quran TV Saudi
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=qoran_tv1
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
