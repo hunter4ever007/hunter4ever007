@@ -13,9 +13,12 @@ https://www.giniko.com/xml/secure/plist.php?ch=747
 http://azrogo.com/iphone/arabic/ch5/mixone.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FasJFMM.png" Desc="Nile Drama Channel", group-title="Entertainment",Nile Drama
 https://www.dailymotion.com/player/metadata/video/x8n6e3a
-#EXTINF:-1 tvg-logo="https://media.assettype.com/ajel%2Fimport%2Fuploads%2Fmaterial-file%2F5ede4fe8510324710f1abae3%2F5ede4fd7b3722.jpg" Desc="Rotana Khalijiya", group-title="Entertainment",Rotana Khalijiya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HMluzv.png" Desc="Rotana Khalijiya", group-title="Entertainment",Rotana Khalijiya
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btnhPjZ.png" Desc="Rotana Drama", group-title="Entertainment",Rotana Drama
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
@@ -56,6 +59,15 @@ http://azrogo.com/iphone/arabic/ch5/mx.php
 https://www.giniko.com/xml/secure/plist.php?ch=874
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCpizej.png" Desc="Nile Cinema Channel", group-title="Movies",Nile Cinema
 https://www.dailymotion.com/player/metadata/video/x8n6do7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dGlKoLW.png" Desc="Rotana Cinema KSA", group-title="Movies",Rotana Cinema KSA
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMMUvkt.png" Desc="Rotana Classic", group-title="Movies",Rotana Classic
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlT8U6S.png" Desc="Rotana Comedy ", group-title="Movies",Rotana Comedy 
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
 #EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
