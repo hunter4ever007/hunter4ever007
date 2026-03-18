@@ -65,7 +65,7 @@ https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIxDEUX.jpeg" Desc="Rotana Classic", group-title="Movies",Rotana Classic
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mUDkLvi.jpeg" Desc="Rotana Comedy ", group-title="Movies",Rotana Comedy 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mUDkLvi.jpeg" Desc="Rotana Comedy ", group-title="Movies",Rotana Comedy
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
@@ -92,6 +92,10 @@ https://www.giniko.com/watch.php?id=327
 https://www.giniko.com/watch.php?id=326
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQaVZSxrLrP_ZqtBSC-bUGuj5Y9cLLZ9Bvyg&s" Desc="Huda TV", group-title="Religious",Huda TV
 http://azrogo.com/iphone/arabic/ch2/huda.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" Desc="Bein Sports Channel 1", group-title="Sport",Bein Sports 1
+https://popcdn.day/player/beINAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Sport",Bein Sports 2
+https://popcdn.day/player/beINAR2
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
@@ -99,8 +103,18 @@ https://karwan.tv/live/nrt-sport-1.php
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D9_YfD8K2eZ20SZuJ_IuJcNHa_HWpV-KabYrE_hbXoRsjtSWqU4qsdsaCA8MsanicDJ8LHrLHTg=s900-c-k-c0x00ffffff-no-rj" Desc="Join Nubar Sport for high-definition streaming of your favorite sports.", group-title="Sport",Nubar Sport
 https://karwan.tv/live/nubar-sport-1.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/10mmlha.png" Desc="Alkass 1", group-title="Sport",Alkass 1
-https://www.giniko.com/xml/secure/plist.php?ch=877
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" Desc="Bein Sports Channel 1", group-title="Sport",Bein Sports 1
-https://popcdn.day/player/beINAR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Sport",Bein Sports 2
-https://popcdn.day/player/beINAR2
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8w61kFX.png" Desc="Alkass 2", group-title="Sport",Alkass 2
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d57BdFh.png" Desc="Alkass 3", group-title="Sport",Alkass 3
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDL65Wu.png" Desc="Alkass 4", group-title="Sport",Alkass 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RGNGsM.png" Desc="Alkass 5", group-title="Sport",Alkass 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrPSPSC.png" Desc="Alkass 6", group-title="Sport",Alkass 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-logo="https://shoof.alkass.net/assets/images/shoof.png" Desc="Shoof 1", group-title="Sport",Shoof 1
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+#EXTINF:-1 tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" Desc="Shoof 2", group-title="Sport",Shoof 2
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
