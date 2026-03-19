@@ -152,3 +152,7 @@ http://apk.arabic-ch.space/live/007000/index.m3u8
 https://www.giniko.com/xml/secure/plist.php?ch=269
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 1", group-title="Sport",Thamanya 1
 https://bbb.exoadash.com/TVD1451/index.mpd
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 2", group-title="Sport",Thamanya 2
+https://bbb.exoadash.com/TVD1403/index.mpd
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 3", group-title="Sport",Thamanya 3
+https://bbb.exoadash.com/TVD6737/index.mpd
