@@ -122,6 +122,12 @@ https://ssadtv.ddns.net/live/saad/playlist.m3u8
 https://popcdn.day/player/beINAR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Sport",Bein Sports 2
 https://popcdn.day/player/beINAR2
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 1", group-title="Sport",Thamanya 1
+https://bbb.exoadash.com/TVD1451/index.mpd
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 2", group-title="Sport",Thamanya 2
+https://bbb.exoadash.com/TVD1403/index.mpd
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 3", group-title="Sport",Thamanya 3
+https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
