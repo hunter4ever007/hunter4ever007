@@ -23,6 +23,10 @@ https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7I0MVf.png" Desc="Roya Drama", group-title="Entertainment",Roya Drama
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOXylJI.png" Desc="DMC Drama", group-title="Entertainment",DMC Drama
+https://www.giniko.com/xml/secure/plist.php?ch=504
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hg34mg3.png" Desc="PNC Drama", group-title="Entertainment",PNC Drama
+https://www.giniko.com/xml/secure/plist.php?ch=526
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
@@ -43,6 +47,10 @@ http://venolie.com/navo/view/p/mtv.php
 http://azrogo.com/iphone/arabic/ch5/mixaraby.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZohZFuq.png" Desc="Alrai TV", group-title="General",Alrai TV
 https://tv.sarcheshmeh.us/embed.php?name=Alrai-TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" Desc="Syria TV", group-title="General",Syria TV
+https://www.giniko.com/xml/secure/plist.php?ch=145
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oz2bPOt.png" Desc="Sharjah TV", group-title="General",Sharjah TV
+https://www.giniko.com/xml/secure/plist.php?ch=183
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -98,6 +106,8 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEV4r6J.jpg" Desc="Al Arabiya Business", group-title="News",Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dEfI2M9.png" Desc="TRT Arabi", group-title="News",TRT Arabi
+https://www.giniko.com/xml/secure/plist.php?ch=684
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
@@ -138,3 +148,7 @@ https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 http://apk.arabic-ch.space/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMvxMxTd/on-sport-2.png" Desc="ON Sport 2", group-title="Sport",ON Sport 2
 http://apk.arabic-ch.space/live/007000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" Desc="Abu Dhabi Sports 1", group-title="Sport",AD Sports 1
+https://www.giniko.com/xml/secure/plist.php?ch=269
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 1", group-title="Sport",Thamanya 1
+https://bbb.exoadash.com/TVD1451/index.mpd
