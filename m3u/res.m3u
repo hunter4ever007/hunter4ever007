@@ -29,6 +29,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=504
 https://www.giniko.com/xml/secure/plist.php?ch=526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8YdakH.png" Desc="CBC Drama", group-title="Entertainment",CBC Drama
 https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8vdgf.png" Desc="Panorama Drama 2", group-title="Entertainment",Panorama Drama 2
+https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaDrama2_HD
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
@@ -84,6 +86,8 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mUDkLvi.jpeg" Desc="Rotana Comedy ", group-title="Movies",Rotana Comedy
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCpizej.png" Desc="Nile Cinema S2", group-title="Movies",Nile Cinema S2
+https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=NileCinema_HD
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
 #EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
@@ -126,12 +130,6 @@ https://ssadtv.ddns.net/live/saad/playlist.m3u8
 https://popcdn.day/player/beINAR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Sport",Bein Sports 2
 https://popcdn.day/player/beINAR2
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 1", group-title="Sport",Thamanya 1
-https://bbb.exoadash.com/TVD1451/index.mpd
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 2", group-title="Sport",Thamanya 2
-https://bbb.exoadash.com/TVD1403/index.mpd
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/d91593192657457.Y3JvcCw1MzEsNDE1LDQzNSwxODY.jpg" Desc="Thamanya 3", group-title="Sport",Thamanya 3
-https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
