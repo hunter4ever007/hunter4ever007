@@ -32,7 +32,7 @@ https://flu.systemnet.tv/CBCDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO8vdgf.png" Desc="Panorama Drama 2", group-title="Entertainment",Panorama Drama 2
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaDrama2_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gp5mNea.png" Desc="Alaraby 2", group-title="Entertainment",Alaraby 2
-https://www.alaraby2.com/live
+http://dagav.com/v/arabic/arab3/alarabytv2.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
