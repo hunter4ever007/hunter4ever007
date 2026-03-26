@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman TV Cultural", group-title="Cultural",Oman TV Cultural
-https://player.mgmlcdn.com/v1/live?id=MTY4&channelid=MTYw&countries=Q0M%3D&filter=DENY&signature=515ec2eb016a3e614059a5261f4b8280&autoplay=true
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imcdn.org/uploads/2016/06/al-jazeera-documentary.gif" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
 http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" Desc="CGTN Documentary", group-title="Documentary",CGTN Documentary
