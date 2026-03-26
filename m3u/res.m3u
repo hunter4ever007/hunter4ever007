@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman TV Cultural", group-title="Cultural",Oman TV Cultural
-http://dagav.com/v/arabic/arab2/omancult.php
+http://azrogo.com/iphone/arabic/ch/oman_cultural.php
 #EXTINF:-1 tvg-logo="https://imcdn.org/uploads/2016/06/al-jazeera-documentary.gif" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
 http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" Desc="CGTN Documentary", group-title="Documentary",CGTN Documentary
