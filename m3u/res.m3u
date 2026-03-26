@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman TV Cultural", group-title="Cultural",Oman TV Cultural
+http://dagav.com/v/arabic/arab2/omancult.php
 #EXTINF:-1 tvg-logo="https://imcdn.org/uploads/2016/06/al-jazeera-documentary.gif" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
 http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" Desc="CGTN Documentary", group-title="Documentary",CGTN Documentary
@@ -71,6 +73,8 @@ https://www.giniko.com/watch.php?id=1570
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=Cima_HD
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMknJCi2n4bVPmtHUFFA39Ov1sI1WMsj-JQ&s" Desc="PNC Film", group-title="Movies",PNC Film
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaFilm_HD
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a52376190793661.Y3JvcCw4MDgsNjMyLDAsMA.jpg" Desc="First free-to-air Arabic movie channel, Rotana Cinema KSA, is the number one channel of choice for audiences in the MENA region.", group-title="Movies",Rotana Cinema
+https://www.giniko.com/xml/secure/plist.php?ch=954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ENdbZn.png" Desc="Mix One", group-title="Movies",Mix
 http://azrogo.com/iphone/arabic/ch5/mx.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dj16oKL.png" Desc="Dubai One Channel", group-title="Movies",Dubai One
@@ -79,8 +83,6 @@ https://www.giniko.com/xml/secure/plist.php?ch=874
 https://www.dailymotion.com/player/metadata/video/x8n6do7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCpizej.png" Desc="Nile Cinema S2", group-title="Movies",Nile Cinema S2
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=NileCinema_HD
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/a52376190793661.Y3JvcCw4MDgsNjMyLDAsMA.jpg" Desc="First free-to-air Arabic movie channel, Rotana Cinema KSA, is the number one channel of choice for audiences in the MENA region.", group-title="Movies",Rotana Cinema
-https://www.giniko.com/xml/secure/plist.php?ch=954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O00al3F.jpeg" Desc="Rotana Cinema KSA", group-title="Movies",Rotana Cinema KSA
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
