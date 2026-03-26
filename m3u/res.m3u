@@ -102,6 +102,8 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mUDkLvi.jpeg" Desc="Rotana Comedy ", group-title="Movies",Rotana Comedy
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mFxUpGU.png" Desc="MovieSphere", group-title="Movies",MovieSphere
+https://tv.sarcheshmeh.us/embed.php?name=MovieSphere
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
 #EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
