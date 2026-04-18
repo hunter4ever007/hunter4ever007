@@ -58,7 +58,7 @@ http://venolie.com/navo/view/p/mtv.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KucgM9c.png" Desc="Mix araby", group-title="General",Mix araby
 http://azrogo.com/iphone/arabic/ch5/mixaraby.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZohZFuq.png" Desc="Alrai TV", group-title="General",Alrai TV
-https://tv.sarcheshmeh.us/embed.php?name=Alrai-TV
+https://www.alraimedia.com/livestream/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" Desc="Syria TV", group-title="General",Syria TV
 https://www.giniko.com/xml/secure/plist.php?ch=145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oz2bPOt.png" Desc="Sharjah TV", group-title="General",Sharjah TV
@@ -74,7 +74,7 @@ http://azrogo.com/iphone/arabic/ch/AlRayyan2.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
-http://azrogo.com/iphone/arabic/ch4/spstn.php
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/09/jn-608x342.jpg" Desc="Junior HD", group-title="Kids",Junior HD
 https://ustvgo.kissreport.com/junior-hd/
 #EXTINF:-1 tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/12/1-2.webp" Desc="Sensical Jr", group-title="Kids",Sensical Jr
