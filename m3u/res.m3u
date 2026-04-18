@@ -187,8 +187,8 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://shoof.alkass.net/assets/images/shoof2.png" Desc="Shoof 2", group-title="Sport",Shoof 2
 https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBgDwhKp/On-Sport-1.png" Desc="ON Sport 1", group-title="Sport",ON Sport 1
-https://2u.pw/ONSP1
+http://apk.arabic-ch.space/live/006900/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMvxMxTd/on-sport-2.png" Desc="ON Sport 2", group-title="Sport",ON Sport 2
-https://2u.pw/ONSP2
+http://apk.arabic-ch.space/live/007000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" Desc="Abu Dhabi Sports 1", group-title="Sport",AD Sports 1
 https://www.giniko.com/xml/secure/plist.php?ch=269
