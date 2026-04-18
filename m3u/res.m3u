@@ -158,10 +158,14 @@ https://ssadtv.ddns.net/live/saad/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRPcOi0.png" Desc="Makkah TV", group-title="Religious",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" Desc="Bein Sports Channel 1", group-title="Sport",Bein Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" Desc="Bein Sports Channel 1", group-title="Bein Sports",Bein Sports 1
 https://popcdn.day/player/beINAR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Sport",Bein Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Bein Sports",Bein Sports 2
 https://popcdn.day/player/beINAR2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYSMao3.png" Desc="Bein Sports Channel 3", group-title="Bein Sports",Bein Sports 3
+https://popcdn.day/player/beINAR3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" Desc="Bein Sports Channel 4", group-title="Bein Sports",Bein Sports 4
+https://popcdn.day/player/beINAR4
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
