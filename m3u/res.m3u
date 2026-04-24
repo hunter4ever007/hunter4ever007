@@ -27,6 +27,10 @@ http://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://www.youtube.com/@NASA/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9GIwdW-W4s5lRBZY26J9fgpnxDgqLLRpTkWygxiSAjo2odu9upZJPXAEHyCFMIo-V3LHV_ER=s900-c-k-c0x00ffffff-no-rj" Desc="Quest Arabia", group-title="Documentary",Quest Arabia
 https://www.youtube.com/@quest.arabiya/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" Desc="Science Channel", group-title="Documentary",Discovery Science 
+https://www.youtube.com/@sciencechannel/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" Desc="BBC Earth", group-title="Documentary",BBC Earth
+https://www.youtube.com/@bbcearth/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" Desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.", group-title="Entertainment",MBC 1
 http://azrogo.com/iphone/f/mb1/
 #EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" Desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.", group-title="Entertainment",LBC
@@ -51,10 +55,10 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 https://www.giniko.com/xml/secure/plist.php?ch=504
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hg34mg3.png" Desc="PNC Drama", group-title="Entertainment",PNC Drama
 https://www.giniko.com/xml/secure/plist.php?ch=526
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8vdgf.png" Desc="Panorama Drama 2", group-title="Entertainment",PNC Drama 2
+https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaDrama2_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8YdakH.png" Desc="CBC Drama", group-title="Entertainment",CBC Drama
 https://flu.systemnet.tv/CBCDrama/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QO8vdgf.png" Desc="Panorama Drama 2", group-title="Entertainment",Panorama Drama 2
-https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=PanoramaDrama2_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gp5mNea.png" Desc="Alaraby 2", group-title="Entertainment",Alaraby 2
 http://dagav.com/v/arabic/arab3/alarabytv2.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
@@ -101,6 +105,8 @@ https://ustvgo.kissreport.com/junior-hd/
 https://ustvgo.kissreport.com/sensical-jr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" Desc="Baby Shark TV", group-title="Kids",Baby Shark TV
 https://www.cxtvenvivo.com/tv-en-vivo/baby-shark-tv-us/
+#EXTINF:-1 tvg-logo="https://xonomax.com/cdn/shop/files/600077.jpg?v=1728395005" Desc="Tom and Jerry Classics", group-title="Kids",Tom and Jerry Classics
+https://www.youtube.com/@warnerbrosclassics/live
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17052023/logos/43075-64652e5bd9b34.png" Desc="Tom and Jerry 24/7", group-title="Kids",Tom and Jerry
 https://api.catcast.tv/api/channels/43075/getcurrentprogram
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" Desc="Boomerang Kids", group-title="Kids",Boomerang
@@ -109,6 +115,8 @@ http://apk.ch-arabic.buzz/live/082/index.m3u8
 https://www.youtube.com/@toyorlive/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" Desc="Cartoon Network MENA", group-title="Kids",Cartoon Network MENA
 https://www.youtube.com/@CartoonNetworkMENA/live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJSJcKMDfJAOIiF9bkWhmDvKX_cogO5EGKQ&s" Desc="Osratouna tv ", group-title="Kids",Osratouna tv 
+https://www.youtube.com/@Osratouna/live
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://www.dailymotion.com/player/metadata/video/x8n6e4h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
