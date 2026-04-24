@@ -27,10 +27,12 @@ http://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://www.youtube.com/@NASA/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9GIwdW-W4s5lRBZY26J9fgpnxDgqLLRpTkWygxiSAjo2odu9upZJPXAEHyCFMIo-V3LHV_ER=s900-c-k-c0x00ffffff-no-rj" Desc="Quest Arabia", group-title="Documentary",Quest Arabia
 https://www.youtube.com/@quest.arabiya/live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" Desc="Science Channel", group-title="Documentary",Discovery Science 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" Desc="Science Channel", group-title="Documentary",Discovery Science
 https://www.youtube.com/@sciencechannel/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" Desc="BBC Earth", group-title="Documentary",BBC Earth
 https://www.youtube.com/@bbcearth/live
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/t9Wvs-gbdsAgsrBDDvCtihF3tqJjNHAYpnusrxYVgv9s_DhaMTGYFPl3Rezd7BROAwhDUaitXw=s160-c-k-c0x00ffffff-no-rj" Desc="Nat Geo Animals", group-title="Documentary",Nat Geo Animals
+https://www.youtube.com/@NatGeoAnimals/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" Desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.", group-title="Entertainment",MBC 1
 http://azrogo.com/iphone/f/mb1/
 #EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" Desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.", group-title="Entertainment",LBC
@@ -95,6 +97,8 @@ http://azrogo.com/iphone/arabic/ch/AlRayyan2.php
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTqqWUx.png" Desc="ATV", group-title="General",ATV
 https://player.vimeo.com/video/1186025033
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klCgyAL.png" Desc="AIC TV", group-title="General",AIC TV
+https://player.restream.io/?token=e711e1267bec4b918cdc79138b225105
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -115,7 +119,7 @@ http://apk.ch-arabic.buzz/live/082/index.m3u8
 https://www.youtube.com/@toyorlive/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" Desc="Cartoon Network MENA", group-title="Kids",Cartoon Network MENA
 https://www.youtube.com/@CartoonNetworkMENA/live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJSJcKMDfJAOIiF9bkWhmDvKX_cogO5EGKQ&s" Desc="Osratouna tv ", group-title="Kids",Osratouna tv 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJSJcKMDfJAOIiF9bkWhmDvKX_cogO5EGKQ&s" Desc="Osratouna tv ", group-title="Kids",Osratouna tv
 https://www.youtube.com/@Osratouna/live
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://www.dailymotion.com/player/metadata/video/x8n6e4h
