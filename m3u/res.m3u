@@ -23,6 +23,8 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" Desc="Wild Earth Channel", group-title="Documentary",Wild Earth
 http://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECPgLf6.png" Desc="NASA Live", group-title="Documentary",NASA Live
+https://www.youtube.com/@NASA/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" Desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.", group-title="Entertainment",MBC 1
 http://azrogo.com/iphone/f/mb1/
 #EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" Desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.", group-title="Entertainment",LBC
@@ -163,7 +165,7 @@ http://dagav.com/v/arabic/arab3/alarabytv.php
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" Desc="France 24 Arabic", group-title="News",France 24 Arabic
 https://www.youtube.com/@France24_ar/live
 #EXTINF:-1 tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/05/%D9%84%D9%88%D8%BA%D9%88.jpg" Desc="Syria News", group-title="News",Syria News
-https://www.youtube.com/watch?v=NGbrJFAnJOU
+https://www.youtube.com/@AlekhbariahSY/live
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
