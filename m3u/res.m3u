@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" Desc="Bein Sports", group-title="Bein Sports",Bein Sports
+https://www.youtube.com/watch?v=yBcrrpetg4Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" Desc="Bein Sports Channel 1", group-title="Bein Sports",Bein Sports 1
 https://popcdn.day/player/beINAR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Bein Sports",Bein Sports 2
