@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" Desc="Bein Sports", group-title="Bein Sports",Bein Sports
-https://www.youtube.com/watch?v=yBcrrpetg4Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png" Desc="Bein Sports Channel 1", group-title="Bein Sports",Bein Sports 1
 https://popcdn.day/player/beINAR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUJZSvs.png" Desc="Bein Sports Channel 2", group-title="Bein Sports",Bein Sports 2
@@ -164,6 +162,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=684
 http://dagav.com/v/arabic/arab3/alarabytv.php
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/France%2024.png" Desc="France 24 Arabic", group-title="News",France 24 Arabic
 https://www.youtube.com/watch?v=3ursYA8HMeo
+#EXTINF:-1 tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/05/%D9%84%D9%88%D8%BA%D9%88.jpg" Desc="Syria News", group-title="News",Syria News
+https://www.youtube.com/watch?v=NGbrJFAnJOU
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
