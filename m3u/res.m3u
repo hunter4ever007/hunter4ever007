@@ -13,6 +13,8 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jg3VAxO.png" Desc="Kuwait Cultural TV", group-title="Cultural",KTV Arabe
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" Desc="Oman Thaqafiyah", group-title="Cultural",Oman TV Cultural S2
+https://www.giniko.com/watch.php?id=184
 #EXTINF:-1 tvg-logo="https://imcdn.org/uploads/2016/06/al-jazeera-documentary.gif" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
 http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" Desc="CGTN Documentary", group-title="Documentary",CGTN Documentary
@@ -59,8 +61,6 @@ https://www.giniko.com/xml/secure/plist.php?ch=3
 https://www.giniko.com/xml/secure/plist.php?ch=5
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" Desc="Egypt Channel 1", group-title="General",Egyptian Channel 1
 https://www.dailymotion.com/player/metadata/video/x856hbh
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/184.jpg" Desc="Oman Thaqafiyah", group-title="General",Oman Thaqafiyah
-https://www.giniko.com/watch.php?id=184
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" Desc="KSA Thikrayat Channel", group-title="General",Thikrayat
 http://azrogo.com/m3u8/sa/?id=thikrayat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" Desc="Qatar TV", group-title="General",Qatar TV
@@ -83,6 +83,10 @@ http://azrogo.com/iphone/arabic/ch/qatar2.php
 http://azrogo.com/iphone/arabic/ch/ryan.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4qB5iN0.png" Desc="Alrayyan Qadeem", group-title="General",Alrayyan Qadeem
 http://azrogo.com/iphone/arabic/ch/AlRayyan2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" Desc="Oman TV", group-title="General",Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTqqWUx.png" Desc="ATV", group-title="General",ATV
+https://player.vimeo.com/video/1186025033
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -202,3 +206,5 @@ http://apk.arabic-ch.space/live/006900/index.m3u8
 http://apk.arabic-ch.space/live/007000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6BVWk8z.png" Desc="Abu Dhabi Sports 1", group-title="Sport",AD Sports 1
 https://www.giniko.com/xml/secure/plist.php?ch=269
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" Desc="Oman Sport TV", group-title="Sport",Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
