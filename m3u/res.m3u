@@ -7,14 +7,14 @@ https://popcdn.day/player/beINAR2
 https://popcdn.day/player/beINAR3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vwAgJNi.png" Desc="Bein Sports Channel 4", group-title="Bein Sports",Bein Sports 4
 https://popcdn.day/player/beINAR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman TV Cultural", group-title="Cultural",Oman TV Cultural
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman Thaqafiyah", group-title="Cultural",Oman TV Cultural S2
-https://www.giniko.com/watch.php?id=184
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" Desc="Saudi Thaqafiya TV", group-title="Cultural",Saudi Thaqafiya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jg3VAxO.png" Desc="Kuwait Cultural TV", group-title="Cultural",KTV Arabe
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman TV Cultural", group-title="Cultural",Oman TV Cultural
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman Thaqafiyah", group-title="Cultural",Oman TV Cultural S2
+https://www.giniko.com/watch.php?id=184
 #EXTINF:-1 tvg-logo="https://imcdn.org/uploads/2016/06/al-jazeera-documentary.gif" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
 http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" Desc="CGTN Documentary", group-title="Documentary",CGTN Documentary
