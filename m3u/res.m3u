@@ -73,8 +73,6 @@ https://www.giniko.com/xml/secure/plist.php?ch=5
 https://www.dailymotion.com/player/metadata/video/x856hbh
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" Desc="KSA Thikrayat Channel", group-title="General",Thikrayat
 http://azrogo.com/m3u8/sa/?id=thikrayat
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" Desc="Qatar TV", group-title="General",Qatar TV
-http://azrogo.com/iphone/arabic/ch/qatar.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" Desc="MTV Lebanon", group-title="General",MTV
 http://venolie.com/navo/view/p/mtv.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KucgM9c.png" Desc="Mix araby", group-title="General",Mix araby
@@ -87,6 +85,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=145
 https://www.giniko.com/xml/secure/plist.php?ch=183
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" Desc="CBC", group-title="General",CBC
 https://flu.systemnet.tv/CBC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" Desc="Qatar TV", group-title="General",Qatar TV
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWJxDUm.png" Desc="Qatar 2", group-title="General",Qatar 2
 http://azrogo.com/iphone/arabic/ch/qatar2.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ts3RjTV.png" Desc="Alrayyan TV", group-title="General",Alrayyan TV
