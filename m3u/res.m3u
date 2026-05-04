@@ -99,6 +99,10 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 https://www.elahmad.org/tv/arabic-tv-online.php?id=funoon
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klCgyAL.png" Desc="AIC TV", group-title="General",AIC TV
 https://player.restream.io/?token=e711e1267bec4b918cdc79138b225105
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68llVTZ.png" Desc="Palestine TV", group-title="General",Palestine TV
+https://tv.sarcheshmeh.us/embed.php?name=Palestine-TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd3Xvd1.png" Desc="Sharjah TV 2", group-title="General",Sharjah TV 2
+https://tv.sarcheshmeh.us/embed.php?name=Sharjah-2
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -184,6 +188,10 @@ https://www.youtube.com/@France24_ar/live
 https://www.youtube.com/@AlekhbariahSY/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UeTseMV.png" Desc="AlMamlaka TV", group-title="News",AlMamlaka TV
 https://www.youtube.com/@AlMamlakaTV/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HREF7o.png" Desc="Extra News", group-title="News",Extra News
+https://www.youtube.com/@extranewsstream/live
+#EXTINF:-1 tvg-logo="https://alziadiq8.com/wp-content/uploads/2014/11/2010-02-13-1RussiaTodaylogo.jpg" Desc="Russia Today Arabic", group-title="News",Russia Today Arabic
+https://tv.sarcheshmeh.us/embed.php?name=Russia-Today-Arabic
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
@@ -234,3 +242,5 @@ http://apk.arabic-ch.space/live/007000/index.m3u8
 https://www.giniko.com/xml/secure/plist.php?ch=269
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" Desc="Oman Sport TV", group-title="Sport",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" Desc="FIFA Plus", group-title="Sport",FIFA Plus
+https://tv.sarcheshmeh.us/embed.php?name=FIFA-Plus
