@@ -96,7 +96,7 @@ http://azrogo.com/iphone/arabic/ch/AlRayyan2.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" Desc="Oman TV", group-title="General",Oman TV
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTqqWUx.png" Desc="ATV", group-title="General",ATV
-https://www.elahmad.org/tv/arabic-tv-online.php?id=funoon
+https://vimeo.com/event/5840166/embed/2a64434062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klCgyAL.png" Desc="AIC TV", group-title="General",AIC TV
 https://player.restream.io/?token=e711e1267bec4b918cdc79138b225105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68llVTZ.png" Desc="Palestine TV", group-title="General",Palestine TV
@@ -244,3 +244,7 @@ https://www.giniko.com/xml/secure/plist.php?ch=269
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" Desc="FIFA Plus", group-title="Sport",FIFA Plus
 https://tv.sarcheshmeh.us/embed.php?name=FIFA-Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzNf2Yx.png" Desc="NBC Sports", group-title="Sport",NBC Sports
+https://ustvgo.kissreport.com/nbc-sports/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" Desc="FOX Sports", group-title="Sport",FOX Sports
+https://ustvgo.kissreport.com/fox_sports/
