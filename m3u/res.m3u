@@ -125,6 +125,8 @@ https://www.youtube.com/@toyorlive/live
 https://www.youtube.com/@CartoonNetworkMENA/live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJSJcKMDfJAOIiF9bkWhmDvKX_cogO5EGKQ&s" Desc="Osratouna tv ", group-title="Kids",Osratouna tv
 https://www.youtube.com/@Osratouna/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2BqP9m.png" Desc="Atfal Wa Mwaheb", group-title="Kids",Atfal Wa Mwaheb
+https://www.youtube.com/@atfalwamwaheb/live
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://www.dailymotion.com/player/metadata/video/x8n6e4h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
@@ -152,6 +154,8 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mFxUpGU.png" Desc="MovieSphere", group-title="Movies",MovieSphere
 https://tv.sarcheshmeh.us/embed.php?name=MovieSphere
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" Desc=" Warner Bros. Entertainment", group-title="Movies", Warner Bros. Entertainment
+https://www.youtube.com/@warnerbrosentertainment/live
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/player/metadata/video/x84nwne
 #EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
@@ -160,6 +164,8 @@ https://www.giniko.com/xml/secure/plist.php?ch=2
 https://www.giniko.com/xml/secure/plist.php?ch=26
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png" Desc="BBC News ", group-title="News",BBC News
 https://www.giniko.com/xml/secure/plist.php?ch=27
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScyTG6P.png" Desc="BBC News Arabic", group-title="News",BBC News Arabic
+https://www.youtube.com/@bbcnewsarabic/live
 #EXTINF:-1 tvg-logo="https://www.skynewsarabia.com/images/v2/2024/02/16/1693716/800/356/1-1693716.png" Desc="Sky News Arabia ", group-title="News",Sky News Arabia
 https://www.giniko.com/xml/secure/plist.php?ch=271
 #EXTINF:-1 tvg-logo="https://al-sharq.com/get/maximage/20170725_1501008854-27677.jpg" Desc="Aljazeera Channel", group-title="News",Aljazeera
@@ -192,6 +198,10 @@ https://www.youtube.com/@AlMamlakaTV/live
 https://www.youtube.com/@extranewsstream/live
 #EXTINF:-1 tvg-logo="https://alziadiq8.com/wp-content/uploads/2014/11/2010-02-13-1RussiaTodaylogo.jpg" Desc="Russia Today Arabic", group-title="News",Russia Today Arabic
 https://tv.sarcheshmeh.us/embed.php?name=Russia-Today-Arabic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" Desc="ABC News Live", group-title="News",ABC News Live
+https://www.youtube.com/@ABCNews/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtQOKeW.png" Desc="Al Mayadeen", group-title="News",Al Mayadeen
+https://www.youtube.com/@AlMayadeenLive1/live
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
@@ -242,9 +252,13 @@ http://apk.arabic-ch.space/live/007000/index.m3u8
 https://www.giniko.com/xml/secure/plist.php?ch=269
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1omi7p8.png" Desc="Oman Sport TV", group-title="Sport",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" Desc="FIFA Plus", group-title="Sport",FIFA Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" Desc="FIFA Plus", group-title="Sport",FIFA Plus
 https://tv.sarcheshmeh.us/embed.php?name=FIFA-Plus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzNf2Yx.png" Desc="NBC Sports", group-title="Sport",NBC Sports
 https://ustvgo.kissreport.com/nbc-sports/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" Desc="FOX Sports", group-title="Sport",FOX Sports
 https://ustvgo.kissreport.com/fox_sports/
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/pzg4tBLyTcFrXseLnaS1GA/1200x675.jpg" Desc="Action Ma3 Waleed", group-title="Sport",Action Ma3 Waleed
+https://www.youtube.com/@ActionMa3Waleed/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EODKutw.png" Desc="Al Ahly TV", group-title="Sport",Al Ahly TV
+http://azrogo.com/iphone/arabic/ch8/Ahly.php
