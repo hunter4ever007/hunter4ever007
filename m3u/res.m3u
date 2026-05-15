@@ -52,7 +52,7 @@ https://www.giniko.com/xml/secure/plist.php?ch=747
 #EXTINF:-1 tvg-logo="https://darelhilal.com/Media/News/2023/2/15/2023-638120775782324438-232.jpg" Desc="Mix One", group-title="Entertainment",Mix One
 http://azrogo.com/iphone/arabic/ch5/mixone.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FasJFMM.png" Desc="Nile Drama Channel", group-title="Entertainment",Nile Drama
-https://www.dailymotion.com/video/x8n6e3a
+https://geo.dailymotion.com/video/x8n6e3a.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1p8b1tY.jpeg" Desc="Rotana Khalijiya", group-title="Entertainment",Rotana Khalijiya
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -78,7 +78,7 @@ https://www.giniko.com/xml/secure/plist.php?ch=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" Desc="Yemen TV Channel", group-title="General",Yemen TV
 https://www.giniko.com/xml/secure/plist.php?ch=5
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" Desc="Egypt Channel 1", group-title="General",Egyptian Channel 1
-https://www.dailymotion.com/video/x856hbh
+https://geo.dailymotion.com/video/x856hbh.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1248249621765390336/img/xIAxw8pmgJm3HNY3.jpg" Desc="KSA Thikrayat Channel", group-title="General",Thikrayat
 http://azrogo.com/m3u8/sa/?id=thikrayat
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" Desc="MTV Lebanon", group-title="General",MTV
@@ -144,7 +144,7 @@ https://www.elahmad.org/tv/live/channel.php?id=almajd_bassma
 #EXTINF:-1 tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Taghreed_Cover2.png" Desc="Almajd Taghreed", group-title="Kids",Almajd Taghreed
 https://www.elahmad.org/tv/live/channel.php?id=almajd_taghreed
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
-https://www.dailymotion.com/video/x8n6e4h
+https://geo.dailymotion.com/video/x8n6e4h.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
 https://www.giniko.com/watch.php?id=1570
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1y8Wzk4iXUjwKbr60Q3CHrSAl9EqHfSNeQ&s" Desc="Cima Movies Channel", group-title="Movies",Cima
@@ -156,7 +156,7 @@ https://www.giniko.com/xml/secure/plist.php?ch=954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ENdbZn.png" Desc="Mix One", group-title="Movies",Mix
 http://azrogo.com/iphone/arabic/ch5/mx.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCpizej.png" Desc="Nile Cinema Channel", group-title="Movies",Nile Cinema
-https://www.dailymotion.com/video/x8n6do7
+https://geo.dailymotion.com/video/x8n6do7.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SCpizej.png" Desc="Nile Cinema S2", group-title="Movies",Nile Cinema S2
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=NileCinema_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O00al3F.jpeg" Desc="Rotana Cinema KSA", group-title="Movies",Rotana Cinema KSA
