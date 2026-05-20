@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tahado Orders</title>
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+
+  <meta name="theme-color" content="#111827">
+</head>
+<body>
+
+<div class="container">
+
+  <h1>طلبات Tahado</h1>
+
+  <div class="login-box">
+    <input id="email" type="email" placeholder="Email">
+    <input id="password" type="password" placeholder="Password">
+    <button onclick="login()">تسجيل الدخول</button>
+  </div>
+
+  <div class="status">
+    <span id="status">غير متصل</span>
+  </div>
+
+  <div id="orders"></div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
