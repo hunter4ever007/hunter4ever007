@@ -286,3 +286,11 @@ https://ustvgo.kissreport.com/fox_sports/
 https://www.youtube.com/@ActionMa3Waleed/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EODKutw.png" Desc="Al Ahly TV", group-title="Sport",Al Ahly TV
 http://azrogo.com/iphone/arabic/ch8/Ahly.php
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="Live 1", group-title="Sport",Live 1
+https://live.kooran23.cfd/tist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="Live 2", group-title="Sport",Live 2
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6O0B3iyoy-cVzGuZQgQ_MF1XS5Y4dBrkqPewzMVzZQfCNKgZlOriGxh18LAqfbazSKD4UHP2av-opIP9zut3Tw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="Live 3", group-title="Sport",Live 3
+https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_960x540_2000k.m3u
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="Live 4", group-title="Sport",Live 4
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
