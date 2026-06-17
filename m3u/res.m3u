@@ -71,6 +71,14 @@ https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?
 https://flu.systemnet.tv/CBCDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gp5mNea.png" Desc="Alaraby 2", group-title="Entertainment",Alaraby 2
 http://dagav.com/v/arabic/arab3/alarabytv2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIThcM8.png" Desc="Roya Comedy", group-title="Entertainment",Roya Comedy
+http://azrogo.com/iphone/arabic/ch3/royacomedy.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvIAEsJ.png" Desc="Jordan Drama", group-title="Entertainment",Jordan Drama
+http://azrogo.com/iphone/arabic/ch3/jordan_drama.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuwwoO2.png" Desc="Jordan Comedy", group-title="Entertainment",Jordan Comedy
+http://azrogo.com/iphone/arabic/ch3/jordan_comedy.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UrCl4k.png" Desc="Jordan Archive", group-title="Entertainment",Jordan Archive
+http://azrogo.com/iphone/arabic/ch3/jordan_archive.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
@@ -119,6 +127,12 @@ https://www.livehdtv.com/yayin/?kanal=432
 http://azrogo.com/iphone/arabic/ch3/Al-ordonia.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XUPAYAA.png" Desc="Sudan TV", group-title="General",Sudan TV
 https://www.giniko.com/xml/secure/plist.php?ch=187
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" Desc="Amman TV", group-title="General",Amman TV
+http://azrogo.com/iphone/arabic/ch3/ammantv.php
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5lM4SPCRJspLwKAEc1vdil5XWyXis7R60tantA536IABJpSqNY-2J8LVH_11kKweY1NVxzg7_rQ=s900-c-k-c0x00ffffff-no-rj" Desc="Roya Kitchen ", group-title="General",Roya Kitchen 
+http://azrogo.com/iphone/arabic/ch3/royakitchen.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7TgVxT.png" Desc="Abu Dhabi TV", group-title="General",Abu Dhabi TV
+https://www.elahmad.ch/tv/live/channels.php?id=1075
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -228,6 +242,8 @@ https://tv.sarcheshmeh.us/embed.php?name=Russia-Today-Arabic
 https://www.youtube.com/@ABCNews/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtQOKeW.png" Desc="Al Mayadeen", group-title="News",Al Mayadeen
 https://www.youtube.com/@AlMayadeenLive1/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/afowXIe.png" Desc="Roya News", group-title="News",Roya News
+http://azrogo.com/iphone/arabic/ch3/roaya_news.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
@@ -294,5 +310,7 @@ https://ustvgo.kissreport.com/fox_sports/
 https://www.youtube.com/@ActionMa3Waleed/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EODKutw.png" Desc="Al Ahly TV", group-title="Sport",Al Ahly TV
 http://azrogo.com/iphone/arabic/ch8/Ahly.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIThcM8.png" Desc="Roya Sport Jordan", group-title="Sport",Roya Sport
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/J73cBHgNRzCUT-QiO1wEuQrVBxLd2vFQf1b2a1RXD-vCcdcfAmM9r3J6prY4fvKij9eKuAqlOA=s900-c-k-c0x00ffffff-no-rj" Desc="Roya Sport Jordan", group-title="Sport",Roya Sport
 http://azrogo.com/iphone/arabic/ch3/royaspo.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" Desc="Jordan Sports", group-title="Sport",Jordan Sports
+http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
