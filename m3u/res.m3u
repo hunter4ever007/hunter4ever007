@@ -113,6 +113,8 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://tv.sarcheshmeh.us/embed.php?name=Sharjah-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgEeTNr.png" Desc="Al Mahriah TV", group-title="General",Al Mahriah TV
 http://azrogo.com/iphone/arabic/ch6/almahriah.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJYTfHi.png" Desc="2M Monde", group-title="General",2M Monde
+https://www.livehdtv.com/yayin/?kanal=432
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
