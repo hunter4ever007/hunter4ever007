@@ -151,6 +151,8 @@ https://www.elahmad.ch/tv/live/channel.php?id=almajd_rawda
 https://www.elahmad.ch/tv/live/channel.php?id=almajd_bassma
 #EXTINF:-1 tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Taghreed_Cover2.png" Desc="Almajd Taghreed", group-title="Kids",Almajd Taghreed
 https://www.elahmad.ch/tv/live/channel.php?id=almajd_taghreed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acuCGF8.png" Desc="Roya Kids", group-title="Kids",Roya Kids
+http://azrogo.com/iphone/arabic/ch3/royakids.php
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://geo.dailymotion.com/video/x8n6e4h.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
@@ -292,3 +294,5 @@ https://ustvgo.kissreport.com/fox_sports/
 https://www.youtube.com/@ActionMa3Waleed/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EODKutw.png" Desc="Al Ahly TV", group-title="Sport",Al Ahly TV
 http://azrogo.com/iphone/arabic/ch8/Ahly.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIThcM8.png" Desc="Roya Sport Jordan", group-title="Sport",Roya Sport
+http://azrogo.com/iphone/arabic/ch3/royaspo.php
