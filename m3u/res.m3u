@@ -129,7 +129,7 @@ http://azrogo.com/iphone/arabic/ch3/Al-ordonia.php
 https://www.giniko.com/xml/secure/plist.php?ch=187
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" Desc="Amman TV", group-title="General",Amman TV
 http://azrogo.com/iphone/arabic/ch3/ammantv.php
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5lM4SPCRJspLwKAEc1vdil5XWyXis7R60tantA536IABJpSqNY-2J8LVH_11kKweY1NVxzg7_rQ=s900-c-k-c0x00ffffff-no-rj" Desc="Roya Kitchen ", group-title="General",Roya Kitchen 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5lM4SPCRJspLwKAEc1vdil5XWyXis7R60tantA536IABJpSqNY-2J8LVH_11kKweY1NVxzg7_rQ=s900-c-k-c0x00ffffff-no-rj" Desc="Roya Kitchen ", group-title="General",Roya Kitchen
 http://azrogo.com/iphone/arabic/ch3/royakitchen.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
@@ -312,17 +312,7 @@ http://azrogo.com/iphone/arabic/ch8/Ahly.php
 http://azrogo.com/iphone/arabic/ch3/royaspo.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" Desc="Jordan Sports", group-title="Sport",Jordan Sports
 http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 1", group-title="Sport",LIVE 1
-https://live.kooraa8.cfd/tooore1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 2", group-title="Sport",LIVE 2
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 2", group-title="Sport",LIVE 1
 https://s3.us-east-2.amazonaws.com/cdnh125/hls/0/stream_1280x720_3300k.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 3", group-title="Sport",LIVE 3
-https://s3.eu-north-1.amazonaws.com/196.ccdd3333/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 5", group-title="Sport",LIVE 4
-https://14cup.s3.us-east-2.amazonaws.com/max1/max1_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 5", group-title="Sport",LIVE 5
-https://1.simoplay.com/secure-hls/1781900722/v68j6dRHUpTtJHYrOiSC1g/ivedvqo3ltm.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://22.streemach.site/albaplayer/live1/?serv=1
