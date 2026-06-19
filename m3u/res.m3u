@@ -312,7 +312,7 @@ http://azrogo.com/iphone/arabic/ch8/Ahly.php
 http://azrogo.com/iphone/arabic/ch3/royaspo.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" Desc="Jordan Sports", group-title="Sport",Jordan Sports
 http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 2", group-title="Sport",LIVE 1
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 1", group-title="Sport",LIVE 1
 https://s3.us-east-2.amazonaws.com/cdnh125/hls/0/stream_1280x720_3300k.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://22.streemach.site/albaplayer/live1/?serv=1
