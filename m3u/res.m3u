@@ -323,5 +323,6 @@ https://14cup.s3.us-east-2.amazonaws.com/max1/max1_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 5", group-title="Sport",LIVE 5
 https://1.simoplay.com/secure-hls/1781900722/v68j6dRHUpTtJHYrOiSC1g/ivedvqo3ltm.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE 5", group-title="Sport",LIVE Streams
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://8.kooralive360.com/albaplayer/bein-sports-hd-1/?serv=1
