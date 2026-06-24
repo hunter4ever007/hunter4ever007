@@ -316,6 +316,12 @@ http://azrogo.com/iphone/arabic/ch3/royaspo.php
 http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 1", group-title="Sport",LIVE 1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 2", group-title="Sport",LIVE 2
+https://sh.clouata.space/wooorle2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 3", group-title="Sport",LIVE 3
+https://2.bb1.dpdns.org/hls/1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 4", group-title="Sport",LIVE 4
+https://s3.us-east-2.amazonaws.com/cdna202/live/stream/720p/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://new.poiy.online/albaplayer/max1/?serv=1
