@@ -133,6 +133,8 @@ http://azrogo.com/iphone/arabic/ch3/ammantv.php
 http://azrogo.com/iphone/arabic/ch3/royakitchen.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVgus9P.png" Desc="Alsaeedah TV", group-title="General",Alsaeedah TV
 https://www.elahmad.ch/tv/radiant.php?id=alsaeedahtv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpewoTI5GHdkwoTWk3ds9mQApLFoA7F5M6anqjAbCP2I-QmDBAGzv9cI&s=10" Desc="Hadramout", group-title="General",Hadramout
+https://www.elahmad.ch/tv/mobiletv/glarb.php?id=hadramout
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
