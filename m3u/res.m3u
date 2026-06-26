@@ -254,6 +254,14 @@ https://www.youtube.com/@ABCNews/live
 https://www.youtube.com/@AlMayadeenLive1/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afowXIe.png" Desc="Roya News", group-title="News",Roya News
 http://azrogo.com/iphone/arabic/ch3/roaya_news.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" Desc="Bloomberg TV", group-title="News",Bloomberg TV
+https://www.livehdtv.com/yayin/?kanal=432
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lw2THVt.png" Desc="NBC News", group-title="News",NBC News
+https://www.livehdtv.com/yayin/?kanal=139
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" Desc="CBS News", group-title="News",CBS News
+https://www.livehdtv.com/yayin/?kanal=100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" Desc="WeatherNation", group-title="News",WeatherNation
+https://www.livehdtv.com/yayin/?kanal=681
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
@@ -332,7 +340,6 @@ https://we.smarop.store/spoos1_720/index.m3u8
 https://22.cdg1.dpdns.org/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 4", group-title="Sport",LIVE 4
 https://pub-2929893baf104f16ad83644db4c547d8.r2.dev/hls/1/stream.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://new.poiy.online/albaplayer/max1/?serv=1
