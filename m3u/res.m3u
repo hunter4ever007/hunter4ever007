@@ -47,7 +47,7 @@ http://azrogo.com/iphone/f/mb1/
 https://www.giniko.com/xml/secure/plist.php?ch=887
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkUojwBpbzr7ATB1LStM_Am7mZETJtX2apbg&s" Desc="The channel offers a diverse range of genres, including social dramas, historical epics, Bedouin stories, and dubbed international content, particularly Turkish and Indian productions.", group-title="Entertainment",MBC Drama
 http://venolie.com/navo/view/p/bcdrama.php
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/747.jpg" Desc="Al-Hayat Blue for series", group-title="Entertainment",Al-Hayat series
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVM7I4a.png" Desc="Al-Hayat Blue", group-title="Entertainment",Al-Hayat Blue
 https://www.giniko.com/xml/secure/plist.php?ch=747
 #EXTINF:-1 tvg-logo="https://darelhilal.com/Media/News/2023/2/15/2023-638120775782324438-232.jpg" Desc="Mix One", group-title="Entertainment",Mix One
 http://azrogo.com/iphone/arabic/ch5/mixone.php
@@ -79,6 +79,8 @@ http://azrogo.com/iphone/arabic/ch3/jordan_drama.php
 http://azrogo.com/iphone/arabic/ch3/jordan_comedy.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UrCl4k.png" Desc="Jordan Archive", group-title="Entertainment",Jordan Archive
 http://azrogo.com/iphone/arabic/ch3/jordan_archive.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" Desc="Alhayat Red", group-title="Entertainment",Alhayat Red
+https://www.elahmad.ch/tv/mobiletv/glarb.php?id=alhayat_1
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
