@@ -171,6 +171,8 @@ https://www.elahmad.ch/tv/live/channel.php?id=almajd_bassma
 https://www.elahmad.ch/tv/live/channel.php?id=almajd_taghreed
 #EXTINF:-1 tvg-logo="https://i.imgur.com/acuCGF8.png" Desc="Roya Kids", group-title="Kids",Roya Kids
 http://azrogo.com/iphone/arabic/ch3/royakids.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7woV4Cz.png" Desc="Baraem", group-title="Kids",Baraem
+https://www.elahmad.ch/tv/mobiletv/glarb.php?id=baraem
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://geo.dailymotion.com/video/x8n6e4h.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
