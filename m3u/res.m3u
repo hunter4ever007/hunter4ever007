@@ -262,6 +262,16 @@ https://www.livehdtv.com/yayin/?kanal=139
 https://www.livehdtv.com/yayin/?kanal=100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" Desc="WeatherNation", group-title="News",WeatherNation
 https://www.livehdtv.com/yayin/?kanal=681
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vmfZb5.png" Desc="Elsharq TV", group-title="News",Elsharq TV
+https://www.youtube.com/@ElsharqTVOfficial/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37t7yfO.png" Desc="Al Qahera News", group-title="News",Al Qahera News
+https://www.youtube.com/@AlQaheranewstv/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6G6fxs5.png" Desc="Al Mashhad ", group-title="News",Al Mashhad 
+https://www.youtube.com/@almashhadmedia/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" Desc="Al Arabiya Programs", group-title="News",Al Arabiya Programs
+https://www.youtube.com/@AlArabiyaPrograms/live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SD0YYqYW/alkahera-welnas.png" Desc="Al Kahera Wal Nas", group-title="News",Al Kahera Wal Nas
+https://www.youtube.com/@%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3/live
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/327.gif" Desc="Al Quran Al Kareem Channel", group-title="Religious",Al Quran Al Kareem TV
 https://www.giniko.com/watch.php?id=327
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/326.gif" Desc="Saudi Sunnah Channel", group-title="Religious",Sunnah TV
