@@ -34,13 +34,13 @@ https://www.youtube.com/@bbcearth/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/t9Wvs-gbdsAgsrBDDvCtihF3tqJjNHAYpnusrxYVgv9s_DhaMTGYFPl3Rezd7BROAwhDUaitXw=s160-c-k-c0x00ffffff-no-rj" Desc="Nat Geo Animals", group-title="Documentary",Nat Geo Animals
 https://www.youtube.com/@NatGeoAnimals/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JnD7J5.png" Desc="Almajd Documentary", group-title="Documentary",Almajd Documentary
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_documentary
+https://www.elahmad.to/tv/live/channel.php?id=almajd_documentary
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDXvmtW.png" Desc="Almajd Taabeaa", group-title="Documentary",Almajd Taabeaa
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_taabeaa
+https://www.elahmad.to/tv/live/channel.php?id=almajd_taabeaa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sHsvlP.png" Desc="Almajd Scientific", group-title="Educational",Almajd Scientific
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_scientific
+https://www.elahmad.to/tv/live/channel.php?id=almajd_scientific
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6I9d9qe.png" Desc="Almajd Masa", group-title="Educational",Almajd Masa
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_masa
+https://www.elahmad.to/tv/live/channel.php?id=almajd_masa
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFlA1IB2o6p2Zz0BZxbRMhdaMLJ3bzdsDGg&s" Desc="MBC1 is the premier general entertainment channel of the MBC Group and the first private, independent satellite station in the Arab world.", group-title="Entertainment",MBC 1
 http://azrogo.com/iphone/f/mb1/
 #EXTINF:-1 tvg-logo="https://packlevant.tv/wp-content/uploads/sites/33/2022/09/lbc.png" Desc="LBC (Lebanese Broadcasting Corporation International) is Lebanon's leading television station, known for its mix of news, entertainment, and talk shows.", group-title="Entertainment",LBC
@@ -80,7 +80,7 @@ http://azrogo.com/iphone/arabic/ch3/jordan_comedy.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UrCl4k.png" Desc="Jordan Archive", group-title="Entertainment",Jordan Archive
 http://azrogo.com/iphone/arabic/ch3/jordan_archive.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" Desc="Alhayat Red", group-title="Entertainment",Alhayat Red
-https://www.elahmad.ch/tv/mobiletv/glarb.php?id=alhayat_1
+https://www.elahmad.to/tv/mobiletv/glarb.php?id=alhayat_1
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
@@ -114,7 +114,7 @@ http://azrogo.com/iphone/arabic/ch/AlRayyan2.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" Desc="Oman TV", group-title="General",Oman TV
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTqqWUx.png" Desc="ATV", group-title="General",ATV
-https://www.elahmad.ch/tv/arabic-tv-online.php?id=funoon
+https://www.elahmad.to/tv/arabic-tv-online.php?id=funoon
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klCgyAL.png" Desc="AIC TV", group-title="General",AIC TV
 https://player.restream.io/?token=e711e1267bec4b918cdc79138b225105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68llVTZ.png" Desc="Palestine TV", group-title="General",Palestine TV
@@ -134,11 +134,11 @@ http://azrogo.com/iphone/arabic/ch3/ammantv.php
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5lM4SPCRJspLwKAEc1vdil5XWyXis7R60tantA536IABJpSqNY-2J8LVH_11kKweY1NVxzg7_rQ=s900-c-k-c0x00ffffff-no-rj" Desc="Roya Kitchen ", group-title="General",Roya Kitchen
 http://azrogo.com/iphone/arabic/ch3/royakitchen.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVgus9P.png" Desc="Alsaeedah TV", group-title="General",Alsaeedah TV
-https://www.elahmad.ch/tv/radiant.php?id=alsaeedahtv
+https://www.elahmad.to/tv/radiant.php?id=alsaeedahtv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpewoTI5GHdkwoTWk3ds9mQApLFoA7F5M6anqjAbCP2I-QmDBAGzv9cI&s=10" Desc="Hadramout", group-title="General",Hadramout
-https://www.elahmad.ch/tv/mobiletv/glarb.php?id=hadramout
+https://www.elahmad.to/tv/mobiletv/glarb.php?id=hadramout
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" Desc="Future TV", group-title="General",Future TV
-https://www.elahmad.ch/tv/mobiletv/glarb.php?id=future1
+https://www.elahmad.to/tv/mobiletv/glarb.php?id=future1
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -153,30 +153,30 @@ https://www.cxtvenvivo.com/tv-en-vivo/baby-shark-tv-us/
 https://www.youtube.com/@warnerbrosclassics/live
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17052023/logos/43075-64652e5bd9b34.png" Desc="Tom and Jerry 24/7", group-title="Kids",Tom and Jerry
 https://api.catcast.tv/api/channels/43075/getcurrentprogram
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" Desc="Boomerang Kids", group-title="Kids",Boomerang
-http://apk.ch-arabic.buzz/live/082/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5j8z6cc.png" Desc="Toyor Aljanah Live TV", group-title="Kids",Toyor Aljanah
 https://www.youtube.com/@toyorlive/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" Desc="Cartoon Network MENA", group-title="Kids",Cartoon Network MENA
 https://www.youtube.com/@CartoonNetworkMENA/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" Desc="Boomerang Kids", group-title="Kids",Boomerang
+http://apk.ch-arabic.buzz/live/082/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJSJcKMDfJAOIiF9bkWhmDvKX_cogO5EGKQ&s" Desc="Osratouna tv ", group-title="Kids",Osratouna tv
 https://www.youtube.com/@Osratouna/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2BqP9m.png" Desc="Atfal Wa Mwaheb", group-title="Kids",Atfal Wa Mwaheb
 https://www.youtube.com/@atfalwamwaheb/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEC3Zp9.png" Desc="Almajd Kids", group-title="Kids",Almajd Kids
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_kids
+https://www.elahmad.to/tv/live/channel.php?id=almajd_kids
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VnXBM19.png" Desc="Almajd Rawda", group-title="Kids",Almajd Rawda
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_rawda
+https://www.elahmad.to/tv/live/channel.php?id=almajd_rawda
 #EXTINF:-1 tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Massah_Cover-1.png" Desc="Almajd Bassma", group-title="Kids",Almajd Bassma
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_bassma
+https://www.elahmad.to/tv/live/channel.php?id=almajd_bassma
 #EXTINF:-1 tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Taghreed_Cover2.png" Desc="Almajd Taghreed", group-title="Kids",Almajd Taghreed
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_taghreed
+https://www.elahmad.to/tv/live/channel.php?id=almajd_taghreed
 #EXTINF:-1 tvg-logo="https://i.imgur.com/acuCGF8.png" Desc="Roya Kids", group-title="Kids",Roya Kids
 http://azrogo.com/iphone/arabic/ch3/royakids.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7woV4Cz.png" Desc="Baraem", group-title="Kids",Baraem
-https://www.elahmad.ch/tv/mobiletv/glarb.php?id=baraem
+https://www.elahmad.to/tv/mobiletv/glarb.php?id=baraem
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvCrNQ8.png" Desc="Jeem TV", group-title="Kids",Jeem TV
-https://www.elahmad.ch/tv/mobiletv/glarb.php?id=jscc1
+https://www.elahmad.to/tv/mobiletv/glarb.php?id=jscc1
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://geo.dailymotion.com/video/x8n6e4h.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
@@ -289,11 +289,11 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wkl8Nc_JtKY/hqdefault.jpg" Desc="AlAfasy TV", group-title="Religious",AlAfasy TV
 https://www.youtube.com/@alafasy/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBelAQj.png" Desc="Al Majd Quran ", group-title="Religious",Al Majd Quran
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_quran
+https://www.elahmad.to/tv/live/channel.php?id=almajd_quran
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCJM8nE.png" Desc="Al Majd TV", group-title="Religious",Al Majd TV
-https://www.elahmad.ch/tv/live/channel.php?id=almajd
+https://www.elahmad.to/tv/live/channel.php?id=almajd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZiI374j.png" Desc="Almajd Hadeeth", group-title="Religious",Almajd Hadeeth
-https://www.elahmad.ch/tv/live/channel.php?id=almajd_hadeeth
+https://www.elahmad.to/tv/live/channel.php?id=almajd_hadeeth
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/nrt-sport-528x297.png" Desc="NRT Sport offers 24/7 sports coverage, highlighting local and international events.", group-title="Sport",NRT Sport
