@@ -144,7 +144,7 @@ https://www.elahmad.to/tv/mobiletv/glarb.php?id=future1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TzcJu5.png" Desc="Yemen Today", group-title="General",Yemen Today
 https://www.yementdy.com/live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" Desc="Yemen Shabab", group-title="General",Yemen Shabab
-https://yemenshabab.site/ 
+https://yemenshabab.site/
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -349,13 +349,7 @@ http://azrogo.com/iphone/arabic/ch3/royaspo.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" Desc="Jordan Sports", group-title="Sport",Jordan Sports
 http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 1", group-title="Sport",LIVE 1
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 2", group-title="Sport",LIVE 2
-https://we.smarop.store/spoos1_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 3", group-title="Sport",LIVE 3
-https://22.cdg1.dpdns.org/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 4", group-title="Sport",LIVE 4
-https://pub-2929893baf104f16ad83644db4c547d8.r2.dev/hls/1/stream.m3u8
+https://st.ekuzadz.website/mekan2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
-https://new.poiy.online/albaplayer/max1/?serv=1
+https://a.kora-sia.com/albaplayer/bein-1/
