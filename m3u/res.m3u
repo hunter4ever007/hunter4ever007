@@ -85,6 +85,10 @@ http://azrogo.com/iphone/arabic/ch3/jordan_archive.php
 https://www.elahmad.to/tv/mobiletv/glarb.php?id=alhayat_1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" Desc="MBC 4", group-title="Entertainment",MBC 4
 http://azrogo.com/iphone/arabic/ch/mb_4.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" Desc="MBC Drama Plus", group-title="Entertainment",MBC Drama Plus
+http://azrogo.com/iphone/arabic/ch/mdplus.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" Desc="MBC 5", group-title="Entertainment",MBC 5
+http://azrogo.com/iphone/arabic/ch/cbm5.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
