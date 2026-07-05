@@ -218,8 +218,6 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mFxUpGU.png" Desc="MovieSphere", group-title="Movies",MovieSphere
 https://tv.sarcheshmeh.us/embed.php?name=MovieSphere
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png" Desc=" Warner Bros. Entertainment", group-title="Movies",Warner Bros. Entertainment
-https://www.youtube.com/@warnerbrosentertainment/live
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483371.png" Desc="Egypt News Channel", group-title="News",Nile News
 https://www.dailymotion.com/video/x84nwne
 #EXTINF:-1 tvg-logo="https://www.yodeck.com/wp-content/uploads/2023/09/Al-Jazeera-Thumbnail.jpg" Desc="Aljazeera English", group-title="News",Aljazeera English
@@ -280,7 +278,7 @@ https://www.livehdtv.com/yayin/?kanal=681
 https://www.youtube.com/@ElsharqTVOfficial/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37t7yfO.png" Desc="Al Qahera News", group-title="News",Al Qahera News
 https://www.youtube.com/@AlQaheranewstv/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6G6fxs5.png" Desc="Al Mashhad ", group-title="News",Al Mashhad 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6G6fxs5.png" Desc="Al Mashhad ", group-title="News",Al Mashhad
 https://www.youtube.com/@almashhadmedia/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" Desc="Al Arabiya Programs", group-title="News",Al Arabiya Programs
 https://www.youtube.com/@AlArabiyaPrograms/live
