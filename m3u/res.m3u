@@ -183,6 +183,8 @@ http://azrogo.com/iphone/arabic/ch3/royakids.php
 https://www.elahmad.to/tv/mobiletv/glarb.php?id=baraem
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dvCrNQ8.png" Desc="Jeem TV", group-title="Kids",Jeem TV
 https://www.elahmad.to/tv/mobiletv/glarb.php?id=jscc1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQKf0tq.png" Desc="Rotana Kids", group-title="Kids",Rotana Kids
+https://www.elahmad.to/tv/live/shahid_shaka.php?id=rotana_kids
 #EXTINF:-1 tvg-logo="https://www.maspero.eg/images/live_channels_logos/1695092596.jpg" Desc="A public heritage channel dedicated to broadcasting classic television archives from the ", group-title="Movies",Maspero Zaman
 https://geo.dailymotion.com/video/x8n6e4h.json?legacy=true&embedder=https%3A%2F%2Fwww.dailymotion.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSVnzR1.png" Desc="US Movies", group-title="Movies",HD movies
