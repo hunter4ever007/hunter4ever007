@@ -325,6 +325,7 @@ https://www.elahmad.to/tv/live/channel.php?id=almajd_hadeeth
 #EXTINF:-1 tvg-logo="https://dawa.center/images/61f7674f32bee.jpg" Desc="Bahrain Quran ", group-title="Religious",Bahrain Quran
 https://www.mia.gov.bh/quran-kareem-tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7o4HgrP.png" Desc="Al Resala Rotana", group-title="Religious",Al Resala
+#EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
