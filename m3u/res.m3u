@@ -15,6 +15,8 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b38wNPK.png" Desc="Oman Thaqafiyah", group-title="Cultural",Oman TV Cultural S2
 https://www.giniko.com/watch.php?id=184
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqEbc49.png" Desc="Ethraa Kuwait", group-title="Cultural",Ethraa KTV 
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imcdn.org/uploads/2016/06/al-jazeera-documentary.gif" Desc="Aljazeera Documentary", group-title="Documentary",Aljazeera Documentary
 http://azrogo.com/iphone/arabic/ch/aljazeera-documentary.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" Desc="CGTN Documentary", group-title="Documentary",CGTN Documentary
@@ -89,8 +91,14 @@ http://azrogo.com/iphone/arabic/ch3/jordan_drama.php
 http://azrogo.com/iphone/arabic/ch3/jordan_comedy.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UrCl4k.png" Desc="Jordan Archive", group-title="Entertainment",Jordan Archive
 http://azrogo.com/iphone/arabic/ch3/jordan_archive.php
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeanUcTNxjRFzQ-9wy0zVTpquccV8rIT8iKqP-iA_Xw&s=10" Desc="Kuwait Drama", group-title="Entertainment",KTV Drama
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/604.png" Desc="Kuwait TV Channel", group-title="General",KTV
 https://www.giniko.com/watch.php?id=604
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kG0d8Ay.png" Desc="Kuwait TV", group-title="General",KTV S2
+http://azrogo.com/iphone/arabic/ch2/Kuwait1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hB57mNh.png" Desc="Kuwait TV 2", group-title="General",KTV 2
+http://azrogo.com/iphone/arabic/ch2/Kuwait2.php
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/22/1/saudi-tv-channle-1-logo-png_seeklogo-225138.png" Desc="Saudi TV 1 Channel", group-title="General",Saudi TV 1
 https://www.giniko.com/xml/secure/plist.php?ch=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wN3REXv.png" Desc="Yemen TV Channel", group-title="General",Yemen TV
@@ -155,8 +163,8 @@ https://yemenshabab.site/
 https://www.mia.gov.bh/btv-radio-live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6Lmntr.png" Desc="Bahrain International", group-title="General",Bahrain International
 https://www.mia.gov.bh/bahrain-international/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hB57mNh.png" Desc="Kuwait TV 2", group-title="General",KTV 2
-http://azrogo.com/iphone/arabic/ch2/Kuwait2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naVEZtj.png" Desc="Qurain Kuwait", group-title="General",Qurain KTV
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -364,12 +372,14 @@ http://azrogo.com/iphone/arabic/ch8/Ahly.php
 http://azrogo.com/iphone/arabic/ch3/royaspo.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" Desc="Jordan Sports", group-title="Sport",Jordan Sports
 http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 1", group-title="Sport",LIVE 1
-https://st.ekuzadz.website/mekan2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" Desc="Bahrain Sports 1", group-title="Sport",Bahrain Sports 1
 https://www.mia.gov.bh/bahrain-sport-1/
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1508429798359670791/b1Yg7M4n_400x400.jpg" Desc="Bahrain Sports 2", group-title="Sport",Bahrain Sports 2
 https://www.mia.gov.bh/bahrain-sport-2/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1hGX1d.png" Desc="Kuwait Sports 1", group-title="Sport",KTV Sports 1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4oX0gf.png" Desc="Kuwait Sports 2", group-title="Sport",KTV Sports 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://1.yalla3arab.com/albaplayer/bein-sports-hd-1/?serv=1
