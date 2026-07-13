@@ -151,6 +151,12 @@ https://www.elahmad.to/tv/mobiletv/glarb.php?id=future1
 https://www.yementdy.com/live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5Oi2NS.png" Desc="Yemen Shabab", group-title="General",Yemen Shabab
 https://yemenshabab.site/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEUsGNl.png" Desc="Bahrain TV", group-title="General",Bahrain TV
+https://www.mia.gov.bh/btv-radio-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6Lmntr.png" Desc="Bahrain International", group-title="General",Bahrain International
+https://www.mia.gov.bh/bahrain-international/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hB57mNh.png" Desc="Kuwait TV 2", group-title="General",KTV 2
+http://azrogo.com/iphone/arabic/ch2/Kuwait2.php
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1626.jpg" Desc="Masha and bear Channel 24/7", group-title="Kids",Masha & bear
 https://www.giniko.com/watch.php?id=1626
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" Desc="Spacetoon Kids Channel", group-title="Kids",Spacetoon
@@ -308,7 +314,7 @@ https://www.elahmad.to/tv/live/channel.php?id=almajd_quran
 https://www.elahmad.to/tv/live/channel.php?id=almajd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZiI374j.png" Desc="Almajd Hadeeth", group-title="Religious",Almajd Hadeeth
 https://www.elahmad.to/tv/live/channel.php?id=almajd_hadeeth
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LTD0jIm.png" Desc="Bahrain Quran ", group-title="Religious",Bahrain Quran 
+#EXTINF:-1 tvg-logo="https://dawa.center/images/61f7674f32bee.jpg" Desc="Bahrain Quran ", group-title="Religious",Bahrain Quran
 https://www.mia.gov.bh/quran-kareem-tv/
 #EXTINF:-1 tvg-logo="https://karwan.tv/wp-content/uploads/duhok-tv-sport-528x297.jpg" Desc="The best sport channel in Duhok, bringing you live matches and analysis.", group-title="Sport",Duhok TV Sport
 https://karwan.tv/live/duhok-tv-sport-1.php
@@ -360,6 +366,10 @@ http://azrogo.com/iphone/arabic/ch3/royaspo.php
 http://azrogo.com/iphone/arabic/ch3/jordan_sports.php
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/016/931/non_2x/live-streaming-icon-for-the-broadcast-system-live-streaming-icon-design-with-red-and-white-colors-live-streaming-image-with-text-effect-red-and-white-gradient-colors-free-png.png" Desc="LIVE 1", group-title="Sport",LIVE 1
 https://st.ekuzadz.website/mekan2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBpLsbC.png" Desc="Bahrain Sports 1", group-title="Sport",Bahrain Sports 1
+https://www.mia.gov.bh/bahrain-sport-1/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1508429798359670791/b1Yg7M4n_400x400.jpg" Desc="Bahrain Sports 2", group-title="Sport",Bahrain Sports 2
+https://www.mia.gov.bh/bahrain-sport-2/
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png" Desc="LIVE Streams ", group-title="Sport",LIVE Streams
 https://1.yalla3arab.com/albaplayer/bein-sports-hd-1/?serv=1
