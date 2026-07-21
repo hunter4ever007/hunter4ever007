@@ -41,6 +41,8 @@ https://www.elahmad.to/tv/live/channel.php?id=almajd_documentary
 https://www.elahmad.to/tv/live/channel.php?id=almajd_taabeaa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aeu5zIC.png" Desc="Russia Today Documentary", group-title="Documentary",RT Documentary
 https://tv.sarcheshmeh.us/embed.php?name=Russia-Today-Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" Desc="Nat Geo Wild USA", group-title="Documentary",Nat Geo Wild USA
+https://dlhd.st/watch.php?id=745
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sHsvlP.png" Desc="Almajd Scientific", group-title="Educational",Almajd Scientific
 https://www.elahmad.to/tv/live/channel.php?id=almajd_scientific
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6I9d9qe.png" Desc="Almajd Masa", group-title="Educational",Almajd Masa
