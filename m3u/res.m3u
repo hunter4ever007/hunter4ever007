@@ -64,7 +64,9 @@ http://azrogo.com/iphone/arabic/ch/mb_4.php
 http://azrogo.com/iphone/arabic/ch/cbm5.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVM7I4a.png" Desc="Al-Hayat Blue", group-title="Entertainment",Al-Hayat Blue
 https://www.giniko.com/xml/secure/plist.php?ch=747
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" Desc="Alhayat Red", group-title="Entertainment",Alhayat Red
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" Desc="Al-Hayat Red", group-title="Entertainment",Al-Hayat Red
+http://185.9.2.18/chid_659/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl9ie9u.png" Desc="Alhayat Red", group-title="Entertainment",Al-Hayat Red S2
 https://www.elahmad.ru/tv/mobiletv/glarb.php?id=alhayat_1
 #EXTINF:-1 tvg-logo="https://darelhilal.com/Media/News/2023/2/15/2023-638120775782324438-232.jpg" Desc="Mix One", group-title="Entertainment",Mix One
 http://azrogo.com/iphone/arabic/ch5/mixone.php
@@ -122,6 +124,8 @@ https://tv.sarcheshmeh.us/embed.php?name=Alrai-TV
 https://www.giniko.com/xml/secure/plist.php?ch=145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oz2bPOt.png" Desc="Sharjah TV", group-title="General",Sharjah TV
 https://www.giniko.com/xml/secure/plist.php?ch=183
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd3Xvd1.png" Desc="Sharjah TV 2", group-title="General",Sharjah TV 2
+https://tv.sarcheshmeh.us/embed.php?name=Sharjah-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8apNaLP.png" Desc="CBC", group-title="General",CBC
 https://flu.systemnet.tv/CBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5RB4sp.png" Desc="Qatar TV", group-title="General",Qatar TV
@@ -140,8 +144,6 @@ https://www.elahmad.ru/tv/arabic-tv-online.php?id=funoon
 https://player.restream.io/?token=23d876159d6545d791c2a540ff62689e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68llVTZ.png" Desc="Palestine TV", group-title="General",Palestine TV
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd3Xvd1.png" Desc="Sharjah TV 2", group-title="General",Sharjah TV 2
-https://tv.sarcheshmeh.us/embed.php?name=Sharjah-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgEeTNr.png" Desc="Al Mahriah TV", group-title="General",Al Mahriah TV
 http://azrogo.com/iphone/arabic/ch6/almahriah.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJYTfHi.png" Desc="2M Monde", group-title="General",2M Monde
