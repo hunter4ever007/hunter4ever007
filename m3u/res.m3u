@@ -147,7 +147,7 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgEeTNr.png" Desc="Al Mahriah TV", group-title="General",Al Mahriah TV
 http://azrogo.com/iphone/arabic/ch6/almahriah.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJYTfHi.png" Desc="2M Monde", group-title="General",2M Monde
-https://www.livehdtv.com/yayin/?kanal=432
+https://www.livehdtv.net/yayin/?kanal=432
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PJYTfHi.png" Desc="2M Morocco", group-title="General",2M Monde S2
 https://www.glwiz.com/GlSignageLive/signageLayoutsV2/SignagePorsaa/signage.aspx?channel=2MMorocco_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XozB5N.png" Desc="Jordan TV", group-title="General",Jordan TV
@@ -290,13 +290,13 @@ https://www.youtube.com/@AlMayadeenLive1/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afowXIe.png" Desc="Roya News", group-title="News",Roya News
 http://azrogo.com/iphone/arabic/ch3/roaya_news.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" Desc="Bloomberg TV", group-title="News",Bloomberg TV
-https://www.livehdtv.com/yayin/?kanal=99
+https://www.livehdtv.net/yayin/?kanal=99
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lw2THVt.png" Desc="NBC News", group-title="News",NBC News
-https://www.livehdtv.com/yayin/?kanal=139
+https://www.livehdtv.net/yayin/?kanal=139
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" Desc="CBS News", group-title="News",CBS News
-https://www.livehdtv.com/yayin/?kanal=100
+https://www.livehdtv.net/yayin/?kanal=100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/960px-WeatherNation_Logo.svg.png" Desc="WeatherNation", group-title="News",WeatherNation
-https://www.livehdtv.com/yayin/?kanal=681
+https://www.livehdtv.net/yayin/?kanal=681
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8vmfZb5.png" Desc="Elsharq TV", group-title="News",Elsharq TV
 https://www.youtube.com/@ElsharqTVOfficial/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37t7yfO.png" Desc="Al Qahera News", group-title="News",Al Qahera News
